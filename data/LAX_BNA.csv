@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,2887,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_BNA.js""
+    id=""a86594a0-d546-498d-87ec-0b5098cd42a3""
+    data-bokeh-model-id=""0a65f35b-0f45-4c46-ac24-0eef0bb819a6""
+    data-bokeh-doc-id=""afb065fe-7d27-4639-8dff-ff6067149f95""
+></script>",TAG,
+11.63,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+19.39,,,,PERCENT_DELAYED,
+10.44,,,,POS_ARR_DELAY,
+13.27,24.34,Southwest Airlines ,,WN,41.23
+10.74,17.12,Delta Air Lines ,,DL,19.39
+7.4,15.44,American Airlines ,,AA,38.88
+2.56,7.41,US Airways ,,US,0.49
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,2587,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_SMF.js""
+    id=""9cbc217f-b10c-408d-98c5-7e23a0e5e24b""
+    data-bokeh-model-id=""f2d415fa-b4eb-409a-9210-884dd2a30e35""
+    data-bokeh-doc-id=""b737f23b-8272-4ce5-9420-bf494133ee42""
+></script>",TAG,
+14.85,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.2,,,,PERCENT_DELAYED,
+12.35,,,,POS_ARR_DELAY,
+12.35,20.2,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

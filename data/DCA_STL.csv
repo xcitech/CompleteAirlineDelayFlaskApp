@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,1155,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_STL.js""
+    id=""6ede95e1-82b8-43b9-9afc-c554e48c4f71""
+    data-bokeh-model-id=""a3f14a8a-d203-4f10-9492-f07f5a5f9f82""
+    data-bokeh-doc-id=""223d965b-f703-42b0-9386-f17747e3ee09""
+></script>",TAG,
+12.84,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+22.9,,,,PERCENT_DELAYED,
+14.49,,,,POS_ARR_DELAY,
+28.03,44.25,Envoy Air,,MQ,26.6
+9.88,15.65,Southwest Airlines ,,WN,67.79
+6.02,9.25,American Airlines ,,AA,5.6
+0.0,,,,,
+0.0,,,,,

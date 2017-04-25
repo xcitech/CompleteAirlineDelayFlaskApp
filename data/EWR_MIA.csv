@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1751,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_MIA.js""
+    id=""99c0a7a0-8cb2-4bc4-82d0-22088b5f0ffa""
+    data-bokeh-model-id=""9bf5395d-aac1-4e4d-b68d-181bf77f57db""
+    data-bokeh-doc-id=""711b6850-3b1e-43f4-af62-c6d8bb9c24b7""
+></script>",TAG,
+14.93,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+21.1,,,,PERCENT_DELAYED,
+14.31,,,,POS_ARR_DELAY,
+16.18,24.16,United Air Lines ,,UA,53.67
+7.7,17.6,US Airways ,,US,1.5
+12.28,17.56,American Airlines ,,AA,44.83
+0.0,,,,,
+0.0,,,,,

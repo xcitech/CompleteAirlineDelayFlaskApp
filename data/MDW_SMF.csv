@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,2875,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_SMF.js""
+    id=""00cbe183-5c4c-49e6-bcfe-5045281534ea""
+    data-bokeh-model-id=""bd6a2bf0-ec4f-4ff1-914f-9896e3772aae""
+    data-bokeh-doc-id=""96a919a7-36be-4b18-93d1-360b6f1c8ed4""
+></script>",TAG,
+15.66,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+26.08,,,,PERCENT_DELAYED,
+13.18,,,,POS_ARR_DELAY,
+13.18,26.08,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

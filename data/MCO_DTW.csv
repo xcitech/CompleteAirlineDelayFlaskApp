@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Orlando,ORIGIN_CITY,,
+,,Orlando Intl,ORIGIN_NAME,,
+,,Detroit,DEST-CITY,,
+,,Detroit Metro Wayne Co,DEST_NAME,,
+,,1544,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MCO_DTW.js""
+    id=""fa71ac9b-3cd1-4020-b5db-6b34d19897b7""
+    data-bokeh-model-id=""58f6c93a-cbf8-4fde-8106-560546f93b18""
+    data-bokeh-doc-id=""eb16242e-7cda-4df7-9319-d1557f239f2a""
+></script>",TAG,,
+9.77,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+13.71,,,PERCENT_DELAYED,,
+9.64,,,POS_ARR_DELAY,,
+39.21,40.0,,WN,1.08,Southwest Airlines 
+19.23,27.75,,NK,15.2,Spirit Air Lines
+16.57,21.65,,FL,2.78,AirTran Airways Corporation
+7.22,10.53,,DL,78.29,Delta Air Lines 
+6.67,8.14,,F9,2.66,Frontier Airlines 

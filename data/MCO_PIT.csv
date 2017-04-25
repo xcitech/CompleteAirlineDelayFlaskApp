@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,1345,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_PIT.js""
+    id=""12d04b42-a700-42fa-ac5b-c49249fcf53f""
+    data-bokeh-model-id=""4853da0e-af12-42c4-b967-7574cf7ab322""
+    data-bokeh-doc-id=""a90bdcb5-ce4f-46f0-bfbc-a725df1d8f22""
+></script>",TAG,
+16.19,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+22.45,,,,PERCENT_DELAYED,
+14.67,,,,POS_ARR_DELAY,
+24.76,28.89,Frontier Airlines ,,F9,0.94
+15.19,23.37,Southwest Airlines ,,WN,84.24
+11.08,16.88,AirTran Airways Corporation,,FL,14.78
+0.0,0.0,Endeavor Air ,,9E,0.04
+0.0,,,,,

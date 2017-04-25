@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,420,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_IND.js""
+    id=""b9e22528-afa6-4f8c-99e2-e0335d9a8d96""
+    data-bokeh-model-id=""2b7c774a-10d7-4474-b57b-331d01ecf7e3""
+    data-bokeh-doc-id=""bb786c47-350d-4931-9dde-6ecfe5590887""
+></script>",TAG,
+12.66,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+20.22,,,,PERCENT_DELAYED,
+13.4,,,,POS_ARR_DELAY,
+14.01,21.28,ExpressJet Airlines ,,EV,95.01
+1.61,0.0,SkyWest Airlines ,,OO,4.99
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

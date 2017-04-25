@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,272,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_BWI.js""
+    id=""73dc41f7-e638-486d-973a-1fb6e0799517""
+    data-bokeh-model-id=""3f3ed248-e50f-4880-b1e9-30216d299d3a""
+    data-bokeh-doc-id=""10998d1a-5bbf-43bf-9988-989117132055""
+></script>",TAG,
+15.1,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+27.35,,,,PERCENT_DELAYED,
+16.41,,,,POS_ARR_DELAY,
+16.45,27.42,ExpressJet Airlines ,,EV,99.73
+0.0,0.0,United Air Lines ,,UA,0.27
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

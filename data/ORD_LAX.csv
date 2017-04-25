@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,2803,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_LAX.js""
+    id=""2884f98a-3108-46cd-99dd-dc9b2776bd85""
+    data-bokeh-model-id=""1fe9403b-98ae-461a-876a-cb155a655474""
+    data-bokeh-doc-id=""6f07dce8-eaad-45e7-ba7b-a48148cfd7d5""
+></script>",TAG,,
+17.85,,,DEP_DELAY,,
+23.0,,,AVG_FLIGHTS,,
+27.02,,,PERCENT_DELAYED,,
+17.07,,,POS_ARR_DELAY,,
+24.26,31.75,,F9,1.78,Frontier Airlines 
+19.79,31.38,,NK,4.82,Spirit Air Lines
+20.38,30.98,,UA,44.55,United Air Lines 
+13.9,23.68,,AA,40.77,American Airlines 
+11.63,18.39,,VX,8.09,Virgin America

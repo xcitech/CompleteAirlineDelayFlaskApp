@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,650,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_MDW.js""
+    id=""28809f86-1c58-4b32-8af8-542d748dca1a""
+    data-bokeh-model-id=""14c4eabc-1851-43c9-b7d5-161abf19b26c""
+    data-bokeh-doc-id=""f39cd304-5da1-4297-bfde-d1382fc92fdd""
+></script>",TAG,
+11.27,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+19.14,,,,PERCENT_DELAYED,
+10.77,,,,POS_ARR_DELAY,
+10.77,19.14,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

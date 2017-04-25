@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1483,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_RSW.js""
+    id=""f8a8e917-b761-4730-a8e5-899ac4cee4e9""
+    data-bokeh-model-id=""6ad1aa90-03e8-4c0a-a960-7d66d0141583""
+    data-bokeh-doc-id=""e00d4a7b-8033-45f3-8910-3f6388737d8f""
+></script>",TAG,
+15.77,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+24.86,,,,PERCENT_DELAYED,
+14.24,,,,POS_ARR_DELAY,
+14.86,25.83,Southwest Airlines ,,WN,88.86
+9.34,17.13,AirTran Airways Corporation,,FL,11.14
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

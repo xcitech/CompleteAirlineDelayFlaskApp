@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,1185,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_LGA.js""
+    id=""53e3c872-32e7-40f8-8cb5-05a23f252035""
+    data-bokeh-model-id=""b8ac87ea-93b1-4b18-9927-69e1d14bd758""
+    data-bokeh-doc-id=""0a7009f2-51b6-45ae-8c96-6eb1282d366f""
+></script>",TAG,
+15.6,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+23.24,,,,PERCENT_DELAYED,
+15.65,,,,POS_ARR_DELAY,
+18.89,25.21,ExpressJet Airlines ,,EV,12.08
+15.34,23.33,Southwest Airlines ,,WN,81.25
+18.11,21.6,Endeavor Air ,,9E,3.17
+9.33,15.94,Delta Air Lines ,,DL,3.5
+0.0,,,,,

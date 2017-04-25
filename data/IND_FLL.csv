@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1621,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_FLL.js""
+    id=""63e31b48-9319-4d45-b78e-fad5b27e1f1e""
+    data-bokeh-model-id=""186f7363-5419-442b-a0f7-353747e7a506""
+    data-bokeh-doc-id=""18d260fe-e81e-4825-922e-bc7d52c451a3""
+></script>",TAG,
+9.28,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.83,,,,PERCENT_DELAYED,
+9.94,,,,POS_ARR_DELAY,
+21.04,28.77,AirTran Airways Corporation,,FL,8.08
+8.96,15.78,Southwest Airlines ,,WN,91.92
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

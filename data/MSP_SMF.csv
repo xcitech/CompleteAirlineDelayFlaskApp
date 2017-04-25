@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Minneapolis,ORIGIN_CITY,
+,,,Minneapolis St Paul Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,2437,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSP_SMF.js""
+    id=""13d4ea4b-9da7-4273-be27-12bddd59b5bd""
+    data-bokeh-model-id=""fc87275f-7138-4fdf-a7aa-994bb87c8521""
+    data-bokeh-doc-id=""4b1a1658-c49b-4cf8-8a85-88f1ea69b6fe""
+></script>",TAG,
+8.15,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.61,,,,PERCENT_DELAYED,
+8.21,,,,POS_ARR_DELAY,
+8.21,15.61,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

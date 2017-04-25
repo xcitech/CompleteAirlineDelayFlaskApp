@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,225,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_IAH.js""
+    id=""100c7774-9644-4280-b7fb-5803e089e6d4""
+    data-bokeh-model-id=""83e7d64f-83a1-44c7-86c1-bf4fdebf5191""
+    data-bokeh-doc-id=""b6821e00-5c91-41d1-ba7a-40abab5608c8""
+></script>",TAG,
+12.09,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+17.07,,,,PERCENT_DELAYED,
+12.34,,,,POS_ARR_DELAY,
+13.73,18.8,SkyWest Airlines ,,OO,29.75
+10.96,18.67,ExpressJet Airlines ,,EV,11.75
+11.91,15.87,United Air Lines ,,UA,58.49
+0.0,,,,,
+0.0,,,,,

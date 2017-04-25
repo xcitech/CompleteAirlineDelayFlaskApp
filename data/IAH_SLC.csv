@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,1923,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_SLC.js""
+    id=""e77f26cf-2e76-42e7-9411-892b19a03de7""
+    data-bokeh-model-id=""fe460688-21ce-4c85-86a1-9d5757feaf8f""
+    data-bokeh-doc-id=""082d499c-ed63-4e1f-9b52-c3ee6132f1fc""
+></script>",TAG,
+13.4,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+19.82,,,,PERCENT_DELAYED,
+12.72,,,,POS_ARR_DELAY,
+18.54,29.55,ExpressJet Airlines ,,EV,9.61
+12.06,20.25,United Air Lines ,,UA,22.03
+12.93,20.02,SkyWest Airlines ,,OO,52.77
+9.38,12.51,Delta Air Lines ,,DL,15.59
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,3604,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_SMF.js""
+    id=""d61d6bfd-1aa1-42eb-8131-bad92e69a464""
+    data-bokeh-model-id=""b35c0bc9-6934-4e15-8a61-302d7a462727""
+    data-bokeh-doc-id=""0e6d21cc-fc4c-4af4-af6a-7528824372b9""
+></script>",TAG,
+20.24,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+33.15,,,,PERCENT_DELAYED,
+20.19,,,,POS_ARR_DELAY,
+20.68,35.81,US Airways ,,US,42.17
+19.84,31.21,American Airlines ,,AA,57.83
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

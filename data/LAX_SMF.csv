@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,601,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_SMF.js""
+    id=""4aac29d3-1f98-4ead-99c6-21432142fe1b""
+    data-bokeh-model-id=""9c8b3bd8-ea17-4ac0-91ab-86b875084ff4""
+    data-bokeh-doc-id=""8cfcdc43-82b5-47ce-b374-d82b75ad2acc""
+></script>",TAG,
+13.35,,,,DEP_DELAY,
+17.0,,,,AVG_FLIGHTS,
+23.58,,,,PERCENT_DELAYED,
+13.0,,,,POS_ARR_DELAY,
+14.99,28.77,Southwest Airlines ,,WN,46.48
+16.31,27.45,Delta Air Lines ,,DL,2.54
+11.03,18.66,SkyWest Airlines ,,OO,50.98
+0.0,,,,,
+0.0,,,,,

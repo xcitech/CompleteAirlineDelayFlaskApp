@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,2929,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_RDU.js""
+    id=""865d2dae-20b2-4488-8621-568c5959505f""
+    data-bokeh-model-id=""6896240c-8b6a-4455-bae7-623cc9a410a1""
+    data-bokeh-doc-id=""a69b2248-1f04-4bd1-8135-e81177551edf""
+></script>",TAG,
+9.81,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+15.05,,,,PERCENT_DELAYED,
+10.6,,,,POS_ARR_DELAY,
+10.6,15.05,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

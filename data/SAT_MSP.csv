@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,1768,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_MSP.js""
+    id=""3d8d700b-2516-4a61-a7e0-9bb6639e491e""
+    data-bokeh-model-id=""6bc00a3b-2538-47fe-abc9-f70a896019bb""
+    data-bokeh-doc-id=""d562b874-e42f-4c1b-8784-426cabe5829a""
+></script>",TAG,
+13.48,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+17.0,,,,PERCENT_DELAYED,
+12.22,,,,POS_ARR_DELAY,
+15.19,20.82,ExpressJet Airlines ,,EV,61.22
+9.88,15.5,SkyWest Airlines ,,OO,17.13
+4.2,10.0,Endeavor Air ,,9E,1.33
+5.76,7.19,Delta Air Lines ,,DL,20.32
+0.0,,,,,

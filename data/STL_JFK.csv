@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,1433,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_JFK.js""
+    id=""ba4ab092-a7aa-4851-8a1b-e033c43b3cd1""
+    data-bokeh-model-id=""805f4e98-0508-4dc7-8509-33bee353d76e""
+    data-bokeh-doc-id=""9c1adf05-9ccb-4c70-93ee-d3a797efb32a""
+></script>",TAG,
+10.58,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+16.22,,,,PERCENT_DELAYED,
+10.65,,,,POS_ARR_DELAY,
+10.67,16.44,Endeavor Air ,,9E,98.65
+9.0,0.0,ExpressJet Airlines ,,EV,1.35
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

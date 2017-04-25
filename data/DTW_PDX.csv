@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,3136,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_PDX.js""
+    id=""ee8ea66a-6ef0-4e78-8605-48401b585604""
+    data-bokeh-model-id=""d35c24bd-cb7a-4477-8415-105486a88a10""
+    data-bokeh-doc-id=""57fce729-ba5a-4416-aec0-1d20961fc123""
+></script>",TAG,
+12.4,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+17.65,,,,PERCENT_DELAYED,
+11.8,,,,POS_ARR_DELAY,
+11.8,17.65,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

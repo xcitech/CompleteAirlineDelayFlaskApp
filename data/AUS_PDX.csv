@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,2758,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_PDX.js""
+    id=""32777797-ea59-4fdd-99e0-ce0f46f24631""
+    data-bokeh-model-id=""bbe4208f-5b9f-4b64-9cce-ca43c7574eef""
+    data-bokeh-doc-id=""18ed5369-191f-4b30-b8b3-7641ca4873ed""
+></script>",TAG,
+8.73,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+16.88,,,,PERCENT_DELAYED,
+9.45,,,,POS_ARR_DELAY,
+16.82,24.4,Southwest Airlines ,,WN,35.9
+5.32,12.67,SkyWest Airlines ,,OO,64.1
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

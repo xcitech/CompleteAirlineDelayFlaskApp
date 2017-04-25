@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,4048,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_SMF.js""
+    id=""8ff4bf84-5702-4e45-b4d4-25fe70b8e264""
+    data-bokeh-model-id=""d827d6a9-2326-4c32-a6c0-53a617ba4005""
+    data-bokeh-doc-id=""8c226b2c-2c99-458a-b5d4-5b207231ee47""
+></script>",TAG,
+15.18,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+24.86,,,,PERCENT_DELAYED,
+15.68,,,,POS_ARR_DELAY,
+15.68,24.86,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

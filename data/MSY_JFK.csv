@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,1902,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_JFK.js""
+    id=""4e305a2a-5cdb-435d-8261-dfa9e633996f""
+    data-bokeh-model-id=""f7f324ae-064b-4fe5-8670-78f3ea7c9dca""
+    data-bokeh-doc-id=""71c7377a-e39a-4a39-9014-cdf219a18b79""
+></script>",TAG,
+14.82,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+20.16,,,,PERCENT_DELAYED,
+14.62,,,,POS_ARR_DELAY,
+15.32,20.31,JetBlue Airways,,B6,73.63
+11.23,20.0,Endeavor Air ,,9E,5.94
+13.1,19.66,Delta Air Lines ,,DL,20.42
+0.0,,,,,
+0.0,,,,,

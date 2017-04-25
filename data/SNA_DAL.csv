@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1953,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_DAL.js""
+    id=""f8f0d06b-a25d-4d29-9ea0-c8089258c16c""
+    data-bokeh-model-id=""66dffa71-894a-44bc-bd4b-b8fc158703dc""
+    data-bokeh-doc-id=""272eac08-a703-4ad4-9a39-748048d7b229""
+></script>",TAG,
+9.72,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.17,,,,PERCENT_DELAYED,
+8.89,,,,POS_ARR_DELAY,
+8.89,18.17,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

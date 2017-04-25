@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Raleigh-durham,DEST-CITY,,
+,,Raleigh Durham Intl,DEST_NAME,,
+,,1040,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_RDU.js""
+    id=""ebea676b-cc49-4390-833d-252da0bbbf28""
+    data-bokeh-model-id=""c504afd2-19d4-4f8e-8bd3-580cc52584fb""
+    data-bokeh-doc-id=""c988eb4e-984d-4f21-9266-9aa42e0fa8a0""
+></script>",TAG,,
+17.53,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+24.78,,,PERCENT_DELAYED,,
+17.49,,,POS_ARR_DELAY,,
+17.51,29.79,,MQ,3.01,Envoy Air
+19.46,25.81,,UA,20.74,United Air Lines 
+17.6,25.23,,AA,61.17,American Airlines 
+20.88,24.71,,F9,4.09,Frontier Airlines 
+11.51,18.77,,EV,8.88,ExpressJet Airlines 

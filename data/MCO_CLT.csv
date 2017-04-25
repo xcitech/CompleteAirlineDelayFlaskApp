@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,755,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_CLT.js""
+    id=""0b025d04-2d09-42de-bb45-c15b39231ec6""
+    data-bokeh-model-id=""5fda6d2b-2906-4911-a8bb-14394f6514a5""
+    data-bokeh-doc-id=""ac62103f-ca27-4231-9621-464fbd1f448e""
+></script>",TAG,
+9.37,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+16.69,,,,PERCENT_DELAYED,
+10.34,,,,POS_ARR_DELAY,
+21.76,40.0,Southwest Airlines ,,WN,4.26
+10.39,18.75,Frontier Airlines ,,F9,0.79
+11.0,17.12,American Airlines ,,AA,37.17
+9.07,14.66,US Airways ,,US,57.78
+0.0,,,,,

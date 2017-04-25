@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,3014,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_IAH.js""
+    id=""f56cace5-cf65-4400-9f80-288820e2ff38""
+    data-bokeh-model-id=""902d2b15-0bf5-483b-be61-3d7ef897b198""
+    data-bokeh-doc-id=""1e01c31f-a3b2-43ef-aa01-cb40161fc384""
+></script>",TAG,
+9.6,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+14.17,,,,PERCENT_DELAYED,
+8.82,,,,POS_ARR_DELAY,
+7.06,15.04,Alaska Airlines ,,AS,17.87
+9.2,13.99,United Air Lines ,,UA,82.13
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

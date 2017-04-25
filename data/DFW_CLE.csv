@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Dallas-Fort Worth,ORIGIN_CITY,,
+,,Dallas Fort Worth Intl,ORIGIN_NAME,,
+,,Cleveland,DEST-CITY,,
+,,Cleveland Hopkins Intl,DEST_NAME,,
+,,1642,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DFW_CLE.js""
+    id=""6a24bbfa-372e-4396-a578-18e1dfad8662""
+    data-bokeh-model-id=""307adcae-5803-4b53-b844-2470ba9b3eef""
+    data-bokeh-doc-id=""805c4987-fe1b-4f22-86a6-e3908de458a7""
+></script>",TAG,,
+15.79,,,DEP_DELAY,,
+5.0,,,AVG_FLIGHTS,,
+22.83,,,PERCENT_DELAYED,,
+15.4,,,POS_ARR_DELAY,,
+44.54,48.81,,F9,1.63,Frontier Airlines 
+20.42,33.1,,MQ,2.82,Envoy Air
+20.92,26.43,,NK,10.88,Spirit Air Lines
+14.43,22.9,,AA,66.44,American Airlines 
+12.4,16.74,,EV,17.99,ExpressJet Airlines 

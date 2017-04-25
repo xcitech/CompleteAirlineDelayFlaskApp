@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,2406,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_AUS.js""
+    id=""0b9ead67-99fd-4f6f-94a4-ca9075d40c71""
+    data-bokeh-model-id=""c57bce62-094a-4739-8a32-e98b9c7123b6""
+    data-bokeh-doc-id=""8382692a-1bde-49da-a35e-82fa3040cfc7""
+></script>",TAG,
+11.06,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.63,,,,PERCENT_DELAYED,
+9.67,,,,POS_ARR_DELAY,
+9.67,18.63,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

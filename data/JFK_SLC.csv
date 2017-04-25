@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,3194,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_SLC.js""
+    id=""dca03df2-00cb-4908-893a-d00bb7f88066""
+    data-bokeh-model-id=""518c1573-c5b8-4b64-9ef0-4fdc50ee67a5""
+    data-bokeh-doc-id=""1a768777-531c-4a3b-b137-accca418cb1d""
+></script>",TAG,
+12.85,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+19.73,,,,PERCENT_DELAYED,
+12.7,,,,POS_ARR_DELAY,
+18.68,31.27,JetBlue Airways,,B6,17.89
+11.4,17.21,Delta Air Lines ,,DL,82.11
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

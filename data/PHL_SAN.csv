@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,3807,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_SAN.js""
+    id=""c082c700-4258-4a43-8419-8c3fb09d1c5c""
+    data-bokeh-model-id=""bf2e7142-8738-474c-bad0-fe6a7a16d8ba""
+    data-bokeh-doc-id=""43dc4441-7355-4442-84d0-9b45577d9c6c""
+></script>",TAG,
+10.1,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+21.7,,,,PERCENT_DELAYED,
+12.09,,,,POS_ARR_DELAY,
+13.8,25.61,US Airways ,,US,57.0
+9.83,16.51,American Airlines ,,AA,43.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

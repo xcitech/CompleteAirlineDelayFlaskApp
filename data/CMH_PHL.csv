@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Philadelphia,DEST-CITY,
+,,,Philadelphia Intl,DEST_NAME,
+,,,652,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_PHL.js""
+    id=""9b8f642d-73a9-402a-a0e3-67092e88c944""
+    data-bokeh-model-id=""f122d8be-0765-4a7c-928a-1c974fcb9e59""
+    data-bokeh-doc-id=""2cba3621-1623-456e-8461-48c6476cff26""
+></script>",TAG,
+26.85,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+33.33,,,,PERCENT_DELAYED,
+31.18,,,,POS_ARR_DELAY,
+31.18,33.33,Frontier Airlines ,,F9,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

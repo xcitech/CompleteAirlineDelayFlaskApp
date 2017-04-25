@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Detroit,DEST-CITY,
+,,,Detroit Metro Wayne Co,DEST_NAME,
+,,,1585,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_DTW.js""
+    id=""3da6b21b-77e6-49ce-8308-ee87ae01821e""
+    data-bokeh-model-id=""e11d8646-4260-4453-ab19-425aceb2f68f""
+    data-bokeh-doc-id=""1ca4009b-3e37-463e-beb9-f5796b471eb9""
+></script>",TAG,
+10.52,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+11.94,,,,PERCENT_DELAYED,
+9.75,,,,POS_ARR_DELAY,
+17.78,23.04,Spirit Air Lines,,NK,16.16
+8.2,9.8,Delta Air Lines ,,DL,83.84
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

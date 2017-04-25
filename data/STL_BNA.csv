@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,438,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_BNA.js""
+    id=""ac942f47-bca2-478b-b7e9-ba378d06394b""
+    data-bokeh-model-id=""5b77a585-0f06-43af-9e71-59091b9e2bd0""
+    data-bokeh-doc-id=""2a069af1-8294-4a03-b458-17af3ea156f9""
+></script>",TAG,
+12.69,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+21.35,,,,PERCENT_DELAYED,
+11.83,,,,POS_ARR_DELAY,
+11.83,21.35,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

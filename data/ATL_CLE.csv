@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Atlanta,ORIGIN_CITY,,
+,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,,
+,,Cleveland,DEST-CITY,,
+,,Cleveland Hopkins Intl,DEST_NAME,,
+,,894,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ATL_CLE.js""
+    id=""6b409c6f-2489-488c-af92-47a9b94f75dc""
+    data-bokeh-model-id=""ad66c4cc-c93f-422a-bdde-fe4472c0fe2c""
+    data-bokeh-doc-id=""221b931a-a982-4bb9-ad86-2081c0e2ea3f""
+></script>",TAG,,
+10.71,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+14.65,,,PERCENT_DELAYED,,
+9.72,,,POS_ARR_DELAY,,
+21.85,29.23,,F9,6.7,Frontier Airlines 
+18.22,25.74,,EV,8.55,ExpressJet Airlines 
+11.85,19.66,,NK,5.42,Spirit Air Lines
+12.57,12.2,,OO,0.94,SkyWest Airlines 
+7.58,11.88,,DL,78.4,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1848,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_MIA.js""
+    id=""a33e5a60-0c0e-4327-abef-1d2136d8fca2""
+    data-bokeh-model-id=""517274b0-2f6f-4392-b581-5ed32678d69c""
+    data-bokeh-doc-id=""e4e5ade4-adcb-4ad8-8555-e03304dcb8ba""
+></script>",TAG,
+8.61,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+14.69,,,,PERCENT_DELAYED,
+9.74,,,,POS_ARR_DELAY,
+11.91,16.39,American Airlines ,,AA,38.85
+8.37,13.73,Delta Air Lines ,,DL,55.24
+8.37,12.45,US Airways ,,US,5.91
+0.0,,,,,
+0.0,,,,,

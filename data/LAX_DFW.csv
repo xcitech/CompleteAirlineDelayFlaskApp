@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Los Angeles,ORIGIN_CITY,,
+,,Los Angeles Intl,ORIGIN_NAME,,
+,,Dallas-Fort Worth,DEST-CITY,,
+,,Dallas Fort Worth Intl,DEST_NAME,,
+,,1984,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LAX_DFW.js""
+    id=""2dd4d4cb-e36b-4031-b280-fdcb8b0bbcd7""
+    data-bokeh-model-id=""bfa0056e-9575-4323-a7d7-f0470b35e275""
+    data-bokeh-doc-id=""de2aa15c-6536-4148-9097-5a15ab361eba""
+></script>",TAG,,
+12.62,,,DEP_DELAY,,
+20.0,,,AVG_FLIGHTS,,
+18.78,,,PERCENT_DELAYED,,
+12.97,,,POS_ARR_DELAY,,
+27.65,38.23,,NK,4.69,Spirit Air Lines
+8.44,22.22,,UA,0.08,United Air Lines 
+13.11,21.21,,OO,10.77,SkyWest Airlines 
+12.47,17.89,,AA,79.27,American Airlines 
+7.17,9.68,,VX,5.17,Virgin America

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,947,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_TPA.js""
+    id=""66040b59-668d-466c-8aff-941f07e806be""
+    data-bokeh-model-id=""6dd8b75b-ae79-4e4b-8036-18d658a21922""
+    data-bokeh-doc-id=""8aab6a11-17fe-4492-a7df-69f08a1dea2f""
+></script>",TAG,
+12.73,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+18.99,,,,PERCENT_DELAYED,
+11.81,,,,POS_ARR_DELAY,
+12.18,19.58,Southwest Airlines ,,WN,94.58
+7.7,11.11,Endeavor Air ,,9E,3.25
+1.97,5.17,AirTran Airways Corporation,,FL,2.09
+0.0,0.0,ExpressJet Airlines ,,EV,0.07
+0.0,,,,,

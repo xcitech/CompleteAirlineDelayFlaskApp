@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Jose,ORIGIN_CITY,
+,,,Norman Y Mineta San Jose Intl,ORIGIN_NAME,
+,,,Honolulu,DEST-CITY,
+,,,Honolulu Intl,DEST_NAME,
+,,,3887,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJC_HNL.js""
+    id=""60042388-cba7-427e-b0da-6961bb532a83""
+    data-bokeh-model-id=""7a2f8996-062b-466c-b1e2-bc97541aaf0e""
+    data-bokeh-doc-id=""ae7ad30d-a189-47eb-8f41-ec19c30147e6""
+></script>",TAG,
+8.9,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+18.78,,,,PERCENT_DELAYED,
+12.97,,,,POS_ARR_DELAY,
+15.18,20.7,Hawaiian Airlines ,,HA,53.85
+10.39,16.54,Alaska Airlines ,,AS,46.15
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

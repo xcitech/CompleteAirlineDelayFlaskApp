@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,2347,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_PHX.js""
+    id=""e8c437bb-63d2-4621-ac3d-f46e01ab1312""
+    data-bokeh-model-id=""7a8f80dc-731b-4361-8465-68060f89b4bb""
+    data-bokeh-doc-id=""ac13489c-2303-45ed-941f-59c484b042e0""
+></script>",TAG,
+7.12,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+14.29,,,,PERCENT_DELAYED,
+7.72,,,,POS_ARR_DELAY,
+8.82,16.49,Southwest Airlines ,,WN,54.24
+6.92,12.03,US Airways ,,US,27.96
+5.66,11.11,American Airlines ,,AA,17.8
+0.0,,,,,
+0.0,,,,,

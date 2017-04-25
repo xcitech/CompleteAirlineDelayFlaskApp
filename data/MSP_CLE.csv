@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Minneapolis,ORIGIN_CITY,
+,,,Minneapolis St Paul Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,999,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSP_CLE.js""
+    id=""1cfa68a1-9061-4523-bbff-ebca72da9b32""
+    data-bokeh-model-id=""a8691158-57a9-402a-879c-95c8141e73e8""
+    data-bokeh-doc-id=""4b4df7d3-7113-4351-9d91-0f0d51304374""
+></script>",TAG,
+14.79,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+20.84,,,,PERCENT_DELAYED,
+14.85,,,,POS_ARR_DELAY,
+18.01,23.92,ExpressJet Airlines ,,EV,67.26
+10.3,17.68,SkyWest Airlines ,,OO,14.03
+9.95,14.06,Delta Air Lines ,,DL,4.54
+5.97,11.5,Endeavor Air ,,9E,14.17
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,366,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_JFK.js""
+    id=""d9e2e42b-be1b-41bc-955d-fceed9bf5b15""
+    data-bokeh-model-id=""2e7f05ef-3a7a-4acb-84af-016b3314132f""
+    data-bokeh-doc-id=""78d33b6a-d237-41e5-bccf-ce6f3672676a""
+></script>",TAG,
+17.77,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+26.58,,,,PERCENT_DELAYED,
+19.31,,,,POS_ARR_DELAY,
+24.07,33.29,ExpressJet Airlines ,,EV,36.11
+16.85,23.06,JetBlue Airways,,B6,61.06
+11.64,16.95,Endeavor Air ,,9E,2.83
+0.0,,,,,
+0.0,,,,,

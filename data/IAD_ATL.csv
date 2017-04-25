@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Washington,ORIGIN_CITY,,
+,,Washington Dulles Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,859,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/IAD_ATL.js""
+    id=""81edc136-c849-41b7-8c02-b55d1dd7d2e9""
+    data-bokeh-model-id=""2f5488c4-58a5-4ba4-9bfe-5d1eebeee3f1""
+    data-bokeh-doc-id=""208e0771-356b-4792-9b92-45ec27cc1a3a""
+></script>",TAG,,
+12.89,,,DEP_DELAY,,
+9.0,,,AVG_FLIGHTS,,
+19.51,,,PERCENT_DELAYED,,
+14.26,,,POS_ARR_DELAY,,
+23.43,32.69,,F9,5.51,Frontier Airlines 
+22.67,31.05,,EV,17.48,ExpressJet Airlines 
+14.79,23.42,,WN,3.85,Southwest Airlines 
+11.4,15.43,,DL,69.7,Delta Air Lines 
+10.12,14.18,,YV,1.49,Mesa Airlines 

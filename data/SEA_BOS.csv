@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,4007,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_BOS.js""
+    id=""41c9b9da-985d-4d52-aa91-55a8af589bcb""
+    data-bokeh-model-id=""b748ff34-2fb1-43be-b821-8c4188f382af""
+    data-bokeh-doc-id=""3874b6af-a837-4b9b-a322-d740554b4f7c""
+></script>",TAG,
+11.6,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.29,,,,PERCENT_DELAYED,
+11.36,,,,POS_ARR_DELAY,
+16.83,29.21,JetBlue Airways,,B6,46.16
+16.79,16.78,Delta Air Lines ,,DL,3.03
+6.06,12.4,Alaska Airlines ,,AS,50.81
+0.0,,,,,
+0.0,,,,,

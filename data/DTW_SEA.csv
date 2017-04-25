@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,3094,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_SEA.js""
+    id=""a4a5ce3b-cdeb-4588-8427-6cde8dff0f99""
+    data-bokeh-model-id=""e858df37-84ee-414f-9f46-35f034dfc91c""
+    data-bokeh-doc-id=""a7d1e251-7ff2-44ce-a906-1ed90506ba40""
+></script>",TAG,
+8.13,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+14.59,,,,PERCENT_DELAYED,
+8.05,,,,POS_ARR_DELAY,
+7.64,15.08,Alaska Airlines ,,AS,14.12
+8.12,14.51,Delta Air Lines ,,DL,85.88
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

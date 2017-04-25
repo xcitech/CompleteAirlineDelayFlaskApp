@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,1162,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_STL.js""
+    id=""763c678d-0f0a-43f1-9139-e04e03a447e5""
+    data-bokeh-model-id=""c1bd0d1d-98d8-4ab9-bebe-2624886cb78e""
+    data-bokeh-doc-id=""4c932861-9a16-4e27-a562-5ea13284e1fb""
+></script>",TAG,
+9.88,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+16.13,,,,PERCENT_DELAYED,
+10.11,,,,POS_ARR_DELAY,
+10.11,16.13,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

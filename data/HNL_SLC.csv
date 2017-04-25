@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,4815,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_SLC.js""
+    id=""9363e11a-b256-4557-b2a5-954224b156a9""
+    data-bokeh-model-id=""8a79318a-4c0a-49a8-8b93-bafd515cfc59""
+    data-bokeh-doc-id=""65eab0b2-7e55-4e64-b706-aa91bda57427""
+></script>",TAG,
+3.07,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+3.3,,,,PERCENT_DELAYED,
+2.76,,,,POS_ARR_DELAY,
+2.76,3.3,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

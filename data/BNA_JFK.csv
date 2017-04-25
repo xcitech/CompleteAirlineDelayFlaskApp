@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,1230,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_JFK.js""
+    id=""799ba9a8-5009-484e-8a7d-de4a6f233008""
+    data-bokeh-model-id=""c9b3ee67-1363-4c26-8bea-253b44f30615""
+    data-bokeh-doc-id=""947c8114-80bb-4443-88b4-cc47f9a354ab""
+></script>",TAG,
+17.49,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+26.94,,,,PERCENT_DELAYED,
+17.7,,,,POS_ARR_DELAY,
+26.08,38.14,Endeavor Air ,,9E,12.72
+16.48,25.31,Envoy Air,,MQ,87.28
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

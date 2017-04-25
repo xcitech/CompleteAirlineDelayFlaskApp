@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Milwaukee,DEST-CITY,
+,,,General Mitchell Intl,DEST_NAME,
+,,,1456,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_MKE.js""
+    id=""785fdd46-4f49-47b2-8573-39eddfee41e8""
+    data-bokeh-model-id=""432ba8d9-edc6-458e-85bd-7d4d01a70449""
+    data-bokeh-doc-id=""4764347d-8e22-40ee-81f1-f9597a0edda5""
+></script>",TAG,
+10.8,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+18.2,,,,PERCENT_DELAYED,
+8.73,,,,POS_ARR_DELAY,
+8.51,19.58,Southwest Airlines ,,WN,84.04
+9.89,10.94,AirTran Airways Corporation,,FL,15.96
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

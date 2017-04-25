@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,La Guardia,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,1060,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LGA_IND.js""
+    id=""abab130a-879a-468d-ad41-0d309af2d562""
+    data-bokeh-model-id=""1c5a4722-b9b6-4fcf-a171-a8026ac71ad4""
+    data-bokeh-doc-id=""d8084346-170e-4e21-8817-9908d90b15ff""
+></script>",TAG,
+18.45,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+22.24,,,,PERCENT_DELAYED,
+16.52,,,,POS_ARR_DELAY,
+16.0,33.33,Delta Air Lines ,,DL,0.8
+22.43,25.2,ExpressJet Airlines ,,EV,16.91
+16.52,23.12,Southwest Airlines ,,WN,72.57
+6.27,9.59,Endeavor Air ,,9E,9.72
+0.0,,,,,

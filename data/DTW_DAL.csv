@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1578,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_DAL.js""
+    id=""54f0f895-cbe3-4569-835b-7aba02aa5acf""
+    data-bokeh-model-id=""0e8a2d19-1f57-424a-ae4a-b7301ef62c52""
+    data-bokeh-doc-id=""763fae2a-8819-4e7d-b830-8fbd751bf96b""
+></script>",TAG,
+11.58,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+13.12,,,,PERCENT_DELAYED,
+10.35,,,,POS_ARR_DELAY,
+10.35,13.12,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

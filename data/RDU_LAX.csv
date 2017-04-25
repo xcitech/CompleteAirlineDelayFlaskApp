@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,3596,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_LAX.js""
+    id=""4dff46f9-9e64-41d2-a338-839ed23febe5""
+    data-bokeh-model-id=""c480631d-a230-44c3-88cb-9ed0a95ed712""
+    data-bokeh-doc-id=""f3bcf1b8-c8b3-425c-aa14-ef0bacd56151""
+></script>",TAG,
+11.16,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+19.17,,,,PERCENT_DELAYED,
+10.99,,,,POS_ARR_DELAY,
+12.64,23.36,US Airways ,,US,8.53
+11.8,20.0,American Airlines ,,AA,36.67
+10.2,17.96,Delta Air Lines ,,DL,54.8
+0.0,,,,,
+0.0,,,,,

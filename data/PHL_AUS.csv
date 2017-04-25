@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,2300,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_AUS.js""
+    id=""84cd5b26-7f32-4401-925c-9a0088dcbb98""
+    data-bokeh-model-id=""7f798ef9-9d50-42a7-8255-00de6bdca9bf""
+    data-bokeh-doc-id=""3a5ad971-c2cd-4fe1-b5b3-ca6cdd4c8408""
+></script>",TAG,
+11.8,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+27.03,,,,PERCENT_DELAYED,
+15.77,,,,POS_ARR_DELAY,
+18.84,31.22,US Airways ,,US,57.53
+12.16,21.62,American Airlines ,,AA,38.07
+6.81,19.15,Frontier Airlines ,,F9,4.4
+0.0,,,,,
+0.0,,,,,

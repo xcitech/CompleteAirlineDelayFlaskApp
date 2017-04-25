@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,Atlanta,DEST-CITY,
+,,,Hartsfield Jackson Atlanta Intl,DEST_NAME,
+,,,3490,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_ATL.js""
+    id=""49f81a1d-d971-4f5e-9c8a-15d5e34bdc11""
+    data-bokeh-model-id=""c7b81c5a-2d45-409b-9f6d-2887a50e0a9f""
+    data-bokeh-doc-id=""f57cc12c-a4bf-45fd-9d67-bad96bab07a8""
+></script>",TAG,
+5.85,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+9.16,,,,PERCENT_DELAYED,
+5.69,,,,POS_ARR_DELAY,
+5.86,9.29,Delta Air Lines ,,DL,89.11
+4.31,8.07,Alaska Airlines ,,AS,10.89
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

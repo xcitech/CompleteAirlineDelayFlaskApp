@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,1075,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_HOU.js""
+    id=""4639d271-4cb1-49d5-be08-a7e6309529d6""
+    data-bokeh-model-id=""3aee5034-4fb6-4811-9ccc-d4a307d6c22e""
+    data-bokeh-doc-id=""d4c11f73-4c44-42f1-b9df-12c6983da1a3""
+></script>",TAG,
+9.94,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+17.38,,,,PERCENT_DELAYED,
+10.28,,,,POS_ARR_DELAY,
+14.11,25.2,AirTran Airways Corporation,,FL,6.47
+10.02,16.84,Southwest Airlines ,,WN,93.53
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

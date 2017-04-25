@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Minneapolis,ORIGIN_CITY,,
+,,Minneapolis St Paul Intl,ORIGIN_NAME,,
+,,Newark,DEST-CITY,,
+,,Newark Liberty Intl,DEST_NAME,,
+,,1619,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MSP_EWR.js""
+    id=""c5338d05-6f38-43ff-b55b-d2830d392588""
+    data-bokeh-model-id=""1fbab8d0-aba7-4a0b-8210-48f0c526e488""
+    data-bokeh-doc-id=""cf5a40f8-84d0-44fd-947d-926446deb0ae""
+></script>",TAG,,
+20.0,,,DEP_DELAY,,
+4.0,,,AVG_FLIGHTS,,
+27.89,,,PERCENT_DELAYED,,
+20.26,,,POS_ARR_DELAY,,
+12.0,42.86,,OO,0.16,SkyWest Airlines 
+21.05,29.39,,EV,58.14,ExpressJet Airlines 
+14.23,27.14,,9E,3.25,Endeavor Air 
+17.96,25.81,,DL,29.37,Delta Air Lines 
+24.87,25.0,,UA,9.09,United Air Lines 

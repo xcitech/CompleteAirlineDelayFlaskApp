@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,2407,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_MCI.js""
+    id=""cfc372e7-8934-476e-846c-1fb6e847417e""
+    data-bokeh-model-id=""1a127a71-5aba-4025-a095-d5291b405a2e""
+    data-bokeh-doc-id=""ff9fe426-7ffb-4d08-a88d-cc99c6f002d1""
+></script>",TAG,
+17.66,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+27.75,,,,PERCENT_DELAYED,
+16.77,,,,POS_ARR_DELAY,
+16.91,27.97,SkyWest Airlines ,,OO,98.58
+6.97,12.5,United Air Lines ,,UA,1.42
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

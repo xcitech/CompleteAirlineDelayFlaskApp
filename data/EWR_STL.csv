@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,1401,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_STL.js""
+    id=""a47f9bd5-9c41-4fcb-8758-d2ba34fd8722""
+    data-bokeh-model-id=""8e29071c-60f2-446f-b34e-3b747798df3f""
+    data-bokeh-doc-id=""afa49c84-bbb2-4618-a942-2cc43070be3f""
+></script>",TAG,
+16.2,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+24.27,,,,PERCENT_DELAYED,
+16.48,,,,POS_ARR_DELAY,
+16.08,25.28,ExpressJet Airlines ,,EV,68.41
+17.41,22.17,Southwest Airlines ,,WN,31.46
+0.38,0.0,United Air Lines ,,UA,0.13
+0.0,,,,,
+0.0,,,,,

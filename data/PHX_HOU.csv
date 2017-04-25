@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,1639,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_HOU.js""
+    id=""8463e225-5812-42bf-b0f2-f473cd90473c""
+    data-bokeh-model-id=""f9247691-0be5-435e-a0db-1648f04f2a8e""
+    data-bokeh-doc-id=""70fb0ce4-c9e2-4c5c-908c-97a3dbc629b6""
+></script>",TAG,
+15.24,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+25.27,,,,PERCENT_DELAYED,
+13.04,,,,POS_ARR_DELAY,
+13.04,25.27,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

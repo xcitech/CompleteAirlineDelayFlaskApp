@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,702,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_DAL.js""
+    id=""4e2be5d0-5924-4fa8-8fe7-3ce787624fcd""
+    data-bokeh-model-id=""d437539b-6b44-4b07-ab9d-9ac029961ca2""
+    data-bokeh-doc-id=""88d08560-e06d-4750-83bb-bbc20e8fc888""
+></script>",TAG,
+13.21,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+21.54,,,,PERCENT_DELAYED,
+13.1,,,,POS_ARR_DELAY,
+13.1,21.54,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

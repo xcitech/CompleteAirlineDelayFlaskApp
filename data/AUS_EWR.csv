@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,2418,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_EWR.js""
+    id=""71331bfb-57b5-4ee9-adde-7953d22aec7e""
+    data-bokeh-model-id=""10a4d806-b3d6-4591-a436-de53ac25e9a5""
+    data-bokeh-doc-id=""28b9d8f6-d4a2-4e34-91ff-fc6b2b18cf94""
+></script>",TAG,
+18.06,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.34,,,,PERCENT_DELAYED,
+15.76,,,,POS_ARR_DELAY,
+16.46,23.27,Southwest Airlines ,,WN,44.96
+15.19,21.59,United Air Lines ,,UA,55.04
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

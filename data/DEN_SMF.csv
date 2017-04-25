@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Denver,ORIGIN_CITY,
+,,,Denver Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,1460,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DEN_SMF.js""
+    id=""ac6c9c81-4404-452b-8204-a93080ec7112""
+    data-bokeh-model-id=""9fa6c442-7acb-4947-8b2a-4cb7061f347a""
+    data-bokeh-doc-id=""d80f9eb5-3967-4f9e-8a92-39e10e544bcc""
+></script>",TAG,
+13.64,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+21.4,,,,PERCENT_DELAYED,
+11.83,,,,POS_ARR_DELAY,
+12.35,23.59,Southwest Airlines ,,WN,51.03
+12.02,19.66,United Air Lines ,,UA,30.64
+10.03,18.19,SkyWest Airlines ,,OO,18.32
+0.0,,,,,
+0.0,,,,,

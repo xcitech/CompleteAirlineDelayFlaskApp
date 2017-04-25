@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,2245,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_MSP.js""
+    id=""8047646a-b2d6-4601-855a-b02c8a14da0d""
+    data-bokeh-model-id=""09d5ebab-c889-4c9c-b8da-ae261403209c""
+    data-bokeh-doc-id=""aedd090b-533d-4eda-b52d-79a1bf929837""
+></script>",TAG,
+7.16,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+12.05,,,,PERCENT_DELAYED,
+7.1,,,,POS_ARR_DELAY,
+7.61,12.19,Delta Air Lines ,,DL,75.21
+5.57,11.61,Alaska Airlines ,,AS,24.79
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1484,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_MIA.js""
+    id=""1880e34c-8eae-4b01-b866-014023f549f4""
+    data-bokeh-model-id=""94c5bcf5-b9e5-43dd-9f52-22bf4be0aa06""
+    data-bokeh-doc-id=""4a7e4dd0-fcee-413b-8783-eab73e5027c3""
+></script>",TAG,
+11.35,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+20.41,,,,PERCENT_DELAYED,
+13.02,,,,POS_ARR_DELAY,
+13.08,20.44,American Airlines ,,AA,98.71
+7.86,18.55,US Airways ,,US,1.29
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

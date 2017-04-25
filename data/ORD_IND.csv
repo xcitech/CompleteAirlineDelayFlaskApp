@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Indianapolis,DEST-CITY,,
+,,Indianapolis Intl,DEST_NAME,,
+,,286,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_IND.js""
+    id=""bb2caa30-754b-4630-8d8e-7c7e21c94e97""
+    data-bokeh-model-id=""af431806-3929-4635-84c4-e23dc1a4cf8a""
+    data-bokeh-doc-id=""5b152160-c1b5-4b00-a11d-a10ae99a0384""
+></script>",TAG,,
+13.13,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+23.57,,,PERCENT_DELAYED,,
+14.23,,,POS_ARR_DELAY,,
+21.09,35.93,,OO,9.95,SkyWest Airlines 
+19.53,26.67,,UA,10.45,United Air Lines 
+15.52,25.1,,EV,32.68,ExpressJet Airlines 
+16.14,19.7,,YV,0.87,Mesa Airlines 
+10.59,19.21,,MQ,45.31,Envoy Air

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,New York,ORIGIN_CITY,,
+,,La Guardia,ORIGIN_NAME,,
+,,Detroit,DEST-CITY,,
+,,Detroit Metro Wayne Co,DEST_NAME,,
+,,805,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LGA_DTW.js""
+    id=""f540e0e4-f4b8-4225-8123-028acd9ae20f""
+    data-bokeh-model-id=""26473664-33f8-4374-bb43-a8fb6bc9edae""
+    data-bokeh-doc-id=""59b83011-5eb5-454b-987d-79311d87c7e1""
+></script>",TAG,,
+13.77,,,DEP_DELAY,,
+12.0,,,AVG_FLIGHTS,,
+20.52,,,PERCENT_DELAYED,,
+14.18,,,POS_ARR_DELAY,,
+30.67,33.33,,9E,0.02,Endeavor Air 
+20.32,31.71,,NK,9.02,Spirit Air Lines
+59.58,26.32,,EV,0.15,ExpressJet Airlines 
+13.73,24.98,,MQ,25.45,Envoy Air
+13.39,17.22,,DL,65.36,Delta Air Lines 

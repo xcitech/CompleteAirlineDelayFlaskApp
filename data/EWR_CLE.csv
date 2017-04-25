@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,649,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_CLE.js""
+    id=""5fb6dcdb-8617-40a2-ab1a-d8c64fd156ab""
+    data-bokeh-model-id=""80232e69-664a-405d-bb4b-a6a140e17117""
+    data-bokeh-doc-id=""c6025e66-888f-40f4-9d28-6b4e069c5200""
+></script>",TAG,
+17.81,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+21.91,,,,PERCENT_DELAYED,
+15.9,,,,POS_ARR_DELAY,
+13.66,22.1,ExpressJet Airlines ,,EV,22.33
+16.54,21.86,United Air Lines ,,UA,77.67
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

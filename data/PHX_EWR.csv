@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,3426,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_EWR.js""
+    id=""139fc8f7-200b-4526-8579-cf284d88b0d4""
+    data-bokeh-model-id=""5659991a-699f-4939-be72-6f277764fc64""
+    data-bokeh-doc-id=""220ace98-7124-4ca9-b3f8-0de69f803333""
+></script>",TAG,
+15.54,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+21.97,,,,PERCENT_DELAYED,
+14.88,,,,POS_ARR_DELAY,
+23.08,28.77,Southwest Airlines ,,WN,15.13
+18.2,27.32,American Airlines ,,AA,20.93
+13.69,23.4,US Airways ,,US,23.83
+10.76,15.77,United Air Lines ,,UA,40.11
+0.0,,,,,

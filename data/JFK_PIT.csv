@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,545,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_PIT.js""
+    id=""bc5ec6b0-3f23-49e4-a377-d0ad44368102""
+    data-bokeh-model-id=""0021df0a-6091-4bcc-9f23-56dfea4abb42""
+    data-bokeh-doc-id=""39a123f1-2b95-4409-ac24-d7f51bd90e61""
+></script>",TAG,
+11.31,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+21.9,,,,PERCENT_DELAYED,
+12.75,,,,POS_ARR_DELAY,
+14.74,26.99,Envoy Air,,MQ,45.21
+10.98,18.14,Endeavor Air ,,9E,24.62
+11.19,17.33,Delta Air Lines ,,DL,30.17
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,San Francisco,ORIGIN_CITY,,
+,,San Francisco Intl,ORIGIN_NAME,,
+,,Las Vegas,DEST-CITY,,
+,,Mc Carran Intl,DEST_NAME,,
+,,665,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SFO_LAS.js""
+    id=""9160c76b-43e9-4c5b-8004-fbb0a5301537""
+    data-bokeh-model-id=""a3230646-f612-423e-9854-30e42ecb7838""
+    data-bokeh-doc-id=""d1886d5a-340e-413b-b3c0-87acc07b2a3f""
+></script>",TAG,,
+14.83,,,DEP_DELAY,,
+23.0,,,AVG_FLIGHTS,,
+21.82,,,PERCENT_DELAYED,,
+13.92,,,POS_ARR_DELAY,,
+17.23,28.47,,WN,25.45,Southwest Airlines 
+13.69,22.73,,OO,7.53,SkyWest Airlines 
+16.21,21.94,,B6,5.4,JetBlue Airways
+12.53,19.03,,UA,32.18,United Air Lines 
+11.74,18.59,,VX,28.4,Virgin America

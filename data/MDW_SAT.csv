@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,San Antonio,DEST-CITY,
+,,,San Antonio Intl,DEST_NAME,
+,,,1669,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_SAT.js""
+    id=""de8b5090-1557-4fce-8201-fef90fcc841e""
+    data-bokeh-model-id=""9dfc17ff-f783-4215-bcdf-cea0bf09cb2c""
+    data-bokeh-doc-id=""ec821e1e-6da2-47c8-9308-38b4d7d6dbf0""
+></script>",TAG,
+15.16,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+24.74,,,,PERCENT_DELAYED,
+14.32,,,,POS_ARR_DELAY,
+14.32,24.74,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

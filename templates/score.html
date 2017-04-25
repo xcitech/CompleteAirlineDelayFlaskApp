@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+<title>Flight Score Card</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="{{ url_for('static', filename='w3.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='font-awesome.min.css') }}">
+
+<style>
+html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+<body class="w3-light-grey">
+
+<!-- Top container -->
+
+<div class="w3-container w3-top w3-black w3-large w3-padding" style="z-index:4">
+  <button class="w3-btn w3-hide-large w3-padding-0 w3-hover-text-grey" onclick="w3_open();"><i class="fa fa-bars"></i>  Menu</button>
+  <span class="w3-right">Airline-Delay Predictor App</span>
+</div>
+
+<!-- Sidenav/menu -->
+
+<nav class="w3-sidenav w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;" id="mySidenav"><br>
+  <div class="w3-container">
+    <h5>Dashboard</h5>
+  </div>
+  <a href="#" class="w3-padding-16 w3-hide-large w3-dark-grey w3-hover-black" onclick="w3_close()" title="close menu"><i class="fa fa-remove fa-fw"></i>  Close Menu</a>
+  <a href="#" class="w3-padding w3-blue"><i class="fa fa-users fa-fw"></i>  Overview</a>
+  <a href="#historical" class="w3-padding"><i class="fa fa-clock-o fa-fw"></i>  Historical Delays</a>
+  <a href="#top5airline" class="w3-padding"><i class="fa fa-plane fa-fw"></i>  Top Carriers</a>
+  <a href="#route" class="w3-padding"><i class="fa fa-location-arrow fa-fw"></i>  Route</a>
+  <a href="/" class="w3-padding"><i class="fa fa-history fa-fw"></i>  Try Again</a><br><br>
+</nav>
+
+<!~~ Overlay effect when opening sidenav on small screens ~~>
+<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+
+
+
+<!~~ !PAGE CONTENT! ~~>
+<div class="w3-main" style="margin-left:300px;margin-top:43px;">
+
+  <!~~ Header ~~>
+  <header class="w3-container" style="padding-top:22px">
+    <h5><b><i class="fa fa-map-marker"></i> Overview for Route:: {{ data['origin'] }} to {{ data['dest'] }}</b></h5>
+  </header>
+  
+  <div class="w3-row-padding w3-margin-bottom">
+    <div class="w3-quarter">
+      <div class="w3-container w3-red w3-padding-16">
+        <div class="w3-left"><i class="fa fa-clock-o w3-xxxlarge"></i></div>
+        <div class="w3-right">
+          <h3>{{ data['dep_delay'] }}</h3>
+        </div>
+        <div class="w3-clear"></div>
+        <h6>Average Departure Delay</h6>
+      </div>
+    </div>
+    <div class="w3-quarter">
+      <div class="w3-container w3-blue w3-padding-16">
+        <div class="w3-left"><i class="fa fa-clock-o w3-xxxlarge"></i></div>
+        <div class="w3-right">
+          <h3>{{ data['arr_delay'] }}</h3>
+        </div>
+        <div class="w3-clear"></div>
+        <h6>Average Arrival Delay</h6>
+      </div>
+    </div>
+    <div class="w3-quarter">
+      <div class="w3-container w3-teal w3-padding-16">
+        <div class="w3-left"><i class="fa fa-plane w3-xxxlarge"></i></div>
+        <div class="w3-right">
+          <h3>{{ data['avg_flights'] }}</h3>
+        </div>
+        <div class="w3-clear"></div>
+        <h6>Average Flights/Day</h6>
+      </div>
+    </div>
+    <div class="w3-quarter">
+      <div class="w3-container w3-orange w3-text-white w3-padding-16">
+        <div class="w3-left"><i class="fa fa-exclamation-triangle w3-xxxlarge"></i></div>
+        <div class="w3-right">
+          <h3>{{ data['percent_delayed'] }} </h3>
+        </div>
+        <div class="w3-clear"></div>
+        <h6>% Flights delayed *</h6>
+      </div>
+      <i>(more than 15 minutes)</i>
+    </div>
+  </div>
+  
+  
+  
+  
+  {% if predict_delay == 1 %}
+  
+   <header class="w3-container" style="padding-top:22px">
+    <h5><b><i class="fa fa-map-marker"></i> Chance of your flight getting delayed: </b></h5>
+  </header>
+  
+  <div class="w3-row-padding w3-margin-bottom">
+    <div class="w3-third">
+     		<div class="js-gauge js-gauge--1 gauge"></div>
+
+
+    </div>
+    <div class="w3-two-third">
+There is a {{ prob }}% chance of your flight from {{ data['origin'] }} to {{ data['dest'] }} to get delayed by more than 5 minutes.
+On an average, flights arrive {{ data['arr_delay'] }} minutes late on this route.
+   
+    </div>
+</div>
+  {% endif %}
+  
+  		<script src="static/js/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="static/js/raphael-min.js"></script>
+		<script type="text/javascript" src="static/js/kuma-gauge.jquery.js"></script>
+
+		<script>
+			var $j = jQuery.noConflict();
+			$j('.js-gauge--1').kumaGauge({
+				value : 0,
+				background : '#f1f1f1',
+				max : 60
+
+			});
+
+			$j('.js-gauge--1').kumaGauge('update', {
+				value : 0,
+				background : '#f1f1f1'
+
+			});
+	
+
+			var update = setInterval(function() {
+				$j('.js-gauge--1').kumaGauge('update',{
+					value : {{ prob }},
+				});		
+			}, 2500);
+		</script>
+ <A NAME="historical"> 		
+  <header class="w3-container" style="padding-top:22px">
+    <h5><b><i class="fa fa-clock-o"></i>  Average Delay on this route: </b></h5>
+  </header>  
+  
+
+	<div class="w3-container w3-section">
+    <div class="w3-row-padding" style="margin:0 -16px">
+		<div id={{ chartID|safe }} class="chart" style="height: 300px; width: 600px"></div>
+    </div>
+  </div>
+  
+    		
+		<script>
+			var chart_id = {{ chartID|safe }}
+			var series = {{ series|safe }}
+			var title = {{ title|safe }}
+			var xAxis = {{ xAxis|safe }}
+			var yAxis = {{ yAxis|safe }}
+			var chart = {{ chart|safe }}
+		</script>
+			<script src="static/js/jquery-1.11.1.min.js"></script>
+			<script src="static/js/highcharts.js"></script>
+			<script src="static/js/main_high_chart.js"></script>
+
+  <header class="w3-container" style="padding-top:22px">
+    <h5><b><i class="fa fa-exclamation-triangle"></i> Percentage of flights delayed more than 15 minutes</b></h5>
+  </header>
+ <div class="w3-container">
+    <p><h5>{{ data['carrier_1'] }} </h5></p>
+    <div class="w3-progress-container w3-grey">
+      <div id="myBar" class="w3-progressbar w3-red" style="width:{{ data['carrier_1_delay_15'] }}%">
+        <div class="w3-center w3-text-white">{{ data['carrier_1_delay_15'] }}%</div>
+      </div>
+    </div>
+
+    <p><h5>{{ data['carrier_2'] }} </h5></p>
+    <div class="w3-progress-container w3-grey">
+      <div id="myBar" class="w3-progressbar w3-orange" style="width:{{ data['carrier_2_delay_15'] }}%">
+        <div class="w3-center w3-text-white">{{ data['carrier_2_delay_15'] }}%</div>
+      </div>
+    </div>
+
+    <p><h5>{{ data['carrier_3'] }} </h5></p>
+    <div class="w3-progress-container w3-grey">
+      <div id="myBar" class="w3-progressbar w3-orange" style="width:{{ data['carrier_3_delay_15'] }}%">
+        <div class="w3-center w3-text-white">{{ data['carrier_3_delay_15'] }}%</div>
+      </div>
+    </div>
+
+    <p><h5>{{ data['carrier_4'] }} </h5></p>
+    <div class="w3-progress-container w3-grey">
+      <div id="myBar" class="w3-progressbar w3-orange" style="width:{{ data['carrier_4_delay_15'] }}%">
+        <div class="w3-center w3-text-white">{{ data['carrier_4_delay_15'] }}%</div>
+      </div>
+    </div>
+
+    <p><h5>{{ data['carrier_5'] }} </h5></p>
+    <div class="w3-progress-container w3-grey">
+      <div id="myBar" class="w3-progressbar w3-green" style="width:{{ data['carrier_5_delay_15'] }}%">
+        <div class="w3-center w3-text-white">{{ data['carrier_5_delay_15'] }}%</div>
+      </div>
+    </div>
+  </div>
+  <hr>
+
+<div class="w3-container">
+	<header class="w3-container" style="padding-top:22px">
+    <h5><b><i class="fa fa-plane"></i> Heatmap of Arrival Delay for Route {{ data['origin'] }} to {{ data['dest'] }} </i></b></h5>
+	</header>
+	{{ data['tag']|safe }}
+</div>
+  <hr>
+
+
+
+ <A NAME="top5airline">
+  <header class="w3-container" style="padding-top:22px">
+    <h5><b><i class="fa fa-plane"></i> Top 5 Airline Carriers <i>(By total number of flights)</i></b></h5>
+  </header>
+  <div class="w3-container">
+    <table class="w3-table w3-striped w3-bordered w3-border w3-hoverable w3-white">
+      <tr>
+        <td>{{ data['carrier_1'] }}</td>
+        <td>{{ data['carrier_1_perc'] }}%</td>
+      </tr>
+      <tr>
+        <td>{{ data['carrier_2'] }}</td>
+        <td>{{ data['carrier_2_perc'] }}%</td>
+      </tr>
+      <tr>
+        <td>{{ data['carrier_3'] }}</td>
+        <td>{{ data['carrier_3_perc'] }}%</td>
+      </tr>
+      <tr>
+        <td>{{ data['carrier_4'] }}</td>
+        <td>{{ data['carrier_4_perc'] }}%</td>
+      </tr>
+      <tr>
+        <td>{{ data['carrier_5'] }}</td>
+        <td>{{ data['carrier_5_perc'] }}%</td>
+      </tr>
+    </table><br>
+    <button class="w3-btn">More Airlines  <i class="fa fa-arrow-right"></i></button>
+  </div>
+  <hr>
+ 
+ <A NAME="route"> 
+  <div class="w3-container w3-section">
+    <div class="w3-row-padding" style="margin:0 -16px">
+      <div class="w3-half">
+        <h5>Route Map</h5>
+        <img src="{{ map_filename }}" style="width:100%" alt="Route Map">
+      </div>
+      <div class="w3-half">
+        <h5>Route Information</h5>
+        <table class="w3-table w3-striped w3-white">
+          <tr>
+            <td><i class="fa fa-map-marker w3-blue w3-padding-tiny"></i></td>
+            <td>Origin</td>
+            <td><b>{{ data['origin_city'] }}</b></td>
+          </tr>
+          <tr>
+            <td><i class="fa fa-map-pin w3-red w3-padding-tiny"></i></td>
+            <td>Origin Airport</td>
+            <td><i>{{ data['origin_name'] }}</i></td>
+          </tr>
+          <tr>
+            <td><i class="fa fa-map-marker w3-blue w3-text-white w3-padding-tiny"></i></td>
+            <td>Destination</td>
+            <td><b>{{ data['dest_city'] }}</b></td>
+          </tr>
+          <tr>
+            <td><i class="fa fa-map-pin w3-red w3-padding-tiny"></i></td>
+            <td>Destination Airport</td>
+            <td><i>{{ data['dest_name'] }}</i></td>
+          </tr>
+          <tr>
+            <td><i class="fa fa-road w3-blue w3-padding-tiny"></i></td>
+            <td>Distance</td>
+            <td><i>{{ data['dist'] }} miles</i></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+ 
+ 
+ 
+ 
+  <!~~ Footer ~~>
+  <footer class="w3-container w3-padding-16 w3-light-grey">
+    <h4><a href="http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236">Data Source</a></h4>
+    <p>Powered by <a href="http://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+  </footer>
+
+  <!~~ End page content ~~>
+</div>
+
+<script>
+// Get the Sidenav
+var mySidenav = document.getElementById("mySidenav");
+
+// Get the DIV with overlay effect
+var overlayBg = document.getElementById("myOverlay");
+
+// Toggle between showing and hiding the sidenav, and add overlay effect
+function w3_open() {
+    if (mySidenav.style.display === 'block') {
+        mySidenav.style.display = 'none';
+        overlayBg.style.display = "none";
+    } else {
+        mySidenav.style.display = 'block';
+        overlayBg.style.display = "block";
+    }
+}
+
+// Close the sidenav with the close button
+function w3_close() {
+    mySidenav.style.display = "none";
+    overlayBg.style.display = "none";
+}
+</script>
+ -->
+
+</body>
+</html>

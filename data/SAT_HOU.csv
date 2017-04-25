@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,309,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_HOU.js""
+    id=""331fbf87-fef0-4ab5-9d0e-8ff74123e517""
+    data-bokeh-model-id=""b1ec148c-a878-48ea-9cf8-36d959b4edb2""
+    data-bokeh-doc-id=""4d2351b4-894c-4b94-aec7-f2d6c5f399e1""
+></script>",TAG,
+10.94,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.76,,,,PERCENT_DELAYED,
+11.15,,,,POS_ARR_DELAY,
+11.15,20.76,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

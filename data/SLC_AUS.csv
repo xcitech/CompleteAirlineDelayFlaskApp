@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,1747,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_AUS.js""
+    id=""665dd1da-ef16-4d9c-a277-411eb9424540""
+    data-bokeh-model-id=""063ffad4-d63e-4869-88ea-8ec3b6be3f8d""
+    data-bokeh-doc-id=""fdf0a081-c020-4bea-9861-4b4eadba91ef""
+></script>",TAG,
+6.72,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+12.16,,,,PERCENT_DELAYED,
+7.3,,,,POS_ARR_DELAY,
+7.72,13.13,SkyWest Airlines ,,OO,55.5
+6.79,10.98,Delta Air Lines ,,DL,44.41
+0.0,0.0,Endeavor Air ,,9E,0.09
+0.0,,,,,
+0.0,,,,,

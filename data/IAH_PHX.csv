@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Houston,ORIGIN_CITY,,
+,,George Bush Intercontinental,ORIGIN_NAME,,
+,,Phoenix,DEST-CITY,,
+,,Phoenix Sky Harbor Intl,DEST_NAME,,
+,,1621,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/IAH_PHX.js""
+    id=""d2802e8f-5c19-4315-bde6-6b5cad0ba492""
+    data-bokeh-model-id=""ea839b05-dfd1-45f6-8525-52cd1921899e""
+    data-bokeh-doc-id=""b6028b35-b7b1-4af1-8910-65289e901fd7""
+></script>",TAG,,
+11.2,,,DEP_DELAY,,
+9.0,,,AVG_FLIGHTS,,
+17.17,,,PERCENT_DELAYED,,
+10.86,,,POS_ARR_DELAY,,
+17.38,30.65,,OO,4.06,SkyWest Airlines 
+21.68,29.07,,F9,3.51,Frontier Airlines 
+11.61,18.85,,UA,47.04,United Air Lines 
+9.65,14.85,,AA,15.86,American Airlines 
+8.25,12.55,,US,28.67,US Airways 

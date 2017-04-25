@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,1577,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_MSP.js""
+    id=""3419a014-b138-4ce7-8c63-a1cd832e068c""
+    data-bokeh-model-id=""fc91fc85-1a70-460d-b864-3ac194e5e39e""
+    data-bokeh-doc-id=""5290a3af-d124-4e5c-a7a4-02afe39dc9ed""
+></script>",TAG,
+13.13,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+14.43,,,,PERCENT_DELAYED,
+12.32,,,,POS_ARR_DELAY,
+10.9,22.0,SkyWest Airlines ,,OO,2.61
+10.55,18.78,Endeavor Air ,,9E,12.81
+12.7,15.18,ExpressJet Airlines ,,EV,35.13
+12.59,12.37,Delta Air Lines ,,DL,49.45
+0.0,,,,,

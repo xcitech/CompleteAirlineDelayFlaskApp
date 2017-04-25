@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Salt Lake City,ORIGIN_CITY,,
+,,Salt Lake City Intl,ORIGIN_NAME,,
+,,Chicago,DEST-CITY,,
+,,Chicago Ohare Intl,DEST_NAME,,
+,,2007,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SLC_ORD.js""
+    id=""bd27efbf-80c1-446e-8b03-e79435e17116""
+    data-bokeh-model-id=""50796d4e-f3b6-4f9a-8715-713196ac66d9""
+    data-bokeh-doc-id=""c9c320e3-f037-4850-b7bb-0aec842fbe2b""
+></script>",TAG,,
+15.95,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+23.42,,,PERCENT_DELAYED,,
+17.07,,,POS_ARR_DELAY,,
+26.15,27.9,,F9,7.25,Frontier Airlines 
+22.18,26.17,,MQ,4.03,Envoy Air
+16.46,24.37,,OO,65.05,SkyWest Airlines 
+14.42,18.75,,UA,11.87,United Air Lines 
+10.61,14.93,,DL,9.43,Delta Air Lines 

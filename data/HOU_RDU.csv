@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,1688,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_RDU.js""
+    id=""f0e6af02-3d4d-4c96-bbf2-c4c81966cf8b""
+    data-bokeh-model-id=""d7c4bc16-21e1-4cf7-9f1f-42c28ab3f80a""
+    data-bokeh-doc-id=""66678874-1f7c-4982-a9da-2c45fbdd8446""
+></script>",TAG,
+16.9,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+29.02,,,,PERCENT_DELAYED,
+14.77,,,,POS_ARR_DELAY,
+14.77,29.02,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

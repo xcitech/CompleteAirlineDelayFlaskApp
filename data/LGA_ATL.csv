@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,New York,ORIGIN_CITY,,
+,,La Guardia,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,1225,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LGA_ATL.js""
+    id=""28165df5-ab83-4ee1-b689-207a75cddd66""
+    data-bokeh-model-id=""147a254c-6021-4b2e-8c4a-14b863f8cd7c""
+    data-bokeh-doc-id=""1bfcd4e9-5826-42b6-9aa8-00d19669c6b0""
+></script>",TAG,,
+15.89,,,DEP_DELAY,,
+23.0,,,AVG_FLIGHTS,,
+21.55,,,PERCENT_DELAYED,,
+15.56,,,POS_ARR_DELAY,,
+22.11,32.2,,FL,6.12,AirTran Airways Corporation
+17.11,31.35,,MQ,8.83,Envoy Air
+20.11,25.47,,F9,1.87,Frontier Airlines 
+13.95,21.29,,WN,15.97,Southwest Airlines 
+14.98,19.21,,DL,66.63,Delta Air Lines 

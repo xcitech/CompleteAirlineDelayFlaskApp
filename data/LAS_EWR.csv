@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,3577,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_EWR.js""
+    id=""d1b8e6e2-ae8c-48cf-a828-e687f5bf084d""
+    data-bokeh-model-id=""606ef20f-4a52-475a-827b-99b796961797""
+    data-bokeh-doc-id=""3d33d172-b856-418f-8d68-c5d39dea5ec6""
+></script>",TAG,
+12.15,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+16.0,,,,PERCENT_DELAYED,
+10.63,,,,POS_ARR_DELAY,
+20.19,27.86,Southwest Airlines ,,WN,2.43
+10.39,15.7,United Air Lines ,,UA,97.57
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

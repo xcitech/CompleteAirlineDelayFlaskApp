@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,944,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_BWI.js""
+    id=""10b7f733-7271-4c6d-96bc-52798aafb900""
+    data-bokeh-model-id=""51384f74-a757-41f3-8676-8e3b82874028""
+    data-bokeh-doc-id=""e299b67b-abfd-41de-91f8-a5b53a7491c5""
+></script>",TAG,
+13.22,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+20.63,,,,PERCENT_DELAYED,
+11.73,,,,POS_ARR_DELAY,
+11.73,20.63,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

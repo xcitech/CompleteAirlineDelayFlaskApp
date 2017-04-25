@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Detroit,DEST-CITY,
+,,,Detroit Metro Wayne Co,DEST_NAME,
+,,,249,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_DTW.js""
+    id=""f6f6ec2b-ffa1-46b3-933d-ac8dcaeae44a""
+    data-bokeh-model-id=""2bba52fb-67d1-4f8e-8b99-7413b8ac118a""
+    data-bokeh-doc-id=""5b314b7b-3b68-4475-bb33-a9352edd5806""
+></script>",TAG,
+11.18,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+12.43,,,,PERCENT_DELAYED,
+10.87,,,,POS_ARR_DELAY,
+10.41,14.41,Endeavor Air ,,9E,16.42
+14.15,14.01,ExpressJet Airlines ,,EV,38.02
+8.44,10.6,SkyWest Airlines ,,OO,44.67
+1.5,0.0,Delta Air Lines ,,DL,0.89
+0.0,,,,,

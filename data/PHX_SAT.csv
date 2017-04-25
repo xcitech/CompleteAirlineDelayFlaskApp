@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Phoenix,ORIGIN_CITY,,
+,,Phoenix Sky Harbor Intl,ORIGIN_NAME,,
+,,San Antonio,DEST-CITY,,
+,,San Antonio Intl,DEST_NAME,,
+,,1354,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/PHX_SAT.js""
+    id=""60d0fe1f-408b-4f5a-99b1-44159b9549bb""
+    data-bokeh-model-id=""4940948a-0b0a-4d6b-afe1-4e883f045d43""
+    data-bokeh-doc-id=""112fa399-33af-45f4-8037-808d1c166df3""
+></script>",TAG,,
+13.47,,,DEP_DELAY,,
+4.0,,,AVG_FLIGHTS,,
+22.99,,,PERCENT_DELAYED,,
+12.13,,,POS_ARR_DELAY,,
+14.3,27.93,,WN,72.55,Southwest Airlines 
+7.94,11.42,,OO,15.57,SkyWest Airlines 
+5.22,9.07,,YV,8.16,Mesa Airlines 
+2.65,5.62,,US,3.7,US Airways 
+0.0,0.0,,AA,0.02,American Airlines 

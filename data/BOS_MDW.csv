@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,1382,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_MDW.js""
+    id=""de8ce0a6-268b-4540-bd8f-cf09f9332ae7""
+    data-bokeh-model-id=""2b640dfe-cc09-4a84-a50f-fb86473f9256""
+    data-bokeh-doc-id=""9e07c37e-cde5-42c4-885e-c8fddb6332ef""
+></script>",TAG,
+13.77,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+19.56,,,,PERCENT_DELAYED,
+12.68,,,,POS_ARR_DELAY,
+12.68,19.56,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

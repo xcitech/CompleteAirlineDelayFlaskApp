@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,2379,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_PDX.js""
+    id=""cecb1ffa-0cdc-4470-925e-631943cf0630""
+    data-bokeh-model-id=""9fbdb6fc-ea22-47be-81e9-b8de2c419da7""
+    data-bokeh-doc-id=""224c28e6-b60f-4c4c-b048-654addc3b235""
+></script>",TAG,
+14.31,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+22.14,,,,PERCENT_DELAYED,
+12.71,,,,POS_ARR_DELAY,
+14.54,25.46,Southwest Airlines ,,WN,84.8
+2.48,3.59,SkyWest Airlines ,,OO,15.2
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

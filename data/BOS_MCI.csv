@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,2017,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_MCI.js""
+    id=""9a19beae-aa86-4c11-9b08-b25023023a82""
+    data-bokeh-model-id=""d5ff0f0c-efde-4e5f-830c-df1d24dd12d2""
+    data-bokeh-doc-id=""4adaadd5-900e-4ee2-8c0c-69dfb8bd8851""
+></script>",TAG,
+9.3,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.12,,,,PERCENT_DELAYED,
+8.88,,,,POS_ARR_DELAY,
+8.88,15.12,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

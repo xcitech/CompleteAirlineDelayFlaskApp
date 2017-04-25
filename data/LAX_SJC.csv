@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Los Angeles,ORIGIN_CITY,,
+,,Los Angeles Intl,ORIGIN_NAME,,
+,,San Jose,DEST-CITY,,
+,,Norman Y Mineta San Jose Intl,DEST_NAME,,
+,,496,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LAX_SJC.js""
+    id=""3cdd3ab0-cace-4b5d-b85d-6d620a6d9d99""
+    data-bokeh-model-id=""534bc410-af28-4f3f-ad12-34d06d31d3e9""
+    data-bokeh-doc-id=""b9b107d1-07f1-42e2-893e-343942722d4e""
+></script>",TAG,,
+12.66,,,DEP_DELAY,,
+19.0,,,AVG_FLIGHTS,,
+22.83,,,PERCENT_DELAYED,,
+12.35,,,POS_ARR_DELAY,,
+14.31,27.71,,WN,49.69,Southwest Airlines 
+15.34,25.79,,MQ,3.03,Envoy Air
+11.04,19.2,,OO,36.42,SkyWest Airlines 
+9.39,15.19,,DL,6.37,Delta Air Lines 
+3.58,7.1,,VX,4.49,Virgin America

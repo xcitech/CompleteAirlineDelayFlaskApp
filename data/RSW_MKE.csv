@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Myers,ORIGIN_CITY,
+,,,Southwest Florida Intl,ORIGIN_NAME,
+,,,Milwaukee,DEST-CITY,
+,,,General Mitchell Intl,DEST_NAME,
+,,,1908,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RSW_MKE.js""
+    id=""6aa25bbb-5b61-4ae1-8aeb-81da716c387f""
+    data-bokeh-model-id=""974dfa67-f720-4308-b386-88284f28c637""
+    data-bokeh-doc-id=""bd14bc1b-1ae6-4e9c-bd52-41b7c22b78d4""
+></script>",TAG,
+15.66,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.21,,,,PERCENT_DELAYED,
+14.3,,,,POS_ARR_DELAY,
+14.75,21.22,Southwest Airlines ,,WN,87.92
+12.16,15.44,Frontier Airlines ,,F9,8.53
+8.4,6.45,AirTran Airways Corporation,,FL,3.55
+0.0,,,,,
+0.0,,,,,

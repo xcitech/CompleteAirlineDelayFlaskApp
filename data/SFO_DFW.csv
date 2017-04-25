@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,2353,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_DFW.js""
+    id=""c38d4c9a-5721-4d2a-8e93-392c46075f5c""
+    data-bokeh-model-id=""49d6b4a0-eadb-400a-8e96-0d6dc33ef064""
+    data-bokeh-doc-id=""854ee8ce-fab0-4dff-8e52-1626835d3b38""
+></script>",TAG,
+14.74,,,,DEP_DELAY,
+15.0,,,,AVG_FLIGHTS,
+20.32,,,,PERCENT_DELAYED,
+14.53,,,,POS_ARR_DELAY,
+17.31,29.01,SkyWest Airlines ,,OO,13.99
+12.09,19.67,United Air Lines ,,UA,10.39
+15.03,19.52,American Airlines ,,AA,68.63
+7.75,11.76,Virgin America,,VX,6.99
+0.0,,,,,

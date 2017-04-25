@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Sacramento,ORIGIN_CITY,
+,,,Sacramento Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,975,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SMF_SEA.js""
+    id=""6201abcb-4f1a-4310-a986-5d00f2045957""
+    data-bokeh-model-id=""62773a13-70ab-425b-a442-a3aedde71570""
+    data-bokeh-doc-id=""b37686b3-4259-4cd0-9b56-1658f17b24ab""
+></script>",TAG,
+8.1,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+15.71,,,,PERCENT_DELAYED,
+8.85,,,,POS_ARR_DELAY,
+12.25,23.63,Southwest Airlines ,,WN,36.51
+10.77,16.64,SkyWest Airlines ,,OO,11.3
+6.05,9.96,Alaska Airlines ,,AS,52.18
+0.0,0.0,Delta Air Lines ,,DL,0.01
+0.0,,,,,

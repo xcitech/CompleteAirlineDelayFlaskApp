@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,3094,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_SLC.js""
+    id=""5e2e48a0-fb07-45b8-8e26-b87a888bf17e""
+    data-bokeh-model-id=""1f0233cd-179a-410d-a5aa-b240d93ca5b1""
+    data-bokeh-doc-id=""d0ad3833-7baf-4feb-830e-53dbd4d39320""
+></script>",TAG,
+12.85,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.75,,,,PERCENT_DELAYED,
+13.45,,,,POS_ARR_DELAY,
+20.17,30.85,US Airways ,,US,30.81
+14.62,22.26,American Airlines ,,AA,14.0
+9.4,14.72,Delta Air Lines ,,DL,55.19
+0.0,,,,,
+0.0,,,,,

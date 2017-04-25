@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,2446,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_JFK.js""
+    id=""0d7c5b40-4c02-4f55-9527-a83059a89abd""
+    data-bokeh-model-id=""1e6bdbe1-1bc6-4aee-84f7-591a5e39825d""
+    data-bokeh-doc-id=""938228c4-601a-4fd5-b98d-671ac104ac21""
+></script>",TAG,
+12.21,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+15.67,,,,PERCENT_DELAYED,
+12.93,,,,POS_ARR_DELAY,
+12.88,16.93,JetBlue Airways,,B6,43.54
+15.12,15.42,Delta Air Lines ,,DL,35.13
+9.44,13.5,American Airlines ,,AA,21.33
+0.0,,,,,
+0.0,,,,,

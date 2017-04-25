@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,New Orleans,ORIGIN_CITY,,
+,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,,
+,,Chicago,DEST-CITY,,
+,,Chicago Ohare Intl,DEST_NAME,,
+,,1350,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MSY_ORD.js""
+    id=""4e683017-f5dd-410f-a88a-cba7a15c0cd6""
+    data-bokeh-model-id=""87d804fc-8e88-4e1c-9a0e-a4d9a7936195""
+    data-bokeh-doc-id=""fe98504b-bf1c-4afb-bcf0-936f5280cc49""
+></script>",TAG,,
+15.04,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+22.59,,,PERCENT_DELAYED,,
+16.43,,,POS_ARR_DELAY,,
+30.36,43.08,,NK,17.6,Spirit Air Lines
+17.41,20.2,,OO,12.06,SkyWest Airlines 
+13.17,18.18,,UA,56.77,United Air Lines 
+12.63,17.05,,EV,10.41,ExpressJet Airlines 
+5.03,14.86,,AA,2.23,American Airlines 

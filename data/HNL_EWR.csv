@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,7976,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_EWR.js""
+    id=""c502cd4a-928b-4892-ab21-df92720fb4dd""
+    data-bokeh-model-id=""19149e2b-4672-4df9-9082-d38f798654c7""
+    data-bokeh-doc-id=""f6597197-2412-4b2c-baf9-c49b021cc931""
+></script>",TAG,
+13.53,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+11.13,,,,PERCENT_DELAYED,
+9.62,,,,POS_ARR_DELAY,
+9.62,11.13,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

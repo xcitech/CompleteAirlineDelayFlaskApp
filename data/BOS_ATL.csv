@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Boston,ORIGIN_CITY,,
+,,General Edward Lawrence Logan Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,1522,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/BOS_ATL.js""
+    id=""3a1410d3-2236-4284-9ad6-eb3a55d22c65""
+    data-bokeh-model-id=""17f4fa03-ba1b-45f4-9e29-29d46ace3ab7""
+    data-bokeh-doc-id=""1339cea0-ff81-4492-9388-4d731accf394""
+></script>",TAG,,
+11.62,,,DEP_DELAY,,
+14.0,,,AVG_FLIGHTS,,
+15.59,,,PERCENT_DELAYED,,
+11.54,,,POS_ARR_DELAY,,
+57.67,66.67,,EV,0.04,ExpressJet Airlines 
+19.77,30.95,,NK,2.22,Spirit Air Lines
+13.33,21.83,,WN,13.25,Southwest Airlines 
+9.3,15.25,,FL,10.53,AirTran Airways Corporation
+11.27,14.03,,DL,73.96,Delta Air Lines 

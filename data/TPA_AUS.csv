@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,1491,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_AUS.js""
+    id=""151acfca-37ac-469c-8dec-4a6f7c82ab6f""
+    data-bokeh-model-id=""9f05d281-aeb6-4062-8eed-83ab22534a76""
+    data-bokeh-doc-id=""a5bdfd08-3dbf-44d1-a011-6f76dc345765""
+></script>",TAG,
+8.22,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+13.3,,,,PERCENT_DELAYED,
+7.42,,,,POS_ARR_DELAY,
+7.42,13.3,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

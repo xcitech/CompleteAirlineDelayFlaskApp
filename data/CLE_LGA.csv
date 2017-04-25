@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Cleveland,ORIGIN_CITY,,
+,,Cleveland Hopkins Intl,ORIGIN_NAME,,
+,,New York,DEST-CITY,,
+,,La Guardia,DEST_NAME,,
+,,672,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/CLE_LGA.js""
+    id=""4dbd9f37-3312-4a2c-b303-f11798b74ade""
+    data-bokeh-model-id=""e531297e-fae6-47a6-9af0-f8aab357f9a7""
+    data-bokeh-doc-id=""217fa480-8b11-4330-a0d6-1de19da11c68""
+></script>",TAG,,
+18.7,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+25.07,,,PERCENT_DELAYED,,
+19.42,,,POS_ARR_DELAY,,
+24.16,28.12,,MQ,10.56,Envoy Air
+19.16,25.08,,EV,86.85,ExpressJet Airlines 
+6.96,14.81,,OO,0.36,SkyWest Airlines 
+8.59,11.71,,UA,1.48,United Air Lines 
+5.58,8.33,,F9,0.64,Frontier Airlines 

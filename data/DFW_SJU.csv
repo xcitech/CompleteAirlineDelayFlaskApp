@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,San Juan,DEST-CITY,
+,,,Luis Munoz Marin Intl,DEST_NAME,
+,,,3483,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_SJU.js""
+    id=""8331175d-67f3-45c5-beda-abb27824446f""
+    data-bokeh-model-id=""5613193b-f23e-4e3c-b60f-2121ba2433f8""
+    data-bokeh-doc-id=""8fdd9f8d-4287-4bc4-8639-cc461360c62c""
+></script>",TAG,
+16.92,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+26.44,,,,PERCENT_DELAYED,
+16.96,,,,POS_ARR_DELAY,
+16.96,26.44,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

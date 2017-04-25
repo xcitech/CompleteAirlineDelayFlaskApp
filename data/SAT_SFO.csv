@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,2382,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_SFO.js""
+    id=""8dce42c0-d9e8-432e-973a-043a3290603b""
+    data-bokeh-model-id=""ea8686a2-009a-4a33-9772-de4973c5ae2c""
+    data-bokeh-doc-id=""d74a72e7-3046-4a7f-b43e-bb7ce437e55b""
+></script>",TAG,
+14.43,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+22.39,,,,PERCENT_DELAYED,
+14.72,,,,POS_ARR_DELAY,
+16.31,24.68,SkyWest Airlines ,,OO,89.16
+1.59,3.53,United Air Lines ,,UA,10.84
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

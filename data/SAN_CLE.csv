@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,3256,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_CLE.js""
+    id=""1652f8c8-e0ae-48f8-96bb-b29419792e85""
+    data-bokeh-model-id=""487010bb-516f-4e0c-8dac-721a1f815dea""
+    data-bokeh-doc-id=""03ff4970-0051-4734-bf0b-b47f4bf8a4de""
+></script>",TAG,
+4.71,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+5.88,,,,PERCENT_DELAYED,
+2.29,,,,POS_ARR_DELAY,
+2.29,5.88,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

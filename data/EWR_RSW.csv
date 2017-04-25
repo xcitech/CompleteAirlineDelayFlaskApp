@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1722,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_RSW.js""
+    id=""e0e5aa80-5d8c-46ab-948d-7cb7f871f187""
+    data-bokeh-model-id=""5a2ef009-d386-42ea-8564-c683496e41ab""
+    data-bokeh-doc-id=""3065481a-3c33-4a6b-a24b-00858ab0624d""
+></script>",TAG,
+13.27,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+18.57,,,,PERCENT_DELAYED,
+11.77,,,,POS_ARR_DELAY,
+11.94,19.24,United Air Lines ,,UA,73.23
+11.32,16.75,JetBlue Airways,,B6,26.77
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

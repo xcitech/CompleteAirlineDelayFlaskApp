@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,2994,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_SLC.js""
+    id=""ced4c5ec-e8f8-4b45-a0e7-433842b2748e""
+    data-bokeh-model-id=""79172f58-1ebb-4395-b430-8a4045ea3a14""
+    data-bokeh-doc-id=""8106a88d-205b-4900-a3af-4cf2eae499f4""
+></script>",TAG,
+12.15,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+17.66,,,,PERCENT_DELAYED,
+11.49,,,,POS_ARR_DELAY,
+12.91,25.74,Southwest Airlines ,,WN,39.39
+10.57,12.4,Delta Air Lines ,,DL,60.61
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

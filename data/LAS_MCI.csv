@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,1830,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_MCI.js""
+    id=""7a353313-16d7-489e-9f3c-54eb365f1e7c""
+    data-bokeh-model-id=""0b6d8665-1392-44e6-98ff-7917fce6fc62""
+    data-bokeh-doc-id=""fa3538c2-91f1-4ff3-b501-e98498d7c708""
+></script>",TAG,
+14.38,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.58,,,,PERCENT_DELAYED,
+12.1,,,,POS_ARR_DELAY,
+11.93,20.88,Southwest Airlines ,,WN,87.3
+13.23,18.53,Spirit Air Lines,,NK,12.7
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

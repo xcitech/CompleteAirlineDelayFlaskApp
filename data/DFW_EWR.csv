@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,2205,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_EWR.js""
+    id=""0d103ced-6507-4fbc-88cb-cc9608bd3a1b""
+    data-bokeh-model-id=""26dae1b5-2af5-44fa-a01c-18b7ecf8cef7""
+    data-bokeh-doc-id=""557ebbe7-f7f3-46ba-957b-e495b1f00267""
+></script>",TAG,
+18.42,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+28.62,,,,PERCENT_DELAYED,
+18.56,,,,POS_ARR_DELAY,
+107.0,100.0,ExpressJet Airlines ,,EV,0.01
+18.46,29.73,American Airlines ,,AA,77.15
+18.84,24.8,United Air Lines ,,UA,22.83
+0.0,,,,,
+0.0,,,,,

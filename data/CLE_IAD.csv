@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,463,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_IAD.js""
+    id=""b1e0ca5e-2e31-4ced-b3c9-d9a19a125558""
+    data-bokeh-model-id=""4b4e7437-7f67-429f-8d8a-1c45c5884369""
+    data-bokeh-doc-id=""c705c002-fc63-45c3-a82c-feb8b93dd2af""
+></script>",TAG,
+10.05,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.52,,,,PERCENT_DELAYED,
+11.05,,,,POS_ARR_DELAY,
+26.78,28.26,Frontier Airlines ,,F9,4.47
+7.19,18.75,SkyWest Airlines ,,OO,3.11
+10.43,15.89,ExpressJet Airlines ,,EV,92.32
+0.0,0.0,United Air Lines ,,UA,0.1
+0.0,,,,,

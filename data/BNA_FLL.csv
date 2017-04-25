@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1278,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_FLL.js""
+    id=""16f4068c-23fa-4f9b-adbd-73bfa86514ee""
+    data-bokeh-model-id=""b74de893-a6a5-4d8e-b925-01ca4ece04ad""
+    data-bokeh-doc-id=""95b3e583-2cf6-448e-98f4-1b7bd5d7f5d9""
+></script>",TAG,
+15.81,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+25.17,,,,PERCENT_DELAYED,
+14.91,,,,POS_ARR_DELAY,
+31.05,43.22,JetBlue Airways,,B6,4.36
+14.18,24.34,Southwest Airlines ,,WN,95.64
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

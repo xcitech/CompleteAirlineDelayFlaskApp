@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Philadelphia,DEST-CITY,
+,,,Philadelphia Intl,DEST_NAME,
+,,,3495,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_PHL.js""
+    id=""e1227ab1-546c-4f25-b13f-1df6efe80253""
+    data-bokeh-model-id=""92ecc6e3-fcda-4554-9e53-24c3e04db161""
+    data-bokeh-doc-id=""b0b07173-4550-4150-890f-bf168e4e434c""
+></script>",TAG,
+10.7,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+18.27,,,,PERCENT_DELAYED,
+10.97,,,,POS_ARR_DELAY,
+22.58,29.16,Spirit Air Lines,,NK,8.98
+16.27,27.74,Southwest Airlines ,,WN,16.33
+9.45,15.71,American Airlines ,,AA,27.95
+7.8,14.41,US Airways ,,US,46.73
+0.0,,,,,

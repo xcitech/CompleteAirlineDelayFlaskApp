@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Charlotte,DEST-CITY,,
+,,Charlotte Douglas Intl,DEST_NAME,,
+,,2149,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_CLT.js""
+    id=""3fabcea3-7d58-4401-9473-9d90b3bf3145""
+    data-bokeh-model-id=""abd22e22-c779-467f-8316-7fefc8029108""
+    data-bokeh-doc-id=""e67dfbf8-5117-43ff-8daf-87f0de59f206""
+></script>",TAG,,
+8.59,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+16.99,,,PERCENT_DELAYED,,
+9.82,,,POS_ARR_DELAY,,
+18.99,28.21,,OO,7.78,SkyWest Airlines 
+14.99,25.15,,F9,2.62,Frontier Airlines 
+8.94,17.13,,US,52.57,US Airways 
+8.92,14.23,,AA,34.29,American Airlines 
+7.03,8.99,,UA,2.73,United Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,1878,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_EWR.js""
+    id=""af75ca24-f63a-43f4-899c-7d07a56971ef""
+    data-bokeh-model-id=""fe291541-1575-4c65-9c3a-cf876c020da6""
+    data-bokeh-doc-id=""386c051f-02c2-4f25-af92-5f253cc4d837""
+></script>",TAG,
+17.28,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+21.57,,,,PERCENT_DELAYED,
+16.44,,,,POS_ARR_DELAY,
+14.75,24.21,Southwest Airlines ,,WN,22.49
+17.07,21.31,United Air Lines ,,UA,49.7
+16.67,19.89,ExpressJet Airlines ,,EV,27.81
+0.0,,,,,
+0.0,,,,,

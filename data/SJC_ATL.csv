@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Jose,ORIGIN_CITY,
+,,,Norman Y Mineta San Jose Intl,ORIGIN_NAME,
+,,,Atlanta,DEST-CITY,
+,,,Hartsfield Jackson Atlanta Intl,DEST_NAME,
+,,,3399,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJC_ATL.js""
+    id=""dea0e2e4-219e-4688-9f00-405f299b3e76""
+    data-bokeh-model-id=""8a7107d2-0a9c-40d2-b5e2-f57660cb11d5""
+    data-bokeh-doc-id=""64fb613f-6bef-41d3-a1b4-a94dcfaed935""
+></script>",TAG,
+12.24,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+15.02,,,,PERCENT_DELAYED,
+10.9,,,,POS_ARR_DELAY,
+10.9,15.02,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

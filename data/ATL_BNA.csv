@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,345,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_BNA.js""
+    id=""65667eb6-28fa-4cd1-84c2-e41af0862186""
+    data-bokeh-model-id=""fb7f9351-04b6-4679-be30-319e9af3c2d3""
+    data-bokeh-doc-id=""086b7f04-1c1d-495b-a891-5163ecdbfa84""
+></script>",TAG,
+8.97,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+13.81,,,,PERCENT_DELAYED,
+8.47,,,,POS_ARR_DELAY,
+73.5,75.0,SkyWest Airlines ,,OO,0.04
+10.0,50.0,Endeavor Air ,,9E,0.02
+21.11,31.86,ExpressJet Airlines ,,EV,1.93
+8.19,13.43,Delta Air Lines ,,DL,98.02
+0.0,,,,,

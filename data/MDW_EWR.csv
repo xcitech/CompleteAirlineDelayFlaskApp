@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,1141,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_EWR.js""
+    id=""8a0a1ada-a416-42ff-b829-4cb9d9905044""
+    data-bokeh-model-id=""37abbbb9-7849-47b0-b61e-b1b92cc65a69""
+    data-bokeh-doc-id=""f84b14fc-9407-4e86-a4e9-b8d073b86105""
+></script>",TAG,
+21.14,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+29.9,,,,PERCENT_DELAYED,
+20.02,,,,POS_ARR_DELAY,
+20.02,29.9,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

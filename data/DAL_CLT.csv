@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,1488,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_CLT.js""
+    id=""3d7a0059-6438-4eda-bbe2-c0f51fe189e1""
+    data-bokeh-model-id=""1eb4c721-1b01-420c-ba66-3474298c5c8b""
+    data-bokeh-doc-id=""c1d2b19e-b1b8-4d6d-9e7d-95d7d3e35bc6""
+></script>",TAG,
+13.9,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+26.68,,,,PERCENT_DELAYED,
+14.64,,,,POS_ARR_DELAY,
+14.64,26.68,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

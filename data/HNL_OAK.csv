@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,3874,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_OAK.js""
+    id=""68751d0e-f628-4958-ae27-6db34b8564a1""
+    data-bokeh-model-id=""5be67807-9af9-41a9-98f8-fc5711c9146b""
+    data-bokeh-doc-id=""5b7181f6-80b0-4b9f-8f7f-b8fc5e94c44f""
+></script>",TAG,
+9.32,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+12.92,,,,PERCENT_DELAYED,
+8.29,,,,POS_ARR_DELAY,
+7.57,13.58,Hawaiian Airlines ,,HA,61.99
+9.48,11.85,Alaska Airlines ,,AS,38.01
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

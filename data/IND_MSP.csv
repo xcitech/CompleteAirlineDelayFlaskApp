@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,809,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_MSP.js""
+    id=""7f209e93-ad11-468d-ab45-37f680059761""
+    data-bokeh-model-id=""39b96b05-e138-4296-a983-77c765f98f7f""
+    data-bokeh-doc-id=""7073e7a4-46b7-4042-bf5d-d22acd62abc3""
+></script>",TAG,
+9.76,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+14.56,,,,PERCENT_DELAYED,
+9.94,,,,POS_ARR_DELAY,
+13.34,19.81,Endeavor Air ,,9E,10.09
+8.16,15.94,SkyWest Airlines ,,OO,4.38
+9.71,13.89,Delta Air Lines ,,DL,79.03
+8.66,13.66,ExpressJet Airlines ,,EV,6.5
+0.0,,,,,

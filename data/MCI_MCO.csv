@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Kansas City,ORIGIN_CITY,,
+,,Kansas City Intl,ORIGIN_NAME,,
+,,Orlando,DEST-CITY,,
+,,Orlando Intl,DEST_NAME,,
+,,1727,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MCI_MCO.js""
+    id=""9ac2ab65-37f1-4dbb-9720-2b65005db061""
+    data-bokeh-model-id=""df5ab9d4-2180-4285-b219-3417e68df866""
+    data-bokeh-doc-id=""4d8cbb7b-ea2d-4063-acfc-5d2fead8161e""
+></script>",TAG,,
+13.64,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+20.07,,,PERCENT_DELAYED,,
+13.02,,,POS_ARR_DELAY,,
+23.4,40.0,,DL,0.17,Delta Air Lines 
+12.94,20.17,,WN,93.9,Southwest Airlines 
+9.8,20.0,,EV,0.17,ExpressJet Airlines 
+13.04,18.87,,F9,5.27,Frontier Airlines 
+26.13,6.67,,FL,0.5,AirTran Airways Corporation

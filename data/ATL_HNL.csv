@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Honolulu,DEST-CITY,
+,,,Honolulu Intl,DEST_NAME,
+,,,7236,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_HNL.js""
+    id=""c1e7a462-ec82-42c4-8ac7-ae6a3d455493""
+    data-bokeh-model-id=""6ab7a532-e195-46b9-a366-a107c36920da""
+    data-bokeh-doc-id=""28667e97-3501-46de-9726-883ca232d103""
+></script>",TAG,
+8.13,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.04,,,,PERCENT_DELAYED,
+9.15,,,,POS_ARR_DELAY,
+9.15,16.04,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Dallas-Fort Worth,DEST-CITY,,
+,,Dallas Fort Worth Intl,DEST_NAME,,
+,,1032,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_DFW.js""
+    id=""37150904-0c2f-4fb9-9b4a-6d1dffb99450""
+    data-bokeh-model-id=""dd76699d-0f7e-415e-8ddd-f5095759fb4c""
+    data-bokeh-doc-id=""6c8ec67e-4d2e-46b2-a7a9-6651df654ced""
+></script>",TAG,,
+15.1,,,DEP_DELAY,,
+18.0,,,AVG_FLIGHTS,,
+23.64,,,PERCENT_DELAYED,,
+16.47,,,POS_ARR_DELAY,,
+23.06,32.19,,NK,4.49,Spirit Air Lines
+17.39,28.3,,OO,7.83,SkyWest Airlines 
+15.53,24.91,,F9,19.31,Frontier Airlines 
+17.19,22.52,,AA,53.34,American Airlines 
+12.09,20.57,,UA,12.87,United Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,2255,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_SLC.js""
+    id=""6d91e6c2-ec31-46c6-9fe4-f405582c8d1c""
+    data-bokeh-model-id=""62741d19-d66a-432a-86c4-0300db831391""
+    data-bokeh-doc-id=""065fabce-c0b9-4758-a7e2-0bf46c8e810d""
+></script>",TAG,
+12.31,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+11.87,,,,PERCENT_DELAYED,
+12.87,,,,POS_ARR_DELAY,
+13.01,12.01,SkyWest Airlines ,,OO,98.82
+0.62,0.0,Delta Air Lines ,,DL,1.18
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

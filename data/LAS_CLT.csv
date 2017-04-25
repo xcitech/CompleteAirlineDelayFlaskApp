@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,3077,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_CLT.js""
+    id=""297b0b47-705c-4926-a870-5958bcc9d0a1""
+    data-bokeh-model-id=""d8f599ce-dd0f-41e3-a94e-f7027b37cd1f""
+    data-bokeh-doc-id=""696eb3aa-4bb2-440b-b12f-3f1b6201736a""
+></script>",TAG,
+5.74,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+12.64,,,,PERCENT_DELAYED,
+7.11,,,,POS_ARR_DELAY,
+9.47,14.66,American Airlines ,,AA,39.48
+5.56,11.33,US Airways ,,US,60.52
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Dallas-Fort Worth,ORIGIN_CITY,,
+,,Dallas Fort Worth Intl,ORIGIN_NAME,,
+,,Houston,DEST-CITY,,
+,,George Bush Intercontinental,DEST_NAME,,
+,,362,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DFW_IAH.js""
+    id=""71dc13b3-0b45-4b7a-834b-64cd13fd1127""
+    data-bokeh-model-id=""9c754043-4dc2-4d01-bacf-21b275df3c6a""
+    data-bokeh-doc-id=""8369733c-c19a-45a2-9c40-64fd9e68411c""
+></script>",TAG,,
+14.05,,,DEP_DELAY,,
+12.0,,,AVG_FLIGHTS,,
+22.29,,,PERCENT_DELAYED,,
+15.55,,,POS_ARR_DELAY,,
+22.36,28.0,,MQ,0.19,Envoy Air
+16.15,25.0,,AA,56.49,American Airlines 
+15.45,21.49,,EV,15.76,ExpressJet Airlines 
+16.2,21.02,,OO,12.92,SkyWest Airlines 
+12.67,13.76,,UA,14.64,United Air Lines 

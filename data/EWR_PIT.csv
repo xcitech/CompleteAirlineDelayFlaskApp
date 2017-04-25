@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,513,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_PIT.js""
+    id=""756bc70e-cd77-4852-ae01-c3fc097a6e5c""
+    data-bokeh-model-id=""af96a7b6-8637-48ba-beb5-725d6c52ba58""
+    data-bokeh-doc-id=""632474e5-0c9f-41f1-a251-c27f1c818cf1""
+></script>",TAG,
+10.18,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.16,,,,PERCENT_DELAYED,
+11.49,,,,POS_ARR_DELAY,
+11.49,18.16,ExpressJet Airlines ,,EV,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

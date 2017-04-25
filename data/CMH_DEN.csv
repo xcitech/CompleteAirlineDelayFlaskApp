@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Columbus,ORIGIN_CITY,,
+,,Port Columbus Intl,ORIGIN_NAME,,
+,,Denver,DEST-CITY,,
+,,Denver Intl,DEST_NAME,,
+,,1853,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/CMH_DEN.js""
+    id=""76c5f6da-2052-4bc9-a641-7f92b553bd10""
+    data-bokeh-model-id=""442c2217-12b0-4602-aae8-966308525c50""
+    data-bokeh-doc-id=""94e546fa-033d-4b0c-a19a-3f51f8f6b470""
+></script>",TAG,,
+13.96,,,DEP_DELAY,,
+2.0,,,AVG_FLIGHTS,,
+20.58,,,PERCENT_DELAYED,,
+13.87,,,POS_ARR_DELAY,,
+19.69,29.49,,OO,17.83,SkyWest Airlines 
+18.46,28.29,,EV,8.42,ExpressJet Airlines 
+11.75,19.1,,WN,52.71,Southwest Airlines 
+11.17,13.81,,UA,17.26,United Air Lines 
+18.05,13.04,,F9,3.78,Frontier Airlines 

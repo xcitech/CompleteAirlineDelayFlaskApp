@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,968,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_RSW.js""
+    id=""07810dc0-0910-4bbe-8c4a-31d2a05fce01""
+    data-bokeh-model-id=""d873ee62-2ff7-4f58-9e37-ad298229c095""
+    data-bokeh-doc-id=""aac84fdb-6dbb-4219-86a0-d9c5009f7341""
+></script>",TAG,
+8.4,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+18.96,,,,PERCENT_DELAYED,
+9.58,,,,POS_ARR_DELAY,
+9.68,19.91,US Airways ,,US,63.37
+9.42,17.3,American Airlines ,,AA,36.63
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

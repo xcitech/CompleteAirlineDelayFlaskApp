@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Philadelphia,DEST-CITY,,
+,,Philadelphia Intl,DEST_NAME,,
+,,1089,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_PHL.js""
+    id=""7875425c-b8a3-4c6c-9f72-39648caa0f51""
+    data-bokeh-model-id=""1f0e5991-d841-4d78-869c-2715813596e7""
+    data-bokeh-doc-id=""e38c4f82-bff7-4233-9373-201affd3a761""
+></script>",TAG,,
+16.4,,,DEP_DELAY,,
+13.0,,,AVG_FLIGHTS,,
+24.05,,,PERCENT_DELAYED,,
+16.53,,,POS_ARR_DELAY,,
+25.55,35.97,,NK,2.59,Spirit Air Lines
+17.02,32.47,,MQ,3.28,Envoy Air
+20.39,28.09,,UA,29.82,United Air Lines 
+13.13,20.42,,US,29.58,US Airways 
+12.89,19.9,,AA,29.89,American Airlines 

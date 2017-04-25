@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,1009,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_SAN.js""
+    id=""6488e497-c58e-4025-8338-a5c87bc4ced2""
+    data-bokeh-model-id=""a765f40d-5c5e-404c-a390-40e80d8c0b0a""
+    data-bokeh-doc-id=""b4fbf3b1-5566-4db6-bbec-a4357e8f4441""
+></script>",TAG,
+5.89,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+10.36,,,,PERCENT_DELAYED,
+6.11,,,,POS_ARR_DELAY,
+10.3,13.49,SkyWest Airlines ,,OO,13.94
+5.63,10.29,Delta Air Lines ,,DL,74.52
+4.12,7.0,Alaska Airlines ,,AS,11.55
+0.0,,,,,
+0.0,,,,,

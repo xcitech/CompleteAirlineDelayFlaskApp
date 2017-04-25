@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,3942,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_EWR.js""
+    id=""cc9c32ee-997b-4868-9b43-cf52333b2eb5""
+    data-bokeh-model-id=""46d93f04-c4d1-4752-b52d-125f5349310d""
+    data-bokeh-doc-id=""8fb5c79a-4f1e-408d-adf0-c33eaf45fc1b""
+></script>",TAG,
+15.9,,,,DEP_DELAY,
+14.0,,,,AVG_FLIGHTS,
+19.12,,,,PERCENT_DELAYED,
+13.63,,,,POS_ARR_DELAY,
+13.66,19.35,United Air Lines ,,UA,79.01
+13.73,18.4,Virgin America,,VX,19.79
+9.65,15.85,American Airlines ,,AA,1.2
+0.0,,,,,
+0.0,,,,,

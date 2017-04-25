@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Denver,ORIGIN_CITY,
+,,,Denver Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,1438,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DEN_MDW.js""
+    id=""58a84a73-21e9-40e1-af34-37a61c5fb45e""
+    data-bokeh-model-id=""c0706bb7-4f91-4de6-8d91-a7c7c5820df1""
+    data-bokeh-doc-id=""6af6d03f-c420-45cb-be71-a21b09f0fe11""
+></script>",TAG,
+14.25,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+22.32,,,,PERCENT_DELAYED,
+13.2,,,,POS_ARR_DELAY,
+16.25,25.45,Frontier Airlines ,,F9,12.36
+12.77,21.88,Southwest Airlines ,,WN,87.64
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

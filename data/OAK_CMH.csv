@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,3388,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_CMH.js""
+    id=""11dc93e6-8da7-4fd0-b271-c196fce2cc42""
+    data-bokeh-model-id=""2f04a196-7021-4355-9750-517898ff2e7d""
+    data-bokeh-doc-id=""4fe7df7a-ba7c-4567-a8f1-9939f71be635""
+></script>",TAG,
+17.67,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+22.42,,,,PERCENT_DELAYED,
+14.61,,,,POS_ARR_DELAY,
+14.61,22.42,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,3856,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_EWR.js""
+    id=""9d5b76b3-4037-4aa3-a14c-abe381d223ea""
+    data-bokeh-model-id=""659e1aba-79f1-4a05-af2c-acd730942740""
+    data-bokeh-doc-id=""11bc3755-d1e4-4631-9ec6-df019d69d3dd""
+></script>",TAG,
+12.51,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+17.62,,,,PERCENT_DELAYED,
+11.13,,,,POS_ARR_DELAY,
+11.84,19.39,Alaska Airlines ,,AS,42.51
+10.61,16.31,United Air Lines ,,UA,57.45
+0.0,0.0,US Airways ,,US,0.04
+0.0,,,,,
+0.0,,,,,

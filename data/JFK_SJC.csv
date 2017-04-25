@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,San Jose,DEST-CITY,
+,,,Norman Y Mineta San Jose Intl,DEST_NAME,
+,,,4126,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_SJC.js""
+    id=""18844fde-1b1d-4fb4-b980-8fd96c6e245f""
+    data-bokeh-model-id=""b113e4f1-334d-4879-844f-a3acd2a28b92""
+    data-bokeh-doc-id=""4d7ed190-916e-48e9-9745-792eacd22a65""
+></script>",TAG,
+15.2,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+27.53,,,,PERCENT_DELAYED,
+15.85,,,,POS_ARR_DELAY,
+15.85,27.56,JetBlue Airways,,B6,99.89
+11.0,0.0,Virgin America,,VX,0.11
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

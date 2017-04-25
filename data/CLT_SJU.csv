@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,San Juan,DEST-CITY,
+,,,Luis Munoz Marin Intl,DEST_NAME,
+,,,2377,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_SJU.js""
+    id=""68020af6-558e-4cad-99f5-2052d4edebb6""
+    data-bokeh-model-id=""a0e31ed9-c246-4e70-89e9-47129e0e2bc1""
+    data-bokeh-doc-id=""a726dec6-67b5-4a77-8a55-61e5c9f3cf95""
+></script>",TAG,
+11.28,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+23.46,,,,PERCENT_DELAYED,
+13.1,,,,POS_ARR_DELAY,
+14.9,26.91,US Airways ,,US,58.6
+10.54,18.57,American Airlines ,,AA,41.4
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

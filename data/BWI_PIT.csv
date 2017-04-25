@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,338,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_PIT.js""
+    id=""696c0cc8-ea98-4407-803a-c2ae2b2278be""
+    data-bokeh-model-id=""1ecefded-3c04-4afa-a17f-a395746ef481""
+    data-bokeh-doc-id=""4b0aba79-771c-4453-8edc-057b87c1fad7""
+></script>",TAG,
+14.6,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+25.26,,,,PERCENT_DELAYED,
+13.78,,,,POS_ARR_DELAY,
+13.78,25.26,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

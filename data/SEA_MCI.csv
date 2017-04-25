@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,2392,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_MCI.js""
+    id=""3541b79a-d735-4f5a-9d28-0cf47204593a""
+    data-bokeh-model-id=""c143eac8-3d19-4b70-aa7a-7a902ce80d2c""
+    data-bokeh-doc-id=""979bb83f-e78d-4f4a-9d41-b4dfa1f54ba3""
+></script>",TAG,
+7.53,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.22,,,,PERCENT_DELAYED,
+7.96,,,,POS_ARR_DELAY,
+14.49,24.26,Southwest Airlines ,,WN,23.56
+5.95,12.43,Alaska Airlines ,,AS,76.44
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

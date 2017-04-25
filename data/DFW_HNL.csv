@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Honolulu,DEST-CITY,
+,,,Honolulu Intl,DEST_NAME,
+,,,6083,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_HNL.js""
+    id=""9c16872e-fd4f-49fa-aa0d-8dbf3f1a07e5""
+    data-bokeh-model-id=""e5c043b6-7cb3-4b3c-9014-397ed676a72b""
+    data-bokeh-doc-id=""535a35d4-af3a-453c-8db9-cc64c842e55c""
+></script>",TAG,
+28.97,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+36.75,,,,PERCENT_DELAYED,
+29.73,,,,POS_ARR_DELAY,
+29.73,36.75,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

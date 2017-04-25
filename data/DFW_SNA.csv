@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Santa Ana,DEST-CITY,
+,,,John Wayne Arpt Orange Co,DEST_NAME,
+,,,1935,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_SNA.js""
+    id=""a7bab96b-9a7b-453a-8e33-91bd45a55c30""
+    data-bokeh-model-id=""8f43659a-b850-4562-83f0-329d9b56fcd9""
+    data-bokeh-doc-id=""010e8581-5698-42f9-b4bd-f15362ef7d1c""
+></script>",TAG,
+10.44,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+17.82,,,,PERCENT_DELAYED,
+10.19,,,,POS_ARR_DELAY,
+10.19,17.82,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

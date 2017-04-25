@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,1583,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_MCO.js""
+    id=""a4b535f8-d588-43c8-8920-8e1a9d7619e1""
+    data-bokeh-model-id=""6681e000-3c74-4827-a0f6-f84abde7861d""
+    data-bokeh-doc-id=""f49c7852-5b5c-4307-872b-b2a3b621e7e5""
+></script>",TAG,
+13.3,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+23.12,,,,PERCENT_DELAYED,
+14.42,,,,POS_ARR_DELAY,
+46.21,48.48,Frontier Airlines ,,F9,0.29
+15.88,23.34,Spirit Air Lines,,NK,7.66
+14.2,23.03,American Airlines ,,AA,92.05
+0.0,,,,,
+0.0,,,,,

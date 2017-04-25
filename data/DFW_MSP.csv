@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Dallas-Fort Worth,ORIGIN_CITY,,
+,,Dallas Fort Worth Intl,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,1373,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DFW_MSP.js""
+    id=""529df7dc-c88d-4038-803e-b92b86c79121""
+    data-bokeh-model-id=""add74ee0-038d-4777-ac40-b09fd020cf22""
+    data-bokeh-doc-id=""a02a35e3-e9a1-45fe-bca3-307b820289c9""
+></script>",TAG,,
+14.6,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+21.96,,,PERCENT_DELAYED,,
+14.18,,,POS_ARR_DELAY,,
+19.86,28.45,,NK,7.24,Spirit Air Lines
+13.4,22.87,,AA,74.06,American Airlines 
+19.04,19.7,,EV,2.39,ExpressJet Airlines 
+19.68,19.29,,OO,7.43,SkyWest Airlines 
+10.26,10.95,,DL,7.27,Delta Air Lines 

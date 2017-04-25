@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,886,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_MCO.js""
+    id=""685eaeb0-57c2-48df-9201-22c1ea5a62ff""
+    data-bokeh-model-id=""c84bda20-cc7a-49eb-92d8-f27e8d129a6b""
+    data-bokeh-doc-id=""230293fb-a483-4aa8-b27f-bae5736c5cac""
+></script>",TAG,
+13.95,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.88,,,,PERCENT_DELAYED,
+12.95,,,,POS_ARR_DELAY,
+14.96,23.46,Frontier Airlines ,,F9,1.98
+13.02,21.07,Southwest Airlines ,,WN,95.51
+8.85,11.88,AirTran Airways Corporation,,FL,2.47
+4.5,0.0,Endeavor Air ,,9E,0.05
+0.0,,,,,

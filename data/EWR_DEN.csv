@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,2577,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_DEN.js""
+    id=""2752f930-dc58-4a90-a2b8-4df626f9ff64""
+    data-bokeh-model-id=""cf8e956f-11ca-44ba-be24-0e2d9b85a7d1""
+    data-bokeh-doc-id=""f44f6188-fdec-441e-89d4-7086aae16e2f""
+></script>",TAG,
+17.65,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+22.84,,,,PERCENT_DELAYED,
+14.92,,,,POS_ARR_DELAY,
+16.25,23.81,Southwest Airlines ,,WN,23.9
+14.5,22.53,United Air Lines ,,UA,76.1
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

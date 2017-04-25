@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,San Jose,ORIGIN_CITY,,
+,,Norman Y Mineta San Jose Intl,ORIGIN_NAME,,
+,,Phoenix,DEST-CITY,,
+,,Phoenix Sky Harbor Intl,DEST_NAME,,
+,,999,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SJC_PHX.js""
+    id=""51dc4294-4040-4c68-850b-78bea952ae8a""
+    data-bokeh-model-id=""718367ae-6319-4ac7-b511-7d7e88c8a74e""
+    data-bokeh-doc-id=""640600db-f693-41b2-bb3b-b8ecc0b22341""
+></script>",TAG,,
+9.78,,,DEP_DELAY,,
+9.0,,,AVG_FLIGHTS,,
+15.23,,,PERCENT_DELAYED,,
+8.88,,,POS_ARR_DELAY,,
+12.03,21.77,,WN,50.43,Southwest Airlines 
+7.58,10.35,,AA,19.64,American Airlines 
+4.42,7.42,,US,29.89,US Airways 
+0.0,0.0,,YV,0.02,Mesa Airlines 
+0.0,0.0,,OO,0.01,SkyWest Airlines 

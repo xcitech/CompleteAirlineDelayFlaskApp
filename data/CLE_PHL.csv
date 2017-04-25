@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Cleveland,ORIGIN_CITY,,
+,,Cleveland Hopkins Intl,ORIGIN_NAME,,
+,,Philadelphia,DEST-CITY,,
+,,Philadelphia Intl,DEST_NAME,,
+,,583,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/CLE_PHL.js""
+    id=""5365cdbf-1235-46b7-b887-adc11c1cc3f0""
+    data-bokeh-model-id=""a7d2e7de-151a-4d21-b62b-0ceef359dba6""
+    data-bokeh-doc-id=""88779286-7de4-4f34-90c7-1135b8bd855c""
+></script>",TAG,,
+16.21,,,DEP_DELAY,,
+0.0,,,AVG_FLIGHTS,,
+36.41,,,PERCENT_DELAYED,,
+21.77,,,POS_ARR_DELAY,,
+26.22,57.58,,YV,24.03,Mesa Airlines 
+13.81,32.32,,US,24.03,US Airways 
+29.81,30.38,,F9,19.17,Frontier Airlines 
+20.46,28.12,,EV,31.07,ExpressJet Airlines 
+6.8,20.0,,AA,1.21,American Airlines 

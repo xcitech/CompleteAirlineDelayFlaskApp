@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,1001,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_BNA.js""
+    id=""7a2faa15-b7a5-441e-8129-f07bcca26ed1""
+    data-bokeh-model-id=""fb77f156-d3cc-40b8-9ff2-aa2f76d0b08e""
+    data-bokeh-doc-id=""293df216-e9ae-4f9e-9f4a-1441bff7a37c""
+></script>",TAG,
+13.39,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+22.23,,,,PERCENT_DELAYED,
+13.0,,,,POS_ARR_DELAY,
+13.0,22.23,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

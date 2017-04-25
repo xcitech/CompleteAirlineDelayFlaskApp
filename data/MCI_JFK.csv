@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,1787,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_JFK.js""
+    id=""fde57f73-d0e1-46bd-a340-f6a9c84671ca""
+    data-bokeh-model-id=""2ec58cb8-83e9-49b6-8cb9-4b13898ae71a""
+    data-bokeh-doc-id=""e99b8aa9-6f0c-40c7-bdb2-ef2b707b535f""
+></script>",TAG,
+4.9,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+12.22,,,,PERCENT_DELAYED,
+6.8,,,,POS_ARR_DELAY,
+6.8,12.22,Endeavor Air ,,9E,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

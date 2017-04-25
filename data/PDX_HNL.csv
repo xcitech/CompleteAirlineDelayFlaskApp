@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,Honolulu,DEST-CITY,
+,,,Honolulu Intl,DEST_NAME,
+,,,4189,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_HNL.js""
+    id=""80140767-f4a5-470d-89bb-a2f315f33890""
+    data-bokeh-model-id=""cc84efdc-d6ab-4799-8f2e-b597801680a4""
+    data-bokeh-doc-id=""96520acf-88c2-4a00-ae6c-6677c797b63e""
+></script>",TAG,
+3.94,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+14.35,,,,PERCENT_DELAYED,
+7.18,,,,POS_ARR_DELAY,
+9.87,17.97,Hawaiian Airlines ,,HA,48.26
+14.83,16.67,Delta Air Lines ,,DL,0.79
+4.52,10.89,Alaska Airlines ,,AS,50.95
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,993,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_MCO.js""
+    id=""0924ac42-2325-4db5-b100-6e3dce003d55""
+    data-bokeh-model-id=""9d5257cf-25e7-40e5-bacf-f721709f5be0""
+    data-bokeh-doc-id=""7d0d9af4-5d0a-4a36-9524-774d0dd7b9fd""
+></script>",TAG,
+14.13,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+22.07,,,,PERCENT_DELAYED,
+13.37,,,,POS_ARR_DELAY,
+13.15,22.1,Southwest Airlines ,,WN,98.42
+30.9,21.67,Frontier Airlines ,,F9,1.34
+7.36,9.09,ExpressJet Airlines ,,EV,0.25
+0.0,,,,,
+0.0,,,,,

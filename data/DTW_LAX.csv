@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,3179,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_LAX.js""
+    id=""ca89bab0-6e43-4931-99b6-265502d283e8""
+    data-bokeh-model-id=""f382b6fa-23a7-48dd-b8bf-93b6cbfb1a4e""
+    data-bokeh-doc-id=""7be4c773-7562-4d10-b3ff-2db54859c765""
+></script>",TAG,
+11.49,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+17.97,,,,PERCENT_DELAYED,
+10.69,,,,POS_ARR_DELAY,
+20.65,34.06,Spirit Air Lines,,NK,9.99
+9.58,16.18,Delta Air Lines ,,DL,90.01
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

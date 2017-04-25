@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,399,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_DAL.js""
+    id=""1484d0fd-43e1-4195-b30c-72ae806cf52f""
+    data-bokeh-model-id=""b0233e13-576f-4d08-8ddc-53a6b0bab9f6""
+    data-bokeh-doc-id=""5ed95c84-8126-4246-9f90-8f8595faadee""
+></script>",TAG,
+10.26,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+18.62,,,,PERCENT_DELAYED,
+10.47,,,,POS_ARR_DELAY,
+10.47,18.62,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

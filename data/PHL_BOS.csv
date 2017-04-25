@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,450,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_BOS.js""
+    id=""ea8c220a-a433-4b59-a725-4f3fd0da9201""
+    data-bokeh-model-id=""b65e93d2-bf4e-455f-b783-a50adc7bba36""
+    data-bokeh-doc-id=""e5a90a58-74d9-4fb6-8b26-0eed13c5b895""
+></script>",TAG,
+11.6,,,,DEP_DELAY,
+16.0,,,,AVG_FLIGHTS,
+20.22,,,,PERCENT_DELAYED,
+12.88,,,,POS_ARR_DELAY,
+12.55,20.86,US Airways ,,US,46.96
+11.66,19.91,American Airlines ,,AA,26.16
+14.66,19.42,JetBlue Airways,,B6,26.87
+0.0,,,,,
+0.0,,,,,

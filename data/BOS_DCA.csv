@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,642,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_DCA.js""
+    id=""191b48d9-87fc-40cc-9491-30f1bdd364b4""
+    data-bokeh-model-id=""86b791a5-cfde-4a0c-a699-4a07497bdb06""
+    data-bokeh-doc-id=""1e35d1c8-8b41-4522-a7c7-e3c9f07145cd""
+></script>",TAG,
+7.37,,,,DEP_DELAY,
+22.0,,,,AVG_FLIGHTS,
+15.7,,,,PERCENT_DELAYED,
+9.64,,,,POS_ARR_DELAY,
+11.44,17.42,JetBlue Airways,,B6,41.28
+8.96,15.0,American Airlines ,,AA,23.3
+7.98,14.15,US Airways ,,US,35.42
+0.0,,,,,
+0.0,,,,,

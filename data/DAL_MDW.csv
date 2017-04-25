@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,1278,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_MDW.js""
+    id=""8093c73a-cbeb-4ff8-b3fa-7a10e88e641b""
+    data-bokeh-model-id=""8874bb31-f049-4424-95aa-c3930c9e0e35""
+    data-bokeh-doc-id=""4860f70e-3367-4812-aa67-9b2935735680""
+></script>",TAG,
+12.99,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+19.06,,,,PERCENT_DELAYED,
+11.11,,,,POS_ARR_DELAY,
+11.11,19.06,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

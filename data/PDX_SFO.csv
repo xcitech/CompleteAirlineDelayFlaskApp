@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,887,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_SFO.js""
+    id=""bb3eea03-4503-41ce-a762-d35f48c2ab0d""
+    data-bokeh-model-id=""fff13b92-e07f-43a0-ab91-9c433f740a46""
+    data-bokeh-doc-id=""9fef88b6-c32a-43d7-a701-b754dd7e567f""
+></script>",TAG,
+13.85,,,,DEP_DELAY,
+14.0,,,,AVG_FLIGHTS,
+20.51,,,,PERCENT_DELAYED,
+13.64,,,,POS_ARR_DELAY,
+17.41,25.73,SkyWest Airlines ,,OO,20.84
+13.67,20.77,Alaska Airlines ,,AS,30.16
+13.0,19.19,United Air Lines ,,UA,36.26
+9.27,15.1,Virgin America,,VX,12.74
+0.0,,,,,

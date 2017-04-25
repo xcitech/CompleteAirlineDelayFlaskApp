@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,2391,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_OAK.js""
+    id=""402f8324-5e66-4f49-aef2-e8101fe74dc9""
+    data-bokeh-model-id=""38e31f91-851b-41b3-ab9c-34a91bcf3d55""
+    data-bokeh-doc-id=""752a7f7f-777f-4a6a-bc7d-30d999cc5b0c""
+></script>",TAG,
+14.63,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+22.34,,,,PERCENT_DELAYED,
+12.11,,,,POS_ARR_DELAY,
+12.11,22.34,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

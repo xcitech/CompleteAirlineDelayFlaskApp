@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Nashville,DEST-CITY,,
+,,Nashville Intl,DEST_NAME,,
+,,735,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_BNA.js""
+    id=""28cde160-499b-47de-b562-e42d518a361e""
+    data-bokeh-model-id=""4fc45269-c4af-4349-a15c-05aa6ed0d208""
+    data-bokeh-doc-id=""7f1fe88e-d88a-4911-b877-67123c478ed1""
+></script>",TAG,,
+10.24,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+15.45,,,PERCENT_DELAYED,,
+10.02,,,POS_ARR_DELAY,,
+15.6,21.58,,EV,5.02,ExpressJet Airlines 
+14.49,18.93,,OO,4.83,SkyWest Airlines 
+8.23,18.44,,9E,2.15,Endeavor Air 
+11.47,18.1,,WN,31.26,Southwest Airlines 
+8.42,13.03,,DL,56.74,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Myers,ORIGIN_CITY,
+,,,Southwest Florida Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,2283,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RSW_MSP.js""
+    id=""37a47352-0ee3-47a7-94d8-0def8c411330""
+    data-bokeh-model-id=""3a2ed6b8-0806-4a17-b7a2-ab26f07a340c""
+    data-bokeh-doc-id=""3c1cb7de-364a-47f2-867c-a3a3d609a084""
+></script>",TAG,
+9.18,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+14.6,,,,PERCENT_DELAYED,
+9.34,,,,POS_ARR_DELAY,
+18.87,36.08,Spirit Air Lines,,NK,9.59
+8.85,15.0,Southwest Airlines ,,WN,0.75
+8.33,12.3,Delta Air Lines ,,DL,89.65
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,3945,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_SFO.js""
+    id=""ba35235a-8836-4327-8fcc-52dbbffa5d31""
+    data-bokeh-model-id=""4e54c68d-ad52-4843-a6b8-af0676610c85""
+    data-bokeh-doc-id=""54b949b7-5c18-4a69-9e0c-9fbed6336291""
+></script>",TAG,
+7.15,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+11.78,,,,PERCENT_DELAYED,
+6.95,,,,POS_ARR_DELAY,
+6.95,11.78,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

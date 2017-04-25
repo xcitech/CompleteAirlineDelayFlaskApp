@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,1629,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_LGA.js""
+    id=""a47f3b0b-04cb-4b6c-8903-4195470b9490""
+    data-bokeh-model-id=""161d8dbc-137d-45da-9283-84bddf59fb12""
+    data-bokeh-doc-id=""ec1bf2e8-fde9-4baf-926a-cd0f6ae0b27d""
+></script>",TAG,
+17.99,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+24.41,,,,PERCENT_DELAYED,
+18.7,,,,POS_ARR_DELAY,
+24.7,33.4,JetBlue Airways,,B6,30.68
+16.05,20.43,Delta Air Lines ,,DL,69.32
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

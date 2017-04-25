@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,1992,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_TPA.js""
+    id=""b16ff58a-7b53-46e6-a466-73be71d0d615""
+    data-bokeh-model-id=""3215ea4f-1380-400c-9261-5c19b93a58dc""
+    data-bokeh-doc-id=""eb10bd83-0e53-4915-b4bf-c1a72519fbfe""
+></script>",TAG,
+13.72,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+19.52,,,,PERCENT_DELAYED,
+12.57,,,,POS_ARR_DELAY,
+15.99,24.02,JetBlue Airways,,B6,64.92
+6.24,11.18,Southwest Airlines ,,WN,35.08
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

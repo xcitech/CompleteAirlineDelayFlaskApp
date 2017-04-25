@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,2935,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_PDX.js""
+    id=""896c60b0-8b65-474a-b834-1111baa4562a""
+    data-bokeh-model-id=""a4ba8659-2fcd-4e3e-9e73-665a1a7cef59""
+    data-bokeh-doc-id=""348972a6-3a16-443c-93f3-f1cd26663f5b""
+></script>",TAG,
+14.32,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+19.53,,,,PERCENT_DELAYED,
+11.57,,,,POS_ARR_DELAY,
+11.57,19.53,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

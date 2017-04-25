@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Ohare Intl,ORIGIN_NAME,
+,,,San Jose,DEST-CITY,
+,,,Norman Y Mineta San Jose Intl,DEST_NAME,
+,,,2938,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ORD_SJC.js""
+    id=""de2b1ce6-859d-4b20-8d03-29c45ab2dc93""
+    data-bokeh-model-id=""488adff7-48a7-4a7f-8ddb-6ce920b5ec47""
+    data-bokeh-doc-id=""54aec9e8-2115-4fbd-81d2-81724f50f612""
+></script>",TAG,
+14.58,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+26.2,,,,PERCENT_DELAYED,
+15.04,,,,POS_ARR_DELAY,
+15.04,26.2,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

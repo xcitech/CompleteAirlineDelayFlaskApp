@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Los Angeles,ORIGIN_CITY,,
+,,Los Angeles Intl,ORIGIN_NAME,,
+,,Honolulu,DEST-CITY,,
+,,Honolulu Intl,DEST_NAME,,
+,,4109,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LAX_HNL.js""
+    id=""c3c71535-e144-46f6-a46a-94a3a108357c""
+    data-bokeh-model-id=""6356717f-9a23-4cdf-8a15-1b25c84babc3""
+    data-bokeh-doc-id=""63bb2033-cd10-4a53-8005-1a4104c3dce6""
+></script>",TAG,,
+14.08,,,DEP_DELAY,,
+15.0,,,AVG_FLIGHTS,,
+22.21,,,PERCENT_DELAYED,,
+14.77,,,POS_ARR_DELAY,,
+10.18,25.21,,VX,0.71,Virgin America
+17.78,24.32,,AA,25.37,American Airlines 
+15.95,24.28,,UA,30.13,United Air Lines 
+13.58,20.34,,DL,24.26,Delta Air Lines 
+10.7,18.5,,HA,19.53,Hawaiian Airlines 

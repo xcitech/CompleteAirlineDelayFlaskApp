@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,1693,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_SEA.js""
+    id=""106a9d47-1ff2-43bd-9ad7-9d584820aeca""
+    data-bokeh-model-id=""52a02281-db78-49fb-9c93-931fa96de5f6""
+    data-bokeh-doc-id=""d93346a0-cf64-40e1-8e72-626b68059040""
+></script>",TAG,
+6.33,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+13.16,,,,PERCENT_DELAYED,
+7.21,,,,POS_ARR_DELAY,
+11.69,21.34,Southwest Airlines ,,WN,21.85
+8.11,12.57,Delta Air Lines ,,DL,3.44
+5.85,10.8,Alaska Airlines ,,AS,74.41
+8.31,10.34,SkyWest Airlines ,,OO,0.29
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,1422,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_DEN.js""
+    id=""ccd12106-9bb3-438c-be55-be23e6514fc3""
+    data-bokeh-model-id=""67928b41-a95b-4200-b31b-35c86f27f483""
+    data-bokeh-doc-id=""3fc18316-15e9-4748-9ca8-c109b1e1630f""
+></script>",TAG,
+12.61,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+19.8,,,,PERCENT_DELAYED,
+11.32,,,,POS_ARR_DELAY,
+11.32,19.8,Southwest Airlines ,,WN,99.98
+13.0,0.0,Frontier Airlines ,,F9,0.02
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Midway Intl,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,560,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MDW_MSP.js""
+    id=""5c8253d2-992f-4dbf-83c7-7368efa77f63""
+    data-bokeh-model-id=""0ce9fd74-64e7-48e6-aee6-f7ced3083184""
+    data-bokeh-doc-id=""89307f4c-5d64-4093-940a-6b3d2e2b1787""
+></script>",TAG,,
+15.35,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+25.5,,,PERCENT_DELAYED,,
+14.84,,,POS_ARR_DELAY,,
+25.19,38.1,,9E,0.68,Endeavor Air 
+14.98,26.97,,WN,77.1,Southwest Airlines 
+17.11,22.34,,EV,10.83,ExpressJet Airlines 
+11.31,18.14,,OO,6.35,SkyWest Airlines 
+10.88,17.27,,DL,5.05,Delta Air Lines 

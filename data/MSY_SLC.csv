@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,2297,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_SLC.js""
+    id=""bebacb87-f77b-4c6e-b19a-ef70b08d2577""
+    data-bokeh-model-id=""8fd75a66-1654-41cb-9682-d5de7be66ab2""
+    data-bokeh-doc-id=""ade043a0-7108-4638-a8ef-7b5e2b6e153e""
+></script>",TAG,
+4.54,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+5.44,,,,PERCENT_DELAYED,
+4.96,,,,POS_ARR_DELAY,
+5.67,9.43,SkyWest Airlines ,,OO,33.4
+4.6,3.44,Delta Air Lines ,,DL,66.6
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

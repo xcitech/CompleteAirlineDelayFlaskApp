@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,3688,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_CLT.js""
+    id=""0bce306f-deef-406b-a386-97d133da4c24""
+    data-bokeh-model-id=""4671a792-8d04-42ba-826d-d4c5c995c549""
+    data-bokeh-doc-id=""fb1186be-2ecb-4681-aaba-99cff5cc1e69""
+></script>",TAG,
+5.69,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+13.17,,,,PERCENT_DELAYED,
+6.55,,,,POS_ARR_DELAY,
+7.63,14.42,American Airlines ,,AA,39.93
+5.84,12.35,US Airways ,,US,60.05
+0.0,0.0,United Air Lines ,,UA,0.02
+0.0,,,,,
+0.0,,,,,

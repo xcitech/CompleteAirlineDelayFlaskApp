@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,1716,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_PIT.js""
+    id=""78fd513d-789e-4fc3-bb74-4d46d30cc601""
+    data-bokeh-model-id=""d47b00c5-3bc2-4758-b8ae-0e12458cafd4""
+    data-bokeh-doc-id=""cf0dc136-72ce-4d84-a64f-9dd388973ebe""
+></script>",TAG,
+15.12,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+21.07,,,,PERCENT_DELAYED,
+13.75,,,,POS_ARR_DELAY,
+13.75,21.07,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

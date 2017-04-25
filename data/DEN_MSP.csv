@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,1093,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_MSP.js""
+    id=""09c3e96c-d1bc-4656-a8c0-4e5dd1400b55""
+    data-bokeh-model-id=""758dcc0a-c6d1-4d35-92b0-49badefa23c2""
+    data-bokeh-doc-id=""48eed38d-5d1d-4ce2-b8a3-01cdabeab0cf""
+></script>",TAG,,
+14.01,,,DEP_DELAY,,
+16.0,,,AVG_FLIGHTS,,
+22.08,,,PERCENT_DELAYED,,
+13.76,,,POS_ARR_DELAY,,
+14.56,27.17,,WN,25.87,Southwest Airlines 
+15.08,24.47,,F9,20.38,Frontier Airlines 
+12.68,22.59,,OO,2.85,SkyWest Airlines 
+13.4,18.56,,DL,34.43,Delta Air Lines 
+9.51,15.11,,UA,13.93,United Air Lines 

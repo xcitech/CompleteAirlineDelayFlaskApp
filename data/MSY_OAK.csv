@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,3058,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_OAK.js""
+    id=""1b1a1f73-9306-497d-bba7-c699972c388a""
+    data-bokeh-model-id=""9afbd6d1-bf3b-4746-b30e-d7d8823be1ea""
+    data-bokeh-doc-id=""04be66a7-6245-4414-9f1b-ba7f23be45e1""
+></script>",TAG,
+12.62,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+15.2,,,,PERCENT_DELAYED,
+9.2,,,,POS_ARR_DELAY,
+9.2,15.2,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

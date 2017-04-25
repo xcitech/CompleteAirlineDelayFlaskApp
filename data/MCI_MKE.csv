@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Milwaukee,DEST-CITY,
+,,,General Mitchell Intl,DEST_NAME,
+,,,700,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_MKE.js""
+    id=""c3b884eb-3c91-4c4b-8092-68061c83ba47""
+    data-bokeh-model-id=""88f9fc6b-3c34-4a45-8faf-312cfa9976a8""
+    data-bokeh-doc-id=""76b9a811-6928-49e6-b460-1307c903db4a""
+></script>",TAG,
+10.82,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.33,,,,PERCENT_DELAYED,
+10.6,,,,POS_ARR_DELAY,
+10.6,20.33,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

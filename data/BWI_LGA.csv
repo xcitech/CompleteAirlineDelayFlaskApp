@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,298,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_LGA.js""
+    id=""b41148ac-b0ac-47fb-b567-92b741461b1e""
+    data-bokeh-model-id=""e8a1f469-dcb9-48fd-92ab-6887c9e1f6c0""
+    data-bokeh-doc-id=""a4aae9e7-a46b-4209-ad7b-385dd7962491""
+></script>",TAG,
+0.0,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+100.0,,,,PERCENT_DELAYED,
+31.0,,,,POS_ARR_DELAY,
+31.0,100.0,ExpressJet Airlines ,,EV,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

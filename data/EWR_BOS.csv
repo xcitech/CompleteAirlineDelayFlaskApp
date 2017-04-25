@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,322,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_BOS.js""
+    id=""df6b2c22-fb63-4ec5-8d4a-c188ffbdedf3""
+    data-bokeh-model-id=""21ebdda1-a461-4b4a-a524-e6082e6bfdf0""
+    data-bokeh-doc-id=""770b6960-fa3e-4ff2-b1bb-4582a1ac05f1""
+></script>",TAG,
+15.11,,,,DEP_DELAY,
+13.0,,,,AVG_FLIGHTS,
+20.7,,,,PERCENT_DELAYED,
+14.37,,,,POS_ARR_DELAY,
+15.39,23.19,United Air Lines ,,UA,62.27
+13.36,17.2,JetBlue Airways,,B6,34.17
+6.2,10.83,ExpressJet Airlines ,,EV,3.56
+0.0,,,,,
+0.0,,,,,

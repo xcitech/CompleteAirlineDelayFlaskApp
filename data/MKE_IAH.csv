@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,1587,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_IAH.js""
+    id=""c41b4cd2-45c2-4490-99cd-e007755c0ce8""
+    data-bokeh-model-id=""4f19d17b-cbeb-44da-a6c0-aab2f19f63e5""
+    data-bokeh-doc-id=""d05fca99-da4a-4bd8-9403-14eecababf6a""
+></script>",TAG,
+14.88,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+23.72,,,,PERCENT_DELAYED,
+17.15,,,,POS_ARR_DELAY,
+18.58,26.24,ExpressJet Airlines ,,EV,53.0
+15.54,20.87,SkyWest Airlines ,,OO,47.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

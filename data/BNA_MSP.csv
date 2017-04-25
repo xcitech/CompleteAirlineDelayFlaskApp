@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,1119,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_MSP.js""
+    id=""01b1fc53-67ba-464c-8e05-53bdb23dc1ab""
+    data-bokeh-model-id=""6fdd2be9-dad3-4ad8-977c-2b88c60414e3""
+    data-bokeh-doc-id=""85fa1d7b-1dc3-48a0-8459-3332053e4ef0""
+></script>",TAG,
+10.65,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+13.77,,,,PERCENT_DELAYED,
+11.69,,,,POS_ARR_DELAY,
+15.92,25.0,ExpressJet Airlines ,,EV,0.33
+16.7,23.53,Delta Air Lines ,,DL,2.84
+11.72,13.47,SkyWest Airlines ,,OO,90.65
+8.62,13.06,Endeavor Air ,,9E,6.18
+0.0,,,,,

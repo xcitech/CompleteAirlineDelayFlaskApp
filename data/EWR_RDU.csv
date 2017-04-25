@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,670,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_RDU.js""
+    id=""1bfa82c0-2d7b-4383-9d9f-2e25fef9a2ec""
+    data-bokeh-model-id=""81814760-9047-487a-bab6-0de0ec02c528""
+    data-bokeh-doc-id=""df2cfdbc-05c5-4675-a66d-5239a00af66f""
+></script>",TAG,
+15.74,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+23.39,,,,PERCENT_DELAYED,
+15.81,,,,POS_ARR_DELAY,
+22.57,27.9,United Air Lines ,,UA,25.87
+13.45,21.82,ExpressJet Airlines ,,EV,74.13
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

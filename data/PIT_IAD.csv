@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Pittsburgh,ORIGIN_CITY,
+,,,Pittsburgh Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,293,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PIT_IAD.js""
+    id=""e2356862-51dd-405b-bcfa-ecdfa15b81b4""
+    data-bokeh-model-id=""9be1b5e2-8ba7-4914-8c97-79368155b2e1""
+    data-bokeh-doc-id=""bba68e3f-e05f-4e0e-b386-b50d2808408d""
+></script>",TAG,
+15.64,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+21.4,,,,PERCENT_DELAYED,
+16.08,,,,POS_ARR_DELAY,
+29.36,50.0,SkyWest Airlines ,,OO,1.63
+16.77,23.17,Mesa Airlines ,,YV,9.53
+15.81,20.73,ExpressJet Airlines ,,EV,88.6
+0.0,0.0,United Air Lines ,,UA,0.23
+0.0,,,,,

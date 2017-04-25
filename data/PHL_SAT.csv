@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,San Antonio,DEST-CITY,
+,,,San Antonio Intl,DEST_NAME,
+,,,2405,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_SAT.js""
+    id=""5d28d0b3-2898-4315-8313-1e380f70f16d""
+    data-bokeh-model-id=""115935bb-fa82-47b4-a2a8-ca1465781005""
+    data-bokeh-doc-id=""deab63a6-19eb-4266-a51d-c22e39f42f4b""
+></script>",TAG,
+14.8,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+26.8,,,,PERCENT_DELAYED,
+18.39,,,,POS_ARR_DELAY,
+20.07,30.05,US Airways ,,US,81.2
+14.73,14.06,Frontier Airlines ,,F9,8.53
+8.16,11.69,American Airlines ,,AA,10.27
+0.0,,,,,
+0.0,,,,,

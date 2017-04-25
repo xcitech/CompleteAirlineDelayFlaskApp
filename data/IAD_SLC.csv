@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,2935,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_SLC.js""
+    id=""a24ec0c8-a79c-4a70-912d-f96deadd2aeb""
+    data-bokeh-model-id=""e5b84a79-aa7e-4600-aa01-8b49a92cfc5f""
+    data-bokeh-doc-id=""cdab669d-2348-4255-818b-079baecee7fb""
+></script>",TAG,
+11.54,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+13.85,,,,PERCENT_DELAYED,
+9.98,,,,POS_ARR_DELAY,
+9.94,14.06,United Air Lines ,,UA,98.46
+13.0,0.0,Delta Air Lines ,,DL,1.54
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

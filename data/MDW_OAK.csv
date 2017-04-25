@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,2962,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_OAK.js""
+    id=""47193aeb-5c8a-42d1-994e-af788ef20d77""
+    data-bokeh-model-id=""cf3735e9-fd27-427e-ad42-0db4afb934fd""
+    data-bokeh-doc-id=""87cf0827-ca0f-429d-85c7-b5c5874efe62""
+></script>",TAG,
+19.16,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+30.29,,,,PERCENT_DELAYED,
+16.36,,,,POS_ARR_DELAY,
+16.36,30.29,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

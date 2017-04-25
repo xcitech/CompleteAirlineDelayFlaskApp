@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Minneapolis,ORIGIN_CITY,,
+,,Minneapolis St Paul Intl,ORIGIN_NAME,,
+,,Philadelphia,DEST-CITY,,
+,,Philadelphia Intl,DEST_NAME,,
+,,1575,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MSP_PHL.js""
+    id=""0d4deb21-0869-4239-8c0c-c76c615c5cda""
+    data-bokeh-model-id=""13b29576-147b-4653-bff8-615bffeca794""
+    data-bokeh-doc-id=""ba9263c1-6dd8-4272-8a3d-c796fab8806b""
+></script>",TAG,,
+10.36,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+18.57,,,PERCENT_DELAYED,,
+11.33,,,POS_ARR_DELAY,,
+21.73,36.23,,NK,1.89,Spirit Air Lines
+10.49,19.29,,US,28.68,US Airways 
+11.68,18.54,,DL,50.57,Delta Air Lines 
+10.07,15.84,,F9,2.77,Frontier Airlines 
+10.01,15.03,,AA,15.35,American Airlines 

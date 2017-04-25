@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,670,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_CLE.js""
+    id=""0fa53f42-2161-4c02-87f9-2abb02613d90""
+    data-bokeh-model-id=""8db806fb-52b1-4b77-9e1e-4a8158dd2925""
+    data-bokeh-doc-id=""e92ff6e1-1ca6-404d-8f19-b96d246dbb00""
+></script>",TAG,
+20.54,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+24.19,,,,PERCENT_DELAYED,
+20.68,,,,POS_ARR_DELAY,
+23.17,25.15,ExpressJet Airlines ,,EV,73.97
+13.43,21.91,Frontier Airlines ,,F9,24.72
+16.47,13.33,SkyWest Airlines ,,OO,1.31
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Nashville,ORIGIN_CITY,,
+,,Nashville Intl,ORIGIN_NAME,,
+,,New York,DEST-CITY,,
+,,La Guardia,DEST_NAME,,
+,,1228,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/BNA_LGA.js""
+    id=""7896afb1-3a70-43b8-b3c9-2994f3c65c78""
+    data-bokeh-model-id=""9e4458cb-d16d-445a-b0fa-2578894bbc4a""
+    data-bokeh-doc-id=""c56c5000-e31e-408c-996c-39f9943b02b8""
+></script>",TAG,,
+16.87,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+27.28,,,PERCENT_DELAYED,,
+18.44,,,POS_ARR_DELAY,,
+20.13,35.4,,9E,1.5,Endeavor Air 
+22.83,29.33,,EV,15.7,ExpressJet Airlines 
+19.46,29.11,,MQ,46.94,Envoy Air
+15.13,23.65,,WN,35.8,Southwest Airlines 
+3.6,20.0,,DL,0.07,Delta Air Lines 

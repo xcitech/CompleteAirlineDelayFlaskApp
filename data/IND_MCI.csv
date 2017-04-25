@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,724,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_MCI.js""
+    id=""8f5ba5fc-4de1-4785-b03f-4b94ac0deda9""
+    data-bokeh-model-id=""cc5a74dd-8362-4289-943a-fdb22480933b""
+    data-bokeh-doc-id=""237cd2ae-e77a-424e-8674-07c9a51ada11""
+></script>",TAG,
+11.57,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+18.43,,,,PERCENT_DELAYED,
+11.29,,,,POS_ARR_DELAY,
+11.29,18.43,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

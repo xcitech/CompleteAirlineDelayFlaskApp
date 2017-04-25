@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,1068,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_JFK.js""
+    id=""8f476004-4c76-40a2-8eea-74cadf449cab""
+    data-bokeh-model-id=""e7eb31dd-b422-415a-bf50-546b305ebbd5""
+    data-bokeh-doc-id=""8fb5bdb0-a69d-4cc1-917a-34e79b2a5f60""
+></script>",TAG,
+13.51,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+22.77,,,,PERCENT_DELAYED,
+15.17,,,,POS_ARR_DELAY,
+18.76,24.14,Endeavor Air ,,9E,16.2
+14.48,22.5,Envoy Air,,MQ,83.8
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

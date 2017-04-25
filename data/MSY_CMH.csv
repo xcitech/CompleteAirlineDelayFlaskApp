@@ -1,0 +1,16 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,1298,DIST,
+,,,,TAG,
+0.0,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+0.0,,,,PERCENT_DELAYED,
+0.0,,,,POS_ARR_DELAY,
+0.0,0.0,US Airways ,,US,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

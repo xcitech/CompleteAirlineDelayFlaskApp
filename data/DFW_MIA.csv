@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1803,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_MIA.js""
+    id=""f68a4c35-5f33-4733-9d52-4461d469bd2d""
+    data-bokeh-model-id=""102aea5b-1be2-4c77-a0ad-ffe9c2889d68""
+    data-bokeh-doc-id=""b4c6a93f-8bad-4525-8d19-2145834bafa9""
+></script>",TAG,
+16.92,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+25.98,,,,PERCENT_DELAYED,
+16.97,,,,POS_ARR_DELAY,
+16.97,25.98,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

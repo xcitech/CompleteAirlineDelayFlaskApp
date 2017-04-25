@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,297,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_LGA.js""
+    id=""6031cef4-7c2c-4f07-bfe6-1893318b4d8d""
+    data-bokeh-model-id=""4e771e9c-68a6-4a00-97bd-27af44807955""
+    data-bokeh-doc-id=""ff349a74-9b3e-48e6-a318-4e44eb36ff63""
+></script>",TAG,
+10.67,,,,DEP_DELAY,
+16.0,,,,AVG_FLIGHTS,
+20.88,,,,PERCENT_DELAYED,
+13.44,,,,POS_ARR_DELAY,
+244.0,100.0,ExpressJet Airlines ,,EV,0.01
+20.98,27.84,Delta Air Lines ,,DL,32.7
+9.75,17.95,US Airways ,,US,40.59
+9.75,16.79,American Airlines ,,AA,26.7
+0.0,,,,,

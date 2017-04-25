@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,San Antonio,DEST-CITY,
+,,,San Antonio Intl,DEST_NAME,
+,,,1562,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_SAT.js""
+    id=""b9c332b8-00f6-4fc8-a272-ac1c8e83f795""
+    data-bokeh-model-id=""6f4891e4-142f-4059-b071-830b76e2974b""
+    data-bokeh-doc-id=""bdba385d-5808-4c24-a7d0-91e2dd3bce07""
+></script>",TAG,
+13.95,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+21.11,,,,PERCENT_DELAYED,
+12.23,,,,POS_ARR_DELAY,
+12.23,21.11,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

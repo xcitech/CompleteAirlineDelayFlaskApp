@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Orlando,ORIGIN_CITY,,
+,,Orlando Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,3563,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MCO_LAX.js""
+    id=""5b7351a9-a248-4c74-8d85-20ecebe1cda2""
+    data-bokeh-model-id=""75f622e4-9fbb-4e75-900a-9ab3ae73d904""
+    data-bokeh-doc-id=""d92f5590-1df3-4e8e-b562-a7189765c408""
+></script>",TAG,,
+12.54,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+19.3,,,PERCENT_DELAYED,,
+12.57,,,POS_ARR_DELAY,,
+19.43,33.33,,F9,4.13,Frontier Airlines 
+18.48,27.8,,UA,17.78,United Air Lines 
+14.38,21.6,,AA,28.57,American Airlines 
+9.03,14.41,,DL,34.94,Delta Air Lines 
+8.36,12.18,,VX,14.59,Virgin America

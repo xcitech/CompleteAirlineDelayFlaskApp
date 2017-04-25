@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,1299,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_CLT.js""
+    id=""839c8583-1137-44aa-b023-772e18f36b30""
+    data-bokeh-model-id=""38cdfc7d-bfcb-4137-8354-8ad1869299c6""
+    data-bokeh-doc-id=""bbce15f1-5fdc-47b8-9e83-98f687feca21""
+></script>",TAG,
+6.05,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+12.32,,,,PERCENT_DELAYED,
+7.23,,,,POS_ARR_DELAY,
+8.28,13.48,Mesa Airlines ,,YV,2.17
+8.32,12.67,American Airlines ,,AA,37.68
+6.51,12.06,US Airways ,,US,60.16
+0.0,,,,,
+0.0,,,,,

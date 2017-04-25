@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,2508,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_DCA.js""
+    id=""da7dd1d9-33b2-41b4-baed-38764b1be67b""
+    data-bokeh-model-id=""c03a05be-034b-4116-885d-5e1c5f151f5a""
+    data-bokeh-doc-id=""d721e69a-15fc-4cbe-981d-3a4cfc18ba89""
+></script>",TAG,
+19.5,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+28.57,,,,PERCENT_DELAYED,
+18.42,,,,POS_ARR_DELAY,
+18.42,28.57,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

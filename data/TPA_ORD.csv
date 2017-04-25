@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Ohare Intl,DEST_NAME,
+,,,1632,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_ORD.js""
+    id=""cca73fe7-6802-4d72-b159-362960142e9d""
+    data-bokeh-model-id=""6bae305f-b73c-4c0d-904c-182545d710c0""
+    data-bokeh-doc-id=""a6329531-5432-4513-b8f5-9d74b366d284""
+></script>",TAG,
+13.65,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+19.94,,,,PERCENT_DELAYED,
+14.51,,,,POS_ARR_DELAY,
+25.22,31.18,Spirit Air Lines,,NK,6.3
+19.98,29.9,Frontier Airlines ,,F9,4.08
+16.61,21.28,American Airlines ,,AA,45.03
+10.38,16.08,United Air Lines ,,UA,44.58
+0.0,,,,,

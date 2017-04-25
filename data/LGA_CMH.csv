@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,La Guardia,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,769,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LGA_CMH.js""
+    id=""f74d2993-02e9-40fa-9008-b4b60f38c4a6""
+    data-bokeh-model-id=""3da0f4a6-d007-4488-ab87-34bb3dd6fa07""
+    data-bokeh-doc-id=""88022e85-db13-48ed-9016-4e03b1060d35""
+></script>",TAG,
+15.16,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+28.75,,,,PERCENT_DELAYED,
+17.2,,,,POS_ARR_DELAY,
+16.64,29.53,Envoy Air,,MQ,81.69
+19.78,25.34,ExpressJet Airlines ,,EV,18.27
+0.0,0.0,Endeavor Air ,,9E,0.02
+0.0,0.0,Delta Air Lines ,,DL,0.02
+0.0,,,,,

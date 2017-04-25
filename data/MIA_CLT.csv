@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Miami,ORIGIN_CITY,
+,,,Miami Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,1050,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MIA_CLT.js""
+    id=""ebb503ff-5363-4870-a54f-22ef8f0beb50""
+    data-bokeh-model-id=""396cd4c4-dd9f-43c7-bde3-4389cfbe47a7""
+    data-bokeh-doc-id=""8ad87914-a579-4d00-aaab-1076f0641a2f""
+></script>",TAG,
+8.91,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+14.53,,,,PERCENT_DELAYED,
+9.03,,,,POS_ARR_DELAY,
+7.84,16.18,Envoy Air,,MQ,12.82
+10.39,15.85,American Airlines ,,AA,42.56
+8.07,12.8,US Airways ,,US,44.62
+0.0,,,,,
+0.0,,,,,

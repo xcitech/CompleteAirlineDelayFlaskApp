@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1369,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_DAL.js""
+    id=""0dd03d01-7cf0-490f-ba5f-1399a4d87768""
+    data-bokeh-model-id=""368f58ed-6de8-4194-9ae9-66613d3fdb72""
+    data-bokeh-doc-id=""72cc14e5-d76c-47af-b14e-3f959715c209""
+></script>",TAG,
+12.83,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+17.62,,,,PERCENT_DELAYED,
+11.31,,,,POS_ARR_DELAY,
+11.31,17.62,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,880,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_DCA.js""
+    id=""049cce0f-c224-4e42-9c57-861eb1a745ad""
+    data-bokeh-model-id=""240f6733-965b-4c6e-b80b-810184d75735""
+    data-bokeh-doc-id=""f309740a-b52d-4a66-ba8d-b7eae9a0bed2""
+></script>",TAG,
+10.5,,,,DEP_DELAY,
+19.0,,,,AVG_FLIGHTS,
+16.41,,,,PERCENT_DELAYED,
+9.85,,,,POS_ARR_DELAY,
+8.34,16.84,AirTran Airways Corporation,,FL,9.26
+7.83,16.67,ExpressJet Airlines ,,EV,0.03
+9.87,16.43,Delta Air Lines ,,DL,71.03
+10.47,16.12,Southwest Airlines ,,WN,19.68
+0.0,,,,,

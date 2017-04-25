@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,3665,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_PDX.js""
+    id=""c92ed5e5-4383-4f64-b563-5f5683bf174b""
+    data-bokeh-model-id=""ea5c66f0-a248-4d55-90e8-59a81c198e40""
+    data-bokeh-doc-id=""c0ffe46e-98b2-4a0d-8835-98f831708b9c""
+></script>",TAG,
+12.76,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+26.52,,,,PERCENT_DELAYED,
+13.64,,,,POS_ARR_DELAY,
+14.64,30.56,US Airways ,,US,57.47
+12.29,21.07,American Airlines ,,AA,42.53
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

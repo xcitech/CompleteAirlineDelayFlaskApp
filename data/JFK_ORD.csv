@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Ohare Intl,DEST_NAME,
+,,,1188,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_ORD.js""
+    id=""d060f167-99ea-4855-89ea-faf25f41b04d""
+    data-bokeh-model-id=""b0ec532a-5d6a-47fe-af76-cb1d993bf139""
+    data-bokeh-doc-id=""b683ee40-d67e-4193-b6e3-1ea1e070b0bd""
+></script>",TAG,
+17.96,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+26.82,,,,PERCENT_DELAYED,
+19.56,,,,POS_ARR_DELAY,
+19.7,28.21,JetBlue Airways,,B6,58.82
+17.09,26.58,Endeavor Air ,,9E,6.24
+20.08,24.81,American Airlines ,,AA,34.19
+5.87,10.53,Delta Air Lines ,,DL,0.75
+0.0,,,,,

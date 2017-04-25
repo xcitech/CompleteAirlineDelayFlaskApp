@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,2617,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_OAK.js""
+    id=""fbc7b051-4470-4c28-960a-a6e99bc3d920""
+    data-bokeh-model-id=""840b1e2e-b0b2-40b1-9a90-d6e1bbc75286""
+    data-bokeh-doc-id=""69cc8327-e5f0-4f33-aae9-fef9d2505dfe""
+></script>",TAG,
+18.95,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+27.65,,,,PERCENT_DELAYED,
+20.11,,,,POS_ARR_DELAY,
+20.11,27.65,Spirit Air Lines,,NK,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

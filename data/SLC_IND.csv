@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,2176,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_IND.js""
+    id=""415d9b8a-2a72-4470-aaf9-2d44ca21cdcb""
+    data-bokeh-model-id=""4cf6188f-f84b-4bdc-b7fe-8d89c8b55ea5""
+    data-bokeh-doc-id=""5673941b-d733-477a-92a1-3c921ff587e7""
+></script>",TAG,
+6.56,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+10.0,,,,PERCENT_DELAYED,
+5.63,,,,POS_ARR_DELAY,
+5.63,10.0,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

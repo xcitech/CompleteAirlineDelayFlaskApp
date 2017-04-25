@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,386,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_HOU.js""
+    id=""4abc71c5-6506-4a6c-ba39-18bd612ab76f""
+    data-bokeh-model-id=""2b2eea02-d83d-4af3-bcbf-0c6f20902079""
+    data-bokeh-doc-id=""56b37496-184d-4be5-97cd-604555fb74be""
+></script>",TAG,
+12.89,,,,DEP_DELAY,
+19.0,,,,AVG_FLIGHTS,
+23.24,,,,PERCENT_DELAYED,
+13.33,,,,POS_ARR_DELAY,
+13.33,23.24,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

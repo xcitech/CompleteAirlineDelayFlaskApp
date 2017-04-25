@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,2454,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_SLC.js""
+    id=""477c6539-2978-48ad-ba41-63ce441fe754""
+    data-bokeh-model-id=""cadd0964-7538-46e9-b61d-977bdf938d3c""
+    data-bokeh-doc-id=""c86fbf3b-2add-4168-82bc-51f81a4a4ccd""
+></script>",TAG,
+13.5,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+50.0,,,,PERCENT_DELAYED,
+13.0,,,,POS_ARR_DELAY,
+13.0,50.0,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

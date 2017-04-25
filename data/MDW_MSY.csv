@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,1331,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_MSY.js""
+    id=""c74d811f-e847-4dfa-a154-7f2e04709959""
+    data-bokeh-model-id=""be05a73c-f358-4b1e-8c9b-1d70649b093e""
+    data-bokeh-doc-id=""c3e458aa-75d7-4a89-9f81-5bdfb53dd9ff""
+></script>",TAG,
+13.48,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+20.54,,,,PERCENT_DELAYED,
+12.31,,,,POS_ARR_DELAY,
+12.31,20.54,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

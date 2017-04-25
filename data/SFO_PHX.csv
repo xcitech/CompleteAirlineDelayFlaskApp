@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,San Francisco,ORIGIN_CITY,,
+,,San Francisco Intl,ORIGIN_NAME,,
+,,Phoenix,DEST-CITY,,
+,,Phoenix Sky Harbor Intl,DEST_NAME,,
+,,1046,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SFO_PHX.js""
+    id=""ec4077d8-8601-4e9c-8c40-8fc6a81d546f""
+    data-bokeh-model-id=""76fd528b-2015-4ee9-8486-b10960d052eb""
+    data-bokeh-doc-id=""2b31c26b-afd8-43d4-a9f8-f114c4ef8993""
+></script>",TAG,,
+12.99,,,DEP_DELAY,,
+14.0,,,AVG_FLIGHTS,,
+20.14,,,PERCENT_DELAYED,,
+12.13,,,POS_ARR_DELAY,,
+16.42,27.67,,OO,13.97,SkyWest Airlines 
+15.81,27.45,,WN,31.02,Southwest Airlines 
+10.67,17.18,,UA,14.53,United Air Lines 
+7.24,11.41,,US,22.63,US Airways 
+7.06,11.14,,AA,14.46,American Airlines 

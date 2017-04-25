@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,3868,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_IAD.js""
+    id=""84301055-abf3-464a-b774-cf573fdb6fc8""
+    data-bokeh-model-id=""fef3a0dd-cbd0-4ef0-9789-7d2fd7af6f8a""
+    data-bokeh-doc-id=""e4c16971-de43-4e49-8ab2-2efd762d269a""
+></script>",TAG,
+4.97,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+9.57,,,,PERCENT_DELAYED,
+6.1,,,,POS_ARR_DELAY,
+6.1,9.57,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

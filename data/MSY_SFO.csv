@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,3070,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_SFO.js""
+    id=""a05dc21b-39b5-4f2b-a3fa-4e8a01d6ac3f""
+    data-bokeh-model-id=""e36e4828-f90e-4dd3-9481-6801baa39225""
+    data-bokeh-doc-id=""f97ccfe0-78e8-47c1-b29b-e8da35760fb1""
+></script>",TAG,
+20.19,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+24.32,,,,PERCENT_DELAYED,
+17.66,,,,POS_ARR_DELAY,
+17.66,24.32,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

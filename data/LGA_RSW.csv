@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,La Guardia,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1742,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LGA_RSW.js""
+    id=""b62a3590-43fc-40ad-97c0-befe6c72630d""
+    data-bokeh-model-id=""7074a28a-674c-4b3f-9d6c-fa6065b0c2ae""
+    data-bokeh-doc-id=""c09dbdc2-a241-408f-a217-e9b51e805703""
+></script>",TAG,
+15.48,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+24.33,,,,PERCENT_DELAYED,
+15.91,,,,POS_ARR_DELAY,
+15.02,27.01,JetBlue Airways,,B6,45.34
+17.15,22.53,Delta Air Lines ,,DL,51.76
+7.75,14.93,Endeavor Air ,,9E,2.81
+0.0,0.0,ExpressJet Airlines ,,EV,0.08
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,3421,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_OAK.js""
+    id=""a92743da-f09e-4332-899a-cc1e4968e7ac""
+    data-bokeh-model-id=""1ec1bd29-cd92-4f11-87cc-46f31aed29f3""
+    data-bokeh-doc-id=""95bc4524-017f-4b9f-bd4a-2c167ae3b4c3""
+></script>",TAG,
+10.82,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+17.68,,,,PERCENT_DELAYED,
+9.07,,,,POS_ARR_DELAY,
+13.22,27.59,Delta Air Lines ,,DL,16.02
+8.28,15.79,Southwest Airlines ,,WN,83.98
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

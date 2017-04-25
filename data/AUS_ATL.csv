@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Austin,ORIGIN_CITY,,
+,,Austin Bergstrom Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,1306,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/AUS_ATL.js""
+    id=""d13e284b-2770-4001-b73f-8b746ee3c142""
+    data-bokeh-model-id=""cf26e82e-09b7-4325-887d-df5e7c0933e0""
+    data-bokeh-doc-id=""b2150559-d3e3-44e6-9def-065a7bf7a376""
+></script>",TAG,,
+10.46,,,DEP_DELAY,,
+9.0,,,AVG_FLIGHTS,,
+13.82,,,PERCENT_DELAYED,,
+10.19,,,POS_ARR_DELAY,,
+34.0,100.0,,EV,0.01,ExpressJet Airlines 
+17.83,20.22,,F9,3.75,Frontier Airlines 
+12.25,17.96,,FL,1.69,AirTran Airways Corporation
+9.22,16.74,,WN,21.68,Southwest Airlines 
+10.03,12.51,,DL,72.87,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,2611,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_DEN.js""
+    id=""5fda2f28-1c07-4405-acce-1339901ad608""
+    data-bokeh-model-id=""eeb19b90-f484-43a9-8645-d5f73231a21c""
+    data-bokeh-doc-id=""54f25e84-e6e6-4a05-b431-894d9e43de20""
+></script>",TAG,
+18.67,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+25.91,,,,PERCENT_DELAYED,
+17.67,,,,POS_ARR_DELAY,
+18.33,31.02,JetBlue Airways,,B6,40.71
+17.22,22.39,Delta Air Lines ,,DL,59.29
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

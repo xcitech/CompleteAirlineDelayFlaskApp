@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,1098,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_RDU.js""
+    id=""57eea624-6b6a-4906-baf2-7a75efcadf66""
+    data-bokeh-model-id=""ce452c71-2567-45ef-8112-6107f5c5411d""
+    data-bokeh-doc-id=""0337e2a5-5412-4af3-b7d2-10d62e9eff32""
+></script>",TAG,
+13.56,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+21.54,,,,PERCENT_DELAYED,
+13.01,,,,POS_ARR_DELAY,
+16.87,27.05,JetBlue Airways,,B6,55.06
+8.29,14.78,Southwest Airlines ,,WN,44.94
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

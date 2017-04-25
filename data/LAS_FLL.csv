@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,3493,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_FLL.js""
+    id=""6c6258c9-5dc0-4f2b-a15d-0e7c5c044dc1""
+    data-bokeh-model-id=""efcb3cf6-f187-4346-9f50-65b57c67e4d8""
+    data-bokeh-doc-id=""dd0e99fc-b3b1-4d11-8571-64ec5c7e38f7""
+></script>",TAG,
+19.68,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+30.28,,,,PERCENT_DELAYED,
+18.18,,,,POS_ARR_DELAY,
+19.32,32.38,JetBlue Airways,,B6,27.75
+21.86,32.12,Spirit Air Lines,,NK,27.33
+15.23,27.87,Southwest Airlines ,,WN,44.93
+0.0,,,,,
+0.0,,,,,

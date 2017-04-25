@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Philadelphia,DEST-CITY,
+,,,Philadelphia Intl,DEST_NAME,
+,,,1085,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_PHL.js""
+    id=""1977d0a8-e7f2-4664-97ef-31ff6a5baa40""
+    data-bokeh-model-id=""2bfd40ba-c0bf-4b84-b353-9ae59c549c0f""
+    data-bokeh-doc-id=""a1cf701f-024c-4f90-8282-805f043e9462""
+></script>",TAG,
+19.8,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+28.59,,,,PERCENT_DELAYED,
+17.71,,,,POS_ARR_DELAY,
+30.73,33.33,Frontier Airlines ,,F9,3.57
+17.25,28.44,Southwest Airlines ,,WN,96.34
+0.0,0.0,American Airlines ,,AA,0.1
+0.0,,,,,
+0.0,,,,,

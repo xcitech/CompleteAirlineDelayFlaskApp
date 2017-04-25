@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,1200,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_EWR.js""
+    id=""594285fc-e40d-4065-bb18-8d7c833fcc9f""
+    data-bokeh-model-id=""bbccd518-c1df-4e05-a4b4-77ead73678fa""
+    data-bokeh-doc-id=""c6efba85-ae02-4315-a961-6620eb778403""
+></script>",TAG,
+17.9,,,,DEP_DELAY,
+15.0,,,,AVG_FLIGHTS,
+21.85,,,,PERCENT_DELAYED,
+16.18,,,,POS_ARR_DELAY,
+21.66,28.14,ExpressJet Airlines ,,EV,11.85
+16.97,22.12,United Air Lines ,,UA,20.23
+14.99,20.67,Delta Air Lines ,,DL,67.92
+0.0,,,,,
+0.0,,,,,

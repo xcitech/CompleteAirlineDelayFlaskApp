@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,3749,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_SEA.js""
+    id=""51a8bb4d-ad31-4976-9524-f188558a37ff""
+    data-bokeh-model-id=""cb2b9d45-acb8-4502-84d6-483d174a6c21""
+    data-bokeh-doc-id=""3b906aae-d36d-4b6b-988b-36848c582212""
+></script>",TAG,
+12.3,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.36,,,,PERCENT_DELAYED,
+12.06,,,,POS_ARR_DELAY,
+12.23,22.17,Southwest Airlines ,,WN,56.51
+11.85,18.01,Alaska Airlines ,,AS,43.49
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

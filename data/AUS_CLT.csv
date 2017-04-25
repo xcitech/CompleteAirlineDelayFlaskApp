@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,1659,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_CLT.js""
+    id=""28aba2b7-82d0-41a3-aae5-6c970b1f8f71""
+    data-bokeh-model-id=""781e86d3-6f5b-4798-8bd6-940a708d3ac7""
+    data-bokeh-doc-id=""90a9c2fc-de0b-4cb5-947e-c483c5a1413c""
+></script>",TAG,
+9.06,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.09,,,,PERCENT_DELAYED,
+9.93,,,,POS_ARR_DELAY,
+9.45,16.98,Mesa Airlines ,,YV,18.8
+8.67,15.72,US Airways ,,US,27.68
+10.76,14.1,American Airlines ,,AA,53.51
+0.0,,,,,
+0.0,,,,,

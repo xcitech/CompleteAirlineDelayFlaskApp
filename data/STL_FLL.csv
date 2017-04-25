@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1703,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_FLL.js""
+    id=""cb79d8ad-f7b2-4476-8225-8a36d88fffe7""
+    data-bokeh-model-id=""2bf3c97f-49db-4f58-ba79-abd30271ebac""
+    data-bokeh-doc-id=""71c111f2-8012-44d2-a345-9471e17f20d9""
+></script>",TAG,
+15.26,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+25.35,,,,PERCENT_DELAYED,
+14.14,,,,POS_ARR_DELAY,
+13.98,25.36,Southwest Airlines ,,WN,96.69
+18.83,25.0,Frontier Airlines ,,F9,3.31
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

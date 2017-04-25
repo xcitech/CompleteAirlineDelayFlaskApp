@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,743,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_PIT.js""
+    id=""8a36ca21-840d-4516-abf2-8d1ee78483f2""
+    data-bokeh-model-id=""bec8d384-6035-4396-a37d-2f0b29238e89""
+    data-bokeh-doc-id=""379a3196-452f-4a26-acf7-6ba464f95bc9""
+></script>",TAG,
+16.88,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+24.22,,,,PERCENT_DELAYED,
+14.52,,,,POS_ARR_DELAY,
+14.52,24.22,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

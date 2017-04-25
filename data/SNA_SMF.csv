@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,651,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_SMF.js""
+    id=""05bbb0df-0340-47d3-988a-1b922b14b39f""
+    data-bokeh-model-id=""d60e2461-09ce-4e07-ac98-cb197f081266""
+    data-bokeh-doc-id=""d342429e-0e7c-4a5e-af86-dee402ea7491""
+></script>",TAG,
+10.52,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+17.6,,,,PERCENT_DELAYED,
+9.24,,,,POS_ARR_DELAY,
+9.24,17.6,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

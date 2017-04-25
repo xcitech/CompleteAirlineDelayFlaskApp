@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,3908,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_PDX.js""
+    id=""6851949b-60e9-438e-85dc-933aded093e9""
+    data-bokeh-model-id=""615eb2d1-3497-4ef4-ad6a-1449ea9c2433""
+    data-bokeh-doc-id=""01eb4a3e-2170-4cac-b78a-9e2ed1138393""
+></script>",TAG,
+23.91,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+26.16,,,,PERCENT_DELAYED,
+18.18,,,,POS_ARR_DELAY,
+18.18,26.16,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

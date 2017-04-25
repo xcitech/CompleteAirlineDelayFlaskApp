@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Houston,DEST-CITY,,
+,,George Bush Intercontinental,DEST_NAME,,
+,,1491,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_IAH.js""
+    id=""2b19d40a-a43f-491e-bb74-f6504f19a624""
+    data-bokeh-model-id=""ca4816ed-0186-4098-b218-83de5972919e""
+    data-bokeh-doc-id=""33382512-bf64-4946-accf-4397e43ba05d""
+></script>",TAG,,
+20.25,,,DEP_DELAY,,
+13.0,,,AVG_FLIGHTS,,
+29.8,,,PERCENT_DELAYED,,
+19.91,,,POS_ARR_DELAY,,
+30.14,43.37,,NK,7.73,Spirit Air Lines
+27.45,41.52,,MQ,6.79,Envoy Air
+18.38,27.68,,UA,84.62,United Air Lines 
+20.55,24.76,,AA,0.75,American Airlines 
+2.67,13.33,,OO,0.11,SkyWest Airlines 

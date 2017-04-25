@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,527,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_CLE.js""
+    id=""b62c9468-dedf-4e70-b552-f0aafcc28bf0""
+    data-bokeh-model-id=""03d082e8-5db8-4ac4-8ad4-78027aab5847""
+    data-bokeh-doc-id=""a089910c-1248-4e9e-95a5-252104b27ed3""
+></script>",TAG,
+9.05,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+13.79,,,,PERCENT_DELAYED,
+9.2,,,,POS_ARR_DELAY,
+12.94,20.2,SkyWest Airlines ,,OO,12.77
+8.66,12.85,ExpressJet Airlines ,,EV,87.23
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

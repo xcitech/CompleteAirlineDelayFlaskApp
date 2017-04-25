@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,2973,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_DCA.js""
+    id=""cf9b0491-0dd2-48b7-bb52-1afd324e01f5""
+    data-bokeh-model-id=""b1f555b7-2bb1-4eea-bd21-e4666aa51127""
+    data-bokeh-doc-id=""1890634c-cdec-4dca-87ad-82e348d58cd4""
+></script>",TAG,
+7.18,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+13.22,,,,PERCENT_DELAYED,
+7.23,,,,POS_ARR_DELAY,
+7.23,13.22,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

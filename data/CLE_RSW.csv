@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Cleveland,ORIGIN_CITY,,
+,,Cleveland Hopkins Intl,ORIGIN_NAME,,
+,,Fort Myers,DEST-CITY,,
+,,Southwest Florida Intl,DEST_NAME,,
+,,1655,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/CLE_RSW.js""
+    id=""9f3379f4-0b79-440d-a283-05cee063a483""
+    data-bokeh-model-id=""83eff523-1ecd-4155-9772-cf5d180a019a""
+    data-bokeh-doc-id=""d90c13ef-1834-4859-b09e-20dafac9f3b2""
+></script>",TAG,,
+14.16,,,DEP_DELAY,,
+2.0,,,AVG_FLIGHTS,,
+19.66,,,PERCENT_DELAYED,,
+13.7,,,POS_ARR_DELAY,,
+22.19,34.91,,NK,12.29,Spirit Air Lines
+12.24,24.29,,EV,3.71,ExpressJet Airlines 
+19.49,23.51,,F9,39.0,Frontier Airlines 
+7.81,16.67,,OO,2.23,SkyWest Airlines 
+5.69,10.73,,UA,41.97,United Air Lines 

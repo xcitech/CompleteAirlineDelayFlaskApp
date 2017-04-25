@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,710,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_BNA.js""
+    id=""06c9c18c-c189-4e90-86e8-a6a4de9e66d0""
+    data-bokeh-model-id=""38d80c73-9ea2-43c9-bcbe-fd977659234f""
+    data-bokeh-doc-id=""55594d37-e76f-4dd0-8156-52f89a64b716""
+></script>",TAG,
+10.47,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+17.46,,,,PERCENT_DELAYED,
+9.67,,,,POS_ARR_DELAY,
+9.67,17.46,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

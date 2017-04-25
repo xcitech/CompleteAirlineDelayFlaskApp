@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,2397,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_MSP.js""
+    id=""d500f807-3f9f-482b-8c0f-81d268cfb874""
+    data-bokeh-model-id=""a31b413a-6e07-4209-8cd8-887df375ad80""
+    data-bokeh-doc-id=""4496b1fe-700c-4f22-b436-56e7f08b70bd""
+></script>",TAG,
+11.6,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+17.71,,,,PERCENT_DELAYED,
+11.11,,,,POS_ARR_DELAY,
+20.64,33.86,Spirit Air Lines,,NK,14.94
+3.78,22.22,Southwest Airlines ,,WN,0.53
+9.47,14.82,Delta Air Lines ,,DL,84.53
+0.0,,,,,
+0.0,,,,,

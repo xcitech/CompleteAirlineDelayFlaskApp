@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Newark,DEST-CITY,,
+,,Newark Liberty Intl,DEST_NAME,,
+,,784,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_EWR.js""
+    id=""2e1da3a7-6ed8-4356-b4c8-5e24c1b045dd""
+    data-bokeh-model-id=""2fbb2c00-c88d-4615-b105-79b84a90727b""
+    data-bokeh-doc-id=""5c104ae6-4c46-4031-9b74-32965d73bfd5""
+></script>",TAG,,
+19.44,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+27.92,,,PERCENT_DELAYED,,
+20.26,,,POS_ARR_DELAY,,
+34.82,47.06,,OO,0.25,SkyWest Airlines 
+22.65,29.16,,DL,37.07,Delta Air Lines 
+15.13,27.59,,9E,2.1,Endeavor Air 
+19.03,27.28,,EV,59.74,ExpressJet Airlines 
+10.41,13.79,,UA,0.84,United Air Lines 

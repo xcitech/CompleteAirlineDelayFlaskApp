@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,759,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_BNA.js""
+    id=""01c5f55b-697c-48a7-8559-ca21836a415f""
+    data-bokeh-model-id=""08c41343-bdba-43c3-b481-e5a7e2e7e489""
+    data-bokeh-doc-id=""4bfb5102-65e7-4a89-b3df-1df52f86d8e5""
+></script>",TAG,
+10.37,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+17.6,,,,PERCENT_DELAYED,
+9.33,,,,POS_ARR_DELAY,
+9.33,17.6,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

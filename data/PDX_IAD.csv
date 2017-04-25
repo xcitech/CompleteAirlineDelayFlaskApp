@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,3737,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_IAD.js""
+    id=""330e4c8f-ede8-475e-8e66-71d1a6e6ab02""
+    data-bokeh-model-id=""5ce4de16-41d9-4d23-a0b6-ba2837b0e219""
+    data-bokeh-doc-id=""d3957562-fe48-439e-ad06-8e8e605fcd66""
+></script>",TAG,
+3.96,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+6.68,,,,PERCENT_DELAYED,
+4.01,,,,POS_ARR_DELAY,
+4.01,6.68,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

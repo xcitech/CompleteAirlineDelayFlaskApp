@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,192,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_DCA.js""
+    id=""ea32f8cc-3088-4580-b9bf-449c1efe0ec7""
+    data-bokeh-model-id=""b189857e-ae69-4ef5-b607-aa974d67a3c0""
+    data-bokeh-doc-id=""442ad637-bf23-4eb5-9edd-aa63c924edd8""
+></script>",TAG,
+11.34,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+24.81,,,,PERCENT_DELAYED,
+13.95,,,,POS_ARR_DELAY,
+14.44,25.28,US Airways ,,US,67.94
+13.03,24.0,American Airlines ,,AA,31.81
+0.0,0.0,Envoy Air,,MQ,0.25
+0.0,,,,,
+0.0,,,,,

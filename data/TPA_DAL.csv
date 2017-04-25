@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1475,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_DAL.js""
+    id=""24583333-4729-49dc-9348-dd43beb172ba""
+    data-bokeh-model-id=""b5fb000b-e00f-44f0-85f3-96d0b6d84af3""
+    data-bokeh-doc-id=""c854a2d8-f445-4885-b568-5d07d1043329""
+></script>",TAG,
+11.7,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+17.94,,,,PERCENT_DELAYED,
+10.32,,,,POS_ARR_DELAY,
+10.32,17.94,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

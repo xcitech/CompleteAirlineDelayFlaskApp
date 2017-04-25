@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,1006,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_MSP.js""
+    id=""2c80216b-caf7-457d-bf7a-394fa7418e60""
+    data-bokeh-model-id=""ef8bff2f-9061-4aec-85f0-8cf2d1392d73""
+    data-bokeh-doc-id=""7f28338a-3894-496d-89d0-df76850f6bc8""
+></script>",TAG,
+9.74,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+13.99,,,,PERCENT_DELAYED,
+9.26,,,,POS_ARR_DELAY,
+10.41,17.24,Delta Air Lines ,,DL,39.93
+9.62,14.16,ExpressJet Airlines ,,EV,12.46
+8.05,11.3,Endeavor Air ,,9E,13.59
+8.25,11.2,SkyWest Airlines ,,OO,34.02
+0.0,,,,,

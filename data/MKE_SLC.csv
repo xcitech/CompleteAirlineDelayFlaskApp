@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,2002,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_SLC.js""
+    id=""6e746a60-f8ab-4cab-b9e7-39f963da6864""
+    data-bokeh-model-id=""31bd34e2-0400-4d6e-a56a-915a4c296a39""
+    data-bokeh-doc-id=""173b11a9-7467-48e6-acd3-b4a576aa8f78""
+></script>",TAG,
+0.0,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+0.0,,,,PERCENT_DELAYED,
+4.0,,,,POS_ARR_DELAY,
+4.0,0.0,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,323,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_PIT.js""
+    id=""85001f3d-c8db-4fba-97fe-fa309631f7a5""
+    data-bokeh-model-id=""0505f1be-c9fc-496a-9914-a8f6b7a72f6d""
+    data-bokeh-doc-id=""707d9d8f-5291-4037-a789-8b39c2a2f2a2""
+></script>",TAG,
+12.09,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+18.73,,,,PERCENT_DELAYED,
+11.92,,,,POS_ARR_DELAY,
+14.79,22.22,ExpressJet Airlines ,,EV,39.07
+7.9,17.95,Endeavor Air ,,9E,1.9
+10.13,16.58,Delta Air Lines ,,DL,57.66
+11.04,10.71,SkyWest Airlines ,,OO,1.37
+0.0,,,,,

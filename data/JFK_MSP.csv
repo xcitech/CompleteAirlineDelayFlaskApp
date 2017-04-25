@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,1652,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_MSP.js""
+    id=""75b15891-9809-484d-b8e5-f568a26c4854""
+    data-bokeh-model-id=""b6acd4ad-be1b-4e6d-8f46-d8448ddf7739""
+    data-bokeh-doc-id=""65eec122-5e28-4f05-a94d-53c2c744b9df""
+></script>",TAG,
+17.42,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+19.29,,,,PERCENT_DELAYED,
+16.02,,,,POS_ARR_DELAY,
+18.61,26.69,Endeavor Air ,,9E,13.65
+15.61,18.12,Delta Air Lines ,,DL,86.35
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

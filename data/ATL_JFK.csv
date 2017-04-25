@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,1222,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_JFK.js""
+    id=""272a24c9-13c6-4ed1-9304-db9e975722c5""
+    data-bokeh-model-id=""0a1696a2-e044-4262-8e62-4a004f88b263""
+    data-bokeh-doc-id=""31e49bf7-ad6e-4fcb-8ec7-63315463f941""
+></script>",TAG,
+16.05,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+22.91,,,,PERCENT_DELAYED,
+15.46,,,,POS_ARR_DELAY,
+15.46,22.91,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Los Angeles,ORIGIN_CITY,,
+,,Los Angeles Intl,ORIGIN_NAME,,
+,,Portland,DEST-CITY,,
+,,Portland Intl,DEST_NAME,,
+,,1343,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LAX_PDX.js""
+    id=""7b1c052b-1023-47c4-8cbb-04fd5ca9679d""
+    data-bokeh-model-id=""bd8f348c-6c45-4a9c-80f6-59e9f3fe7ee7""
+    data-bokeh-doc-id=""44a345c9-800b-4505-abdb-5551f23378ee""
+></script>",TAG,,
+7.44,,,DEP_DELAY,,
+10.0,,,AVG_FLIGHTS,,
+14.5,,,PERCENT_DELAYED,,
+8.11,,,POS_ARR_DELAY,,
+13.71,23.83,,WN,7.81,Southwest Airlines 
+12.45,21.41,,DL,13.7,Delta Air Lines 
+11.5,19.5,,NK,1.42,Spirit Air Lines
+10.42,18.82,,OO,16.92,SkyWest Airlines 
+5.65,10.35,,AS,60.13,Alaska Airlines 

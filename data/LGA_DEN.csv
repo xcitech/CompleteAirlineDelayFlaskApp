@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,La Guardia,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,2601,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LGA_DEN.js""
+    id=""3b3aca16-8e4e-4c67-abe3-fbafa04b3f48""
+    data-bokeh-model-id=""27a9953e-df54-49e2-84cd-cee61dec5ffa""
+    data-bokeh-doc-id=""9281158b-fe2f-4722-8816-082c2cbc5b59""
+></script>",TAG,
+16.03,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+22.96,,,,PERCENT_DELAYED,
+15.62,,,,POS_ARR_DELAY,
+26.93,42.6,Frontier Airlines ,,F9,10.46
+18.42,26.68,Southwest Airlines ,,WN,19.54
+14.04,19.89,Delta Air Lines ,,DL,20.04
+12.79,18.62,United Air Lines ,,UA,49.95
+0.0,,,,,

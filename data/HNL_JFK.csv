@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,8009,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_JFK.js""
+    id=""ddd4e7e1-ee1c-44b1-8032-21f787be46df""
+    data-bokeh-model-id=""852213c6-a324-42f3-aa7c-a78ca1b8c3b1""
+    data-bokeh-doc-id=""d9298cf3-92b1-4aac-a39f-42d25be28122""
+></script>",TAG,
+8.12,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+20.71,,,,PERCENT_DELAYED,
+11.09,,,,POS_ARR_DELAY,
+11.37,21.3,Hawaiian Airlines ,,HA,95.84
+4.69,7.14,Delta Air Lines ,,DL,4.16
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,790,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_BNA.js""
+    id=""a700c3b6-5454-4391-aa2b-e26cd33fb874""
+    data-bokeh-model-id=""f18b0f4c-5ca1-4d72-8bb2-c7d705f57b81""
+    data-bokeh-doc-id=""c3c7f20a-1e9a-4c29-bb51-2fb6b471bf8f""
+></script>",TAG,
+9.35,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+16.38,,,,PERCENT_DELAYED,
+9.09,,,,POS_ARR_DELAY,
+110.0,100.0,Frontier Airlines ,,F9,0.03
+9.07,16.36,Southwest Airlines ,,WN,99.97
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

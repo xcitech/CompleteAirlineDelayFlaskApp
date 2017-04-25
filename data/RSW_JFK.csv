@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Myers,ORIGIN_CITY,
+,,,Southwest Florida Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,1732,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RSW_JFK.js""
+    id=""8b6b595c-35af-47a6-ba02-a078fd679d97""
+    data-bokeh-model-id=""644289bd-c78d-42c7-a4fb-dc4fb243c319""
+    data-bokeh-doc-id=""2296aacf-a7ee-4faa-a4ae-b1920bce6117""
+></script>",TAG,
+19.51,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+25.93,,,,PERCENT_DELAYED,
+18.9,,,,POS_ARR_DELAY,
+24.57,27.36,Delta Air Lines ,,DL,6.11
+18.53,25.84,JetBlue Airways,,B6,93.89
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

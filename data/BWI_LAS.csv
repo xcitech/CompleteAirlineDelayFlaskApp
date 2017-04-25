@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,3382,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_LAS.js""
+    id=""c3776dd5-f062-46ec-83c8-a02f05bd9536""
+    data-bokeh-model-id=""dc38d46e-5d54-4fb2-931a-86565a05827b""
+    data-bokeh-doc-id=""4a6db0bc-b95b-4008-825b-c33a1c137e23""
+></script>",TAG,
+14.45,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+22.13,,,,PERCENT_DELAYED,
+13.51,,,,POS_ARR_DELAY,
+18.08,33.26,AirTran Airways Corporation,,FL,8.85
+23.05,32.11,Spirit Air Lines,,NK,11.58
+11.61,19.44,Southwest Airlines ,,WN,79.58
+0.0,,,,,
+0.0,,,,,

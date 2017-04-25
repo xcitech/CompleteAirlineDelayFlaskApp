@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Pittsburgh,ORIGIN_CITY,
+,,,Pittsburgh Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,2914,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PIT_PHX.js""
+    id=""e624be4a-317e-4e64-836e-6fa05b38c155""
+    data-bokeh-model-id=""60aaa126-0328-472c-b2fe-3b15066a753c""
+    data-bokeh-doc-id=""cd068567-4b8f-4211-9698-af9e24e26377""
+></script>",TAG,
+6.07,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+14.03,,,,PERCENT_DELAYED,
+7.22,,,,POS_ARR_DELAY,
+8.85,17.1,Southwest Airlines ,,WN,34.75
+7.74,15.33,US Airways ,,US,39.98
+4.17,7.76,American Airlines ,,AA,25.26
+0.0,,,,,
+0.0,,,,,

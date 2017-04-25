@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Ohare Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,2861,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ORD_SMF.js""
+    id=""4e603eef-64c1-4615-8eb4-20cde8ec31f6""
+    data-bokeh-model-id=""97978b8f-73fe-4062-b745-df16408b220d""
+    data-bokeh-doc-id=""16200339-0897-4878-83b4-b2f532f86033""
+></script>",TAG,
+21.91,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+28.8,,,,PERCENT_DELAYED,
+19.23,,,,POS_ARR_DELAY,
+24.14,35.88,American Airlines ,,AA,8.73
+18.76,28.12,United Air Lines ,,UA,91.27
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,1489,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_DFW.js""
+    id=""ba43bade-076d-4275-a40f-3adb1032e130""
+    data-bokeh-model-id=""259075e1-a8c4-4882-a99b-45afe10a704c""
+    data-bokeh-doc-id=""9fac5a20-cc73-42ae-8ed4-4fb79d20db1d""
+></script>",TAG,
+13.81,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+18.51,,,,PERCENT_DELAYED,
+14.46,,,,POS_ARR_DELAY,
+14.47,18.51,American Airlines ,,AA,99.87
+5.33,16.67,Envoy Air,,MQ,0.13
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

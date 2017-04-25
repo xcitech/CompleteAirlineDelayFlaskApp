@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,719,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_OAK.js""
+    id=""03f77bd7-1963-47ad-99cc-5ae288efe77a""
+    data-bokeh-model-id=""d2bfb1e8-04d1-449b-a7de-fb2cd73abcc5""
+    data-bokeh-doc-id=""785a56c3-84e8-4779-a5e1-129e699d6769""
+></script>",TAG,
+13.32,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+23.99,,,,PERCENT_DELAYED,
+12.42,,,,POS_ARR_DELAY,
+12.42,23.99,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

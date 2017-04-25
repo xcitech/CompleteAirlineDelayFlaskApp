@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,3471,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_SFO.js""
+    id=""6ed5e9e8-7c43-4795-b2e6-2f19b5c61118""
+    data-bokeh-model-id=""c2ff71a1-716a-41b0-bb06-b06eeb26c08f""
+    data-bokeh-doc-id=""81ebf724-8e41-4d33-a030-db173b655845""
+></script>",TAG,
+12.36,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.28,,,,PERCENT_DELAYED,
+10.93,,,,POS_ARR_DELAY,
+22.44,17.5,Frontier Airlines ,,F9,4.76
+10.35,15.17,United Air Lines ,,UA,95.24
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

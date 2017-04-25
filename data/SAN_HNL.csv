@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Honolulu,DEST-CITY,
+,,,Honolulu Intl,DEST_NAME,
+,,,4202,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_HNL.js""
+    id=""fd32584e-c816-477e-864a-76a92583fec4""
+    data-bokeh-model-id=""2025bdfc-947d-4818-86e0-34109a797c93""
+    data-bokeh-doc-id=""fa2f4ced-7cdb-4bac-ba22-f3949d0b4abe""
+></script>",TAG,
+5.91,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.89,,,,PERCENT_DELAYED,
+10.34,,,,POS_ARR_DELAY,
+12.62,25.84,Hawaiian Airlines ,,HA,51.87
+7.89,15.55,Alaska Airlines ,,AS,48.13
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

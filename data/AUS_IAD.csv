@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,2085,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_IAD.js""
+    id=""13a8f4dd-04a5-4e3b-98c7-7dc93eab4a76""
+    data-bokeh-model-id=""78fa1a00-1711-4785-bb4d-626e80a31862""
+    data-bokeh-doc-id=""9751fea0-83de-429d-b733-8fbdd999e262""
+></script>",TAG,
+11.99,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+19.05,,,,PERCENT_DELAYED,
+11.43,,,,POS_ARR_DELAY,
+29.39,43.08,SkyWest Airlines ,,OO,24.76
+6.28,12.67,Mesa Airlines ,,YV,42.1
+4.55,9.2,United Air Lines ,,UA,33.14
+0.0,,,,,
+0.0,,,,,

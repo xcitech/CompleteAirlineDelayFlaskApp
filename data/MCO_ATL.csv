@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Orlando,ORIGIN_CITY,,
+,,Orlando Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,651,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MCO_ATL.js""
+    id=""2acd2f54-c55c-4bcd-a972-33d881a67390""
+    data-bokeh-model-id=""f452aee6-82c1-4dff-8678-91289d35907f""
+    data-bokeh-doc-id=""6b7b27db-4a92-49ff-aa87-de0a9c014724""
+></script>",TAG,,
+9.25,,,DEP_DELAY,,
+24.0,,,AVG_FLIGHTS,,
+15.34,,,PERCENT_DELAYED,,
+9.96,,,POS_ARR_DELAY,,
+18.91,33.13,,NK,3.23,Spirit Air Lines
+21.3,24.57,,F9,1.55,Frontier Airlines 
+12.39,21.5,,WN,19.96,Southwest Airlines 
+11.15,20.58,,FL,10.14,AirTran Airways Corporation
+8.32,11.53,,DL,65.11,Delta Air Lines 

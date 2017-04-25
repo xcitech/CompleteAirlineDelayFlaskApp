@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,1072,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_STL.js""
+    id=""c7574a38-0d52-4d02-8e89-94bebc9f5307""
+    data-bokeh-model-id=""2079c995-fdb9-44b4-a2ed-c2f50d9d38cf""
+    data-bokeh-doc-id=""5e1c3fcc-94ce-4d1b-83bb-09de540b6188""
+></script>",TAG,
+10.55,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+15.17,,,,PERCENT_DELAYED,
+9.41,,,,POS_ARR_DELAY,
+9.41,15.17,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

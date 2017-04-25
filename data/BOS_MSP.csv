@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,1805,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_MSP.js""
+    id=""58f14486-30e6-4f1b-88e5-c82f6b996b7c""
+    data-bokeh-model-id=""c849a193-6b2e-4f73-96ff-080684dd8c24""
+    data-bokeh-doc-id=""a56d1b38-8095-4094-8735-d6adb683a836""
+></script>",TAG,
+11.63,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+15.1,,,,PERCENT_DELAYED,
+10.77,,,,POS_ARR_DELAY,
+38.27,47.58,Spirit Air Lines,,NK,2.16
+8.25,25.0,Endeavor Air ,,9E,0.07
+10.17,14.38,Delta Air Lines ,,DL,97.74
+0.5,0.0,ExpressJet Airlines ,,EV,0.03
+0.0,,,,,

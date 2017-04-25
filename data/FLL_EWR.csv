@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,1717,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_EWR.js""
+    id=""590793ba-d144-46b8-991c-21346491ed3f""
+    data-bokeh-model-id=""6ee484dc-1409-4df3-a5fc-2b4367cce13f""
+    data-bokeh-doc-id=""93b019f2-9976-4c0e-a7cd-219b89939a5f""
+></script>",TAG,
+17.01,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+22.0,,,,PERCENT_DELAYED,
+15.92,,,,POS_ARR_DELAY,
+23.27,31.64,JetBlue Airways,,B6,37.39
+11.53,16.25,United Air Lines ,,UA,62.61
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

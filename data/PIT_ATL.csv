@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Pittsburgh,ORIGIN_CITY,,
+,,Pittsburgh Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,848,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/PIT_ATL.js""
+    id=""0143bba0-7098-478b-a6dd-b44d7f40e5d9""
+    data-bokeh-model-id=""45c2011e-f7e9-4d08-829a-6fbf41f2d493""
+    data-bokeh-doc-id=""8a27e773-e948-40bc-a354-20bfa9677544""
+></script>",TAG,,
+7.63,,,DEP_DELAY,,
+10.0,,,AVG_FLIGHTS,,
+11.45,,,PERCENT_DELAYED,,
+7.31,,,POS_ARR_DELAY,,
+20.23,31.82,,F9,0.4,Frontier Airlines 
+18.74,28.68,,EV,1.24,ExpressJet Airlines 
+7.79,14.17,,FL,11.35,AirTran Airways Corporation
+7.31,10.89,,DL,74.17,Delta Air Lines 
+5.33,9.91,,WN,12.82,Southwest Airlines 

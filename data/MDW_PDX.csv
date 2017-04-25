@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,2812,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_PDX.js""
+    id=""7010ec0b-ba3d-436d-a463-bed5a47bec40""
+    data-bokeh-model-id=""7bb0ae45-6f3c-4c43-bb12-07a96fea7081""
+    data-bokeh-doc-id=""6d760911-73aa-460c-b6b9-044aad7e0331""
+></script>",TAG,
+15.79,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+26.63,,,,PERCENT_DELAYED,
+13.65,,,,POS_ARR_DELAY,
+13.65,26.63,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

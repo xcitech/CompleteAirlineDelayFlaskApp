@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Phoenix,ORIGIN_CITY,,
+,,Phoenix Sky Harbor Intl,ORIGIN_NAME,,
+,,Denver,DEST-CITY,,
+,,Denver Intl,DEST_NAME,,
+,,969,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/PHX_DEN.js""
+    id=""3d6478d6-988c-4f74-a0b5-9e549adc6288""
+    data-bokeh-model-id=""ae268b64-3178-4d91-a82c-39c26a05da77""
+    data-bokeh-doc-id=""701b4c05-cb72-4c23-9c55-6ccda2a328e0""
+></script>",TAG,,
+11.73,,,DEP_DELAY,,
+22.0,,,AVG_FLIGHTS,,
+19.08,,,PERCENT_DELAYED,,
+11.36,,,POS_ARR_DELAY,,
+15.57,21.58,,F9,14.3,Frontier Airlines 
+12.05,21.22,,AA,9.14,American Airlines 
+11.21,20.5,,WN,40.21,Southwest Airlines 
+9.03,17.09,,US,14.68,US Airways 
+8.2,12.06,,UA,16.44,United Air Lines 

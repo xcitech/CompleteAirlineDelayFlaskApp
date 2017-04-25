@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1451,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_FLL.js""
+    id=""e9b99377-4bf0-4383-bb7b-d5d03c1b0db5""
+    data-bokeh-model-id=""70bd733e-32d4-4b62-a380-ae1645a4d6fd""
+    data-bokeh-doc-id=""a79a91bd-0aa1-448f-8e51-2b907b55f2d7""
+></script>",TAG,
+10.19,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+21.08,,,,PERCENT_DELAYED,
+12.68,,,,POS_ARR_DELAY,
+13.17,22.32,American Airlines ,,AA,15.62
+13.75,21.5,JetBlue Airways,,B6,53.49
+10.94,21.27,US Airways ,,US,25.57
+8.86,12.24,Southwest Airlines ,,WN,5.31
+0.0,,,,,

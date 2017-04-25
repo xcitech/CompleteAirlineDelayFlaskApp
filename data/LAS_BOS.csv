@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,3824,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_BOS.js""
+    id=""f480cd62-985a-4baa-9c4d-3323a12e21d6""
+    data-bokeh-model-id=""c77587e6-2add-42f1-bddc-2592d2478723""
+    data-bokeh-doc-id=""cb73b0d6-9863-4a6a-960a-9d4f40a681eb""
+></script>",TAG,
+17.68,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+27.84,,,,PERCENT_DELAYED,
+16.27,,,,POS_ARR_DELAY,
+19.01,31.52,Spirit Air Lines,,NK,16.91
+14.88,29.9,Delta Air Lines ,,DL,3.31
+15.76,27.24,JetBlue Airways,,B6,77.76
+15.05,16.95,Virgin America,,VX,2.02
+0.0,,,,,

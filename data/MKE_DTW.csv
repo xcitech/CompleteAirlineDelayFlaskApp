@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Detroit,DEST-CITY,
+,,,Detroit Metro Wayne Co,DEST_NAME,
+,,,381,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_DTW.js""
+    id=""d7e81465-5f49-446b-b8fd-3240c5ffc154""
+    data-bokeh-model-id=""8e07824f-b0a1-4d32-b2bb-58772b02840b""
+    data-bokeh-doc-id=""62da7d55-0827-4083-94d0-7937f6e7449d""
+></script>",TAG,
+9.46,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+14.16,,,,PERCENT_DELAYED,
+10.05,,,,POS_ARR_DELAY,
+12.48,17.33,ExpressJet Airlines ,,EV,3.51
+10.51,15.3,Delta Air Lines ,,DL,56.93
+9.23,12.26,SkyWest Airlines ,,OO,39.22
+3.9,10.0,Endeavor Air ,,9E,0.35
+0.0,,,,,

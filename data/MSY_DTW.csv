@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,New Orleans,ORIGIN_CITY,,
+,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,,
+,,Detroit,DEST-CITY,,
+,,Detroit Metro Wayne Co,DEST_NAME,,
+,,1493,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MSY_DTW.js""
+    id=""177f4c34-d107-4303-aaa5-a0da60fb4d4f""
+    data-bokeh-model-id=""7f336e29-3190-45ac-8de9-2116368f34dd""
+    data-bokeh-doc-id=""4dda2b48-e2a2-4121-bc28-11209abcedd9""
+></script>",TAG,,
+10.77,,,DEP_DELAY,,
+2.0,,,AVG_FLIGHTS,,
+14.59,,,PERCENT_DELAYED,,
+10.17,,,POS_ARR_DELAY,,
+17.69,24.79,,NK,23.17,Spirit Air Lines
+10.7,15.91,,EV,3.37,ExpressJet Airlines 
+7.72,11.35,,DL,72.54,Delta Air Lines 
+13.62,9.52,,OO,0.8,SkyWest Airlines 
+0.33,0.0,,9E,0.11,Endeavor Air 

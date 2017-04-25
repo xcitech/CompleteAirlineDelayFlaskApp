@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Boston,ORIGIN_CITY,,
+,,General Edward Lawrence Logan Intl,ORIGIN_NAME,,
+,,Detroit,DEST-CITY,,
+,,Detroit Metro Wayne Co,DEST_NAME,,
+,,1015,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/BOS_DTW.js""
+    id=""c697a446-c0b9-440a-a712-8286635a8928""
+    data-bokeh-model-id=""005dd48e-9b4a-438c-8939-d296e4f1ac1b""
+    data-bokeh-doc-id=""6762dfef-689a-43cf-a3aa-2f0ea62a4b83""
+></script>",TAG,,
+11.86,,,DEP_DELAY,,
+9.0,,,AVG_FLIGHTS,,
+15.3,,,PERCENT_DELAYED,,
+11.65,,,POS_ARR_DELAY,,
+11.33,50.0,,9E,0.06,Endeavor Air 
+20.64,27.35,,NK,3.35,Spirit Air Lines
+12.03,20.31,,EV,0.63,ExpressJet Airlines 
+10.81,17.29,,B6,25.77,JetBlue Airways
+11.53,13.92,,DL,70.19,Delta Air Lines 

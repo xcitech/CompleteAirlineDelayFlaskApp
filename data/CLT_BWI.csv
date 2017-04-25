@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,581,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_BWI.js""
+    id=""1bcf1059-cfb3-4afa-80c2-b9fe0aa9a312""
+    data-bokeh-model-id=""da4cab18-2d3b-4abd-8c78-8911133b3ad8""
+    data-bokeh-doc-id=""bbda6e6d-3142-4bdf-a46a-dc90a4009c52""
+></script>",TAG,
+11.2,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+20.6,,,,PERCENT_DELAYED,
+12.07,,,,POS_ARR_DELAY,
+16.09,26.96,Southwest Airlines ,,WN,19.48
+12.3,19.22,American Airlines ,,AA,29.58
+10.4,18.97,US Airways ,,US,50.94
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,3854,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_RDU.js""
+    id=""3742b2c5-7fb6-42c6-836e-92cb80735897""
+    data-bokeh-model-id=""ea738ff5-75cc-4c99-9609-b29e50f14dad""
+    data-bokeh-doc-id=""7e4acb01-ba0c-4a7e-97aa-c7e90be84034""
+></script>",TAG,
+16.45,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+20.08,,,,PERCENT_DELAYED,
+12.75,,,,POS_ARR_DELAY,
+12.75,20.08,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

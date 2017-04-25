@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1578,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_RSW.js""
+    id=""d0509c36-146c-4a20-a167-5af7c7843245""
+    data-bokeh-model-id=""1bcb6e20-3790-457f-ab2c-b241a730daf5""
+    data-bokeh-doc-id=""b1816465-6f1e-49e4-a0f3-7a60f1f8c9df""
+></script>",TAG,
+13.44,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+21.13,,,,PERCENT_DELAYED,
+12.6,,,,POS_ARR_DELAY,
+12.15,21.52,Southwest Airlines ,,WN,88.05
+15.93,18.23,Frontier Airlines ,,F9,11.95
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

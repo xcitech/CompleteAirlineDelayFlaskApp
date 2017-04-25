@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,3354,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_MSY.js""
+    id=""8b202987-9b9b-4dcd-8923-7365a91af81e""
+    data-bokeh-model-id=""7e08ed80-49c5-4688-8bdb-4225bab74796""
+    data-bokeh-doc-id=""1806586d-ff91-43b5-8f6c-38e414aa4aa1""
+></script>",TAG,
+4.75,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+10.88,,,,PERCENT_DELAYED,
+4.9,,,,POS_ARR_DELAY,
+4.9,10.88,Alaska Airlines ,,AS,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

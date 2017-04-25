@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Houston,DEST-CITY,,
+,,George Bush Intercontinental,DEST_NAME,,
+,,1731,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_IAH.js""
+    id=""4cbc5bf9-6e3f-4c0d-b53a-83b86c90e354""
+    data-bokeh-model-id=""6d56e3fa-bff2-446e-94cb-e03a885f1112""
+    data-bokeh-doc-id=""69df5894-04b3-4381-b893-7719d784636d""
+></script>",TAG,,
+13.58,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+22.34,,,PERCENT_DELAYED,,
+14.8,,,POS_ARR_DELAY,,
+15.79,24.58,,NK,8.56,Spirit Air Lines
+16.48,24.34,,EV,42.27,ExpressJet Airlines 
+13.6,21.16,,OO,28.13,SkyWest Airlines 
+12.65,19.19,,UA,14.91,United Air Lines 
+12.5,17.92,,DL,5.91,Delta Air Lines 

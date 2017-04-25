@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1085,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_MIA.js""
+    id=""5936a068-2833-419f-8f33-ac5779317205""
+    data-bokeh-model-id=""28491548-9879-4975-8839-a509d4cc51ee""
+    data-bokeh-doc-id=""33842d51-239f-4810-aaf0-803becf3a39e""
+></script>",TAG,
+9.65,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+14.9,,,,PERCENT_DELAYED,
+10.97,,,,POS_ARR_DELAY,
+12.91,29.31,US Airways ,,US,7.65
+10.81,13.71,American Airlines ,,AA,92.35
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

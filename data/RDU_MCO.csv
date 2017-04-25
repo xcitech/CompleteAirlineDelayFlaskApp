@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Raleigh-durham,ORIGIN_CITY,,
+,,Raleigh Durham Intl,ORIGIN_NAME,,
+,,Orlando,DEST-CITY,,
+,,Orlando Intl,DEST_NAME,,
+,,862,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/RDU_MCO.js""
+    id=""f97f972c-7597-43f7-a0ab-26cb9884c58b""
+    data-bokeh-model-id=""20da8747-7bf4-422c-8432-f7d0f459678d""
+    data-bokeh-doc-id=""eab31329-50d0-47ef-9b7c-05684164ef82""
+></script>",TAG,,
+12.25,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+16.85,,,PERCENT_DELAYED,,
+11.74,,,POS_ARR_DELAY,,
+12.04,18.15,,WN,74.74,Southwest Airlines 
+9.32,17.86,,9E,2.22,Endeavor Air 
+19.1,16.67,,F9,1.59,Frontier Airlines 
+7.31,12.89,,FL,8.41,AirTran Airways Corporation
+11.23,10.96,,DL,12.06,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Boston,ORIGIN_CITY,,
+,,General Edward Lawrence Logan Intl,ORIGIN_NAME,,
+,,Cleveland,DEST-CITY,,
+,,Cleveland Hopkins Intl,DEST_NAME,,
+,,904,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/BOS_CLE.js""
+    id=""fb2cde62-ba5f-4687-b801-a1eda67ef99e""
+    data-bokeh-model-id=""e7a2e511-f60a-4e1f-8fd7-13186280c933""
+    data-bokeh-doc-id=""64a83ea1-0b7c-4d67-b79f-6b0215856a22""
+></script>",TAG,,
+10.11,,,DEP_DELAY,,
+4.0,,,AVG_FLIGHTS,,
+12.75,,,PERCENT_DELAYED,,
+9.44,,,POS_ARR_DELAY,,
+12.64,13.62,,NK,7.48,Spirit Air Lines
+9.83,13.12,,EV,61.98,ExpressJet Airlines 
+8.62,12.38,,UA,4.38,United Air Lines 
+8.21,12.22,,B6,22.53,JetBlue Airways
+4.7,8.38,,OO,3.62,SkyWest Airlines 

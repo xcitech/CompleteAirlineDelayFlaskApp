@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,2685,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_DAL.js""
+    id=""cc0ab820-bf67-4fc0-b4cb-f1dbcfbf727a""
+    data-bokeh-model-id=""422fa7ea-4e69-4654-88ca-4f6ba206c4d6""
+    data-bokeh-doc-id=""3125ca30-5f52-4044-9def-a304b8f96e56""
+></script>",TAG,
+13.74,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+32.92,,,,PERCENT_DELAYED,
+16.55,,,,POS_ARR_DELAY,
+16.55,32.92,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

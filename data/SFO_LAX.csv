@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,San Francisco,ORIGIN_CITY,,
+,,San Francisco Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,543,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SFO_LAX.js""
+    id=""a6842d98-7205-4c30-8db8-19469d398538""
+    data-bokeh-model-id=""994ac593-74b2-4ba0-aac7-d13fbfe8944d""
+    data-bokeh-doc-id=""cd559267-60fd-45e6-8e92-44aff7a3f127""
+></script>",TAG,,
+14.57,,,DEP_DELAY,,
+40.0,,,AVG_FLIGHTS,,
+26.0,,,PERCENT_DELAYED,,
+16.08,,,POS_ARR_DELAY,,
+21.65,34.08,,DL,10.11,Delta Air Lines 
+20.02,31.83,,WN,21.07,Southwest Airlines 
+15.46,23.83,,AA,14.5,American Airlines 
+13.64,22.5,,VX,22.09,Virgin America
+13.21,22.29,,UA,29.22,United Air Lines 

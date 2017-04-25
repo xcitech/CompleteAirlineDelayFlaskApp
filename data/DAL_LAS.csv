@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,1714,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_LAS.js""
+    id=""9d54104b-3ad8-4a19-9644-7762dfade2cd""
+    data-bokeh-model-id=""5f3b0130-a6a0-45a6-9bbb-02be28c8e9f2""
+    data-bokeh-doc-id=""f428ba78-f6b4-411c-8397-233e562bc82d""
+></script>",TAG,
+12.35,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+18.98,,,,PERCENT_DELAYED,
+11.41,,,,POS_ARR_DELAY,
+18.63,25.79,Virgin America,,VX,14.63
+10.18,17.82,Southwest Airlines ,,WN,85.37
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

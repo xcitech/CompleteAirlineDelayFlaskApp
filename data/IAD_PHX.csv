@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,3142,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_PHX.js""
+    id=""16b8d26c-fe6f-4717-8b74-91fb77044049""
+    data-bokeh-model-id=""47105cb1-2cd8-4301-86af-119e8e40f276""
+    data-bokeh-doc-id=""15eca392-dfae-4d98-95fc-3db0eee48e92""
+></script>",TAG,
+24.23,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+25.25,,,,PERCENT_DELAYED,
+20.55,,,,POS_ARR_DELAY,
+20.55,25.25,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

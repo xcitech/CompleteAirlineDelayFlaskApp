@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,1028,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_CMH.js""
+    id=""3e2d61c6-ae6a-4f9f-85ff-f6e731b4bba7""
+    data-bokeh-model-id=""303b402e-44dd-402e-8cb4-11812fdfcdad""
+    data-bokeh-doc-id=""ae390851-26e8-4b61-812d-020fdd38c558""
+></script>",TAG,
+10.1,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+11.22,,,,PERCENT_DELAYED,
+7.98,,,,POS_ARR_DELAY,
+7.98,11.24,Southwest Airlines ,,WN,99.86
+9.0,0.0,Endeavor Air ,,9E,0.14
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

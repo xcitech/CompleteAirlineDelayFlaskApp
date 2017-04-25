@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,1082,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_OAK.js""
+    id=""06f287cf-174b-4801-8c30-9a1f09d4764b""
+    data-bokeh-model-id=""d22c254b-7878-4671-91a8-443a65bb7ea3""
+    data-bokeh-doc-id=""a758da54-3c2e-4fc4-8262-c777dd1f39d4""
+></script>",TAG,
+11.47,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+21.45,,,,PERCENT_DELAYED,
+11.2,,,,POS_ARR_DELAY,
+15.0,28.33,Southwest Airlines ,,WN,59.06
+5.66,11.77,Alaska Airlines ,,AS,37.56
+6.49,8.89,SkyWest Airlines ,,OO,3.39
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,688,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_CLT.js""
+    id=""e5cb00ca-3d77-4835-a3a1-05e4c9d971d1""
+    data-bokeh-model-id=""6468ce94-ba4b-4558-bf1f-c945e6a8f555""
+    data-bokeh-doc-id=""0cb3d8cf-8ca7-47ed-b8e7-b6bc27f15c3d""
+></script>",TAG,
+6.2,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+11.95,,,,PERCENT_DELAYED,
+7.24,,,,POS_ARR_DELAY,
+12.61,21.74,Mesa Airlines ,,YV,3.51
+6.79,11.97,US Airways ,,US,56.13
+7.39,11.07,American Airlines ,,AA,40.36
+0.0,,,,,
+0.0,,,,,

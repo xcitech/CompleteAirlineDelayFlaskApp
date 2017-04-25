@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,4052,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_TPA.js""
+    id=""75d8fb8f-09be-4543-9960-76946e6d56d5""
+    data-bokeh-model-id=""7c9cde9e-5642-4693-83be-0c2e0a6f2c50""
+    data-bokeh-doc-id=""406d8c10-2fb9-4526-a302-4c8e36322937""
+></script>",TAG,
+5.51,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+12.33,,,,PERCENT_DELAYED,
+5.76,,,,POS_ARR_DELAY,
+5.76,12.33,Alaska Airlines ,,AS,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

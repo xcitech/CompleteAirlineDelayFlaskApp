@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,1959,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_HOU.js""
+    id=""0738adf7-0955-44be-a99f-7bf459c629ed""
+    data-bokeh-model-id=""c2bbc37f-aa31-4eae-bbf0-c6267561de82""
+    data-bokeh-doc-id=""c3f4db9e-0a8e-44c1-a034-8508043bbcbe""
+></script>",TAG,
+8.04,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+13.17,,,,PERCENT_DELAYED,
+8.28,,,,POS_ARR_DELAY,
+8.28,13.17,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

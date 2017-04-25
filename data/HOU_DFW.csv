@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,398,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_DFW.js""
+    id=""ce6b1a52-6a06-410b-8baa-7c58e8be843d""
+    data-bokeh-model-id=""26f4f178-6bc9-4ec7-96b2-e2cbcf4ad8cc""
+    data-bokeh-doc-id=""4c64d28e-2d6f-460f-94a8-a7d9355ada01""
+></script>",TAG,
+15.62,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+22.89,,,,PERCENT_DELAYED,
+17.32,,,,POS_ARR_DELAY,
+24.34,28.51,ExpressJet Airlines ,,EV,21.99
+14.86,21.8,Envoy Air,,MQ,63.0
+17.37,19.25,American Airlines ,,AA,15.01
+0.0,,,,,
+0.0,,,,,

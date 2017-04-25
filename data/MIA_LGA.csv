@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Miami,ORIGIN_CITY,,
+,,Miami Intl,ORIGIN_NAME,,
+,,New York,DEST-CITY,,
+,,La Guardia,DEST_NAME,,
+,,1769,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MIA_LGA.js""
+    id=""8ffe7482-4b03-4bee-b9ce-8ec449644543""
+    data-bokeh-model-id=""6cafcf96-45e3-4585-8a06-b1f9dee4d9d9""
+    data-bokeh-doc-id=""5253d637-99a3-4ecc-9202-dd7ebe3bbd16""
+></script>",TAG,,
+15.52,,,DEP_DELAY,,
+17.0,,,AVG_FLIGHTS,,
+24.15,,,PERCENT_DELAYED,,
+16.02,,,POS_ARR_DELAY,,
+102.67,66.67,,EV,0.02,ExpressJet Airlines 
+30.3,40.69,,F9,3.78,Frontier Airlines 
+18.05,23.73,,DL,32.05,Delta Air Lines 
+14.18,23.46,,AA,63.74,American Airlines 
+7.69,10.39,,US,0.4,US Airways 

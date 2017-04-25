@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,2143,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_MCI.js""
+    id=""3b503ec9-8232-43fc-ba12-2487a6f3eab2""
+    data-bokeh-model-id=""d0b74c64-1952-4826-97b9-c3ee87941e67""
+    data-bokeh-doc-id=""93c80369-b015-4658-9dbf-138e66fd6187""
+></script>",TAG,
+14.44,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+20.63,,,,PERCENT_DELAYED,
+11.78,,,,POS_ARR_DELAY,
+11.78,20.63,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,2016,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_MIA.js""
+    id=""34a75806-c193-4ae2-a636-771c78eca624""
+    data-bokeh-model-id=""80ea6f5b-62e7-4a85-8e87-415aee5a1714""
+    data-bokeh-doc-id=""135c06f2-0199-4ac1-a716-a82d139542ba""
+></script>",TAG,
+7.76,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+10.59,,,,PERCENT_DELAYED,
+8.36,,,,POS_ARR_DELAY,
+8.36,10.59,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

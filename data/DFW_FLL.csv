@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1799,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_FLL.js""
+    id=""029d5145-cf84-45ad-9131-71f5be8d44fa""
+    data-bokeh-model-id=""7c993f70-8c09-4f52-adb0-33315af5f0ec""
+    data-bokeh-doc-id=""66424ace-8643-460e-afb5-17f41c4166d0""
+></script>",TAG,
+12.74,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+23.44,,,,PERCENT_DELAYED,
+13.58,,,,POS_ARR_DELAY,
+16.13,27.85,Spirit Air Lines,,NK,16.83
+13.07,22.55,American Airlines ,,AA,83.17
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

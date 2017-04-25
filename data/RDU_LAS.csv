@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,3254,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_LAS.js""
+    id=""769bcab2-e47a-4bdc-b389-018f63722c52""
+    data-bokeh-model-id=""07bfc545-9861-44e3-b83a-a0ee9f685a25""
+    data-bokeh-doc-id=""f91f9d89-9b70-49d9-8c0f-2958f556226c""
+></script>",TAG,
+9.18,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.34,,,,PERCENT_DELAYED,
+8.18,,,,POS_ARR_DELAY,
+13.8,30.12,Delta Air Lines ,,DL,6.75
+7.77,15.34,Southwest Airlines ,,WN,93.25
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

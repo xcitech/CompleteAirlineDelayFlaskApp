@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Seattle,ORIGIN_CITY,,
+,,Seattle Tacoma Intl,ORIGIN_NAME,,
+,,Phoenix,DEST-CITY,,
+,,Phoenix Sky Harbor Intl,DEST_NAME,,
+,,1782,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SEA_PHX.js""
+    id=""fd440898-eb08-4b1e-8971-d41ce0776628""
+    data-bokeh-model-id=""23ee31c5-ba72-48cf-bff0-bf3764fdef53""
+    data-bokeh-doc-id=""fa77e5b7-d871-4c05-8133-ffff799010be""
+></script>",TAG,,
+8.28,,,DEP_DELAY,,
+16.0,,,AVG_FLIGHTS,,
+14.38,,,PERCENT_DELAYED,,
+8.46,,,POS_ARR_DELAY,,
+12.21,22.67,,WN,21.92,Southwest Airlines 
+9.91,14.11,,AA,13.11,American Airlines 
+7.9,13.54,,OO,10.18,SkyWest Airlines 
+6.54,12.46,,AS,32.91,Alaska Airlines 
+6.61,8.89,,US,19.77,US Airways 

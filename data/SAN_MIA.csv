@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,3644,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_MIA.js""
+    id=""80cf35ba-05e4-4c0b-b62b-27dee3095b1a""
+    data-bokeh-model-id=""53814ca1-0c85-4ec3-85e0-5861db48787a""
+    data-bokeh-doc-id=""f35b380b-e126-48cd-a920-28d9bfa1f03f""
+></script>",TAG,
+5.53,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+10.69,,,,PERCENT_DELAYED,
+6.37,,,,POS_ARR_DELAY,
+6.37,10.69,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

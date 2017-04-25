@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,1593,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_DEN.js""
+    id=""6fc0e0ab-b384-4b08-88b8-8818e8eb963d""
+    data-bokeh-model-id=""b05bd7fe-4e5c-43b5-8396-9fc0b911649c""
+    data-bokeh-doc-id=""b6992c5e-9531-4ca1-8988-19c0de939a1a""
+></script>",TAG,
+10.38,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+16.19,,,,PERCENT_DELAYED,
+10.25,,,,POS_ARR_DELAY,
+14.13,24.6,SkyWest Airlines ,,OO,7.42
+12.78,18.58,Frontier Airlines ,,F9,28.58
+9.53,18.01,Southwest Airlines ,,WN,33.49
+7.71,9.91,United Air Lines ,,UA,30.5
+0.0,,,,,

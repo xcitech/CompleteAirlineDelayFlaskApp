@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Detroit,DEST-CITY,,
+,,Detroit Metro Wayne Co,DEST_NAME,,
+,,1803,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_DTW.js""
+    id=""67ec685d-7a6c-4d7a-b8df-4af8b6bfcffc""
+    data-bokeh-model-id=""bbc34041-c353-4dea-a28e-36b1e74c3803""
+    data-bokeh-doc-id=""b9895dfa-5aee-4722-897c-2a23596063bc""
+></script>",TAG,,
+14.65,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+21.23,,,PERCENT_DELAYED,,
+13.81,,,POS_ARR_DELAY,,
+31.4,43.96,,NK,6.99,Spirit Air Lines
+15.66,27.93,,WN,25.61,Southwest Airlines 
+10.79,19.61,,F9,12.61,Frontier Airlines 
+10.68,15.07,,UA,10.32,United Air Lines 
+11.21,14.71,,DL,41.05,Delta Air Lines 

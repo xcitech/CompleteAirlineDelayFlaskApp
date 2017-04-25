@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,3453,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_SAN.js""
+    id=""32f9eb11-3ebe-451d-bd3d-663ca45c619d""
+    data-bokeh-model-id=""8c39a6fd-9b24-44ed-9126-9b021ede8b24""
+    data-bokeh-doc-id=""58fa194a-1595-4cf6-9295-7b2ae0c367eb""
+></script>",TAG,
+8.63,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+12.74,,,,PERCENT_DELAYED,
+7.26,,,,POS_ARR_DELAY,
+6.71,13.13,Southwest Airlines ,,WN,48.77
+7.79,12.37,Alaska Airlines ,,AS,51.23
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

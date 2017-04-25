@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,1107,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_SEA.js""
+    id=""963a7392-06f0-46d4-a32b-25cc75bed70b""
+    data-bokeh-model-id=""dab71a15-5cb5-460a-a2a6-7283c7e77001""
+    data-bokeh-doc-id=""ddb04471-54f7-497e-b8f0-0dd5baf1f94e""
+></script>",TAG,
+7.57,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+14.25,,,,PERCENT_DELAYED,
+8.42,,,,POS_ARR_DELAY,
+16.78,33.24,Southwest Airlines ,,WN,6.31
+8.11,14.17,Delta Air Lines ,,DL,58.69
+8.23,12.27,SkyWest Airlines ,,OO,14.57
+6.85,10.0,Alaska Airlines ,,AS,20.43
+0.0,,,,,

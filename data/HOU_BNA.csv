@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,1078,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_BNA.js""
+    id=""92cec56f-2f59-4f9f-b181-3085a4f4e6a6""
+    data-bokeh-model-id=""e5cfdb7a-bff7-4870-8a05-d11c43866308""
+    data-bokeh-doc-id=""df56a4a6-1464-465b-9418-9845101c3cb5""
+></script>",TAG,
+14.08,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+23.0,,,,PERCENT_DELAYED,
+12.78,,,,POS_ARR_DELAY,
+12.78,23.0,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

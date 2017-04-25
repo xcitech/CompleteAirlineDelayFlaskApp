@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,3909,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_EWR.js""
+    id=""3c4b39dc-d92b-43c1-9d62-48c97a30b1dc""
+    data-bokeh-model-id=""9cfe0c56-9a48-4c3b-8258-b1f41fde6d14""
+    data-bokeh-doc-id=""f2eb86e4-d0c0-4273-bde2-f3560b4d52e7""
+></script>",TAG,
+10.26,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+9.73,,,,PERCENT_DELAYED,
+7.21,,,,POS_ARR_DELAY,
+7.21,9.73,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

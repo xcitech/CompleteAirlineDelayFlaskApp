@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,San Jose,DEST-CITY,
+,,,Norman Y Mineta San Jose Intl,DEST_NAME,
+,,,4318,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_SJC.js""
+    id=""331e4ac9-7fc7-4756-b915-53490b1f1208""
+    data-bokeh-model-id=""6c524a8a-30be-4190-8eee-0c2f04f80451""
+    data-bokeh-doc-id=""709992cd-4a32-47d1-93c4-d66bec796fe3""
+></script>",TAG,
+12.53,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+28.31,,,,PERCENT_DELAYED,
+14.72,,,,POS_ARR_DELAY,
+14.72,28.31,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

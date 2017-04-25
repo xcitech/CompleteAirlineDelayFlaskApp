@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Detroit,DEST-CITY,
+,,,Detroit Metro Wayne Co,DEST_NAME,
+,,,3143,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_DTW.js""
+    id=""c5c1c830-4d0c-446b-99ee-2d4547084099""
+    data-bokeh-model-id=""25e2ae1f-3967-48a8-a072-643b5b393212""
+    data-bokeh-doc-id=""4c7b75ce-d06a-4ef8-a03b-1e2e55c55e10""
+></script>",TAG,
+5.87,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+9.6,,,,PERCENT_DELAYED,
+6.25,,,,POS_ARR_DELAY,
+6.25,9.6,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

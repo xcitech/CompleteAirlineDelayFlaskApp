@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Los Angeles,ORIGIN_CITY,,
+,,Los Angeles Intl,ORIGIN_NAME,,
+,,Austin,DEST-CITY,,
+,,Austin Bergstrom Intl,DEST_NAME,,
+,,1995,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LAX_AUS.js""
+    id=""9db8dd3d-fe69-451d-8f2b-fe165f45a3f2""
+    data-bokeh-model-id=""d7bcf83c-4c25-43bc-b232-a00c8905ce07""
+    data-bokeh-doc-id=""fee41770-a67b-4629-ac48-8f28f1302755""
+></script>",TAG,,
+11.76,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+18.6,,,PERCENT_DELAYED,,
+11.43,,,POS_ARR_DELAY,,
+13.09,24.39,,WN,24.43,Southwest Airlines 
+13.49,21.58,,OO,26.91,SkyWest Airlines 
+5.93,16.18,,UA,0.86,United Air Lines 
+9.61,14.11,,AA,46.8,American Airlines 
+5.39,8.86,,DL,1.0,Delta Air Lines 

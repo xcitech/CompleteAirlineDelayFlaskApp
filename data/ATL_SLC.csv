@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,2554,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_SLC.js""
+    id=""4e09889d-2715-40eb-a50a-40aced6df674""
+    data-bokeh-model-id=""e4239885-b1c2-43aa-8191-41bdd18d080b""
+    data-bokeh-doc-id=""66048286-76de-4478-b2a9-192adbb7ba9c""
+></script>",TAG,
+9.0,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+11.78,,,,PERCENT_DELAYED,
+7.42,,,,POS_ARR_DELAY,
+25.12,23.73,Frontier Airlines ,,F9,0.71
+7.29,11.69,Delta Air Lines ,,DL,99.29
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

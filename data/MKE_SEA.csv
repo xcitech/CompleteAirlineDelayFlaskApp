@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,2720,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_SEA.js""
+    id=""5d0769ad-5953-48fc-8482-bd0b53725895""
+    data-bokeh-model-id=""4e437a99-96df-4dbd-aa01-e7c2dff332ea""
+    data-bokeh-doc-id=""65ad82cb-2db9-45d0-9b7d-2b4614ae388f""
+></script>",TAG,
+8.43,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+13.19,,,,PERCENT_DELAYED,
+7.89,,,,POS_ARR_DELAY,
+8.16,14.09,Southwest Airlines ,,WN,73.81
+7.16,10.64,SkyWest Airlines ,,OO,26.19
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,848,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_MSP.js""
+    id=""dcdb4512-b802-49c7-9ad2-0a7a9f211543""
+    data-bokeh-model-id=""89de0625-2dc3-4767-bcbc-416539276f41""
+    data-bokeh-doc-id=""1053b59c-298c-44d2-afdd-81db383333c2""
+></script>",TAG,,
+9.08,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+15.14,,,PERCENT_DELAYED,,
+9.7,,,POS_ARR_DELAY,,
+14.5,50.0,,OO,0.02,SkyWest Airlines 
+63.4,40.0,,EV,0.06,ExpressJet Airlines 
+6.33,33.33,,9E,0.03,Endeavor Air 
+25.83,33.05,,NK,4.01,Spirit Air Lines
+8.99,14.36,,DL,95.87,Delta Air Lines 

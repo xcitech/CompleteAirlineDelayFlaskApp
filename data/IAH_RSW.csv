@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1384,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_RSW.js""
+    id=""a63b38c2-afe4-443a-b8a4-6c9caca9c08e""
+    data-bokeh-model-id=""06672a58-5015-451d-b2c0-9aa007338790""
+    data-bokeh-doc-id=""34bb1d16-cf20-49f0-985d-d538d823fc09""
+></script>",TAG,
+14.96,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+22.73,,,,PERCENT_DELAYED,
+13.46,,,,POS_ARR_DELAY,
+17.82,23.89,ExpressJet Airlines ,,EV,6.17
+12.03,23.42,SkyWest Airlines ,,OO,6.07
+13.25,22.6,United Air Lines ,,UA,87.76
+0.0,,,,,
+0.0,,,,,

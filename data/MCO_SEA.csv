@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,4106,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_SEA.js""
+    id=""f25abc78-8d15-41d6-97a6-4a2c485814a0""
+    data-bokeh-model-id=""96f4b3ac-87f3-4f64-b4e9-9bd0b390e1e0""
+    data-bokeh-doc-id=""2ec97289-c1fa-4d8d-9e34-9694ce665337""
+></script>",TAG,
+7.3,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+12.02,,,,PERCENT_DELAYED,
+6.76,,,,POS_ARR_DELAY,
+7.4,13.27,Alaska Airlines ,,AS,86.17
+2.77,4.22,Delta Air Lines ,,DL,13.83
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

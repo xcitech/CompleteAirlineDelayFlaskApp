@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,4155,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_MIA.js""
+    id=""d3f79237-d4a6-4f66-a90f-6ea215491cc0""
+    data-bokeh-model-id=""4de32b23-382b-434a-9e4b-09e28dfeccbf""
+    data-bokeh-doc-id=""febb0053-ca54-4b45-8c57-11b2d6fdde79""
+></script>",TAG,
+15.32,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+20.74,,,,PERCENT_DELAYED,
+15.76,,,,POS_ARR_DELAY,
+15.76,20.74,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

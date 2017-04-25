@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Philadelphia,DEST-CITY,
+,,,Philadelphia Intl,DEST_NAME,
+,,,3857,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_PHL.js""
+    id=""7f5546a3-c054-4acd-84ee-8fe0d8fde4af""
+    data-bokeh-model-id=""667569a4-46d9-455b-94a6-f2a15fcdde93""
+    data-bokeh-doc-id=""1d3818e8-28d3-410f-a043-feae6d443d1b""
+></script>",TAG,
+8.22,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+18.59,,,,PERCENT_DELAYED,
+9.24,,,,POS_ARR_DELAY,
+12.72,23.91,Spirit Air Lines,,NK,2.01
+8.94,18.8,US Airways ,,US,53.52
+9.11,18.37,American Airlines ,,AA,35.12
+10.71,17.13,Virgin America,,VX,9.35
+0.0,,,,,

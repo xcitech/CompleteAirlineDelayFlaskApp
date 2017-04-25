@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,2849,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_CLT.js""
+    id=""bb452787-58ca-48a6-87f8-43f737155c0d""
+    data-bokeh-model-id=""252c62ff-8f57-40b6-a31d-8aab29c18ea3""
+    data-bokeh-doc-id=""a01aeeaa-0384-438a-96de-d18960caa00e""
+></script>",TAG,
+6.43,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+15.65,,,,PERCENT_DELAYED,
+7.64,,,,POS_ARR_DELAY,
+8.48,17.04,American Airlines ,,AA,39.58
+7.09,14.75,US Airways ,,US,60.42
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1635,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_MIA.js""
+    id=""ffa9f921-82b0-455c-b2ed-9c9d10a41e36""
+    data-bokeh-model-id=""64d588d9-c04f-45f5-999c-ed47e7cd69ba""
+    data-bokeh-doc-id=""5ee0483e-9b1a-475d-93c8-d885dc374eb8""
+></script>",TAG,
+12.87,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+24.81,,,,PERCENT_DELAYED,
+15.77,,,,POS_ARR_DELAY,
+23.02,31.74,Frontier Airlines ,,F9,6.92
+13.92,24.66,US Airways ,,US,30.26
+15.86,24.12,American Airlines ,,AA,62.83
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,3317,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_LAS.js""
+    id=""f0df1440-0429-4aed-8d5c-e108743cbf55""
+    data-bokeh-model-id=""bda1942d-4fd6-466e-804d-74d160cd55ee""
+    data-bokeh-doc-id=""6de69d8d-52eb-481c-aa71-85aaf6a1fa81""
+></script>",TAG,
+13.97,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+19.22,,,,PERCENT_DELAYED,
+13.69,,,,POS_ARR_DELAY,
+26.93,35.73,Frontier Airlines ,,F9,11.83
+12.53,18.66,Southwest Airlines ,,WN,21.92
+11.72,16.46,United Air Lines ,,UA,66.26
+0.0,,,,,
+0.0,,,,,

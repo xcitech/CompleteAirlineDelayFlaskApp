@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Milwaukee,DEST-CITY,
+,,,General Mitchell Intl,DEST_NAME,
+,,,1164,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_MKE.js""
+    id=""959e2f3f-cf17-4899-ad7b-a5c03456c335""
+    data-bokeh-model-id=""d2d3948f-ddcd-4c18-bad6-889ccfac41a9""
+    data-bokeh-doc-id=""33b4af5e-8d23-43be-bacd-07e9e1276e4e""
+></script>",TAG,
+15.0,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+24.29,,,,PERCENT_DELAYED,
+15.58,,,,POS_ARR_DELAY,
+15.59,24.3,ExpressJet Airlines ,,EV,99.97
+0.0,0.0,United Air Lines ,,UA,0.03
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

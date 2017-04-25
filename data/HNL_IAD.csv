@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,7742,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_IAD.js""
+    id=""d1d0cdce-1a9f-4207-9d92-638833e1740f""
+    data-bokeh-model-id=""505307fd-de5f-4ce4-a5e9-a3fcad5c896a""
+    data-bokeh-doc-id=""143241e8-47be-4466-acc5-5e0b4030c4a0""
+></script>",TAG,
+12.93,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+9.66,,,,PERCENT_DELAYED,
+7.88,,,,POS_ARR_DELAY,
+7.88,9.66,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

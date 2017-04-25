@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,3179,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_PHX.js""
+    id=""3f6fbd79-2918-489e-8f24-1554c037b970""
+    data-bokeh-model-id=""f3818800-6cfd-4e0d-a40c-369aadf1754e""
+    data-bokeh-doc-id=""ad4227f0-5d47-40a0-8c79-0925366728c1""
+></script>",TAG,
+9.5,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+18.06,,,,PERCENT_DELAYED,
+10.65,,,,POS_ARR_DELAY,
+11.69,19.28,American Airlines ,,AA,38.67
+10.0,17.3,US Airways ,,US,61.33
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

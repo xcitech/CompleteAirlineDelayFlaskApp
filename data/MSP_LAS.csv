@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Minneapolis,ORIGIN_CITY,
+,,,Minneapolis St Paul Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,2088,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSP_LAS.js""
+    id=""dd2ba3f6-cc9d-48ce-a06d-15b9f49847c8""
+    data-bokeh-model-id=""7b6bffc6-15d2-4f90-a7ca-81e867e5d87b""
+    data-bokeh-doc-id=""31178c22-094a-4c8e-8134-20bc7ccb0428""
+></script>",TAG,
+9.36,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+16.54,,,,PERCENT_DELAYED,
+9.78,,,,POS_ARR_DELAY,
+22.24,37.67,Spirit Air Lines,,NK,12.06
+8.08,13.64,Delta Air Lines ,,DL,87.94
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

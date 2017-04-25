@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,3169,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_MIA.js""
+    id=""f1f1897b-f649-4dfd-ba52-afceb0979c33""
+    data-bokeh-model-id=""9b52bac9-b887-4215-8a3d-ae1e0ca24f70""
+    data-bokeh-doc-id=""b9b68480-260e-4d73-bd36-3e9abd26cccc""
+></script>",TAG,
+9.05,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.42,,,,PERCENT_DELAYED,
+10.59,,,,POS_ARR_DELAY,
+10.59,15.42,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

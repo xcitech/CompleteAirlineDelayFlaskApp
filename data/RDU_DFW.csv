@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,1705,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_DFW.js""
+    id=""ed00b62a-3c51-4aea-b29d-93e012deebf5""
+    data-bokeh-model-id=""f6531c5e-ee1a-4b4b-9088-bd51ea111bc7""
+    data-bokeh-doc-id=""5c9d4f5a-b1d5-4969-bb22-8240e528dc0d""
+></script>",TAG,
+12.47,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+16.8,,,,PERCENT_DELAYED,
+12.47,,,,POS_ARR_DELAY,
+12.47,16.8,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

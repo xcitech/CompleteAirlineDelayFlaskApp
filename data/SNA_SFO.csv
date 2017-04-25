@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,598,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_SFO.js""
+    id=""e708bf75-30b2-4346-9050-0929580660a7""
+    data-bokeh-model-id=""8574f722-2d3c-4632-8b6d-24cf22fc5262""
+    data-bokeh-doc-id=""6628f22f-361f-4881-abb6-4fdfc6b66ef5""
+></script>",TAG,
+17.85,,,,DEP_DELAY,
+12.0,,,,AVG_FLIGHTS,
+28.5,,,,PERCENT_DELAYED,
+17.6,,,,POS_ARR_DELAY,
+16.74,30.64,Southwest Airlines ,,WN,43.71
+18.53,28.17,SkyWest Airlines ,,OO,31.7
+18.09,25.48,United Air Lines ,,UA,24.14
+9.9,6.45,AirTran Airways Corporation,,FL,0.45
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,1057,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_IAH.js""
+    id=""e52b2928-b489-42f1-9237-1740a0930609""
+    data-bokeh-model-id=""17e2113e-3b41-47f1-a288-e018413bdabd""
+    data-bokeh-doc-id=""4da5830a-223e-4a2b-b5ab-3801b9c0cee7""
+></script>",TAG,
+12.64,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.63,,,,PERCENT_DELAYED,
+14.45,,,,POS_ARR_DELAY,
+15.96,21.28,SkyWest Airlines ,,OO,12.3
+14.48,20.89,ExpressJet Airlines ,,EV,78.79
+12.12,17.48,United Air Lines ,,UA,8.91
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,876,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_PDX.js""
+    id=""8fac68fb-73fb-4c45-bdf2-a8b86d2961c1""
+    data-bokeh-model-id=""e8ba8fe2-3597-44e9-bc0e-810429b98231""
+    data-bokeh-doc-id=""5dc38eb2-8531-477b-80d6-87405eb784ab""
+></script>",TAG,
+13.83,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+23.91,,,,PERCENT_DELAYED,
+12.09,,,,POS_ARR_DELAY,
+12.09,23.91,Southwest Airlines ,,WN,99.98
+0.0,0.0,Alaska Airlines ,,AS,0.02
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

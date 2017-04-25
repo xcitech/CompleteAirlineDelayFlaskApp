@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Las Vegas,ORIGIN_CITY,,
+,,Mc Carran Intl,ORIGIN_NAME,,
+,,Denver,DEST-CITY,,
+,,Denver Intl,DEST_NAME,,
+,,1010,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LAS_DEN.js""
+    id=""a54fd0d5-2e11-4189-ba25-1d9e18dbd0a2""
+    data-bokeh-model-id=""05c2bc93-25b6-4d32-8ea6-d73a9e94100c""
+    data-bokeh-doc-id=""64f7fd63-df0b-4a63-acf8-722496a7a779""
+></script>",TAG,,
+13.26,,,DEP_DELAY,,
+18.0,,,AVG_FLIGHTS,,
+19.58,,,PERCENT_DELAYED,,
+12.65,,,POS_ARR_DELAY,,
+12.37,22.13,,WN,44.4,Southwest Airlines 
+15.25,20.35,,F9,25.7,Frontier Airlines 
+14.1,20.07,,NK,6.03,Spirit Air Lines
+13.8,16.3,,OO,1.4,SkyWest Airlines 
+9.78,13.73,,UA,22.47,United Air Lines 

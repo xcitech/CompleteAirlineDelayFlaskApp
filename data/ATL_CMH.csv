@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Atlanta,ORIGIN_CITY,,
+,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,,
+,,Columbus,DEST-CITY,,
+,,Port Columbus Intl,DEST_NAME,,
+,,721,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ATL_CMH.js""
+    id=""0bd335f6-85a7-42be-85ed-566936158e50""
+    data-bokeh-model-id=""66dca1a3-da9e-4da6-bb14-f32dc2bef203""
+    data-bokeh-doc-id=""e2d88ede-6a9c-4ed6-8c2b-f68da133e04a""
+></script>",TAG,,
+9.61,,,DEP_DELAY,,
+10.0,,,AVG_FLIGHTS,,
+14.75,,,PERCENT_DELAYED,,
+8.5,,,POS_ARR_DELAY,,
+14.56,28.21,,EV,0.37,ExpressJet Airlines 
+10.88,20.62,,FL,6.37,AirTran Airways Corporation
+11.55,20.17,,WN,16.22,Southwest Airlines 
+7.63,13.06,,DL,77.04,Delta Air Lines 
+6.0,0.0,,OO,0.01,SkyWest Airlines 

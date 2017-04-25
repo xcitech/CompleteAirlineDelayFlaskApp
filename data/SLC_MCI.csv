@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,1477,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_MCI.js""
+    id=""236cda6c-303c-4c0b-a1aa-0a6b8c81b152""
+    data-bokeh-model-id=""37e7b67f-4948-4ef1-b47b-b25a51b6ad59""
+    data-bokeh-doc-id=""ef52b314-6b06-4e12-b0a6-c521b0e0b2ae""
+></script>",TAG,
+6.52,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+10.06,,,,PERCENT_DELAYED,
+6.67,,,,POS_ARR_DELAY,
+6.98,10.39,Delta Air Lines ,,DL,66.76
+6.04,9.39,SkyWest Airlines ,,OO,33.24
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

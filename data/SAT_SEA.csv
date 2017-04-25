@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,2855,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_SEA.js""
+    id=""ccdae5ad-2672-4603-92b1-9e9e6643147a""
+    data-bokeh-model-id=""260dd20d-f0e1-4073-8b13-89be6108c85b""
+    data-bokeh-doc-id=""65bd5e17-312c-4c24-a2b3-4f1f8514e3f7""
+></script>",TAG,
+3.84,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+7.7,,,,PERCENT_DELAYED,
+3.66,,,,POS_ARR_DELAY,
+3.66,7.7,Alaska Airlines ,,AS,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

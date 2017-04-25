@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Atlanta,ORIGIN_CITY,,
+,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,,
+,,Miami,DEST-CITY,,
+,,Miami Intl,DEST_NAME,,
+,,959,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ATL_MIA.js""
+    id=""6b47246e-2745-4f8e-8926-0a6d2fc84fae""
+    data-bokeh-model-id=""d58ae406-f3c4-4cdc-b8a9-f449e86203c2""
+    data-bokeh-doc-id=""34460a50-822a-46b7-9475-786bbd69e106""
+></script>",TAG,,
+8.89,,,DEP_DELAY,,
+16.0,,,AVG_FLIGHTS,,
+14.61,,,PERCENT_DELAYED,,
+8.79,,,POS_ARR_DELAY,,
+109.0,100.0,,EV,0.01,ExpressJet Airlines 
+19.01,28.97,,F9,3.07,Frontier Airlines 
+11.29,18.15,,MQ,8.44,Envoy Air
+8.95,14.1,,AA,19.15,American Airlines 
+7.98,13.68,,DL,69.34,Delta Air Lines 

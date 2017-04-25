@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Miami,ORIGIN_CITY,
+,,,Miami Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,329,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MIA_TPA.js""
+    id=""c29edb24-976d-4f72-bc45-3455dfe0473d""
+    data-bokeh-model-id=""9f28e892-ec12-4d2d-847f-d33515eefaca""
+    data-bokeh-doc-id=""22c8f1c2-b016-4bd5-835f-bc7e8b409ba4""
+></script>",TAG,
+11.13,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+19.51,,,,PERCENT_DELAYED,
+11.46,,,,POS_ARR_DELAY,
+11.68,19.71,American Airlines ,,AA,92.45
+8.78,17.07,US Airways ,,US,7.55
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

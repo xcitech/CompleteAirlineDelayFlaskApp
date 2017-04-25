@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,1076,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_STL.js""
+    id=""c3d3feee-90d1-4483-8970-2fce4bea5f6f""
+    data-bokeh-model-id=""33b7b770-b2c9-40b4-a3c7-df34eb0f4309""
+    data-bokeh-doc-id=""28597a11-73b9-4e42-abb4-7377c5a53c21""
+></script>",TAG,
+6.99,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.41,,,,PERCENT_DELAYED,
+8.58,,,,POS_ARR_DELAY,
+4.4,20.0,United Air Lines ,,UA,0.27
+9.37,16.11,SkyWest Airlines ,,OO,9.8
+8.51,15.32,ExpressJet Airlines ,,EV,89.92
+0.0,,,,,
+0.0,,,,,

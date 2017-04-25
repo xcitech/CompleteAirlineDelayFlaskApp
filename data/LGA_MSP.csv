@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,New York,ORIGIN_CITY,,
+,,La Guardia,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,1639,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LGA_MSP.js""
+    id=""7591b951-09eb-4345-8a3e-2f9716c3867a""
+    data-bokeh-model-id=""0e5097da-597b-44d6-92e1-b5c450a947e6""
+    data-bokeh-doc-id=""c879e646-e737-4e2b-ab07-116cb9e03015""
+></script>",TAG,,
+14.04,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+19.89,,,PERCENT_DELAYED,,
+14.21,,,POS_ARR_DELAY,,
+100.0,100.0,,9E,0.01,Endeavor Air 
+44.6,60.0,,AA,0.07,American Airlines 
+12.8,29.14,,MQ,8.89,Envoy Air
+14.29,18.97,,DL,90.81,Delta Air Lines 
+22.29,11.76,,EV,0.22,ExpressJet Airlines 

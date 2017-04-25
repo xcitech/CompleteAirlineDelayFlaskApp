@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Kansas City,DEST-CITY,,
+,,Kansas City Intl,DEST_NAME,,
+,,1010,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_MCI.js""
+    id=""5880fa43-e7e7-40d6-94fe-3140cc1f6faf""
+    data-bokeh-model-id=""da37b9eb-58f1-48c6-9636-d6d6856018c5""
+    data-bokeh-doc-id=""eb0f3949-78c1-45d7-80ab-3a6d54071858""
+></script>",TAG,,
+10.33,,,DEP_DELAY,,
+4.0,,,AVG_FLIGHTS,,
+16.63,,,PERCENT_DELAYED,,
+10.51,,,POS_ARR_DELAY,,
+17.26,26.82,,NK,15.72,Spirit Air Lines
+11.39,23.61,,OO,1.87,SkyWest Airlines 
+11.76,19.38,,EV,10.07,ExpressJet Airlines 
+8.82,13.86,,DL,72.1,Delta Air Lines 
+16.56,11.11,,9E,0.23,Endeavor Air 

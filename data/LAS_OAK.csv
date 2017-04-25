@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,654,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_OAK.js""
+    id=""06879f02-5d9b-4887-a22d-9f35f742d621""
+    data-bokeh-model-id=""99bfce0f-827a-4857-bf40-2d329069fa79""
+    data-bokeh-doc-id=""f759ffc3-c9b2-4ebb-9eb7-bf3a73fba354""
+></script>",TAG,
+15.84,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+25.14,,,,PERCENT_DELAYED,
+14.43,,,,POS_ARR_DELAY,
+21.12,31.77,Spirit Air Lines,,NK,11.62
+13.55,24.26,Southwest Airlines ,,WN,88.38
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

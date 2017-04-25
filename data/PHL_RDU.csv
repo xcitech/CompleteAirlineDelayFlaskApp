@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,542,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_RDU.js""
+    id=""eb3b09f5-f9e2-42a6-86d8-6faa27493092""
+    data-bokeh-model-id=""547419c8-d765-47e2-998f-e366ae7d26f2""
+    data-bokeh-doc-id=""c8e87448-2f03-4040-a33f-2e2dafcd8c50""
+></script>",TAG,
+10.23,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+19.61,,,,PERCENT_DELAYED,
+11.74,,,,POS_ARR_DELAY,
+11.52,21.07,American Airlines ,,AA,29.15
+11.96,19.54,US Airways ,,US,63.24
+11.14,15.81,Endeavor Air ,,9E,6.06
+9.05,10.0,Frontier Airlines ,,F9,1.55
+0.0,,,,,

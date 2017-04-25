@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,533,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_CLT.js""
+    id=""97cad495-8351-4409-b002-0105c4bc71b6""
+    data-bokeh-model-id=""02691ed3-0cdc-4fc9-86c5-18ff5727bdf1""
+    data-bokeh-doc-id=""6021813a-26dd-46c6-b862-e977118c08c4""
+></script>",TAG,
+6.72,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+15.54,,,,PERCENT_DELAYED,
+8.94,,,,POS_ARR_DELAY,
+9.8,16.14,American Airlines ,,AA,40.81
+8.34,15.13,US Airways ,,US,59.19
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

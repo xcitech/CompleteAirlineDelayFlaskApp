@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,San Antonio,DEST-CITY,
+,,,San Antonio Intl,DEST_NAME,
+,,,1760,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_SAT.js""
+    id=""4e2d0532-a687-4e3f-ada1-03a03d4bae60""
+    data-bokeh-model-id=""4a77a649-232a-4632-b741-7c7c9409d16c""
+    data-bokeh-doc-id=""d62e33fd-7dbd-44ce-a99a-3e4122702b9e""
+></script>",TAG,
+10.0,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.91,,,,PERCENT_DELAYED,
+10.87,,,,POS_ARR_DELAY,
+12.04,22.0,Mesa Airlines ,,YV,16.77
+11.3,19.81,US Airways ,,US,43.33
+9.91,16.64,American Airlines ,,AA,39.91
+0.0,,,,,
+0.0,,,,,

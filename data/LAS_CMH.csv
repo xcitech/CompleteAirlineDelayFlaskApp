@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,2844,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_CMH.js""
+    id=""8c86b062-91e5-4b93-8a95-edeeb024989c""
+    data-bokeh-model-id=""18472a93-ea33-45d0-9731-d20d2aa055e1""
+    data-bokeh-doc-id=""21a50a34-0398-4937-8678-8a00ab897593""
+></script>",TAG,
+13.94,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+19.95,,,,PERCENT_DELAYED,
+11.04,,,,POS_ARR_DELAY,
+17.62,33.33,Frontier Airlines ,,F9,4.24
+10.75,19.36,Southwest Airlines ,,WN,95.76
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

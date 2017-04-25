@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Phoenix,DEST-CITY,,
+,,Phoenix Sky Harbor Intl,DEST_NAME,,
+,,2314,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_PHX.js""
+    id=""6838d532-dbcc-4b50-8bcd-8d0275e57a0c""
+    data-bokeh-model-id=""8de82005-0743-4a61-ab8f-85e9d9780a67""
+    data-bokeh-doc-id=""ed7bf521-56e5-42f7-96a5-050661bec8e6""
+></script>",TAG,,
+14.03,,,DEP_DELAY,,
+13.0,,,AVG_FLIGHTS,,
+22.27,,,PERCENT_DELAYED,,
+13.81,,,POS_ARR_DELAY,,
+27.28,45.56,,NK,1.75,Spirit Air Lines
+23.79,29.08,,F9,4.58,Frontier Airlines 
+16.67,25.86,,UA,24.27,United Air Lines 
+12.49,20.75,,AA,44.98,American Airlines 
+10.56,18.55,,US,24.42,US Airways 

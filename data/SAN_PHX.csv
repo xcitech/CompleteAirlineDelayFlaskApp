@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,489,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_PHX.js""
+    id=""5df9d70f-aab9-4389-ae99-c98a193d88a8""
+    data-bokeh-model-id=""008ff799-767f-40ee-8208-179dcb27cbb7""
+    data-bokeh-doc-id=""761da01a-38c0-44d9-b83e-b7ab741b5224""
+></script>",TAG,
+11.12,,,,DEP_DELAY,
+15.0,,,,AVG_FLIGHTS,
+19.71,,,,PERCENT_DELAYED,
+10.8,,,,POS_ARR_DELAY,
+12.77,24.64,Southwest Airlines ,,WN,65.76
+9.16,12.24,American Airlines ,,AA,13.3
+5.67,8.98,US Airways ,,US,20.94
+0.0,,,,,
+0.0,,,,,

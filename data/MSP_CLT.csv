@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Minneapolis,ORIGIN_CITY,,
+,,Minneapolis St Paul Intl,ORIGIN_NAME,,
+,,Charlotte,DEST-CITY,,
+,,Charlotte Douglas Intl,DEST_NAME,,
+,,1496,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MSP_CLT.js""
+    id=""339d4c6f-6b4f-4473-bac4-c42db6717032""
+    data-bokeh-model-id=""2587f2fb-c0fb-4c25-939d-9acbdf1e0f3e""
+    data-bokeh-doc-id=""dbb6b0ed-d733-48d4-b50c-84a7e91c737c""
+></script>",TAG,,
+6.86,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+14.97,,,PERCENT_DELAYED,,
+8.48,,,POS_ARR_DELAY,,
+9.0,27.85,,9E,1.16,Endeavor Air 
+12.45,16.59,,EV,3.02,ExpressJet Airlines 
+8.56,15.12,,DL,33.73,Delta Air Lines 
+8.0,15.04,,US,38.51,US Airways 
+8.8,14.08,,AA,22.91,American Airlines 

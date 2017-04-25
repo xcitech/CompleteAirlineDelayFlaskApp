@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,3211,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_PHX.js""
+    id=""4386cc8d-bc86-450a-9b36-e2ea4c5bdec6""
+    data-bokeh-model-id=""b16d6b3a-9121-4315-94ec-4849a6cc44e3""
+    data-bokeh-doc-id=""a1d1fd50-3578-4cc3-993c-7b8b6ee1847d""
+></script>",TAG,
+12.84,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+21.54,,,,PERCENT_DELAYED,
+12.41,,,,POS_ARR_DELAY,
+12.65,24.04,Southwest Airlines ,,WN,51.79
+13.86,21.93,American Airlines ,,AA,18.72
+11.08,16.91,US Airways ,,US,29.5
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Atlanta,ORIGIN_CITY,,
+,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,,
+,,Indianapolis,DEST-CITY,,
+,,Indianapolis Intl,DEST_NAME,,
+,,696,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ATL_IND.js""
+    id=""289ca83c-28e4-4949-9077-95c4b558aba0""
+    data-bokeh-model-id=""ed195514-239f-4eaf-9acb-37c8172c2da7""
+    data-bokeh-doc-id=""7c2def6c-b40d-46bc-925f-1e30c5c6e5c4""
+></script>",TAG,,
+10.47,,,DEP_DELAY,,
+11.0,,,AVG_FLIGHTS,,
+15.93,,,PERCENT_DELAYED,,
+9.29,,,POS_ARR_DELAY,,
+19.5,50.0,,9E,0.02,Endeavor Air 
+25.42,35.06,,F9,2.25,Frontier Airlines 
+12.66,22.8,,WN,14.79,Southwest Airlines 
+7.89,15.87,,FL,11.75,AirTran Airways Corporation
+8.31,13.89,,DL,71.19,Delta Air Lines 

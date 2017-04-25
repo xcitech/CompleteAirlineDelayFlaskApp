@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Sacramento,ORIGIN_CITY,
+,,,Sacramento Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,138,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SMF_SFO.js""
+    id=""c32b4f60-a70c-4867-af76-176d2334ec5a""
+    data-bokeh-model-id=""676919d5-525e-491a-afec-e17b43f9359f""
+    data-bokeh-doc-id=""faa1bfc1-1460-4b4d-bd34-d9f02b550872""
+></script>",TAG,
+19.9,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+30.73,,,,PERCENT_DELAYED,
+21.6,,,,POS_ARR_DELAY,
+21.6,30.73,SkyWest Airlines ,,OO,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

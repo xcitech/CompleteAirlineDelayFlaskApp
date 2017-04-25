@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,2812,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_MDW.js""
+    id=""4672579f-bd5e-459d-ad12-a6de0cd16ebb""
+    data-bokeh-model-id=""3f5077b2-e686-44ee-be9c-d9992212f5d6""
+    data-bokeh-doc-id=""c198381b-96f2-4856-ad66-e379b6f720fb""
+></script>",TAG,
+15.45,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+24.6,,,,PERCENT_DELAYED,
+12.55,,,,POS_ARR_DELAY,
+12.55,24.6,Southwest Airlines ,,WN,99.98
+0.0,0.0,AirTran Airways Corporation,,FL,0.02
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

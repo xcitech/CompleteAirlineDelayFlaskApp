@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,981,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_MDW.js""
+    id=""c054e8fc-dfc3-4a7c-813d-70a2e7df42e1""
+    data-bokeh-model-id=""de84885b-638f-4258-8467-2fbc8c5b0dd8""
+    data-bokeh-doc-id=""ebe12304-3eb8-45f5-aa7e-9cde73e2cf02""
+></script>",TAG,
+13.76,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+21.85,,,,PERCENT_DELAYED,
+12.76,,,,POS_ARR_DELAY,
+12.76,21.85,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

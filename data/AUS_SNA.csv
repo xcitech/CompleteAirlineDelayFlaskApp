@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Santa Ana,DEST-CITY,
+,,,John Wayne Arpt Orange Co,DEST_NAME,
+,,,1942,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_SNA.js""
+    id=""9b277fd6-ac47-4d77-a4b9-2771743ad826""
+    data-bokeh-model-id=""7725a684-bf8d-4cb0-b503-ea4bbef4fe7f""
+    data-bokeh-doc-id=""8cbf26bf-40fb-472e-9a4f-cb40a134be29""
+></script>",TAG,
+8.56,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+12.09,,,,PERCENT_DELAYED,
+8.09,,,,POS_ARR_DELAY,
+8.09,12.09,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

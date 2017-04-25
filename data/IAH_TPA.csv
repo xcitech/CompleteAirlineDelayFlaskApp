@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,1265,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_TPA.js""
+    id=""48b50271-d223-4dc4-82c6-ad18bd14fcc8""
+    data-bokeh-model-id=""24808c60-22ce-4532-9981-059812c4488a""
+    data-bokeh-doc-id=""1f9cb8f9-12cd-4bd8-9403-084d9826bfca""
+></script>",TAG,
+13.53,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+21.27,,,,PERCENT_DELAYED,
+12.77,,,,POS_ARR_DELAY,
+25.33,42.77,Spirit Air Lines,,NK,8.63
+11.59,19.24,United Air Lines ,,UA,91.37
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

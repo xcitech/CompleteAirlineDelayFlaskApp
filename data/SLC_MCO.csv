@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,3104,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_MCO.js""
+    id=""864c0d3d-d5e6-47fe-b55d-5cb16fb9be82""
+    data-bokeh-model-id=""a67b6d35-1c8d-4156-8429-5f51a4c32a40""
+    data-bokeh-doc-id=""1244eac2-31fb-4975-b887-a57c9834aa32""
+></script>",TAG,
+9.64,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+14.4,,,,PERCENT_DELAYED,
+9.05,,,,POS_ARR_DELAY,
+16.48,27.72,JetBlue Airways,,B6,19.8
+7.21,11.12,Delta Air Lines ,,DL,80.2
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

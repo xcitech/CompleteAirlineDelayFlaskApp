@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,2000,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_MCI.js""
+    id=""736710fa-4321-4e1d-a0e0-45b910f0d48b""
+    data-bokeh-model-id=""c417d9e7-ed5c-4aef-b7ab-f5b5ab5db1da""
+    data-bokeh-doc-id=""f891d545-8652-4eab-a4f0-b82121014383""
+></script>",TAG,
+12.3,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+17.12,,,,PERCENT_DELAYED,
+10.5,,,,POS_ARR_DELAY,
+10.5,17.12,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

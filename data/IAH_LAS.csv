@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,1963,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_LAS.js""
+    id=""47f2a095-ed0a-4072-ac1c-301e9dac5425""
+    data-bokeh-model-id=""6693bf4e-bf85-4fce-9d84-7f7d552af998""
+    data-bokeh-doc-id=""14e301fa-8e1b-42ca-a5f8-c7a1745cde31""
+></script>",TAG,
+15.85,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+19.59,,,,PERCENT_DELAYED,
+13.11,,,,POS_ARR_DELAY,
+21.75,32.0,Spirit Air Lines,,NK,11.89
+17.13,21.94,Frontier Airlines ,,F9,3.5
+11.73,17.75,United Air Lines ,,UA,84.61
+0.0,,,,,
+0.0,,,,,

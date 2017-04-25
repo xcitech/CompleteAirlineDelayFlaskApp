@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,3459,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_PHX.js""
+    id=""29873534-3e31-45b5-b77a-7c22ab57c8e2""
+    data-bokeh-model-id=""f59338a4-c5d0-42e2-aa40-95840a8d25d5""
+    data-bokeh-doc-id=""7de544cb-d2d7-41ca-9df5-0dac3eef1875""
+></script>",TAG,
+13.36,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+20.5,,,,PERCENT_DELAYED,
+13.78,,,,POS_ARR_DELAY,
+16.43,26.87,JetBlue Airways,,B6,15.23
+14.06,21.99,US Airways ,,US,29.8
+13.58,18.98,Delta Air Lines ,,DL,30.67
+12.01,16.61,American Airlines ,,AA,24.3
+0.0,,,,,

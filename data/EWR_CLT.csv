@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,851,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_CLT.js""
+    id=""26a7b724-6623-4c4e-b6eb-ed45ca24af64""
+    data-bokeh-model-id=""63f7c1e8-05cd-4ef7-8332-44fbbece0e53""
+    data-bokeh-doc-id=""467e098b-8f36-44f0-9783-8ac55240c1ae""
+></script>",TAG,
+10.21,,,,DEP_DELAY,
+12.0,,,,AVG_FLIGHTS,
+16.92,,,,PERCENT_DELAYED,
+11.18,,,,POS_ARR_DELAY,
+16.54,26.51,ExpressJet Airlines ,,EV,26.78
+10.68,13.96,American Airlines ,,AA,28.57
+8.34,13.11,US Airways ,,US,44.28
+1.81,6.25,United Air Lines ,,UA,0.37
+0.0,,,,,

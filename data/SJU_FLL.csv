@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1684,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_FLL.js""
+    id=""16c797b8-b1bf-4ad8-9ba6-d88b1f8a8eb1""
+    data-bokeh-model-id=""ddc0ff03-02b4-4407-be13-c1c8df1eb27c""
+    data-bokeh-doc-id=""8dd25c8a-abaf-4277-abae-5ba12767d39d""
+></script>",TAG,
+11.39,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+17.79,,,,PERCENT_DELAYED,
+10.62,,,,POS_ARR_DELAY,
+14.2,23.23,Spirit Air Lines,,NK,7.5
+11.93,19.97,JetBlue Airways,,B6,69.86
+5.42,9.3,Southwest Airlines ,,WN,22.29
+3.86,6.9,AirTran Airways Corporation,,FL,0.34
+0.0,,,,,

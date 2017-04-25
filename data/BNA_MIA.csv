@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1300,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_MIA.js""
+    id=""9a22800e-5916-4fa0-a999-3ee77a026bcf""
+    data-bokeh-model-id=""da9b9c9e-8e5c-4e3e-9fdf-5b92ca28c40e""
+    data-bokeh-doc-id=""f7472544-5013-417c-b196-38f7040ea62f""
+></script>",TAG,
+9.52,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.94,,,,PERCENT_DELAYED,
+10.7,,,,POS_ARR_DELAY,
+11.87,21.28,Envoy Air,,MQ,59.47
+8.98,10.58,American Airlines ,,AA,40.53
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

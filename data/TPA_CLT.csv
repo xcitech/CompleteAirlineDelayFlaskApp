@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,819,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_CLT.js""
+    id=""000b8539-007e-48a9-99d0-bdd369c81605""
+    data-bokeh-model-id=""c8f1ac9c-beb8-4c81-b9a8-f041db1fb056""
+    data-bokeh-doc-id=""b0ee92b5-ca88-429d-ba1f-65ff2d915a2c""
+></script>",TAG,
+7.11,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+12.39,,,,PERCENT_DELAYED,
+7.79,,,,POS_ARR_DELAY,
+7.6,12.7,US Airways ,,US,60.54
+8.07,11.92,American Airlines ,,AA,39.46
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Pittsburgh,DEST-CITY,,
+,,Pittsburgh Intl,DEST_NAME,,
+,,662,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_PIT.js""
+    id=""be76e4cd-e0e2-4bc8-bbbb-b1d009e62e97""
+    data-bokeh-model-id=""216918e6-a780-42c7-b061-c62c8127461e""
+    data-bokeh-doc-id=""6838f477-cd07-4bd1-b3a3-61663609b595""
+></script>",TAG,,
+15.41,,,DEP_DELAY,,
+5.0,,,AVG_FLIGHTS,,
+24.86,,,PERCENT_DELAYED,,
+15.47,,,POS_ARR_DELAY,,
+20.14,30.8,,EV,12.97,ExpressJet Airlines 
+17.72,28.55,,OO,9.55,SkyWest Airlines 
+13.62,25.51,,MQ,29.69,Envoy Air
+22.39,25.32,,YV,1.32,Mesa Airlines 
+14.61,22.02,,UA,45.41,United Air Lines 

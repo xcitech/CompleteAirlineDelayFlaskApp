@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,4157,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_BOS.js""
+    id=""d67f2269-b23b-457f-b7d1-bd128000df1e""
+    data-bokeh-model-id=""bbe880ef-b45f-486f-bc79-40d97c3b7eac""
+    data-bokeh-doc-id=""917b67fb-f83c-4a78-accb-dc5a15709ae0""
+></script>",TAG,
+8.49,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+15.84,,,,PERCENT_DELAYED,
+9.49,,,,POS_ARR_DELAY,
+11.74,19.25,JetBlue Airways,,B6,64.75
+5.35,9.58,Alaska Airlines ,,AS,35.25
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

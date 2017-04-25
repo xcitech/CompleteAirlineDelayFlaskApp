@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Midway Intl,ORIGIN_NAME,,
+,,Detroit,DEST-CITY,,
+,,Detroit Metro Wayne Co,DEST_NAME,,
+,,367,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MDW_DTW.js""
+    id=""f942060a-d200-4ba0-8e49-cc48aa59d4bd""
+    data-bokeh-model-id=""5e9d7790-cb78-4902-8fbb-9ba2aff34bfd""
+    data-bokeh-doc-id=""525d27b4-30a6-4b88-b99a-5af99eba227f""
+></script>",TAG,,
+14.19,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+21.34,,,PERCENT_DELAYED,,
+13.47,,,POS_ARR_DELAY,,
+13.51,24.26,,WN,56.65,Southwest Airlines 
+14.78,18.93,,EV,32.54,ExpressJet Airlines 
+15.33,15.99,,OO,3.07,SkyWest Airlines 
+9.23,13.46,,DL,0.59,Delta Air Lines 
+6.76,12.16,,9E,7.14,Endeavor Air 

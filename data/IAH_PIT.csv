@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,1798,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_PIT.js""
+    id=""651fbef6-634f-44a5-9b08-959164602e64""
+    data-bokeh-model-id=""c7de0fc6-e694-4ba9-97a3-686f366e062f""
+    data-bokeh-doc-id=""c7c33e02-a6ab-4c2b-bc29-806065a16f46""
+></script>",TAG,
+11.51,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.98,,,,PERCENT_DELAYED,
+9.96,,,,POS_ARR_DELAY,
+10.9,19.19,SkyWest Airlines ,,OO,17.29
+7.11,15.52,ExpressJet Airlines ,,EV,16.1
+10.4,15.25,United Air Lines ,,UA,66.61
+0.0,,,,,
+0.0,,,,,

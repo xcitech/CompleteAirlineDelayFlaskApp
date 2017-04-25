@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Myers,ORIGIN_CITY,
+,,,Southwest Florida Intl,ORIGIN_NAME,
+,,,Atlanta,DEST-CITY,
+,,,Hartsfield Jackson Atlanta Intl,DEST_NAME,
+,,,831,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RSW_ATL.js""
+    id=""75f3be77-be6c-4063-8bbf-d8e0207d52ad""
+    data-bokeh-model-id=""c24c37a9-3746-4875-adab-7b17f501cffb""
+    data-bokeh-doc-id=""98f908b3-a414-44f3-9781-70dd953fc332""
+></script>",TAG,
+8.1,,,,DEP_DELAY,
+12.0,,,,AVG_FLIGHTS,
+12.2,,,,PERCENT_DELAYED,
+8.27,,,,POS_ARR_DELAY,
+15.43,26.39,Spirit Air Lines,,NK,1.7
+11.32,20.19,Southwest Airlines ,,WN,14.03
+8.09,11.94,AirTran Airways Corporation,,FL,12.62
+7.54,10.34,Delta Air Lines ,,DL,71.65
+0.0,,,,,

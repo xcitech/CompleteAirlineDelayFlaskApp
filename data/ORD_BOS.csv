@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Boston,DEST-CITY,,
+,,General Edward Lawrence Logan Intl,DEST_NAME,,
+,,1391,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_BOS.js""
+    id=""3f1c58b0-4408-4400-885a-0025a12583c9""
+    data-bokeh-model-id=""2994f76c-222d-4039-9224-4ee3231e4b03""
+    data-bokeh-doc-id=""9b034c23-b50e-4fe0-9d85-f4c7631b2a7f""
+></script>",TAG,,
+16.74,,,DEP_DELAY,,
+19.0,,,AVG_FLIGHTS,,
+24.59,,,PERCENT_DELAYED,,
+16.51,,,POS_ARR_DELAY,,
+30.52,45.61,,NK,1.61,Spirit Air Lines
+17.38,26.71,,OO,4.41,SkyWest Airlines 
+18.07,25.56,,UA,32.83,United Air Lines 
+19.86,24.73,,B6,14.39,JetBlue Airways
+13.82,22.98,,AA,46.33,American Airlines 

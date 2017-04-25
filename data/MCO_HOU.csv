@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,1364,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_HOU.js""
+    id=""a9f0394f-cdf7-4f3b-aefe-9917bb8ee0b1""
+    data-bokeh-model-id=""28678019-71a1-404a-b998-214f3a378476""
+    data-bokeh-doc-id=""f346a624-b880-44f6-bb12-5bc3fa83a439""
+></script>",TAG,
+12.4,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.48,,,,PERCENT_DELAYED,
+11.45,,,,POS_ARR_DELAY,
+11.48,20.52,Southwest Airlines ,,WN,99.23
+7.46,14.29,AirTran Airways Corporation,,FL,0.77
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

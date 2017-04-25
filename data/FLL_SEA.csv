@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,4369,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_SEA.js""
+    id=""1c6c00a4-5a54-4e32-afd5-d2c18f0f2150""
+    data-bokeh-model-id=""eb18bad3-a447-473e-8fdc-363df2e44382""
+    data-bokeh-doc-id=""e09a663e-0e12-4172-a0cc-56839f35fd88""
+></script>",TAG,
+10.08,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.23,,,,PERCENT_DELAYED,
+9.91,,,,POS_ARR_DELAY,
+9.91,18.23,Alaska Airlines ,,AS,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

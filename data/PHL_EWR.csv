@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,129,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_EWR.js""
+    id=""b2cf4772-6b4d-44c8-b659-744895b28034""
+    data-bokeh-model-id=""43533902-e5ac-4050-b555-bd353b17fdce""
+    data-bokeh-doc-id=""fc7ada51-6a08-4b9a-a1c4-186837bb55f9""
+></script>",TAG,
+14.0,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+50.0,,,,PERCENT_DELAYED,
+18.75,,,,POS_ARR_DELAY,
+18.75,50.0,US Airways ,,US,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

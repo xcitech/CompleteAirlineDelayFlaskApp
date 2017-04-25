@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,2783,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_MDW.js""
+    id=""3d8fa298-3b57-4e91-932c-e95e37e4c002""
+    data-bokeh-model-id=""67f12646-3ae2-4c0f-b0d2-61050b2d8ee4""
+    data-bokeh-doc-id=""5f23d053-0890-4c18-90ca-f1e26b1cbd15""
+></script>",TAG,
+10.27,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+19.58,,,,PERCENT_DELAYED,
+10.15,,,,POS_ARR_DELAY,
+10.15,19.58,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

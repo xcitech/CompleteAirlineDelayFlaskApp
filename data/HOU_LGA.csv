@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,2296,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_LGA.js""
+    id=""cb2f2951-d4d8-4f17-8bf6-e6bcc75e01f6""
+    data-bokeh-model-id=""e31c8176-0b57-4a51-909c-31975d40b4eb""
+    data-bokeh-doc-id=""5fc9d7cc-7810-464b-89de-9ea2461cb9df""
+></script>",TAG,
+20.98,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+30.93,,,,PERCENT_DELAYED,
+19.5,,,,POS_ARR_DELAY,
+19.5,30.93,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

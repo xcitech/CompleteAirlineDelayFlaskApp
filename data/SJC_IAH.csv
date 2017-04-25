@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Jose,ORIGIN_CITY,
+,,,Norman Y Mineta San Jose Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,2584,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJC_IAH.js""
+    id=""7c455fb7-9c60-41db-85e9-24a4fa9eb368""
+    data-bokeh-model-id=""baede270-720d-4c95-9f9d-8d1891049d89""
+    data-bokeh-doc-id=""011b70ae-70ea-493f-8d31-f2fc76217415""
+></script>",TAG,
+7.2,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+9.51,,,,PERCENT_DELAYED,
+6.41,,,,POS_ARR_DELAY,
+6.41,9.51,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,2588,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_BOS.js""
+    id=""75c1b35f-8d79-4424-a45a-9f10ffc14f68""
+    data-bokeh-model-id=""b33672d8-f8af-4a6f-8a5d-afaf5d143f0c""
+    data-bokeh-doc-id=""d064766e-d06c-41a6-9709-e332fb45b7f4""
+></script>",TAG,
+17.19,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.93,,,,PERCENT_DELAYED,
+13.91,,,,POS_ARR_DELAY,
+13.33,23.34,Southwest Airlines ,,WN,58.41
+14.72,22.36,JetBlue Airways,,B6,41.59
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

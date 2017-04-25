@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Fort Myers,DEST-CITY,,
+,,Southwest Florida Intl,DEST_NAME,,
+,,1750,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_RSW.js""
+    id=""258fc960-7ada-4a08-affe-7a420773bf51""
+    data-bokeh-model-id=""37f529d3-50a0-45f9-99c1-70245431e958""
+    data-bokeh-doc-id=""cf728280-ecf6-4db6-85ab-2179545eede6""
+></script>",TAG,,
+10.35,,,DEP_DELAY,,
+4.0,,,AVG_FLIGHTS,,
+17.43,,,PERCENT_DELAYED,,
+11.05,,,POS_ARR_DELAY,,
+39.12,39.02,,FL,0.93,AirTran Airways Corporation
+21.72,30.92,,NK,21.62,Spirit Air Lines
+23.91,27.27,,WN,0.25,Southwest Airlines 
+12.39,19.1,,F9,2.02,Frontier Airlines 
+7.55,13.2,,DL,75.19,Delta Air Lines 

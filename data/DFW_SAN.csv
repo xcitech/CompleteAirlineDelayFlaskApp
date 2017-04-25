@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,1881,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_SAN.js""
+    id=""67ae2863-0502-4ac5-9387-ea830137b052""
+    data-bokeh-model-id=""fa56f694-0fcf-4125-9de4-ba3481199a6f""
+    data-bokeh-doc-id=""2ef4afb7-071d-4507-bb91-b5c304a086ef""
+></script>",TAG,
+14.42,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+22.28,,,,PERCENT_DELAYED,
+14.16,,,,POS_ARR_DELAY,
+14.25,22.59,American Airlines ,,AA,94.09
+12.62,17.3,Spirit Air Lines,,NK,5.91
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

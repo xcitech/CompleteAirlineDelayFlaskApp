@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Santa Ana,ORIGIN_CITY,,
+,,John Wayne Arpt Orange Co,ORIGIN_NAME,,
+,,Denver,DEST-CITY,,
+,,Denver Intl,DEST_NAME,,
+,,1360,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SNA_DEN.js""
+    id=""66c86a89-94ed-49dc-8b66-33aa81d9939a""
+    data-bokeh-model-id=""43b82149-9302-44fa-abf2-77cc0ace407e""
+    data-bokeh-doc-id=""4f581d18-20ff-4b6a-a759-9aaab87462c2""
+></script>",TAG,,
+10.83,,,DEP_DELAY,,
+10.0,,,AVG_FLIGHTS,,
+17.04,,,PERCENT_DELAYED,,
+9.93,,,POS_ARR_DELAY,,
+12.19,21.44,,OO,6.55,SkyWest Airlines 
+10.04,19.6,,WN,38.28,Southwest Airlines 
+5.9,16.13,,FL,0.56,AirTran Airways Corporation
+9.6,15.1,,F9,25.62,Frontier Airlines 
+9.65,14.38,,UA,28.98,United Air Lines 

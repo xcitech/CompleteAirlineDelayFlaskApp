@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Boston,ORIGIN_CITY,,
+,,General Edward Lawrence Logan Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,4194,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/BOS_LAX.js""
+    id=""88f04c8a-a700-4f08-a8fe-138e9cffc875""
+    data-bokeh-model-id=""b11953fe-ce96-4c00-8fe1-dc3af785db39""
+    data-bokeh-doc-id=""6eff837b-09b1-4bd8-8dba-6a27f4a3f7dc""
+></script>",TAG,,
+10.53,,,DEP_DELAY,,
+11.0,,,AVG_FLIGHTS,,
+20.47,,,PERCENT_DELAYED,,
+11.53,,,POS_ARR_DELAY,,
+14.42,26.51,,B6,23.99,JetBlue Airways
+14.27,26.17,,UA,11.54,United Air Lines 
+11.07,19.92,,DL,12.36,Delta Air Lines 
+10.01,16.64,,AA,33.57,American Airlines 
+9.14,16.37,,VX,18.54,Virgin America

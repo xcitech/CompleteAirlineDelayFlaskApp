@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,713,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_MSY.js""
+    id=""1d7bbdda-b5f6-407f-ac46-4d2a85d97fed""
+    data-bokeh-model-id=""2ac0b5ed-1b4c-4066-9212-f236e661d8fd""
+    data-bokeh-doc-id=""9ac3bf46-45d7-4253-b968-453d575250b8""
+></script>",TAG,
+9.73,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+15.64,,,,PERCENT_DELAYED,
+8.62,,,,POS_ARR_DELAY,
+8.62,15.64,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

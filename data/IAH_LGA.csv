@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,2278,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_LGA.js""
+    id=""9865d93c-9a99-4d3f-aabe-710d5d40ae17""
+    data-bokeh-model-id=""cef7af93-0f09-4273-b237-89cf4780a37a""
+    data-bokeh-doc-id=""4bf0ceab-04ff-449f-9b7e-08ddc17acae9""
+></script>",TAG,
+20.32,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+25.89,,,,PERCENT_DELAYED,
+17.71,,,,POS_ARR_DELAY,
+17.72,25.91,United Air Lines ,,UA,99.94
+0.0,0.0,Delta Air Lines ,,DL,0.04
+0.0,0.0,ExpressJet Airlines ,,EV,0.03
+0.0,,,,,
+0.0,,,,,

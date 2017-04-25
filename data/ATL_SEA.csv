@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,3506,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_SEA.js""
+    id=""44eafc45-0466-4a46-a9a0-6a198650a616""
+    data-bokeh-model-id=""d6b9c684-33cd-47ae-8435-97d724f3ce28""
+    data-bokeh-doc-id=""4f3712f4-b5b2-4609-b850-b36c62844674""
+></script>",TAG,
+9.29,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+12.99,,,,PERCENT_DELAYED,
+7.57,,,,POS_ARR_DELAY,
+11.53,18.89,Southwest Airlines ,,WN,2.58
+7.7,12.84,Delta Air Lines ,,DL,80.45
+6.35,12.8,Alaska Airlines ,,AS,16.97
+0.0,,,,,
+0.0,,,,,

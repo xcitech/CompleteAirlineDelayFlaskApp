@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Ohare Intl,DEST_NAME,
+,,,2769,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_ORD.js""
+    id=""cfb77423-3059-4b84-b351-a50a04a8ba3d""
+    data-bokeh-model-id=""77079334-75f4-48eb-b1c9-69d34ab60ccb""
+    data-bokeh-doc-id=""72c2847f-263e-473b-a766-8a258918a306""
+></script>",TAG,
+10.59,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+16.96,,,,PERCENT_DELAYED,
+11.26,,,,POS_ARR_DELAY,
+23.01,33.54,Spirit Air Lines,,NK,5.77
+11.45,17.42,American Airlines ,,AA,51.33
+9.44,14.18,United Air Lines ,,UA,42.91
+0.0,,,,,
+0.0,,,,,

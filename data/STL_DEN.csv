@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,St. Louis,ORIGIN_CITY,,
+,,Lambert St Louis Intl,ORIGIN_NAME,,
+,,Denver,DEST-CITY,,
+,,Denver Intl,DEST_NAME,,
+,,1236,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/STL_DEN.js""
+    id=""46da0bd4-4d6b-4da7-8e79-43618602932d""
+    data-bokeh-model-id=""78ee8632-214d-4c7f-9f81-cf20bf825b10""
+    data-bokeh-doc-id=""3bfc5914-6231-4a1c-8e74-f5db3ee3391d""
+></script>",TAG,,
+12.92,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+19.98,,,PERCENT_DELAYED,,
+12.59,,,POS_ARR_DELAY,,
+27.36,27.4,,UA,1.13,United Air Lines 
+14.55,23.14,,EV,3.94,ExpressJet Airlines 
+12.38,20.63,,OO,8.75,SkyWest Airlines 
+16.26,20.33,,F9,21.56,Frontier Airlines 
+11.02,19.46,,WN,64.63,Southwest Airlines 

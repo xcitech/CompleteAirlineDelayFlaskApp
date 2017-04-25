@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,2787,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_STL.js""
+    id=""b5c61555-3dd8-416f-98f0-8be818fa6b5d""
+    data-bokeh-model-id=""aca55e25-cdd4-40d0-a402-77ef559649d0""
+    data-bokeh-doc-id=""b2a2b4fa-fe0f-4924-a737-8be0ec25ed17""
+></script>",TAG,
+19.0,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+26.35,,,,PERCENT_DELAYED,
+17.02,,,,POS_ARR_DELAY,
+18.7,28.83,SkyWest Airlines ,,OO,35.64
+17.34,28.43,Southwest Airlines ,,WN,31.0
+15.29,22.33,United Air Lines ,,UA,31.38
+9.15,13.04,Frontier Airlines ,,F9,1.98
+0.0,,,,,

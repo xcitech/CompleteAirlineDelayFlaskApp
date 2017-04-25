@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Ohare Intl,DEST_NAME,
+,,,6821,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_ORD.js""
+    id=""12203f1d-6072-42d3-9460-d3df319f715c""
+    data-bokeh-model-id=""710dcf9b-aa6e-4d96-afbe-db4c285dc442""
+    data-bokeh-doc-id=""025e6311-38d2-4ef9-b841-f4efa44d5dc0""
+></script>",TAG,
+9.48,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+13.9,,,,PERCENT_DELAYED,
+8.1,,,,POS_ARR_DELAY,
+8.93,18.52,American Airlines ,,AA,2.44
+8.08,13.78,United Air Lines ,,UA,97.56
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

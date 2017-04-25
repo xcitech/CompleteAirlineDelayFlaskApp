@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,3161,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_EWR.js""
+    id=""3d3acd09-4b6e-4b5d-bc7c-630017d51795""
+    data-bokeh-model-id=""345b32dc-2971-48b7-9dce-9594964649d4""
+    data-bokeh-doc-id=""a7a2ad73-1a25-4c9f-b966-27ed2585e4ff""
+></script>",TAG,
+12.65,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+19.05,,,,PERCENT_DELAYED,
+12.28,,,,POS_ARR_DELAY,
+12.28,19.05,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Pittsburgh,ORIGIN_CITY,
+,,,Pittsburgh Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1705,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PIT_DAL.js""
+    id=""1ddacf3f-70c3-47b1-ba8a-cc5d0dc03644""
+    data-bokeh-model-id=""9e95292e-e297-4358-984c-601969dc7928""
+    data-bokeh-doc-id=""11fc8268-bab7-49da-9436-9e7db56dd98a""
+></script>",TAG,
+6.98,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+7.79,,,,PERCENT_DELAYED,
+4.52,,,,POS_ARR_DELAY,
+4.52,7.79,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

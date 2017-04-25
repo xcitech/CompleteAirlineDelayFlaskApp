@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,1454,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_IAD.js""
+    id=""2d1f110c-8732-48ed-99b6-31e444d43261""
+    data-bokeh-model-id=""bdd68ac4-0dc6-4976-ba30-33fa2c8c4e20""
+    data-bokeh-doc-id=""27819cb7-2544-435c-a07e-a7cb4e747f09""
+></script>",TAG,
+20.89,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+29.81,,,,PERCENT_DELAYED,
+19.74,,,,POS_ARR_DELAY,
+31.14,48.55,Frontier Airlines ,,F9,37.4
+12.93,18.61,United Air Lines ,,UA,62.6
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

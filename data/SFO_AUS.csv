@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,2417,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_AUS.js""
+    id=""b0104ae7-1acf-4e96-9bd2-d48fd8fc0d33""
+    data-bokeh-model-id=""49231db5-368b-452d-a73e-f55c01bb6c09""
+    data-bokeh-doc-id=""4754a841-49e8-4c3a-91ae-ab08bab244a3""
+></script>",TAG,
+14.49,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+20.51,,,,PERCENT_DELAYED,
+12.88,,,,POS_ARR_DELAY,
+14.36,24.53,SkyWest Airlines ,,OO,26.11
+13.49,21.83,JetBlue Airways,,B6,4.22
+12.46,19.26,United Air Lines ,,UA,43.22
+12.0,18.37,Virgin America,,VX,26.45
+0.0,,,,,

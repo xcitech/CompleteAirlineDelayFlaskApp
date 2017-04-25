@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Austin,DEST-CITY,,
+,,Austin Bergstrom Intl,DEST_NAME,,
+,,1575,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_AUS.js""
+    id=""71e2ba90-a4f3-4148-be49-9538e2c9a196""
+    data-bokeh-model-id=""c8f6b52a-b6a8-45cc-a322-e6b918660166""
+    data-bokeh-doc-id=""4db09f12-deeb-4797-bea9-d0792a7c977c""
+></script>",TAG,,
+18.08,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+27.92,,,PERCENT_DELAYED,,
+18.72,,,POS_ARR_DELAY,,
+35.13,44.0,,YV,1.2,Mesa Airlines 
+24.37,36.87,,OO,17.01,SkyWest Airlines 
+17.69,27.17,,AA,55.45,American Airlines 
+16.86,24.19,,UA,22.1,United Air Lines 
+14.69,16.98,,F9,4.23,Frontier Airlines 

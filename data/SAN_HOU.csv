@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,2109,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_HOU.js""
+    id=""7bfff3f0-accf-47d4-90e9-a95ad8795bfa""
+    data-bokeh-model-id=""798575e9-4e83-4cf6-af11-771cd85f7dfb""
+    data-bokeh-doc-id=""f9583675-3049-4c01-95ef-3720648e165f""
+></script>",TAG,
+12.52,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+19.96,,,,PERCENT_DELAYED,
+10.29,,,,POS_ARR_DELAY,
+10.29,19.96,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

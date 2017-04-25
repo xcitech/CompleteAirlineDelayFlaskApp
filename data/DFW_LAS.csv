@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,1695,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_LAS.js""
+    id=""53556e95-99d6-4f24-9b2f-d0ede6cb1016""
+    data-bokeh-model-id=""9fb2e26a-dc46-4cbe-a44f-252f6d62e1eb""
+    data-bokeh-doc-id=""9b642d7c-f41a-40cb-a6a5-f23b227132a6""
+></script>",TAG,
+14.48,,,,DEP_DELAY,
+12.0,,,,AVG_FLIGHTS,
+23.76,,,,PERCENT_DELAYED,
+14.54,,,,POS_ARR_DELAY,
+17.91,28.8,Spirit Air Lines,,NK,11.71
+14.09,23.09,American Airlines ,,AA,88.29
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

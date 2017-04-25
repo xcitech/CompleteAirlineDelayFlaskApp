@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,3355,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_DCA.js""
+    id=""d502255d-1dd8-499c-ab3c-5833eb45a75d""
+    data-bokeh-model-id=""0bc5399c-7347-44cc-b852-c1129363e8c4""
+    data-bokeh-doc-id=""f207ea1a-fbd5-46c2-80b2-b00f86b20a48""
+></script>",TAG,
+8.88,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.41,,,,PERCENT_DELAYED,
+11.92,,,,POS_ARR_DELAY,
+16.66,19.61,American Airlines ,,AA,39.0
+8.89,17.65,US Airways ,,US,61.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

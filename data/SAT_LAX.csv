@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,1945,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_LAX.js""
+    id=""1bed9cb1-e091-4b9d-9fcb-9d2096a9ddb1""
+    data-bokeh-model-id=""cf16f155-eb2c-41a6-8346-140b8b5874d1""
+    data-bokeh-doc-id=""4e2b1064-41d3-4307-9d93-ec55ea82f57a""
+></script>",TAG,
+13.73,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+22.56,,,,PERCENT_DELAYED,
+13.41,,,,POS_ARR_DELAY,
+13.59,24.78,Southwest Airlines ,,WN,42.17
+13.52,21.16,SkyWest Airlines ,,OO,55.95
+6.21,14.29,United Air Lines ,,UA,1.86
+0.0,0.0,Delta Air Lines ,,DL,0.02
+0.0,,,,,

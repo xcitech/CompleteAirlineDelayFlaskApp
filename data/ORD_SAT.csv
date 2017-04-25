@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,San Antonio,DEST-CITY,,
+,,San Antonio Intl,DEST_NAME,,
+,,1678,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_SAT.js""
+    id=""1a905703-ed1c-4441-88e6-bfcb31a8b988""
+    data-bokeh-model-id=""16add448-8752-4cd3-968d-d33c980ce1c0""
+    data-bokeh-doc-id=""764f7656-6e6f-4734-b4b8-c241283b9e74""
+></script>",TAG,,
+19.76,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+32.17,,,PERCENT_DELAYED,,
+20.95,,,POS_ARR_DELAY,,
+24.61,35.23,,UA,12.8,United Air Lines 
+18.97,33.39,,MQ,22.14,Envoy Air
+21.43,32.12,,OO,55.41,SkyWest Airlines 
+19.41,26.83,,YV,4.27,Mesa Airlines 
+16.65,24.03,,AA,5.34,American Airlines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,3947,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_SMF.js""
+    id=""c507c444-d32b-4625-8067-a78eb52e0b50""
+    data-bokeh-model-id=""a40b49df-ebbd-4ebf-a28c-1f089d5308f3""
+    data-bokeh-doc-id=""e5848096-5ce7-4377-95fa-e92b50cd7223""
+></script>",TAG,
+14.13,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+25.64,,,,PERCENT_DELAYED,
+17.69,,,,POS_ARR_DELAY,
+15.27,29.17,American Airlines ,,AA,30.77
+18.76,24.07,US Airways ,,US,69.23
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

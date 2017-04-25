@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Pittsburgh,ORIGIN_CITY,
+,,,Pittsburgh Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,1408,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PIT_TPA.js""
+    id=""4ef1c778-7ba7-4f3d-92fe-8b7c74043109""
+    data-bokeh-model-id=""ee78178e-9af4-48f7-9895-29371f2278d2""
+    data-bokeh-doc-id=""65ba41ac-79d1-416f-be64-21f8df97b99f""
+></script>",TAG,
+9.7,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+13.72,,,,PERCENT_DELAYED,
+9.11,,,,POS_ARR_DELAY,
+7.22,13.9,AirTran Airways Corporation,,FL,16.42
+9.48,13.69,Southwest Airlines ,,WN,83.58
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

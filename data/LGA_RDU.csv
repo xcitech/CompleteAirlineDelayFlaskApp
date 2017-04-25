@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,New York,ORIGIN_CITY,,
+,,La Guardia,ORIGIN_NAME,,
+,,Raleigh-durham,DEST-CITY,,
+,,Raleigh Durham Intl,DEST_NAME,,
+,,693,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LGA_RDU.js""
+    id=""f2c2fc85-15c2-4c74-9548-d3cf6b84aec3""
+    data-bokeh-model-id=""3170b7c8-7ecb-49e0-a73b-dd34639343f0""
+    data-bokeh-doc-id=""d6dac0a1-b031-458e-a8cd-2ecb81bbcb44""
+></script>",TAG,,
+14.77,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+29.05,,,PERCENT_DELAYED,,
+17.69,,,POS_ARR_DELAY,,
+28.66,33.29,,EV,13.44,ExpressJet Airlines 
+16.1,28.71,,MQ,84.62,Envoy Air
+14.52,20.0,,9E,1.03,Endeavor Air 
+30.4,10.0,,DL,0.16,Delta Air Lines 
+2.55,8.51,,AA,0.75,American Airlines 

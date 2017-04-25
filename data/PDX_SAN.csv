@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,1503,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_SAN.js""
+    id=""75c55e7a-febc-453c-acda-ace5c4616e75""
+    data-bokeh-model-id=""18d91592-78ad-45a3-b229-467118f04334""
+    data-bokeh-doc-id=""4b14cd47-ca92-4be0-b19c-a5559bec0557""
+></script>",TAG,
+6.13,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+10.72,,,,PERCENT_DELAYED,
+6.37,,,,POS_ARR_DELAY,
+9.46,16.96,Southwest Airlines ,,WN,31.26
+4.97,7.9,Alaska Airlines ,,AS,68.64
+0.0,0.0,Spirit Air Lines,,NK,0.1
+0.0,,,,,
+0.0,,,,,

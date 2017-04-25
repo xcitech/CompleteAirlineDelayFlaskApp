@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,1914,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_MCO.js""
+    id=""854103ea-9305-492b-aa0c-dfc8c3898c3a""
+    data-bokeh-model-id=""8cd86399-b16a-4fe3-9cee-6196faf0d625""
+    data-bokeh-doc-id=""a255f0ca-ec7e-477a-826d-bf4b631c2877""
+></script>",TAG,
+12.08,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+16.81,,,,PERCENT_DELAYED,
+11.09,,,,POS_ARR_DELAY,
+16.63,21.39,Spirit Air Lines,,NK,3.19
+13.04,19.75,JetBlue Airways,,B6,58.48
+7.65,11.93,Southwest Airlines ,,WN,38.33
+0.0,,,,,
+0.0,,,,,

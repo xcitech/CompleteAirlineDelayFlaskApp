@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,3884,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_SFO.js""
+    id=""14ccae03-6c1f-48e4-b472-f154cd77e548""
+    data-bokeh-model-id=""8591e3c8-1e0a-4325-a88b-b65d2913e81d""
+    data-bokeh-doc-id=""e9e2c4c6-82c3-48b7-aff6-037a859a7d6f""
+></script>",TAG,
+13.5,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+18.55,,,,PERCENT_DELAYED,
+12.59,,,,POS_ARR_DELAY,
+12.53,19.04,United Air Lines ,,UA,78.12
+12.83,16.8,Virgin America,,VX,21.88
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

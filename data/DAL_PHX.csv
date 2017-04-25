@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,1412,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_PHX.js""
+    id=""c5b5638a-5721-4388-b230-b505277c7040""
+    data-bokeh-model-id=""79c4067a-e4ba-4be0-993a-b0a66f87dfcd""
+    data-bokeh-doc-id=""459e3e75-b477-4e24-b02c-c875ea16118f""
+></script>",TAG,
+12.57,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+19.77,,,,PERCENT_DELAYED,
+11.45,,,,POS_ARR_DELAY,
+11.45,19.77,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

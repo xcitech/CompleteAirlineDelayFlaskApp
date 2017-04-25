@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Jose,ORIGIN_CITY,
+,,,Norman Y Mineta San Jose Intl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,2372,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJC_AUS.js""
+    id=""1b4176a3-5a32-4b9a-a7ec-01f1bbc801fd""
+    data-bokeh-model-id=""9c63d29f-e60d-49a8-bf79-3a5a82c30120""
+    data-bokeh-doc-id=""0114f218-bfd7-42e7-9479-64b64c7bda05""
+></script>",TAG,
+12.15,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+17.01,,,,PERCENT_DELAYED,
+9.74,,,,POS_ARR_DELAY,
+9.74,17.01,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

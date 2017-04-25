@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,974,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_STL.js""
+    id=""4bc6d26b-9b91-44a8-9d4e-8257c2a105e6""
+    data-bokeh-model-id=""747a008b-7a0f-4414-9378-a2e37d2fa092""
+    data-bokeh-doc-id=""82393dbb-6923-4523-81b7-074586536841""
+></script>",TAG,
+10.88,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+17.45,,,,PERCENT_DELAYED,
+9.69,,,,POS_ARR_DELAY,
+9.69,17.45,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Philadelphia,DEST-CITY,
+,,,Philadelphia Intl,DEST_NAME,
+,,,1306,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_PHL.js""
+    id=""3363f5bb-e59a-4318-bfed-5d920d82109d""
+    data-bokeh-model-id=""ac2384f0-bf02-469c-8e08-29febbb542d7""
+    data-bokeh-doc-id=""ef15a2ac-dc16-451f-b0ee-216bbfca65f7""
+></script>",TAG,
+16.72,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+25.3,,,,PERCENT_DELAYED,
+13.93,,,,POS_ARR_DELAY,
+14.04,25.59,Southwest Airlines ,,WN,98.3
+7.6,8.57,American Airlines ,,AA,1.7
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

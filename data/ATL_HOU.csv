@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,1118,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_HOU.js""
+    id=""e682c405-f052-4437-a0bc-f223025cb1c5""
+    data-bokeh-model-id=""3a3f2956-2ff7-4dca-af6e-b3063351ba56""
+    data-bokeh-doc-id=""2d205cf3-cca5-433f-b3e9-c95896472acd""
+></script>",TAG,
+11.75,,,,DEP_DELAY,
+12.0,,,,AVG_FLIGHTS,
+18.19,,,,PERCENT_DELAYED,
+10.72,,,,POS_ARR_DELAY,
+20.78,29.85,ExpressJet Airlines ,,EV,6.25
+13.9,23.45,Southwest Airlines ,,WN,38.74
+8.24,17.44,AirTran Airways Corporation,,FL,12.41
+7.07,11.91,Delta Air Lines ,,DL,42.6
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,962,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_SLC.js""
+    id=""84a586aa-3704-440b-b569-272a45bf47b0""
+    data-bokeh-model-id=""d0d1a973-cbe5-4f89-a224-136608f42a92""
+    data-bokeh-doc-id=""a7286ce1-2299-4bf5-9d46-8cf5e62b8c67""
+></script>",TAG,
+15.47,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+22.87,,,,PERCENT_DELAYED,
+15.09,,,,POS_ARR_DELAY,
+17.18,26.15,SkyWest Airlines ,,OO,65.71
+10.02,17.62,United Air Lines ,,UA,4.94
+12.8,16.46,Alaska Airlines ,,AS,8.41
+10.62,16.39,Delta Air Lines ,,DL,20.93
+0.0,,,,,

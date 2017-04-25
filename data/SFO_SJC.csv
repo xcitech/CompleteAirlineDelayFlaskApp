@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,San Jose,DEST-CITY,
+,,,Norman Y Mineta San Jose Intl,DEST_NAME,
+,,,49,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_SJC.js""
+    id=""02819827-2800-4005-a52b-78bed54c0f62""
+    data-bokeh-model-id=""ee5b775b-830b-4937-898e-2e952dbef3a5""
+    data-bokeh-doc-id=""ae23d2fd-9126-4bfb-aaa3-747a5a92af6d""
+></script>",TAG,
+4.0,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+100.0,,,,PERCENT_DELAYED,
+17.0,,,,POS_ARR_DELAY,
+17.0,100.0,SkyWest Airlines ,,OO,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

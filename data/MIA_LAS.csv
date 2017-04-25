@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Miami,ORIGIN_CITY,
+,,,Miami Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,3495,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MIA_LAS.js""
+    id=""7cd114cf-9a0c-4ac9-ad51-7386bbc54fe9""
+    data-bokeh-model-id=""1273d698-ef01-4c59-950f-30812785a996""
+    data-bokeh-doc-id=""0ea933d6-dd3e-4b3d-ae9c-844793f3a6f2""
+></script>",TAG,
+12.18,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.85,,,,PERCENT_DELAYED,
+12.28,,,,POS_ARR_DELAY,
+12.21,21.09,American Airlines ,,AA,93.4
+13.3,17.49,Frontier Airlines ,,F9,6.6
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

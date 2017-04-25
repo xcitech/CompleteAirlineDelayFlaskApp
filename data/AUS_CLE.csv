@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,1890,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_CLE.js""
+    id=""5af8a3df-cdb8-4b6e-ba42-a911d27c8620""
+    data-bokeh-model-id=""23eea21d-bc03-4208-bf2b-27f0a32b32d1""
+    data-bokeh-doc-id=""22513f49-2594-4017-b569-e87b0d9fe945""
+></script>",TAG,
+14.97,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+24.63,,,,PERCENT_DELAYED,
+14.12,,,,POS_ARR_DELAY,
+14.12,24.63,SkyWest Airlines ,,OO,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

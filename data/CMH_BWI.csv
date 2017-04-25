@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,541,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_BWI.js""
+    id=""bd5a71cf-875e-4113-88a3-04ca9957469f""
+    data-bokeh-model-id=""e757bb96-790b-418f-8d27-40a843d0f38e""
+    data-bokeh-doc-id=""e495f9c8-a30a-40dd-b855-0ecbb4f1d734""
+></script>",TAG,
+12.34,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+18.87,,,,PERCENT_DELAYED,
+11.9,,,,POS_ARR_DELAY,
+11.9,18.87,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1601,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_RSW.js""
+    id=""27229be5-a379-44f5-998d-9a2fe346824b""
+    data-bokeh-model-id=""5362c020-c90f-41a7-b98e-41a6ef0f0a51""
+    data-bokeh-doc-id=""a2f32516-5fc6-4487-853b-5f5ed04e376a""
+></script>",TAG,
+10.92,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+23.3,,,,PERCENT_DELAYED,
+13.04,,,,POS_ARR_DELAY,
+23.3,34.78,Frontier Airlines ,,F9,5.82
+13.52,25.12,US Airways ,,US,53.31
+11.45,20.0,American Airlines ,,AA,33.71
+8.54,15.93,Southwest Airlines ,,WN,7.15
+0.0,,,,,

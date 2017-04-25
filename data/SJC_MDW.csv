@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Jose,ORIGIN_CITY,
+,,,Norman Y Mineta San Jose Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,2951,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJC_MDW.js""
+    id=""7b1b0f79-cea3-494f-8e49-ea304d068dc8""
+    data-bokeh-model-id=""dbf5e5f9-0294-4623-a7bb-47d52823ed32""
+    data-bokeh-doc-id=""341ad1a8-cbf3-4b00-828e-30b9fec78077""
+></script>",TAG,
+13.77,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+22.73,,,,PERCENT_DELAYED,
+11.17,,,,POS_ARR_DELAY,
+11.17,22.73,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

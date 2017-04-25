@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,San Jose,DEST-CITY,
+,,,Norman Y Mineta San Jose Intl,DEST_NAME,
+,,,1122,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_SJC.js""
+    id=""65a58d23-0688-46ec-a23f-ab8062792c6f""
+    data-bokeh-model-id=""d900f64a-74c4-48f2-bb03-e2dd07a6b8c0""
+    data-bokeh-doc-id=""8e074912-a1dc-432c-a410-153358c845a8""
+></script>",TAG,
+7.84,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+15.48,,,,PERCENT_DELAYED,
+8.7,,,,POS_ARR_DELAY,
+14.21,25.75,Southwest Airlines ,,WN,23.1
+9.18,14.29,SkyWest Airlines ,,OO,20.92
+6.25,11.69,Alaska Airlines ,,AS,55.98
+0.0,,,,,
+0.0,,,,,

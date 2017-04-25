@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,San Juan,DEST-CITY,
+,,,Luis Munoz Marin Intl,DEST_NAME,
+,,,2595,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_SJU.js""
+    id=""3bdac7cb-20c4-4ba1-b183-df2d3d400ccc""
+    data-bokeh-model-id=""8e356d0b-de82-43e9-8a9e-99fc8000900c""
+    data-bokeh-doc-id=""6b7a4aa1-2922-4b04-88ca-aea1b253f01f""
+></script>",TAG,
+14.3,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.25,,,,PERCENT_DELAYED,
+13.22,,,,POS_ARR_DELAY,
+13.99,23.98,United Air Lines ,,UA,63.66
+11.88,19.23,JetBlue Airways,,B6,36.34
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

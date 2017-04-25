@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Sacramento,ORIGIN_CITY,
+,,,Sacramento Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,854,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SMF_SLC.js""
+    id=""a3bf0975-1a90-4aac-98b2-34720a7fb5f8""
+    data-bokeh-model-id=""8ec23a75-18e9-4b94-846d-e9ab41d84ce5""
+    data-bokeh-doc-id=""1d390bb6-5c93-477b-84db-ef3d582f6913""
+></script>",TAG,
+5.95,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+8.49,,,,PERCENT_DELAYED,
+5.94,,,,POS_ARR_DELAY,
+5.79,9.02,SkyWest Airlines ,,OO,55.89
+6.14,7.82,Delta Air Lines ,,DL,44.11
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

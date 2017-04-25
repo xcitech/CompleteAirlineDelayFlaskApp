@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,154,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_LGA.js""
+    id=""ca8bb8d7-ea62-425a-ac1b-fdf230bfd0f3""
+    data-bokeh-model-id=""2bc9358c-e030-4eb0-bfd8-3df24480e002""
+    data-bokeh-doc-id=""e1334ded-75ba-4658-8642-ffdab048dd7b""
+></script>",TAG,
+11.02,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+25.68,,,,PERCENT_DELAYED,
+13.83,,,,POS_ARR_DELAY,
+22.43,28.57,Envoy Air,,MQ,0.33
+14.86,26.62,American Airlines ,,AA,37.73
+13.2,25.1,US Airways ,,US,61.55
+5.62,25.0,Mesa Airlines ,,YV,0.38
+0.0,,,,,

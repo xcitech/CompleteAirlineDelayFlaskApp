@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Salt Lake City,ORIGIN_CITY,,
+,,Salt Lake City Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,950,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SLC_LAX.js""
+    id=""1fc69e99-6d6c-4c30-9e92-35ca2a04ec81""
+    data-bokeh-model-id=""fb7aacbe-eb55-41d7-bc3c-b3661504654f""
+    data-bokeh-doc-id=""991071e3-877c-4721-8271-9268fec95540""
+></script>",TAG,,
+9.93,,,DEP_DELAY,,
+15.0,,,AVG_FLIGHTS,,
+19.3,,,PERCENT_DELAYED,,
+11.18,,,POS_ARR_DELAY,,
+19.13,25.53,,MQ,2.54,Envoy Air
+14.03,23.22,,OO,31.63,SkyWest Airlines 
+12.94,22.28,,WN,18.29,Southwest Airlines 
+8.72,16.49,,DL,42.69,Delta Air Lines 
+3.39,3.96,,AS,4.85,Alaska Airlines 

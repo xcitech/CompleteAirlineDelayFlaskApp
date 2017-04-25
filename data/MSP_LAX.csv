@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Minneapolis,ORIGIN_CITY,,
+,,Minneapolis St Paul Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,2468,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MSP_LAX.js""
+    id=""a9adea9d-d11a-4735-9e32-0e363d7fb643""
+    data-bokeh-model-id=""79bf0524-2b19-4f1b-80b3-b67ec9a991c2""
+    data-bokeh-doc-id=""f172d765-e01d-456f-8202-cac42e45ba8c""
+></script>",TAG,,
+9.77,,,DEP_DELAY,,
+9.0,,,AVG_FLIGHTS,,
+19.47,,,PERCENT_DELAYED,,
+10.85,,,POS_ARR_DELAY,,
+85.5,50.0,,UA,0.02,United Air Lines 
+16.37,26.63,,NK,6.38,Spirit Air Lines
+12.67,25.19,,OO,17.91,SkyWest Airlines 
+16.83,23.56,,AA,1.86,American Airlines 
+9.75,17.35,,DL,73.82,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1899,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_DAL.js""
+    id=""56c20094-df11-4375-8565-0ece78bd18db""
+    data-bokeh-model-id=""47f7f1c8-46b2-47d1-aadb-a460ae10eaf3""
+    data-bokeh-doc-id=""86c6fbac-7c50-46ba-9045-a6d82e3100cc""
+></script>",TAG,
+11.91,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.58,,,,PERCENT_DELAYED,
+10.56,,,,POS_ARR_DELAY,
+10.56,18.58,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

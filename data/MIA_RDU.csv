@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Miami,ORIGIN_CITY,
+,,,Miami Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,1131,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MIA_RDU.js""
+    id=""f0f1125d-43ea-4d76-8e65-334c309e9b81""
+    data-bokeh-model-id=""bfcc5439-9fc6-48bd-8fda-b5dc6421901a""
+    data-bokeh-doc-id=""2464c82f-35a5-49ea-97f2-6284e202568a""
+></script>",TAG,
+11.05,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+19.23,,,,PERCENT_DELAYED,
+10.89,,,,POS_ARR_DELAY,
+49.0,50.0,ExpressJet Airlines ,,EV,0.12
+11.44,20.21,American Airlines ,,AA,92.89
+2.84,5.6,US Airways ,,US,6.99
+0.0,,,,,
+0.0,,,,,

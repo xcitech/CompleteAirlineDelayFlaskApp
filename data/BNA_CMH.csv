@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,544,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_CMH.js""
+    id=""b7a0e04c-c234-440e-b08d-f6ddce0010b5""
+    data-bokeh-model-id=""5a395fe1-69f7-4e68-9a5d-94d992e7fb5f""
+    data-bokeh-doc-id=""616fdb29-795c-4e13-9077-efd14af06913""
+></script>",TAG,
+13.68,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+22.49,,,,PERCENT_DELAYED,
+12.24,,,,POS_ARR_DELAY,
+12.24,22.49,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

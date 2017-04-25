@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,170,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_PIT.js""
+    id=""c3c1b683-3cc0-44bc-b3d8-3a0569926c14""
+    data-bokeh-model-id=""778b1587-d1a6-4526-87f1-a495b83e5a61""
+    data-bokeh-doc-id=""4ad87bb9-ac23-4d17-8f5b-a63773f2cac7""
+></script>",TAG,
+10.43,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+16.31,,,,PERCENT_DELAYED,
+12.36,,,,POS_ARR_DELAY,
+6.58,33.33,ExpressJet Airlines ,,EV,8.51
+12.9,14.73,Frontier Airlines ,,F9,91.49
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

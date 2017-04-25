@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Santa Ana,DEST-CITY,
+,,,John Wayne Arpt Orange Co,DEST_NAME,
+,,,3082,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_SNA.js""
+    id=""03db7bdb-e24a-4ef5-80d7-0eb9544ec11f""
+    data-bokeh-model-id=""52a87336-f380-4998-9215-fef28170245e""
+    data-bokeh-doc-id=""106a59c0-d62a-41e4-a494-b620e8c53043""
+></script>",TAG,
+8.96,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+12.55,,,,PERCENT_DELAYED,
+6.89,,,,POS_ARR_DELAY,
+6.89,12.55,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

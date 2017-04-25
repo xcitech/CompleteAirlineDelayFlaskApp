@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,682,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_CLE.js""
+    id=""213b9e79-20b3-421d-b4e9-fb9aac361454""
+    data-bokeh-model-id=""d890ad47-bc8e-42fa-a4a8-ca0661cda3eb""
+    data-bokeh-doc-id=""0e82e301-368c-4a2c-aa2a-52112f3d0f94""
+></script>",TAG,
+13.72,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+23.02,,,,PERCENT_DELAYED,
+16.19,,,,POS_ARR_DELAY,
+28.5,50.0,Delta Air Lines ,,DL,0.25
+17.93,35.71,Endeavor Air ,,9E,3.52
+16.09,22.48,Envoy Air,,MQ,96.23
+0.0,,,,,
+0.0,,,,,

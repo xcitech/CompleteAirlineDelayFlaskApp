@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,3380,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_BOS.js""
+    id=""9c592763-2520-4788-bfbb-dcc58f06b140""
+    data-bokeh-model-id=""64f201a3-d1b3-4747-aedd-3dd1b3622374""
+    data-bokeh-doc-id=""f719d2f9-8b91-4f53-93d2-d32297110bc9""
+></script>",TAG,
+9.03,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.31,,,,PERCENT_DELAYED,
+8.78,,,,POS_ARR_DELAY,
+22.59,34.82,JetBlue Airways,,B6,5.41
+7.99,14.2,Delta Air Lines ,,DL,94.59
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

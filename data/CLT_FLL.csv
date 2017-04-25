@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1020,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_FLL.js""
+    id=""3d7c4887-be47-4c2f-b37e-30a40b5f7e82""
+    data-bokeh-model-id=""901621ff-b021-406b-aef7-504ffa3863b4""
+    data-bokeh-doc-id=""c0893255-9789-4905-8a00-d248b6993d8f""
+></script>",TAG,
+8.92,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+20.09,,,,PERCENT_DELAYED,
+10.37,,,,POS_ARR_DELAY,
+10.23,20.78,US Airways ,,US,62.21
+10.6,18.96,American Airlines ,,AA,37.79
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

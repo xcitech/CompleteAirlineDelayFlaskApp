@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,404,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_MDW.js""
+    id=""cb7e6440-efaa-48d2-a418-f5c3c67a160e""
+    data-bokeh-model-id=""137f7f84-cf3b-4d18-8683-b26dd9e9f1b6""
+    data-bokeh-doc-id=""8bd59945-a49f-4fc1-a95f-2da33bed143c""
+></script>",TAG,
+12.36,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+20.94,,,,PERCENT_DELAYED,
+12.01,,,,POS_ARR_DELAY,
+12.01,20.94,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

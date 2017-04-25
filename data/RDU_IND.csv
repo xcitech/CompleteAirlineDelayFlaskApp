@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,785,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_IND.js""
+    id=""fa58a730-679f-4f06-98b3-9f5f59210f41""
+    data-bokeh-model-id=""b387d382-6882-4c14-9a19-c72a2757122b""
+    data-bokeh-doc-id=""e6bc8a01-6ef4-4736-8d64-a2537e764579""
+></script>",TAG,
+12.34,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+16.11,,,,PERCENT_DELAYED,
+11.5,,,,POS_ARR_DELAY,
+11.98,22.22,ExpressJet Airlines ,,EV,36.24
+11.22,12.63,Endeavor Air ,,9E,63.76
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,784,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_TPA.js""
+    id=""a35521e7-86c1-4db1-b8a1-aced7badb733""
+    data-bokeh-model-id=""4a65a3c8-a513-4d97-9532-dde7b954459b""
+    data-bokeh-doc-id=""61bf4dd7-f74f-49fe-a0a5-b95b7febd2c0""
+></script>",TAG,
+12.7,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+20.78,,,,PERCENT_DELAYED,
+11.83,,,,POS_ARR_DELAY,
+11.83,20.78,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

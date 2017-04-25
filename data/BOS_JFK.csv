@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,300,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_JFK.js""
+    id=""1e495633-d766-4c0e-914a-88803e5158c4""
+    data-bokeh-model-id=""c3a05c38-3179-4aca-ba85-5cd52f5ed003""
+    data-bokeh-doc-id=""e91eafca-1af8-41ed-a4dc-779255e9730b""
+></script>",TAG,
+14.92,,,,DEP_DELAY,
+15.0,,,,AVG_FLIGHTS,
+20.81,,,,PERCENT_DELAYED,
+15.97,,,,POS_ARR_DELAY,
+20.54,30.65,Endeavor Air ,,9E,1.25
+17.6,22.47,Delta Air Lines ,,DL,23.26
+15.65,21.26,JetBlue Airways,,B6,48.86
+14.92,18.07,American Airlines ,,AA,26.63
+0.0,,,,,

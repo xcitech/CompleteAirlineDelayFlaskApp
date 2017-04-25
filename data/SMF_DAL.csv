@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Sacramento,ORIGIN_CITY,
+,,,Sacramento Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,2317,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SMF_DAL.js""
+    id=""2ba644fa-9925-451d-b46e-308ad4fbfe8a""
+    data-bokeh-model-id=""c9718ea0-51a4-4fdb-9c50-4af32358960d""
+    data-bokeh-doc-id=""fea72f6c-200a-4df7-90de-adc1e5c9acba""
+></script>",TAG,
+1.79,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+4.13,,,,PERCENT_DELAYED,
+1.88,,,,POS_ARR_DELAY,
+1.88,4.13,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,720,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_MSY.js""
+    id=""df9bea73-718d-41f5-9d97-c419db22ff03""
+    data-bokeh-model-id=""143ad968-0ed2-4a7c-a32b-05462c6e6204""
+    data-bokeh-doc-id=""1c6d2577-f9b9-423e-a30f-0718666a1748""
+></script>",TAG,
+14.0,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+23.18,,,,PERCENT_DELAYED,
+14.38,,,,POS_ARR_DELAY,
+14.47,23.18,American Airlines ,,AA,92.41
+13.32,23.14,Spirit Air Lines,,NK,7.59
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

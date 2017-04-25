@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,2554,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_LAS.js""
+    id=""24b87448-5899-4e92-a09d-7381b86c801a""
+    data-bokeh-model-id=""d7db1cdf-0e9c-4438-a338-406840c8863d""
+    data-bokeh-doc-id=""b7d85633-71ba-48b4-8459-9b00e7ff05aa""
+></script>",TAG,
+8.77,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+14.22,,,,PERCENT_DELAYED,
+8.25,,,,POS_ARR_DELAY,
+8.25,14.22,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Minneapolis,ORIGIN_CITY,,
+,,Minneapolis St Paul Intl,ORIGIN_NAME,,
+,,Orlando,DEST-CITY,,
+,,Orlando Intl,DEST_NAME,,
+,,2111,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MSP_MCO.js""
+    id=""8a687dd0-4112-4289-8e09-9861c39793fe""
+    data-bokeh-model-id=""8ab211f9-c26f-4945-a2af-08f563faa06c""
+    data-bokeh-doc-id=""8e870fd9-7a9b-4934-9986-101822ae7a3c""
+></script>",TAG,,
+8.3,,,DEP_DELAY,,
+5.0,,,AVG_FLIGHTS,,
+16.1,,,PERCENT_DELAYED,,
+10.19,,,POS_ARR_DELAY,,
+21.73,28.42,,F9,1.87,Frontier Airlines 
+16.46,25.29,,NK,5.05,Spirit Air Lines
+14.39,22.11,,WN,5.6,Southwest Airlines 
+9.32,14.93,,DL,87.34,Delta Air Lines 
+6.29,14.29,,FL,0.14,AirTran Airways Corporation

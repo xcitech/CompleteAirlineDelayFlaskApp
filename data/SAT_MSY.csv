@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,794,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_MSY.js""
+    id=""3620d6f6-eb9f-4ffb-9fdd-9f6307659920""
+    data-bokeh-model-id=""a3b58f84-db92-444b-9ea3-58cccd57e94d""
+    data-bokeh-doc-id=""0aca30e2-e5b0-42a8-aba8-fae442ec625e""
+></script>",TAG,
+8.98,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+12.6,,,,PERCENT_DELAYED,
+8.58,,,,POS_ARR_DELAY,
+8.58,12.6,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

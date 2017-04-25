@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,537,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_MSP.js""
+    id=""8701cf6b-f268-4eaa-a6a8-a00a2a30a8c4""
+    data-bokeh-model-id=""c7f5f149-5ca9-4cd2-8ffd-da75dab70cf8""
+    data-bokeh-doc-id=""50364ad7-9f57-4d33-94d5-e6c37695eaa2""
+></script>",TAG,,
+18.22,,,DEP_DELAY,,
+17.0,,,AVG_FLIGHTS,,
+26.87,,,PERCENT_DELAYED,,
+18.26,,,POS_ARR_DELAY,,
+22.77,38.42,,NK,8.14,Spirit Air Lines
+18.95,27.78,,OO,15.77,SkyWest Airlines 
+17.63,25.59,,AA,20.97,American Airlines 
+17.45,25.58,,UA,21.93,United Air Lines 
+16.67,22.63,,DL,26.99,Delta Air Lines 

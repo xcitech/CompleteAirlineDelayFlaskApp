@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,2094,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_IAH.js""
+    id=""cfc896b7-9cdf-476e-a0a6-9c20099557b7""
+    data-bokeh-model-id=""2c1a14d2-362d-4461-a285-2d433503480f""
+    data-bokeh-doc-id=""a73065cd-7212-4dec-abb5-0392900e5fda""
+></script>",TAG,
+9.25,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+11.69,,,,PERCENT_DELAYED,
+8.44,,,,POS_ARR_DELAY,
+27.0,100.0,SkyWest Airlines ,,OO,0.02
+9.8,14.86,Spirit Air Lines,,NK,11.61
+8.25,11.25,United Air Lines ,,UA,88.37
+0.0,,,,,
+0.0,,,,,

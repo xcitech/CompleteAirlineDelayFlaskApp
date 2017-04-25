@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,3864,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_PDX.js""
+    id=""05aa3740-6b26-4c6d-9775-196b4acd6e4d""
+    data-bokeh-model-id=""fc8ceecf-5a89-4fa5-8876-90f526ba5cd9""
+    data-bokeh-doc-id=""8a3589bb-2626-460e-a90c-2fa380a368da""
+></script>",TAG,
+14.36,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+27.29,,,,PERCENT_DELAYED,
+16.98,,,,POS_ARR_DELAY,
+20.31,31.06,US Airways ,,US,60.55
+11.87,21.51,American Airlines ,,AA,39.45
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

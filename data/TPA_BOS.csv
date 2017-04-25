@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,1909,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_BOS.js""
+    id=""783b79c8-be06-40d3-af99-6cb58981533f""
+    data-bokeh-model-id=""cfa2c3aa-cb40-484d-aa08-33e46f51ad3e""
+    data-bokeh-doc-id=""b7c5f8d5-408b-48ae-8ec7-54939bdc1c50""
+></script>",TAG,
+17.66,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+25.26,,,,PERCENT_DELAYED,
+16.57,,,,POS_ARR_DELAY,
+16.57,25.26,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

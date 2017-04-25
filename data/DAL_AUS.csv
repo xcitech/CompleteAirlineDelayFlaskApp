@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,305,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_AUS.js""
+    id=""36b48bbf-2122-47ef-bc98-e54d56c6b459""
+    data-bokeh-model-id=""9e8a89b7-7872-44ad-8080-7c2baf030e5b""
+    data-bokeh-doc-id=""d625c39a-948c-43f6-899f-9347da8a8680""
+></script>",TAG,
+14.75,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+25.58,,,,PERCENT_DELAYED,
+14.97,,,,POS_ARR_DELAY,
+15.11,26.35,Southwest Airlines ,,WN,92.47
+13.27,16.13,Virgin America,,VX,7.53
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

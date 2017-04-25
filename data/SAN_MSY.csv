@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,2569,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_MSY.js""
+    id=""011e3023-f5d1-48fe-b421-93bcdd37fb09""
+    data-bokeh-model-id=""76a7794f-635b-4c0f-bc5d-dea03223a3ab""
+    data-bokeh-doc-id=""e09eea43-79c5-4b8e-bce5-fd091073ccab""
+></script>",TAG,
+13.31,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+19.47,,,,PERCENT_DELAYED,
+9.92,,,,POS_ARR_DELAY,
+9.92,19.47,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

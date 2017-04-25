@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,2963,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_SFO.js""
+    id=""3b87455c-50d5-4f1c-a364-3d16fea55dc8""
+    data-bokeh-model-id=""c429a63a-3afe-4d70-9983-3697da31e58c""
+    data-bokeh-doc-id=""3d7abf9b-62d7-4011-b807-2a7074ff631c""
+></script>",TAG,
+18.6,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+26.97,,,,PERCENT_DELAYED,
+17.27,,,,POS_ARR_DELAY,
+17.27,26.97,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

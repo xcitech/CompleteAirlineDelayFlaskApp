@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,2665,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_PIT.js""
+    id=""4c9b5201-6350-447b-b91c-1fe2ff2cfb74""
+    data-bokeh-model-id=""4f47ec5c-ce81-4f7d-ae5f-ab0a76489284""
+    data-bokeh-doc-id=""9274cf0b-d45b-46bd-a8fb-59a6df88e31d""
+></script>",TAG,
+17.0,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+0.0,,,,PERCENT_DELAYED,
+10.0,,,,POS_ARR_DELAY,
+10.0,0.0,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

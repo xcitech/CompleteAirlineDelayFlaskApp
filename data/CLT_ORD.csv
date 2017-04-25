@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Charlotte,ORIGIN_CITY,,
+,,Charlotte Douglas Intl,ORIGIN_NAME,,
+,,Chicago,DEST-CITY,,
+,,Chicago Ohare Intl,DEST_NAME,,
+,,965,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/CLT_ORD.js""
+    id=""54d7ce08-e5c2-4613-b544-cb56410b703a""
+    data-bokeh-model-id=""98c0a362-1e20-4540-9c47-18f759662497""
+    data-bokeh-doc-id=""d9c8953c-1732-49f9-8131-bbe5c6ab08ee""
+></script>",TAG,,
+13.67,,,DEP_DELAY,,
+14.0,,,AVG_FLIGHTS,,
+24.48,,,PERCENT_DELAYED,,
+15.87,,,POS_ARR_DELAY,,
+22.82,33.73,,MQ,7.9,Envoy Air
+14.73,25.7,,US,35.11,US Airways 
+15.19,22.42,,EV,12.24,ExpressJet Airlines 
+13.93,20.98,,AA,30.5,American Airlines 
+16.38,20.48,,UA,7.24,United Air Lines 

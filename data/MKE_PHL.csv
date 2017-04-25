@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Philadelphia,DEST-CITY,
+,,,Philadelphia Intl,DEST_NAME,
+,,,1108,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_PHL.js""
+    id=""d68538d2-1487-4943-8eb1-5613aa7c1806""
+    data-bokeh-model-id=""1c95551b-786f-484d-91ce-8d8f72386ed7""
+    data-bokeh-doc-id=""0a452590-807c-453a-a1bd-f06f538cab7f""
+></script>",TAG,
+17.7,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+10.0,,,,PERCENT_DELAYED,
+17.02,,,,POS_ARR_DELAY,
+17.38,10.26,Frontier Airlines ,,F9,97.5
+3.0,0.0,US Airways ,,US,2.5
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

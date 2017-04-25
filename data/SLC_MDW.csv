@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,2021,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_MDW.js""
+    id=""066287c3-bcbf-4232-b92a-cdf8e5827e6f""
+    data-bokeh-model-id=""6b792153-1155-43db-9836-c0a524960320""
+    data-bokeh-doc-id=""88632d76-86dc-45a8-866a-4745d9700b1d""
+></script>",TAG,
+9.41,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+16.37,,,,PERCENT_DELAYED,
+9.05,,,,POS_ARR_DELAY,
+9.06,16.39,Southwest Airlines ,,WN,97.61
+8.88,15.79,SkyWest Airlines ,,OO,2.39
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

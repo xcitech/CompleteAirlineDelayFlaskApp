@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,3846,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_SMF.js""
+    id=""734587ab-0d53-4692-8136-8b15f00748b4""
+    data-bokeh-model-id=""91f34cf8-4ae1-4852-94bc-abee4b840f59""
+    data-bokeh-doc-id=""0fe242f9-fd46-4d5e-ba21-99c4cb67a10a""
+></script>",TAG,
+5.48,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+8.0,,,,PERCENT_DELAYED,
+4.16,,,,POS_ARR_DELAY,
+4.16,8.0,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,371,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_IND.js""
+    id=""e1493ad0-d9a4-4d4a-8e11-643637d4ee84""
+    data-bokeh-model-id=""935a9331-f378-435a-9edc-17a7096671ec""
+    data-bokeh-doc-id=""5f8d2e24-17ee-464c-b53f-2892536e1a2b""
+></script>",TAG,
+10.12,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+16.11,,,,PERCENT_DELAYED,
+10.57,,,,POS_ARR_DELAY,
+12.27,20.09,Endeavor Air ,,9E,14.61
+13.58,18.92,ExpressJet Airlines ,,EV,20.98
+9.05,16.28,SkyWest Airlines ,,OO,2.87
+9.21,14.2,Delta Air Lines ,,DL,61.54
+0.0,,,,,

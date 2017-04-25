@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,1083,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_MSY.js""
+    id=""4811a05e-aa36-41bf-ad01-e30a27574324""
+    data-bokeh-model-id=""56b26ab0-212b-4aa4-86f1-28fb5a7b4fe9""
+    data-bokeh-doc-id=""8e74a9ec-77d9-48dc-b2cf-4b5adb34e73b""
+></script>",TAG,
+10.81,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+16.94,,,,PERCENT_DELAYED,
+9.79,,,,POS_ARR_DELAY,
+10.52,18.59,Southwest Airlines ,,WN,76.35
+7.43,11.61,Spirit Air Lines,,NK,23.65
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

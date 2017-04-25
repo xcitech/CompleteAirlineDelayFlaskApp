@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,1590,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_DFW.js""
+    id=""6ad2b61a-10e8-4959-9335-f929ca710993""
+    data-bokeh-model-id=""80e6025f-4667-4692-9321-0bbca3dd1334""
+    data-bokeh-doc-id=""8d30f345-74f2-480e-9846-6c537b74ceb3""
+></script>",TAG,
+10.87,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+16.67,,,,PERCENT_DELAYED,
+11.7,,,,POS_ARR_DELAY,
+14.51,18.99,American Airlines ,,AA,61.67
+7.66,14.31,SkyWest Airlines ,,OO,14.29
+6.88,12.11,Delta Air Lines ,,DL,24.03
+0.0,0.0,Endeavor Air ,,9E,0.01
+0.0,,,,,

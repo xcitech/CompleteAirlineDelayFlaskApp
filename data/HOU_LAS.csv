@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,1985,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_LAS.js""
+    id=""3217d989-895a-4820-8d68-11ef47a2f4ab""
+    data-bokeh-model-id=""fcd5ee48-1e12-40b4-ad13-eefe41ff483f""
+    data-bokeh-doc-id=""7ee02307-387a-41b7-b5b6-ce76706c79cc""
+></script>",TAG,
+11.71,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+17.56,,,,PERCENT_DELAYED,
+10.51,,,,POS_ARR_DELAY,
+10.51,17.56,Southwest Airlines ,,WN,99.96
+0.0,0.0,AirTran Airways Corporation,,FL,0.04
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

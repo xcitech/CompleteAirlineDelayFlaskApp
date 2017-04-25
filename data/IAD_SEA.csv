@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,3703,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_SEA.js""
+    id=""3f1d2903-8525-4b46-8a29-3e6206382ddd""
+    data-bokeh-model-id=""a972a88b-580c-4025-b904-eecdb072b1bf""
+    data-bokeh-doc-id=""db31b87f-0080-4e4b-99af-fd1e70989c1b""
+></script>",TAG,
+12.84,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+15.9,,,,PERCENT_DELAYED,
+11.35,,,,POS_ARR_DELAY,
+12.28,17.07,United Air Lines ,,UA,83.73
+6.56,9.89,Alaska Airlines ,,AS,16.27
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

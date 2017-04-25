@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,1525,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_MCI.js""
+    id=""5674c8ef-d188-4d4f-92b0-b91a08443637""
+    data-bokeh-model-id=""a36c9055-254a-42bd-be44-9b4c8a4bb0cf""
+    data-bokeh-doc-id=""e4e7b816-4209-4c67-b404-ec2e6758ade9""
+></script>",TAG,
+9.59,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+14.26,,,,PERCENT_DELAYED,
+9.29,,,,POS_ARR_DELAY,
+10.05,14.71,Southwest Airlines ,,WN,83.6
+5.24,13.64,US Airways ,,US,4.04
+5.33,11.64,American Airlines ,,AA,11.57
+7.0,7.69,AirTran Airways Corporation,,FL,0.8
+0.0,,,,,

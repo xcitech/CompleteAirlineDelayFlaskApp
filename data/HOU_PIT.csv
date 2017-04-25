@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,1820,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_PIT.js""
+    id=""ad6e7f20-ceb7-4c91-b85a-e969d14d5116""
+    data-bokeh-model-id=""a57c17a0-61ac-4de0-90fc-ced8c2e7ba3a""
+    data-bokeh-doc-id=""2ed4bdb5-3c9c-440f-ae6f-344b7cb8775e""
+></script>",TAG,
+13.12,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+17.8,,,,PERCENT_DELAYED,
+11.11,,,,POS_ARR_DELAY,
+11.11,17.8,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

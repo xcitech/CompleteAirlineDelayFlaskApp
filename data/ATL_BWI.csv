@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,928,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_BWI.js""
+    id=""5fba98fc-9437-4b57-b8f0-4f550a37d3c6""
+    data-bokeh-model-id=""3fae5d4e-f24e-463f-8190-fc112b99b77b""
+    data-bokeh-doc-id=""79bbbee2-c63e-4887-b5f8-0b1780e471be""
+></script>",TAG,
+10.69,,,,DEP_DELAY,
+17.0,,,,AVG_FLIGHTS,
+16.07,,,,PERCENT_DELAYED,
+9.65,,,,POS_ARR_DELAY,
+21.27,33.96,Spirit Air Lines,,NK,2.25
+12.58,21.43,Southwest Airlines ,,WN,27.31
+7.38,14.53,AirTran Airways Corporation,,FL,9.7
+8.26,13.24,Delta Air Lines ,,DL,60.74
+0.0,,,,,

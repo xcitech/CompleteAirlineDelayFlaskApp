@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,1012,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_SLC.js""
+    id=""e71ca607-d845-419d-bc4d-4e5d2d820cd6""
+    data-bokeh-model-id=""3a2b331e-31bb-4ed6-8941-6fbe19d6f061""
+    data-bokeh-doc-id=""beda4941-9171-4d2f-a73a-aa77b484a03b""
+></script>",TAG,
+6.52,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+10.28,,,,PERCENT_DELAYED,
+6.37,,,,POS_ARR_DELAY,
+12.92,23.32,Southwest Airlines ,,WN,8.45
+6.33,9.83,Alaska Airlines ,,AS,10.49
+5.61,9.06,Delta Air Lines ,,DL,68.94
+6.17,8.5,SkyWest Airlines ,,OO,12.12
+0.0,,,,,

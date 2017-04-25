@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,2216,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_IAH.js""
+    id=""3296dbde-ff32-445f-b2c4-7895312e7fdd""
+    data-bokeh-model-id=""304fcb2c-3ea1-49b2-807a-79fd4c8d9d6e""
+    data-bokeh-doc-id=""e4179fce-7861-42b2-b163-afdaf4225c58""
+></script>",TAG,
+13.54,,,,DEP_DELAY,
+13.0,,,,AVG_FLIGHTS,
+19.54,,,,PERCENT_DELAYED,
+12.15,,,,POS_ARR_DELAY,
+23.77,38.22,Spirit Air Lines,,NK,7.52
+17.07,28.79,Envoy Air,,MQ,6.76
+10.74,17.18,United Air Lines ,,UA,85.71
+0.0,,,,,
+0.0,,,,,

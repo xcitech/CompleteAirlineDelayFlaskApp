@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Ohare Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,1177,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ORD_LGA.js""
+    id=""8d344670-0f44-4dce-97c4-fd221a7ae0fb""
+    data-bokeh-model-id=""a83e6858-fef8-42d2-82b4-79974aa2b876""
+    data-bokeh-doc-id=""5c04b5cf-8d44-4e26-bb00-662c9ff90a96""
+></script>",TAG,
+17.38,,,,DEP_DELAY,
+26.0,,,,AVG_FLIGHTS,
+26.36,,,,PERCENT_DELAYED,
+17.62,,,,POS_ARR_DELAY,
+21.92,29.39,United Air Lines ,,UA,39.11
+18.16,29.15,Spirit Air Lines,,NK,4.04
+17.73,27.79,SkyWest Airlines ,,OO,2.73
+14.47,23.9,American Airlines ,,AA,54.12
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,361,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_IAD.js""
+    id=""731d4878-32ef-4e42-b234-8437ab0c41db""
+    data-bokeh-model-id=""07883c1d-734a-42de-8f0d-f87e724cc40e""
+    data-bokeh-doc-id=""d96bbe79-f869-4722-af0e-68aedfe3bde3""
+></script>",TAG,
+13.52,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+18.75,,,,PERCENT_DELAYED,
+13.76,,,,POS_ARR_DELAY,
+15.9,20.78,ExpressJet Airlines ,,EV,34.78
+12.79,18.0,United Air Lines ,,UA,60.24
+11.79,14.1,Mesa Airlines ,,YV,4.09
+4.65,11.76,SkyWest Airlines ,,OO,0.89
+0.0,,,,,

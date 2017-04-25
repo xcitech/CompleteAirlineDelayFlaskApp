@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1478,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_DAL.js""
+    id=""44aa8c54-f583-4f18-a0f7-ecb53d8cf469""
+    data-bokeh-model-id=""10d582d5-87d4-4f44-8f3d-f4cd096fc3b7""
+    data-bokeh-doc-id=""57305d4f-988a-4f40-aa76-d556921a6fe8""
+></script>",TAG,
+14.4,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+19.61,,,,PERCENT_DELAYED,
+12.98,,,,POS_ARR_DELAY,
+12.98,19.61,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

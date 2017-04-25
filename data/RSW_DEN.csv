@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Myers,ORIGIN_CITY,
+,,,Southwest Florida Intl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,2585,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RSW_DEN.js""
+    id=""243e6bcb-99e6-4a9a-a10c-25b7051efcc7""
+    data-bokeh-model-id=""1c6cfc29-2a33-42de-80e1-51f70c53acef""
+    data-bokeh-doc-id=""c54c5d58-c46b-4df2-9af9-e5dd93bf6d5a""
+></script>",TAG,
+12.09,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+19.01,,,,PERCENT_DELAYED,
+10.68,,,,POS_ARR_DELAY,
+26.0,31.25,Southwest Airlines ,,WN,1.61
+11.12,19.52,Frontier Airlines ,,F9,63.38
+9.18,17.53,United Air Lines ,,UA,35.01
+0.0,,,,,
+0.0,,,,,

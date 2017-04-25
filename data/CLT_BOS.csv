@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,1171,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_BOS.js""
+    id=""b56d4bf5-9c9a-4e77-882b-04faa75d3335""
+    data-bokeh-model-id=""d0a4d7f2-6b86-4633-af38-230551e08d04""
+    data-bokeh-doc-id=""23210c87-3b47-4321-ae27-f708ab60cd54""
+></script>",TAG,
+10.24,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+19.78,,,,PERCENT_DELAYED,
+11.37,,,,POS_ARR_DELAY,
+10.66,20.1,US Airways ,,US,50.23
+12.31,19.96,American Airlines ,,AA,32.45
+11.67,18.5,JetBlue Airways,,B6,17.32
+0.0,,,,,
+0.0,,,,,

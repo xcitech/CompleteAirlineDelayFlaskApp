@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,4309,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_SEA.js""
+    id=""d26352d9-8393-4e48-9081-978fd1f95bb5""
+    data-bokeh-model-id=""c14996b0-3b64-4ef6-836c-0a3c59f0cb69""
+    data-bokeh-doc-id=""c0d74ba7-cc93-42de-88c3-53b7d522f7b9""
+></script>",TAG,
+6.95,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+12.02,,,,PERCENT_DELAYED,
+6.91,,,,POS_ARR_DELAY,
+7.56,15.37,Hawaiian Airlines ,,HA,21.12
+6.61,11.2,Alaska Airlines ,,AS,48.66
+6.95,11.0,Delta Air Lines ,,DL,30.22
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1690,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_DAL.js""
+    id=""c33d5af3-4edd-4d4c-b4fb-fc90965fad51""
+    data-bokeh-model-id=""8248f29d-56f7-451c-b279-023e95580fb2""
+    data-bokeh-doc-id=""13354d5f-6c7e-4c4c-8dae-3408e9e5a26c""
+></script>",TAG,
+8.64,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+11.43,,,,PERCENT_DELAYED,
+6.55,,,,POS_ARR_DELAY,
+6.55,11.43,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

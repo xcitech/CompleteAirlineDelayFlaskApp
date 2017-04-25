@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,965,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_DCA.js""
+    id=""ce2ee949-577a-4f5b-89de-35bbcae42c14""
+    data-bokeh-model-id=""d9c836d9-bd7e-4225-a7c5-27050246f8f7""
+    data-bokeh-doc-id=""a865ccdd-aa7b-4eed-a4c6-3c8db0770492""
+></script>",TAG,
+11.29,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+17.65,,,,PERCENT_DELAYED,
+10.1,,,,POS_ARR_DELAY,
+10.1,17.65,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

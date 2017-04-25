@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,2965,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_PDX.js""
+    id=""5a656206-6cda-4766-93dc-052b811e637d""
+    data-bokeh-model-id=""0e1907fa-a612-40e2-9f2e-68c55473fb78""
+    data-bokeh-doc-id=""1e5432f0-e431-43d5-8b88-e55dfc3b0558""
+></script>",TAG,
+20.32,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+34.27,,,,PERCENT_DELAYED,
+18.1,,,,POS_ARR_DELAY,
+18.1,34.27,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

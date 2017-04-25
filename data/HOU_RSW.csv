@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1370,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_RSW.js""
+    id=""2fb35ee9-4926-453f-b1b9-8376601c4cba""
+    data-bokeh-model-id=""ade1bf27-39bd-46ca-b898-4f67df5ac473""
+    data-bokeh-doc-id=""f153ad1a-9283-43e8-a3da-b13e8fcefa92""
+></script>",TAG,
+14.17,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+33.33,,,,PERCENT_DELAYED,
+16.72,,,,POS_ARR_DELAY,
+16.72,33.33,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

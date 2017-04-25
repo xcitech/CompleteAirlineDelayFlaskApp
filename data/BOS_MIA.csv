@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,2029,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_MIA.js""
+    id=""3fc493d5-e39a-4856-b0a6-cf828deed06c""
+    data-bokeh-model-id=""bb31c1aa-49e3-4526-81ed-5527ae7e898c""
+    data-bokeh-doc-id=""f707b657-4dd3-4a1f-83f9-c57fc06819e4""
+></script>",TAG,
+9.91,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+17.93,,,,PERCENT_DELAYED,
+11.34,,,,POS_ARR_DELAY,
+11.34,17.93,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

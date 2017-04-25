@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,1607,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_TPA.js""
+    id=""179e4e00-00cd-4946-a1c0-0b654077e89a""
+    data-bokeh-model-id=""b49ce481-9f3c-48a2-890a-47d676385d2c""
+    data-bokeh-doc-id=""c4a0a093-aba2-44b4-ac9f-28f76e0675a0""
+></script>",TAG,
+13.59,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+21.64,,,,PERCENT_DELAYED,
+12.49,,,,POS_ARR_DELAY,
+12.49,21.64,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

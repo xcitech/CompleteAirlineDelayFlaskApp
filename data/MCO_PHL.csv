@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Orlando,ORIGIN_CITY,,
+,,Orlando Intl,ORIGIN_NAME,,
+,,Philadelphia,DEST-CITY,,
+,,Philadelphia Intl,DEST_NAME,,
+,,1389,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MCO_PHL.js""
+    id=""7f1b8d3e-4840-42e0-b4a5-db865f85ba49""
+    data-bokeh-model-id=""6372cebe-4187-475e-b25c-a836b53c348d""
+    data-bokeh-doc-id=""216cdfd3-2fbf-4967-b5df-723d2c4e6765""
+></script>",TAG,,
+14.66,,,DEP_DELAY,,
+13.0,,,AVG_FLIGHTS,,
+21.8,,,PERCENT_DELAYED,,
+15.04,,,POS_ARR_DELAY,,
+21.93,29.07,,F9,9.51,Frontier Airlines 
+19.56,27.6,,WN,31.03,Southwest Airlines 
+13.14,22.39,,FL,1.78,AirTran Airways Corporation
+12.8,18.51,,AA,22.44,American Airlines 
+10.72,16.81,,US,35.23,US Airways 

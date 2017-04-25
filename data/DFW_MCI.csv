@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,742,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_MCI.js""
+    id=""417e70c1-2871-484f-9eec-7f3559b2d0e1""
+    data-bokeh-model-id=""a56ee318-ebb5-400b-a7f2-e6cd4e5ad62d""
+    data-bokeh-doc-id=""2bdd9a51-4f83-4a33-b891-d01c77a2a0f1""
+></script>",TAG,
+13.14,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+21.19,,,,PERCENT_DELAYED,
+12.9,,,,POS_ARR_DELAY,
+22.81,31.5,Spirit Air Lines,,NK,3.24
+12.58,20.86,American Airlines ,,AA,96.61
+5.27,9.09,Envoy Air,,MQ,0.14
+0.0,,,,,
+0.0,,,,,

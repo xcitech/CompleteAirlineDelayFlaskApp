@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Washington,ORIGIN_CITY,,
+,,Ronald Reagan Washington Natl,ORIGIN_NAME,,
+,,Fort Myers,DEST-CITY,,
+,,Southwest Florida Intl,DEST_NAME,,
+,,1439,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DCA_RSW.js""
+    id=""ca5aaf53-2835-4e17-b3fd-3f63aca8fa85""
+    data-bokeh-model-id=""237d52c8-140b-4bf6-beea-b05296483396""
+    data-bokeh-doc-id=""c23a3759-4aa7-463f-a485-7bde1f10f7c8""
+></script>",TAG,,
+9.6,,,DEP_DELAY,,
+2.0,,,AVG_FLIGHTS,,
+16.67,,,PERCENT_DELAYED,,
+11.06,,,POS_ARR_DELAY,,
+14.97,22.9,,B6,37.39,JetBlue Airways
+13.09,18.39,,AA,4.97,American Airlines 
+12.0,14.78,,FL,19.69,AirTran Airways Corporation
+7.92,13.95,,US,16.78,US Airways 
+5.29,9.16,,WN,21.18,Southwest Airlines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,4325,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_BOS.js""
+    id=""3ee087b0-1f30-425d-8a1a-64484f6ae2bb""
+    data-bokeh-model-id=""1eaf5116-f483-4b65-92a8-244e624ec273""
+    data-bokeh-doc-id=""98277202-be51-4561-aec3-13a7f1cdc666""
+></script>",TAG,
+23.12,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+32.36,,,,PERCENT_DELAYED,
+19.79,,,,POS_ARR_DELAY,
+19.79,32.36,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

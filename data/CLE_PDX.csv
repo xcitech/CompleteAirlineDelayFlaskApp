@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,3284,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_PDX.js""
+    id=""e2450165-26be-4690-a917-411cf3918f9a""
+    data-bokeh-model-id=""7a210855-5ca5-4c9f-b517-60989f3be366""
+    data-bokeh-doc-id=""f838e304-729a-4f9a-8e75-50033f2100fb""
+></script>",TAG,
+4.69,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+10.91,,,,PERCENT_DELAYED,
+5.64,,,,POS_ARR_DELAY,
+5.64,10.91,Frontier Airlines ,,F9,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

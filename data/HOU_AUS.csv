@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,238,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_AUS.js""
+    id=""6bb6583c-2ca4-4a13-b582-f8cc055c42fa""
+    data-bokeh-model-id=""a95c78bd-7122-4501-bfb8-0cf9be4a3e71""
+    data-bokeh-doc-id=""b5b362b1-eb32-4f38-a37f-2d3ea27a2002""
+></script>",TAG,
+14.96,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+27.45,,,,PERCENT_DELAYED,
+14.75,,,,POS_ARR_DELAY,
+14.75,27.45,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

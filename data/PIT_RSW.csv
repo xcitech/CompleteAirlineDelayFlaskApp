@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Pittsburgh,ORIGIN_CITY,
+,,,Pittsburgh Intl,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1559,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PIT_RSW.js""
+    id=""84481d3f-124b-4cf1-85b7-156b3a9e219a""
+    data-bokeh-model-id=""d71beb14-d7c5-49fe-9d98-441acf3d7631""
+    data-bokeh-doc-id=""89665eee-3ba4-4c1a-897e-3c7c960650f1""
+></script>",TAG,
+10.38,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+13.39,,,,PERCENT_DELAYED,
+9.47,,,,POS_ARR_DELAY,
+9.77,13.57,Southwest Airlines ,,WN,93.51
+5.05,10.75,AirTran Airways Corporation,,FL,6.49
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,319,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_DCA.js""
+    id=""21cd8138-9d4b-4035-a08f-64e3a127ec36""
+    data-bokeh-model-id=""4f23102a-b281-45f6-894a-0f129c5952d7""
+    data-bokeh-doc-id=""b2eaa208-bda7-4123-ad32-a577333edd6a""
+></script>",TAG,
+15.51,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+26.02,,,,PERCENT_DELAYED,
+16.79,,,,POS_ARR_DELAY,
+38.38,37.5,United Air Lines ,,UA,0.17
+16.75,26.0,ExpressJet Airlines ,,EV,99.83
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

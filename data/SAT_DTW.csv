@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Detroit,DEST-CITY,
+,,,Detroit Metro Wayne Co,DEST_NAME,
+,,,1955,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_DTW.js""
+    id=""460fbcf9-be62-4534-b308-a56a012c324c""
+    data-bokeh-model-id=""34fa5bc8-41dd-4936-9844-1662489d7e6c""
+    data-bokeh-doc-id=""6188fb3b-aace-4b6a-a2dc-b7d2b0cfe466""
+></script>",TAG,
+11.3,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+11.41,,,,PERCENT_DELAYED,
+10.08,,,,POS_ARR_DELAY,
+11.32,13.84,ExpressJet Airlines ,,EV,68.6
+2.33,6.67,Endeavor Air ,,9E,1.06
+8.09,6.2,Delta Air Lines ,,DL,26.29
+3.95,5.26,SkyWest Airlines ,,OO,4.04
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Las Vegas,ORIGIN_CITY,,
+,,Mc Carran Intl,ORIGIN_NAME,,
+,,Seattle,DEST-CITY,,
+,,Seattle Tacoma Intl,DEST_NAME,,
+,,1396,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LAS_SEA.js""
+    id=""bcb9f589-6299-41bb-a9fc-0656813716dc""
+    data-bokeh-model-id=""a9eeceb5-4d82-40a3-bc64-972d94109b45""
+    data-bokeh-doc-id=""aebe21cb-70ce-4c08-8e48-95c83b2b478d""
+></script>",TAG,,
+10.07,,,DEP_DELAY,,
+15.0,,,AVG_FLIGHTS,,
+17.33,,,PERCENT_DELAYED,,
+10.52,,,POS_ARR_DELAY,,
+15.85,30.31,,WN,23.5,Southwest Airlines 
+15.87,22.74,,NK,1.64,Spirit Air Lines
+11.93,17.72,,OO,14.04,SkyWest Airlines 
+11.55,15.61,,DL,7.34,Delta Air Lines 
+7.49,11.58,,AS,53.48,Alaska Airlines 

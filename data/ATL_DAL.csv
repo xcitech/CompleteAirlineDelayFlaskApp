@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1158,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_DAL.js""
+    id=""05dc9a71-b04c-405b-ae55-d31987b36878""
+    data-bokeh-model-id=""c9648922-7ef2-435a-b633-132ddda46f55""
+    data-bokeh-doc-id=""36fd78be-c8d1-4fae-92da-0f71f87bc7fd""
+></script>",TAG,
+11.33,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+16.83,,,,PERCENT_DELAYED,
+10.35,,,,POS_ARR_DELAY,
+13.75,21.26,ExpressJet Airlines ,,EV,24.3
+12.25,20.67,Southwest Airlines ,,WN,37.23
+6.36,10.31,Delta Air Lines ,,DL,38.47
+0.0,,,,,
+0.0,,,,,

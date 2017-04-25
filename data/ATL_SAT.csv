@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,San Antonio,DEST-CITY,
+,,,San Antonio Intl,DEST_NAME,
+,,,1405,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_SAT.js""
+    id=""339ee9a0-099a-4554-badc-56d3436b7a73""
+    data-bokeh-model-id=""df460860-a31f-4bd7-821e-e9791b0fbbef""
+    data-bokeh-doc-id=""a1dc1e6b-7218-4fc3-9d8c-a05780459dd2""
+></script>",TAG,
+9.63,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+16.07,,,,PERCENT_DELAYED,
+9.02,,,,POS_ARR_DELAY,
+16.35,30.16,Southwest Airlines ,,WN,16.59
+12.94,26.56,Frontier Airlines ,,F9,0.65
+9.38,21.15,AirTran Airways Corporation,,FL,9.72
+7.27,12.1,Delta Air Lines ,,DL,73.04
+0.0,,,,,

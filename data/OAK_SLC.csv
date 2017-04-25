@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,945,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_SLC.js""
+    id=""3754b1be-e0bf-4fbc-95ba-9826b17b6765""
+    data-bokeh-model-id=""1f5ef142-18f8-4913-9a63-40084485e518""
+    data-bokeh-doc-id=""4c5fa203-d173-4c52-a004-5c0f232878ee""
+></script>",TAG,
+9.42,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+15.13,,,,PERCENT_DELAYED,
+8.46,,,,POS_ARR_DELAY,
+11.6,23.7,Southwest Airlines ,,WN,51.79
+5.02,6.01,Delta Air Lines ,,DL,46.61
+6.64,3.7,SkyWest Airlines ,,OO,1.6
+0.0,,,,,
+0.0,,,,,

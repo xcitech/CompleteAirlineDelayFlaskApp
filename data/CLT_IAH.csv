@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Charlotte,ORIGIN_CITY,,
+,,Charlotte Douglas Intl,ORIGIN_NAME,,
+,,Houston,DEST-CITY,,
+,,George Bush Intercontinental,DEST_NAME,,
+,,1467,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/CLT_IAH.js""
+    id=""0270f015-b6f0-417a-8060-02e1b88b4306""
+    data-bokeh-model-id=""29232f8c-54d5-46bb-82f0-f03812754f2c""
+    data-bokeh-doc-id=""d10a5ad1-cdfe-450f-b250-12679d65a03e""
+></script>",TAG,,
+11.96,,,DEP_DELAY,,
+11.0,,,AVG_FLIGHTS,,
+21.57,,,PERCENT_DELAYED,,
+13.72,,,POS_ARR_DELAY,,
+21.15,26.58,,OO,4.6,SkyWest Airlines 
+14.93,21.87,,AA,28.09,American Airlines 
+14.42,21.47,,EV,26.42,ExpressJet Airlines 
+11.64,21.04,,US,40.42,US Airways 
+9.13,5.45,,UA,0.47,United Air Lines 

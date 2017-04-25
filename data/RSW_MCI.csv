@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Myers,ORIGIN_CITY,
+,,,Southwest Florida Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,1861,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RSW_MCI.js""
+    id=""81342c92-3aa4-4842-bfe7-85980418a6ba""
+    data-bokeh-model-id=""c4ebf926-bbbd-40da-a10a-32d11bebdd4a""
+    data-bokeh-doc-id=""2c283b5f-e3a0-4ef5-bb5a-044528c12826""
+></script>",TAG,
+20.33,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+19.3,,,,PERCENT_DELAYED,
+19.13,,,,POS_ARR_DELAY,
+19.13,19.3,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

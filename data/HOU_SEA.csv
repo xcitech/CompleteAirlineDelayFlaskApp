@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,3046,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_SEA.js""
+    id=""85577f47-a96c-43cb-b2b8-d56a5d4e9513""
+    data-bokeh-model-id=""56125f39-09a9-4256-ab4a-7e800d335c2c""
+    data-bokeh-doc-id=""c949dec2-fe9a-4b86-99bf-561b6247f6fd""
+></script>",TAG,
+23.44,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+36.78,,,,PERCENT_DELAYED,
+24.33,,,,POS_ARR_DELAY,
+24.33,36.78,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

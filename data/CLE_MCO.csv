@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Cleveland,ORIGIN_CITY,,
+,,Cleveland Hopkins Intl,ORIGIN_NAME,,
+,,Orlando,DEST-CITY,,
+,,Orlando Intl,DEST_NAME,,
+,,1445,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/CLE_MCO.js""
+    id=""1a25b47b-6831-49c8-8af3-eb2ff407a258""
+    data-bokeh-model-id=""fc3aef5b-7161-4e2f-8f77-93bbcdede10d""
+    data-bokeh-doc-id=""0389000c-4982-4a5e-97e0-65ac3a78fe7b""
+></script>",TAG,,
+12.54,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+17.67,,,PERCENT_DELAYED,,
+13.26,,,POS_ARR_DELAY,,
+17.34,28.12,,NK,14.97,Spirit Air Lines
+18.57,21.87,,F9,36.75,Frontier Airlines 
+17.93,20.0,,EV,0.41,ExpressJet Airlines 
+7.86,11.19,,UA,47.45,United Air Lines 
+7.6,6.67,,WN,0.41,Southwest Airlines 

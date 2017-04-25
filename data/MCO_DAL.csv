@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1565,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_DAL.js""
+    id=""706381ce-ca95-40b2-87a4-e4ce749f5a92""
+    data-bokeh-model-id=""297d4af4-96a9-425f-ba4c-d52aa39d0651""
+    data-bokeh-doc-id=""63a4340d-1809-457c-823e-dcbd03776104""
+></script>",TAG,
+8.56,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+13.45,,,,PERCENT_DELAYED,
+7.78,,,,POS_ARR_DELAY,
+7.78,13.45,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,1175,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_DFW.js""
+    id=""953811e6-f08c-4f8f-8aaa-9a25603fa081""
+    data-bokeh-model-id=""e05df0b1-62a9-4238-a4f1-d4f33de1e945""
+    data-bokeh-doc-id=""9ac80829-a1a6-4b49-93cb-b64ac18bf2db""
+></script>",TAG,
+11.88,,,,DEP_DELAY,
+20.0,,,,AVG_FLIGHTS,
+16.63,,,,PERCENT_DELAYED,
+11.92,,,,POS_ARR_DELAY,
+25.36,33.76,Spirit Air Lines,,NK,3.24
+15.79,20.55,ExpressJet Airlines ,,EV,0.33
+15.12,19.0,American Airlines ,,AA,42.53
+8.56,13.69,Delta Air Lines ,,DL,53.89
+0.0,,,,,

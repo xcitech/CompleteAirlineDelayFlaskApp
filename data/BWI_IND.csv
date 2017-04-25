@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,829,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_IND.js""
+    id=""b78da6b2-f139-4109-b600-f2751cbde57f""
+    data-bokeh-model-id=""79fde3ba-58c7-44bb-a2c5-98b6deccd3fb""
+    data-bokeh-doc-id=""9c3aada0-3a52-48ad-a63e-e8629654feae""
+></script>",TAG,
+17.09,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+27.1,,,,PERCENT_DELAYED,
+16.34,,,,POS_ARR_DELAY,
+16.35,27.11,Southwest Airlines ,,WN,99.94
+0.0,0.0,AirTran Airways Corporation,,FL,0.06
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

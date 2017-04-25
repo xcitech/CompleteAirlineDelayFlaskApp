@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,3350,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_FLL.js""
+    id=""42d0c9f6-111d-49e3-b39a-2315446681e2""
+    data-bokeh-model-id=""325e7b04-039f-4eeb-a2b9-a66fe8e14762""
+    data-bokeh-doc-id=""b0e635a1-6ac9-42ed-b8a7-230b9d52a8e3""
+></script>",TAG,
+0.0,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+100.0,,,,PERCENT_DELAYED,
+59.0,,,,POS_ARR_DELAY,
+59.0,100.0,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

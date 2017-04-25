@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,365,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_LAS.js""
+    id=""b16d3512-e114-4ea8-9a6e-afe36280b952""
+    data-bokeh-model-id=""9707ded4-856a-4173-a8db-07b102cc8477""
+    data-bokeh-doc-id=""d6f523e8-3f57-42d9-b792-14c2622d781f""
+></script>",TAG,
+10.15,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+18.46,,,,PERCENT_DELAYED,
+9.52,,,,POS_ARR_DELAY,
+9.77,18.94,Southwest Airlines ,,WN,95.61
+3.92,8.04,AirTran Airways Corporation,,FL,4.39
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

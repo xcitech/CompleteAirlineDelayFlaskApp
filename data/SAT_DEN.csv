@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,San Antonio,ORIGIN_CITY,,
+,,San Antonio Intl,ORIGIN_NAME,,
+,,Denver,DEST-CITY,,
+,,Denver Intl,DEST_NAME,,
+,,1280,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SAT_DEN.js""
+    id=""159d36ef-8a6c-4ebc-9d6f-9a319d427753""
+    data-bokeh-model-id=""1b0785ee-681e-45aa-802c-dad1c3813128""
+    data-bokeh-doc-id=""7b572e25-0f50-4e44-a74a-7864388873f5""
+></script>",TAG,,
+12.52,,,DEP_DELAY,,
+5.0,,,AVG_FLIGHTS,,
+18.71,,,PERCENT_DELAYED,,
+11.73,,,POS_ARR_DELAY,,
+25.75,32.73,,F9,2.1,Frontier Airlines 
+15.91,24.44,,OO,19.78,SkyWest Airlines 
+13.52,19.49,,EV,5.29,ExpressJet Airlines 
+10.37,19.14,,WN,49.63,Southwest Airlines 
+9.38,11.45,,UA,23.2,United Air Lines 

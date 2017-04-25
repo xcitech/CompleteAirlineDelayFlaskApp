@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,1112,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_MSY.js""
+    id=""1e70675b-87e4-45b8-8b6c-74d0e2d10476""
+    data-bokeh-model-id=""d3ae0f39-190a-4d5c-9943-0809f15af94f""
+    data-bokeh-doc-id=""4be9d26d-23e4-494d-8c4c-461397be47f4""
+></script>",TAG,
+6.67,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+10.78,,,,PERCENT_DELAYED,
+6.44,,,,POS_ARR_DELAY,
+9.68,15.38,AirTran Airways Corporation,,FL,5.99
+6.24,10.49,Southwest Airlines ,,WN,94.01
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

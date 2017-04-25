@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,2379,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_SLC.js""
+    id=""0dbe4ef5-7475-4680-8c66-d276878add08""
+    data-bokeh-model-id=""bff0ca6c-c07d-4b8b-b173-5cfb3b99f6d3""
+    data-bokeh-doc-id=""b22dade9-916c-40a6-894a-49f67ad44208""
+></script>",TAG,
+7.92,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+13.32,,,,PERCENT_DELAYED,
+7.4,,,,POS_ARR_DELAY,
+166.0,100.0,Frontier Airlines ,,F9,0.02
+7.36,13.31,Delta Air Lines ,,DL,99.98
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

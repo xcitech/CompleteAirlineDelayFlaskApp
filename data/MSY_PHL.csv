@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Philadelphia,DEST-CITY,
+,,,Philadelphia Intl,DEST_NAME,
+,,,1751,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_PHL.js""
+    id=""0cd4f73d-5f74-4c67-b237-bdac0f900648""
+    data-bokeh-model-id=""452b294a-10fb-486b-aa20-1255986127a0""
+    data-bokeh-doc-id=""e5ce98cc-5f57-4445-9fef-439a08b17cca""
+></script>",TAG,
+10.76,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.41,,,,PERCENT_DELAYED,
+11.41,,,,POS_ARR_DELAY,
+12.16,19.76,American Airlines ,,AA,34.98
+15.0,18.67,Frontier Airlines ,,F9,5.29
+10.66,17.59,US Airways ,,US,59.73
+0.0,,,,,
+0.0,,,,,

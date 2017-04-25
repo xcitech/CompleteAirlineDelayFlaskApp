@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,2220,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_LGA.js""
+    id=""d3faba36-106c-4b18-a812-e2ea9b2eb8d3""
+    data-bokeh-model-id=""3b75065d-c0fc-492d-b931-e6710cb6ad02""
+    data-bokeh-doc-id=""79eb6b54-efbd-4e0b-90d8-5efc70d8e5cc""
+></script>",TAG,
+17.09,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+28.66,,,,PERCENT_DELAYED,
+18.75,,,,POS_ARR_DELAY,
+21.27,32.05,Virgin America,,VX,47.95
+16.42,25.54,Southwest Airlines ,,WN,52.05
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

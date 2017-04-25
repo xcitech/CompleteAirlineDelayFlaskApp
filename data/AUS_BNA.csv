@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,1216,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_BNA.js""
+    id=""e411f698-7a9f-428d-a397-ce0518721b42""
+    data-bokeh-model-id=""f942c1ff-0791-4676-9623-cf9ffee06448""
+    data-bokeh-doc-id=""a40fcfa9-0af6-4bac-8b0e-e57176e437de""
+></script>",TAG,
+10.78,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+16.25,,,,PERCENT_DELAYED,
+9.45,,,,POS_ARR_DELAY,
+9.45,16.25,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

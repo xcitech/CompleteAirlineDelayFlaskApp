@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,3121,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_IND.js""
+    id=""264546b7-39ec-40ba-8817-9229bd07922e""
+    data-bokeh-model-id=""892889d4-bbbe-4961-8e02-49bceb32afb0""
+    data-bokeh-doc-id=""bea02a8f-8888-4001-942a-bfed816ddc80""
+></script>",TAG,
+17.96,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+22.05,,,,PERCENT_DELAYED,
+15.57,,,,POS_ARR_DELAY,
+15.57,22.05,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

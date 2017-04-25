@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Ohare Intl,DEST_NAME,
+,,,1155,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_ORD.js""
+    id=""aa890480-0bbb-46ee-afa4-98ff6738a65c""
+    data-bokeh-model-id=""a8114183-665b-42cd-83a2-ecec011196c6""
+    data-bokeh-doc-id=""b792698f-e382-4e11-8f91-6a6f339b5bd5""
+></script>",TAG,
+19.27,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+25.38,,,,PERCENT_DELAYED,
+19.34,,,,POS_ARR_DELAY,
+34.0,100.0,ExpressJet Airlines ,,EV,0.02
+25.44,26.87,American Airlines ,,AA,7.03
+18.53,26.76,Envoy Air,,MQ,9.21
+18.91,25.09,United Air Lines ,,UA,83.74
+0.0,,,,,

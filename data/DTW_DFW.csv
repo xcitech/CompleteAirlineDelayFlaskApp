@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Dallas-Fort Worth,DEST-CITY,,
+,,Dallas Fort Worth Intl,DEST_NAME,,
+,,1587,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_DFW.js""
+    id=""73515c3d-8aef-40c0-a0b6-8673e3d8184f""
+    data-bokeh-model-id=""3ba7b1b7-aa60-44b9-b23f-02a4adb15170""
+    data-bokeh-doc-id=""4404f7ed-5877-480a-936e-c99151023c09""
+></script>",TAG,,
+13.91,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+20.57,,,PERCENT_DELAYED,,
+14.82,,,POS_ARR_DELAY,,
+31.57,38.37,,NK,7.23,Spirit Air Lines
+14.28,26.77,,9E,1.53,Endeavor Air 
+17.33,26.57,,EV,4.98,ExpressJet Airlines 
+14.21,19.34,,AA,66.04,American Airlines 
+10.26,16.32,,DL,19.96,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,977,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_ATL.js""
+    id=""da51fd77-fb66-4e25-87fd-a5a5f0b07848""
+    data-bokeh-model-id=""b772e402-70e9-4350-b47b-ba7e54583689""
+    data-bokeh-doc-id=""0295480f-87e2-4a5e-8f7a-d24de73834bf""
+></script>",TAG,,
+17.09,,,DEP_DELAY,,
+17.0,,,AVG_FLIGHTS,,
+23.77,,,PERCENT_DELAYED,,
+17.38,,,POS_ARR_DELAY,,
+24.7,36.69,,NK,4.73,Spirit Air Lines
+17.86,32.91,,MQ,6.56,Envoy Air
+18.34,30.27,,OO,12.82,SkyWest Airlines 
+16.25,23.51,,UA,7.63,United Air Lines 
+15.76,19.38,,DL,59.22,Delta Air Lines 

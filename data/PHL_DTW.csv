@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Philadelphia,ORIGIN_CITY,,
+,,Philadelphia Intl,ORIGIN_NAME,,
+,,Detroit,DEST-CITY,,
+,,Detroit Metro Wayne Co,DEST_NAME,,
+,,728,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/PHL_DTW.js""
+    id=""e66c9ae8-b67a-45da-9c2a-2d0fef60bc27""
+    data-bokeh-model-id=""ee7050e9-902d-4647-8618-58c80f9a5533""
+    data-bokeh-doc-id=""09feac89-c0d1-472a-9efa-2f445582b384""
+></script>",TAG,,
+10.83,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+16.17,,,PERCENT_DELAYED,,
+11.77,,,POS_ARR_DELAY,,
+18.1,20.0,,EV,4.08,ExpressJet Airlines 
+11.25,19.16,,US,14.41,US Airways 
+10.97,17.43,,AA,5.53,American Airlines 
+10.6,15.87,,NK,1.87,Spirit Air Lines
+11.61,15.31,,DL,73.45,Delta Air Lines 

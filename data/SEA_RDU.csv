@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,3782,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_RDU.js""
+    id=""c2e5ad2a-34da-4b19-bc0f-311a9e137b41""
+    data-bokeh-model-id=""1c64769d-38e2-4831-a269-f5e01d3f8430""
+    data-bokeh-doc-id=""b077bf84-1568-4de9-8d80-212ded4fd109""
+></script>",TAG,
+2.58,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+5.99,,,,PERCENT_DELAYED,
+2.57,,,,POS_ARR_DELAY,
+2.57,5.99,Alaska Airlines ,,AS,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

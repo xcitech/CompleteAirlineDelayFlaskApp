@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,412,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_BWI.js""
+    id=""f1f8ba7b-38f5-4b2b-b1bb-24a5732e495b""
+    data-bokeh-model-id=""0510490e-b50d-48e2-ac9b-9407dd76385a""
+    data-bokeh-doc-id=""17557f30-619e-4b50-8160-ccc7566af0d4""
+></script>",TAG,
+11.86,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+19.8,,,,PERCENT_DELAYED,
+11.37,,,,POS_ARR_DELAY,
+11.66,20.24,Southwest Airlines ,,WN,95.41
+5.48,10.92,Endeavor Air ,,9E,4.48
+0.0,0.0,ExpressJet Airlines ,,EV,0.08
+1.5,0.0,AirTran Airways Corporation,,FL,0.03
+0.0,,,,,

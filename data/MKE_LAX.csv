@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,2821,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_LAX.js""
+    id=""69021808-d5e5-4ab7-bc5b-179179e494f7""
+    data-bokeh-model-id=""a9734dcb-b867-4c5f-a997-e8742a166c8c""
+    data-bokeh-doc-id=""c949977d-1cbe-4fcd-8217-937daf1ce434""
+></script>",TAG,
+9.46,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+15.53,,,,PERCENT_DELAYED,
+9.23,,,,POS_ARR_DELAY,
+9.23,15.53,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

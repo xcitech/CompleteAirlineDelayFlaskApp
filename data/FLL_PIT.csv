@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,1604,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_PIT.js""
+    id=""7209f384-718b-49b1-ba99-caf6053649a6""
+    data-bokeh-model-id=""0bd2d526-667e-4ece-9007-3266a597df6c""
+    data-bokeh-doc-id=""adedf896-811a-4148-aa21-131e8dd17a71""
+></script>",TAG,
+22.42,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+27.96,,,,PERCENT_DELAYED,
+19.13,,,,POS_ARR_DELAY,
+26.13,36.08,JetBlue Airways,,B6,33.84
+15.75,24.03,Southwest Airlines ,,WN,64.29
+8.59,16.22,AirTran Airways Corporation,,FL,1.87
+0.0,,,,,
+0.0,,,,,

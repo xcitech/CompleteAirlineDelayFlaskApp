@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,1752,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_LAS.js""
+    id=""3fdf91e9-5604-43f7-a092-32f5f61a585e""
+    data-bokeh-model-id=""dc038457-cb4c-42c9-932d-76afe917f57f""
+    data-bokeh-doc-id=""5a53b726-6595-4e66-a79b-cde4382b05ac""
+></script>",TAG,
+12.9,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+20.07,,,,PERCENT_DELAYED,
+11.76,,,,POS_ARR_DELAY,
+13.75,21.82,Frontier Airlines ,,F9,12.16
+11.48,19.82,Southwest Airlines ,,WN,87.84
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

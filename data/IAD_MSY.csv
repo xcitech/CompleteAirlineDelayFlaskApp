@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,1536,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_MSY.js""
+    id=""f4b63156-1acf-4b8a-9d53-92c27fe2d0c5""
+    data-bokeh-model-id=""6351f673-f067-48e1-8621-c107ec7c57c1""
+    data-bokeh-doc-id=""9f681c9f-ae7c-4a05-bc59-2e240b620e89""
+></script>",TAG,
+15.07,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+22.2,,,,PERCENT_DELAYED,
+16.17,,,,POS_ARR_DELAY,
+23.6,52.0,SkyWest Airlines ,,OO,2.43
+18.77,25.14,ExpressJet Airlines ,,EV,34.86
+14.43,19.41,United Air Lines ,,UA,62.71
+0.0,,,,,
+0.0,,,,,

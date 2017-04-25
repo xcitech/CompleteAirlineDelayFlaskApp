@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,2279,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_JFK.js""
+    id=""503bb465-d52e-4720-a5f3-5331216ef706""
+    data-bokeh-model-id=""65916955-031b-48ca-b16a-859cfd87682b""
+    data-bokeh-doc-id=""1b1abe9d-40dd-4ab4-932f-adfd35533d1a""
+></script>",TAG,
+3.02,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+14.84,,,,PERCENT_DELAYED,
+6.65,,,,POS_ARR_DELAY,
+6.65,14.84,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

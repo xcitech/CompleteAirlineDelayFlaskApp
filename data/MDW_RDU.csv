@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,1016,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_RDU.js""
+    id=""ea76672e-5ec7-493e-b4f7-15c151be8679""
+    data-bokeh-model-id=""dee25f5a-af61-4dc5-8720-0bb83419c316""
+    data-bokeh-doc-id=""153c6c0c-26eb-4475-9417-2ae5be243fab""
+></script>",TAG,
+14.87,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.85,,,,PERCENT_DELAYED,
+13.1,,,,POS_ARR_DELAY,
+13.1,22.86,Southwest Airlines ,,WN,99.97
+0.0,0.0,AirTran Airways Corporation,,FL,0.03
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

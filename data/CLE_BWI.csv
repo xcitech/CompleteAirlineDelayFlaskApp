@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,505,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_BWI.js""
+    id=""30822e1f-15da-44c2-a9da-46f2e613b552""
+    data-bokeh-model-id=""fccebf4c-8857-4263-b63d-bf288f5f68ba""
+    data-bokeh-doc-id=""a9676f10-672c-454c-9099-6ac0a6df6b2c""
+></script>",TAG,
+13.13,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.58,,,,PERCENT_DELAYED,
+12.6,,,,POS_ARR_DELAY,
+12.4,20.63,Southwest Airlines ,,WN,92.16
+15.01,20.0,ExpressJet Airlines ,,EV,7.84
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

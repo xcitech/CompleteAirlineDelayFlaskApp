@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,2568,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_IAH.js""
+    id=""4e8e171f-4a50-4b58-8a80-859868725022""
+    data-bokeh-model-id=""a772d5ae-a80b-4beb-8dcd-c8e81c320185""
+    data-bokeh-doc-id=""56ce0aca-9a82-4ea8-9efc-9af1a7588727""
+></script>",TAG,
+13.18,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+19.4,,,,PERCENT_DELAYED,
+12.25,,,,POS_ARR_DELAY,
+12.25,19.4,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

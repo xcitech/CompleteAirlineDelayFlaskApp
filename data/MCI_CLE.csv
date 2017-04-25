@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,1114,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_CLE.js""
+    id=""566f4e03-7b9d-41ff-b48c-7c4c5a0f10b9""
+    data-bokeh-model-id=""77712932-585f-4be7-9c2e-9cc45d85eb4e""
+    data-bokeh-doc-id=""0eee10e0-88ad-459b-bced-6b64389e29b1""
+></script>",TAG,
+17.22,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+21.33,,,,PERCENT_DELAYED,
+16.3,,,,POS_ARR_DELAY,
+16.62,21.6,ExpressJet Airlines ,,EV,97.71
+2.7,10.0,SkyWest Airlines ,,OO,2.29
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

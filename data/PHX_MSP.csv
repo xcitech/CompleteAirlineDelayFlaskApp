@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Phoenix,ORIGIN_CITY,,
+,,Phoenix Sky Harbor Intl,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,2052,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/PHX_MSP.js""
+    id=""2d7c3e90-5ccb-4ea1-a5a5-9cc05a671fa7""
+    data-bokeh-model-id=""59cea32c-2fd2-4a67-9e6f-1f424732d739""
+    data-bokeh-doc-id=""b03756c5-0fe2-4570-81ad-5efabb1530e0""
+></script>",TAG,,
+9.77,,,DEP_DELAY,,
+12.0,,,AVG_FLIGHTS,,
+15.42,,,PERCENT_DELAYED,,
+9.31,,,POS_ARR_DELAY,,
+22.37,35.86,,NK,1.94,Spirit Air Lines
+12.72,25.64,,WN,18.3,Southwest Airlines 
+10.38,16.7,,AA,14.65,American Airlines 
+7.31,15.71,,US,22.36,US Airways 
+7.93,9.53,,DL,42.75,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,1266,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_STL.js""
+    id=""fb8825b3-4c3c-483f-bc92-182d82b0d821""
+    data-bokeh-model-id=""c48e02ba-bb61-4ee3-848d-7d1f5ec07e44""
+    data-bokeh-doc-id=""52e45e39-f55d-4c9e-a315-fd8de05b9d30""
+></script>",TAG,
+8.55,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+13.27,,,,PERCENT_DELAYED,
+7.71,,,,POS_ARR_DELAY,
+7.71,13.27,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1942,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_DAL.js""
+    id=""42c84cd5-7c44-4ff2-9c87-dac54758b623""
+    data-bokeh-model-id=""c2b0f59d-fbb0-49e1-b54b-94425df015b9""
+    data-bokeh-doc-id=""8e6ea106-805b-4a92-997e-2fb729fc9f7a""
+></script>",TAG,
+15.03,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+21.09,,,,PERCENT_DELAYED,
+12.83,,,,POS_ARR_DELAY,
+12.83,21.09,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

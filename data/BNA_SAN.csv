@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,2813,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_SAN.js""
+    id=""f7c41e9a-ed85-4fdf-9972-52ae52e0afe6""
+    data-bokeh-model-id=""c1ead615-b6db-45d9-8ea2-cc215221204f""
+    data-bokeh-doc-id=""59150c51-d04c-41e9-96b9-f4cb8dfa267a""
+></script>",TAG,
+10.88,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.47,,,,PERCENT_DELAYED,
+10.13,,,,POS_ARR_DELAY,
+10.13,18.47,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

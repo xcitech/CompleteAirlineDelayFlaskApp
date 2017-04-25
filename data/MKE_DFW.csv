@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,1374,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_DFW.js""
+    id=""f634b008-094b-4e64-917c-e30f4813de0e""
+    data-bokeh-model-id=""a2f9a627-f00c-4ec6-84fd-fd52437f8fbf""
+    data-bokeh-doc-id=""db4cc97a-29ef-47e4-92c6-9e9932a851dc""
+></script>",TAG,
+16.68,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.84,,,,PERCENT_DELAYED,
+17.8,,,,POS_ARR_DELAY,
+26.07,27.12,Frontier Airlines ,,F9,1.55
+17.29,26.7,Envoy Air,,MQ,26.34
+17.8,21.34,American Airlines ,,AA,72.1
+0.0,,,,,
+0.0,,,,,

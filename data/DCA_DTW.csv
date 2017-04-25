@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Detroit,DEST-CITY,
+,,,Detroit Metro Wayne Co,DEST_NAME,
+,,,651,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_DTW.js""
+    id=""e981896a-be32-499e-b936-05542845f18d""
+    data-bokeh-model-id=""97123cef-8df2-41ed-8813-038269d43c1e""
+    data-bokeh-doc-id=""c68655cc-3546-4cb2-970a-1d6fb1417a6c""
+></script>",TAG,
+11.2,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+14.43,,,,PERCENT_DELAYED,
+11.7,,,,POS_ARR_DELAY,
+14.2,16.77,ExpressJet Airlines ,,EV,5.47
+11.62,14.37,Delta Air Lines ,,DL,93.45
+5.83,7.81,Endeavor Air ,,9E,1.07
+0.0,0.0,American Airlines ,,AA,0.02
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Milwaukee,DEST-CITY,
+,,,General Mitchell Intl,DEST_NAME,
+,,,2448,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_MKE.js""
+    id=""350346b2-c305-46d9-b937-600ed8531d24""
+    data-bokeh-model-id=""6c1b8de7-009e-46dc-95dc-8cb4cabbfd6d""
+    data-bokeh-doc-id=""5f0f7d9f-638b-412b-81b9-0262db9ddf8c""
+></script>",TAG,
+16.36,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.92,,,,PERCENT_DELAYED,
+14.09,,,,POS_ARR_DELAY,
+13.94,23.11,Southwest Airlines ,,WN,91.65
+15.69,20.86,Frontier Airlines ,,F9,8.35
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

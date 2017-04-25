@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,1037,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_MCI.js""
+    id=""2f92a5b6-b5c7-4c19-adec-68cf7166463b""
+    data-bokeh-model-id=""47b2f24c-20e6-434b-9ba5-b6b371f2a86d""
+    data-bokeh-doc-id=""1f18805c-99c4-42cc-889f-7688bf0d27aa""
+></script>",TAG,
+14.2,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+21.78,,,,PERCENT_DELAYED,
+14.31,,,,POS_ARR_DELAY,
+24.54,32.94,Spirit Air Lines,,NK,4.6
+17.95,26.37,SkyWest Airlines ,,OO,11.99
+16.68,23.65,United Air Lines ,,UA,4.4
+13.02,20.33,ExpressJet Airlines ,,EV,79.01
+0.0,,,,,

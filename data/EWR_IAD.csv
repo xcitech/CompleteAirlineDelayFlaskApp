@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,342,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_IAD.js""
+    id=""b3d6f128-f572-46dc-a257-1be32b5c4214""
+    data-bokeh-model-id=""3915b5be-d5ce-4f1e-b8f5-2f9c06579810""
+    data-bokeh-doc-id=""69bd3f82-1e12-4262-8590-23e1361d2713""
+></script>",TAG,
+18.94,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+25.58,,,,PERCENT_DELAYED,
+19.4,,,,POS_ARR_DELAY,
+27.01,30.23,United Air Lines ,,UA,14.52
+18.11,24.8,ExpressJet Airlines ,,EV,85.48
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

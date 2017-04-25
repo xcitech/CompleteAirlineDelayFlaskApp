@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Detroit,DEST-CITY,
+,,,Detroit Metro Wayne Co,DEST_NAME,
+,,,1819,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_DTW.js""
+    id=""1a6ebd9a-5152-43b6-9dc6-c64838bf8a83""
+    data-bokeh-model-id=""3d1c8aa4-6a9d-449a-8266-3f897cf8d7b5""
+    data-bokeh-doc-id=""24502836-aae8-425f-9231-e51fbd4bfe21""
+></script>",TAG,
+10.2,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+13.95,,,,PERCENT_DELAYED,
+9.47,,,,POS_ARR_DELAY,
+28.59,38.93,JetBlue Airways,,B6,6.94
+13.65,20.78,Spirit Air Lines,,NK,18.62
+6.64,9.92,Delta Air Lines ,,DL,74.44
+0.0,,,,,
+0.0,,,,,

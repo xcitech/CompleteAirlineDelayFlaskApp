@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,987,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_BNA.js""
+    id=""73be6abb-6acf-40b6-927a-d9f2d4ddbcda""
+    data-bokeh-model-id=""4afff4dd-1468-4d74-be50-e0a67247f7a4""
+    data-bokeh-doc-id=""60ca473a-6809-48da-ad67-f799701d6901""
+></script>",TAG,
+12.08,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+19.93,,,,PERCENT_DELAYED,
+11.35,,,,POS_ARR_DELAY,
+11.35,19.93,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

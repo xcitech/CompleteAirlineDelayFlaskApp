@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,3819,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_SEA.js""
+    id=""6b064363-dac0-4876-b0cd-2eb1346ed026""
+    data-bokeh-model-id=""af5c3f7f-e3ee-4e2c-a457-d6898873020f""
+    data-bokeh-doc-id=""26e5474a-e3d7-4202-ba72-d0b2588ed0b2""
+></script>",TAG,
+12.55,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+23.93,,,,PERCENT_DELAYED,
+15.2,,,,POS_ARR_DELAY,
+16.32,25.96,US Airways ,,US,38.95
+15.2,25.54,American Airlines ,,AA,27.16
+13.91,20.29,Alaska Airlines ,,AS,33.88
+0.0,,,,,
+0.0,,,,,

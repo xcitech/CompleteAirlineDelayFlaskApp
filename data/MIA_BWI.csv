@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Miami,ORIGIN_CITY,
+,,,Miami Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,1526,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MIA_BWI.js""
+    id=""31072f2c-83f8-4c1e-9e29-e0d7dc86b523""
+    data-bokeh-model-id=""cd93149e-0cc1-4714-9fb7-c099629d119a""
+    data-bokeh-doc-id=""7eb96cc6-b316-4a93-98c4-f776dbafb10f""
+></script>",TAG,
+12.19,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.44,,,,PERCENT_DELAYED,
+12.71,,,,POS_ARR_DELAY,
+12.71,22.44,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

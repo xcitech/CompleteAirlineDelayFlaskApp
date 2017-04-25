@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,180,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_CLE.js""
+    id=""a5c59acf-5fc5-4f85-badb-b19b1f14dc85""
+    data-bokeh-model-id=""206cbb66-0eb4-4f61-a58d-ba61fb978821""
+    data-bokeh-doc-id=""5d964f80-f174-4d50-8eba-6cc3c73a5ec5""
+></script>",TAG,
+17.69,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+19.05,,,,PERCENT_DELAYED,
+18.17,,,,POS_ARR_DELAY,
+18.17,19.05,ExpressJet Airlines ,,EV,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

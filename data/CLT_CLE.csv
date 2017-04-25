@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,694,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_CLE.js""
+    id=""e8e9017d-00ed-466b-a148-367d45b72411""
+    data-bokeh-model-id=""255b736c-32ea-4011-a8b6-8d01e7cc6c12""
+    data-bokeh-doc-id=""7ed6773e-d597-4980-a4da-fef31e97cd11""
+></script>",TAG,
+6.98,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+14.36,,,,PERCENT_DELAYED,
+7.47,,,,POS_ARR_DELAY,
+10.08,18.53,Mesa Airlines ,,YV,10.37
+10.07,17.5,ExpressJet Airlines ,,EV,5.26
+7.2,14.85,US Airways ,,US,50.67
+6.67,11.87,American Airlines ,,AA,33.7
+0.0,,,,,

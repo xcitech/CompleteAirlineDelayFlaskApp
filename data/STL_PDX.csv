@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,2743,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_PDX.js""
+    id=""49155ce9-f5cf-4137-b2ea-807b84b5a4ac""
+    data-bokeh-model-id=""96d1536c-58a0-4001-b699-108845b464de""
+    data-bokeh-doc-id=""f6743f55-0649-4b75-8afd-bf3449718df3""
+></script>",TAG,
+4.99,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+7.65,,,,PERCENT_DELAYED,
+4.48,,,,POS_ARR_DELAY,
+11.01,21.59,Southwest Airlines ,,WN,16.03
+2.92,5.19,SkyWest Airlines ,,OO,77.23
+6.86,2.7,Frontier Airlines ,,F9,6.74
+0.0,,,,,
+0.0,,,,,

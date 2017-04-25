@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,1322,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_BNA.js""
+    id=""76a56c33-d67b-4b4b-85aa-e0b185fa2b25""
+    data-bokeh-model-id=""256ab80c-56bf-4170-8a0e-cb5e1c133a7c""
+    data-bokeh-doc-id=""49be68c8-f51f-42fa-8866-7e7179df0e8c""
+></script>",TAG,
+9.0,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+13.8,,,,PERCENT_DELAYED,
+7.76,,,,POS_ARR_DELAY,
+7.76,13.8,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

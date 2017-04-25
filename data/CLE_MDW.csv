@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,493,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_MDW.js""
+    id=""1dd990b6-37eb-4e0d-a152-b5ee078a59f9""
+    data-bokeh-model-id=""5f61bac3-85f8-4851-84e2-99b12bb537ce""
+    data-bokeh-doc-id=""3c5de1ae-aa64-425a-8138-c71860e25dad""
+></script>",TAG,
+9.96,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+18.98,,,,PERCENT_DELAYED,
+10.63,,,,POS_ARR_DELAY,
+10.63,18.98,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

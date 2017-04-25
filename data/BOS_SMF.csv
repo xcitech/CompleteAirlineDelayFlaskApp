@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,4233,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_SMF.js""
+    id=""6c434f78-e8bd-4bdc-9283-50385fbe6b5d""
+    data-bokeh-model-id=""d2b86a94-e847-4826-9509-fac68093e28e""
+    data-bokeh-doc-id=""11d7ffba-d647-45ea-96ba-7f71271143a1""
+></script>",TAG,
+21.19,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+39.42,,,,PERCENT_DELAYED,
+20.91,,,,POS_ARR_DELAY,
+20.91,39.42,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

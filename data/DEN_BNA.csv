@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Nashville,DEST-CITY,,
+,,Nashville Intl,DEST_NAME,,
+,,1628,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_BNA.js""
+    id=""bab1ace4-1faf-4956-be43-a29bffbef082""
+    data-bokeh-model-id=""7d5c439b-8a69-4f0c-9b49-2eff29af91bf""
+    data-bokeh-doc-id=""a4b566ea-bd93-4a22-91b3-3fdd7ed214eb""
+></script>",TAG,,
+13.46,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+22.42,,,PERCENT_DELAYED,,
+13.23,,,POS_ARR_DELAY,,
+20.74,30.26,,EV,13.49,ExpressJet Airlines 
+19.07,30.06,,OO,6.98,SkyWest Airlines 
+12.33,22.26,,WN,53.01,Southwest Airlines 
+10.35,18.42,,F9,21.25,Frontier Airlines 
+7.05,10.08,,UA,5.27,United Air Lines 

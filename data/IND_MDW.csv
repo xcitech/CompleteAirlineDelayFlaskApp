@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,261,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_MDW.js""
+    id=""920e94ac-104a-46a5-ac0f-f9b60b34554a""
+    data-bokeh-model-id=""db7a93ac-96a4-445a-9eac-7f5a96ed49ac""
+    data-bokeh-doc-id=""30c2a515-18e4-4c93-816d-fc3a428dc82a""
+></script>",TAG,
+9.54,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+13.63,,,,PERCENT_DELAYED,
+8.15,,,,POS_ARR_DELAY,
+8.15,13.63,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Atlanta,ORIGIN_CITY,,
+,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,,
+,,Detroit,DEST-CITY,,
+,,Detroit Metro Wayne Co,DEST_NAME,,
+,,958,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ATL_DTW.js""
+    id=""5b0418fb-93da-440e-bbf6-c0e57a3e79db""
+    data-bokeh-model-id=""966942a3-f107-4226-9aca-c5e223a60156""
+    data-bokeh-doc-id=""4e04cdc9-6b7c-4590-850d-097b2d5a0fda""
+></script>",TAG,,
+11.36,,,DEP_DELAY,,
+14.0,,,AVG_FLIGHTS,,
+16.55,,,PERCENT_DELAYED,,
+9.84,,,POS_ARR_DELAY,,
+26.58,35.61,,NK,5.72,Spirit Air Lines
+14.88,25.0,,EV,0.05,ExpressJet Airlines 
+12.74,22.21,,WN,12.48,Southwest Airlines 
+8.79,18.01,,FL,8.88,AirTran Airways Corporation
+8.16,13.91,,DL,72.87,Delta Air Lines 

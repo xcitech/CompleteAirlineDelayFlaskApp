@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1902,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_DAL.js""
+    id=""972de261-a545-470c-a54a-03847291d780""
+    data-bokeh-model-id=""f724df78-27a4-479a-b1fc-62998df9d91a""
+    data-bokeh-doc-id=""a783a94a-e7bf-4565-930f-9f45565f7d7c""
+></script>",TAG,
+8.74,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+13.93,,,,PERCENT_DELAYED,
+9.39,,,,POS_ARR_DELAY,
+10.39,15.72,Virgin America,,VX,37.74
+8.79,12.84,Southwest Airlines ,,WN,62.26
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

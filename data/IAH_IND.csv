@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,1360,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_IND.js""
+    id=""82da315c-a85d-4dce-aad3-2146cc601964""
+    data-bokeh-model-id=""2932c056-e949-48a0-89da-5e875bc3b89f""
+    data-bokeh-doc-id=""da1a1c6f-c2b6-465d-b928-a10cd5bea832""
+></script>",TAG,
+12.99,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+19.75,,,,PERCENT_DELAYED,
+12.86,,,,POS_ARR_DELAY,
+15.53,24.56,SkyWest Airlines ,,OO,12.14
+15.68,21.55,United Air Lines ,,UA,18.68
+11.63,18.43,ExpressJet Airlines ,,EV,69.19
+0.0,,,,,
+0.0,,,,,

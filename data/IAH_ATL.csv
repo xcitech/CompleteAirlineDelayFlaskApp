@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Houston,ORIGIN_CITY,,
+,,George Bush Intercontinental,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,1108,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/IAH_ATL.js""
+    id=""9c18087c-7334-4828-b0fc-6fab8dc05bef""
+    data-bokeh-model-id=""ba16fc4d-38f7-4f92-9710-e91bf8bd67b2""
+    data-bokeh-doc-id=""d263109b-9103-446f-8525-dea8722addee""
+></script>",TAG,,
+15.51,,,DEP_DELAY,,
+13.0,,,AVG_FLIGHTS,,
+20.57,,,PERCENT_DELAYED,,
+15.45,,,POS_ARR_DELAY,,
+22.44,33.03,,NK,4.75,Spirit Air Lines
+18.87,24.98,,UA,7.56,United Air Lines 
+14.15,23.86,,OO,8.3,SkyWest Airlines 
+16.55,23.52,,EV,25.85,ExpressJet Airlines 
+13.78,16.74,,DL,53.11,Delta Air Lines 

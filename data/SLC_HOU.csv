@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,1953,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_HOU.js""
+    id=""60ce0090-0b61-48a9-9e8e-c0f74bf352e5""
+    data-bokeh-model-id=""4a49860f-4c54-4c3f-9f92-8ce3a2b17b9b""
+    data-bokeh-doc-id=""9f768b5f-f5b3-47ce-9569-91123e4d3b73""
+></script>",TAG,
+1.19,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+0.0,,,,PERCENT_DELAYED,
+0.15,,,,POS_ARR_DELAY,
+0.15,0.0,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

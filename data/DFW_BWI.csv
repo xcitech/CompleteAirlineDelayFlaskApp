@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,1955,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_BWI.js""
+    id=""6f9773f9-751c-42d4-834f-10d8a9a155fb""
+    data-bokeh-model-id=""8d6f87a8-ef4f-4b2b-99cd-8ef4f5a43884""
+    data-bokeh-doc-id=""da38ae0c-f2ea-47d4-bee5-a12ca425f593""
+></script>",TAG,
+14.57,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+23.91,,,,PERCENT_DELAYED,
+14.6,,,,POS_ARR_DELAY,
+18.91,25.54,Spirit Air Lines,,NK,11.43
+14.04,23.7,American Airlines ,,AA,88.57
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

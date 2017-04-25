@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,2966,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_CLE.js""
+    id=""7e3bf7f7-8dea-4e3a-9c91-23796320c49e""
+    data-bokeh-model-id=""a8731ff5-ede8-4f50-b089-251bc1b2a90a""
+    data-bokeh-doc-id=""8a3f7f79-d3bb-4458-969d-3e5cc121c313""
+></script>",TAG,
+15.2,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+21.05,,,,PERCENT_DELAYED,
+12.31,,,,POS_ARR_DELAY,
+12.31,21.05,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Myers,ORIGIN_CITY,
+,,,Southwest Florida Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1617,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RSW_DAL.js""
+    id=""02624157-cd3a-4f2b-ab37-929d103129a9""
+    data-bokeh-model-id=""a15b6ffb-ee06-437e-a8ec-a6c2e9945be5""
+    data-bokeh-doc-id=""e88d82d0-71e0-4b48-a4ee-b32c4af6735c""
+></script>",TAG,
+19.29,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+28.57,,,,PERCENT_DELAYED,
+17.64,,,,POS_ARR_DELAY,
+17.64,28.57,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

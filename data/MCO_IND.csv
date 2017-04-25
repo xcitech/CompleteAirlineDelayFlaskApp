@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,1336,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_IND.js""
+    id=""71fd8252-2e49-48b6-9c7c-78098667b572""
+    data-bokeh-model-id=""b6dfe615-491e-4c40-8675-386fbd0a8088""
+    data-bokeh-doc-id=""fdf49b18-0ea1-4057-8f4b-510e27ddbb12""
+></script>",TAG,
+13.37,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.25,,,,PERCENT_DELAYED,
+12.45,,,,POS_ARR_DELAY,
+12.95,21.25,Southwest Airlines ,,WN,73.28
+17.1,19.44,Frontier Airlines ,,F9,5.93
+9.53,17.24,AirTran Airways Corporation,,FL,20.47
+0.43,0.0,Delta Air Lines ,,DL,0.33
+0.0,,,,,

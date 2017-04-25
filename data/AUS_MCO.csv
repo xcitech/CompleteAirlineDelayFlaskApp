@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Austin,ORIGIN_CITY,,
+,,Austin Bergstrom Intl,ORIGIN_NAME,,
+,,Orlando,DEST-CITY,,
+,,Orlando Intl,DEST_NAME,,
+,,1597,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/AUS_MCO.js""
+    id=""01562d0f-b756-409c-88a9-485103692eda""
+    data-bokeh-model-id=""7df2f31c-fadd-4c5e-879d-ee8f2a9a85f2""
+    data-bokeh-doc-id=""70682f92-34f5-4d88-9742-56c5a443b116""
+></script>",TAG,,
+13.78,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+21.86,,,PERCENT_DELAYED,,
+13.53,,,POS_ARR_DELAY,,
+10.0,50.0,,FL,0.06,AirTran Airways Corporation
+14.76,23.13,,WN,59.42,Southwest Airlines 
+11.06,21.21,,EV,1.05,ExpressJet Airlines 
+9.3,20.45,,F9,1.39,Frontier Airlines 
+11.84,19.88,,B6,38.07,JetBlue Airways

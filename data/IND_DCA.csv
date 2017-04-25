@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,802,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_DCA.js""
+    id=""75416325-68e0-42f0-b6b5-69ff5d537319""
+    data-bokeh-model-id=""4b95bf75-40a5-4cf9-9d83-26de073d45f0""
+    data-bokeh-doc-id=""a98c212a-11f8-41eb-8019-ff7b22d6b4fb""
+></script>",TAG,
+7.82,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+14.14,,,,PERCENT_DELAYED,
+8.35,,,,POS_ARR_DELAY,
+21.75,50.0,Envoy Air,,MQ,0.29
+12.67,23.42,American Airlines ,,AA,11.4
+7.75,12.83,Southwest Airlines ,,WN,88.31
+0.0,,,,,
+0.0,,,,,

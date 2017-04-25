@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,209,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_RDU.js""
+    id=""cc46b033-7491-4055-826e-b42e79912060""
+    data-bokeh-model-id=""effe370f-b3c3-4694-931e-94d77154978a""
+    data-bokeh-doc-id=""2f7fa6f8-3261-4359-9d8c-539882614461""
+></script>",TAG,
+8.34,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+17.29,,,,PERCENT_DELAYED,
+9.43,,,,POS_ARR_DELAY,
+15.83,22.86,Mesa Airlines ,,YV,0.88
+10.44,17.81,American Airlines ,,AA,37.63
+8.72,16.89,US Airways ,,US,61.5
+0.0,,,,,
+0.0,,,,,

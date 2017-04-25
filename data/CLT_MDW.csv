@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,940,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_MDW.js""
+    id=""2893fd72-7d0f-4f57-9ee0-da6c934ee7d7""
+    data-bokeh-model-id=""05dd266d-ef69-4063-a168-126753408d8e""
+    data-bokeh-doc-id=""a1ea1b9e-6641-4683-bc1c-d1d50b299756""
+></script>",TAG,
+11.7,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+16.28,,,,PERCENT_DELAYED,
+10.59,,,,POS_ARR_DELAY,
+10.59,16.28,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

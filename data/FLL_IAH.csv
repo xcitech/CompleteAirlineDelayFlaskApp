@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,1552,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_IAH.js""
+    id=""0469675f-3da8-458b-81d3-c3bef48478fa""
+    data-bokeh-model-id=""29dd6b5c-27e4-44ae-9315-1a27364eb91d""
+    data-bokeh-doc-id=""f503df07-85fb-48de-9cab-aee95bd1da91""
+></script>",TAG,
+10.99,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+15.93,,,,PERCENT_DELAYED,
+10.9,,,,POS_ARR_DELAY,
+21.53,31.97,Spirit Air Lines,,NK,11.14
+9.57,13.92,United Air Lines ,,UA,88.86
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

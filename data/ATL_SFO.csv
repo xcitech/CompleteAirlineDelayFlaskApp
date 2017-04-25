@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Atlanta,ORIGIN_CITY,,
+,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,,
+,,San Francisco,DEST-CITY,,
+,,San Francisco Intl,DEST_NAME,,
+,,3436,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ATL_SFO.js""
+    id=""dd142c3b-c91c-4957-b587-5da2d27c15be""
+    data-bokeh-model-id=""fcd72a4c-ad57-48ad-af3e-54c5066f5393""
+    data-bokeh-doc-id=""612a0fc8-801f-490d-a3ff-7834c2cb0fb4""
+></script>",TAG,,
+13.4,,,DEP_DELAY,,
+9.0,,,AVG_FLIGHTS,,
+18.84,,,PERCENT_DELAYED,,
+10.98,,,POS_ARR_DELAY,,
+11.44,31.25,,F9,0.77,Frontier Airlines 
+12.28,26.55,,FL,4.82,AirTran Airways Corporation
+15.31,25.61,,UA,14.7,United Air Lines 
+12.96,20.99,,WN,10.5,Southwest Airlines 
+9.67,16.4,,DL,69.2,Delta Air Lines 

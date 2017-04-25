@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,1560,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_DCA.js""
+    id=""123043e9-1b7e-440b-863d-7a959bc8dcd3""
+    data-bokeh-model-id=""08f68d0d-bd37-4485-81f6-9957cc778e9e""
+    data-bokeh-doc-id=""ec541aad-c9a7-4a78-b824-8a73de4bcc23""
+></script>",TAG,
+12.02,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.78,,,,PERCENT_DELAYED,
+11.11,,,,POS_ARR_DELAY,
+11.67,16.29,Southwest Airlines ,,WN,83.87
+9.09,13.84,American Airlines ,,AA,9.33
+6.99,12.07,US Airways ,,US,6.8
+0.0,,,,,
+0.0,,,,,

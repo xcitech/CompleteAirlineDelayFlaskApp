@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Milwaukee,DEST-CITY,
+,,,General Mitchell Intl,DEST_NAME,
+,,,2004,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_MKE.js""
+    id=""9d99cf90-a8de-415a-bf59-d997f877fa87""
+    data-bokeh-model-id=""f112b0dc-284b-476b-bdfb-4633c7414707""
+    data-bokeh-doc-id=""0fc2c0bf-4af9-4280-8011-2afeb70c6e2e""
+></script>",TAG,
+13.14,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.99,,,,PERCENT_DELAYED,
+10.23,,,,POS_ARR_DELAY,
+10.23,16.99,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

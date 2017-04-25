@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Salt Lake City,ORIGIN_CITY,,
+,,Salt Lake City Intl,ORIGIN_NAME,,
+,,Phoenix,DEST-CITY,,
+,,Phoenix Sky Harbor Intl,DEST_NAME,,
+,,818,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SLC_PHX.js""
+    id=""9d9fb678-897a-41a4-a7ba-2d6a7a00fa67""
+    data-bokeh-model-id=""0710a469-658f-468e-8bde-6d0c3171f3d3""
+    data-bokeh-doc-id=""2d9be3d7-d58d-4d86-8b38-3ccde13ae541""
+></script>",TAG,,
+8.6,,,DEP_DELAY,,
+16.0,,,AVG_FLIGHTS,,
+14.19,,,PERCENT_DELAYED,,
+8.62,,,POS_ARR_DELAY,,
+10.89,20.1,,WN,35.13,Southwest Airlines 
+9.59,13.58,,OO,14.86,SkyWest Airlines 
+7.88,11.91,,AA,10.69,American Airlines 
+6.58,10.26,,US,18.45,US Airways 
+5.83,8.79,,DL,20.18,Delta Air Lines 

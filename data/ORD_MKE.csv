@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Ohare Intl,ORIGIN_NAME,
+,,,Milwaukee,DEST-CITY,
+,,,General Mitchell Intl,DEST_NAME,
+,,,108,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ORD_MKE.js""
+    id=""c47acba7-4221-4f35-83d1-eed06a9e6f00""
+    data-bokeh-model-id=""7cf37011-d6ca-45e5-86d4-106d798dd2d9""
+    data-bokeh-doc-id=""84370ba3-2317-4ad5-9022-de2739175290""
+></script>",TAG,
+15.36,,,,DEP_DELAY,
+14.0,,,,AVG_FLIGHTS,
+26.13,,,,PERCENT_DELAYED,
+16.21,,,,POS_ARR_DELAY,
+21.22,34.63,Envoy Air,,MQ,1.56
+16.13,26.0,SkyWest Airlines ,,OO,98.43
+6.0,0.0,ExpressJet Airlines ,,EV,0.01
+0.0,,,,,
+0.0,,,,,

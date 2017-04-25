@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,2233,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_HOU.js""
+    id=""f8b17a26-1c82-460c-b990-252cd832c415""
+    data-bokeh-model-id=""46a5bf8e-f27f-4126-be5a-c3eb6c1eece4""
+    data-bokeh-doc-id=""75a3f611-d927-4d59-8f2b-ce446b218116""
+></script>",TAG,
+17.2,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+29.53,,,,PERCENT_DELAYED,
+14.92,,,,POS_ARR_DELAY,
+14.92,29.53,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

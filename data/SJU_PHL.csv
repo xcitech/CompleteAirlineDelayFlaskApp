@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Philadelphia,DEST-CITY,
+,,,Philadelphia Intl,DEST_NAME,
+,,,2544,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_PHL.js""
+    id=""f7278218-3ca3-4a5c-916d-097c135d9162""
+    data-bokeh-model-id=""0b1f2e95-a334-4f33-b626-60d7323e8b04""
+    data-bokeh-doc-id=""b5de1f72-92da-4192-92e0-0ca2da6cc33b""
+></script>",TAG,
+12.87,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.54,,,,PERCENT_DELAYED,
+14.0,,,,POS_ARR_DELAY,
+14.64,24.79,US Airways ,,US,61.02
+13.02,19.01,American Airlines ,,AA,38.98
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

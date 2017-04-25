@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,879,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_DAL.js""
+    id=""c64a23a8-d2b6-49e6-b48b-c0cc20d5658c""
+    data-bokeh-model-id=""5a81d8e0-4638-4a05-8f38-c328602ad751""
+    data-bokeh-doc-id=""a8eb0b7b-4c92-4c3e-9ecb-d2b1d4305dae""
+></script>",TAG,
+15.88,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+25.74,,,,PERCENT_DELAYED,
+14.97,,,,POS_ARR_DELAY,
+14.97,25.74,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

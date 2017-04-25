@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Chicago,DEST-CITY,,
+,,Chicago Ohare Intl,DEST_NAME,,
+,,376,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_ORD.js""
+    id=""639c90c2-4260-4165-bd24-5d38f2ca4380""
+    data-bokeh-model-id=""db5f9057-4212-468b-9055-2ef1b75d40d1""
+    data-bokeh-doc-id=""bb0f5109-1d18-4301-bd10-12fed2af3e06""
+></script>",TAG,,
+15.61,,,DEP_DELAY,,
+13.0,,,AVG_FLIGHTS,,
+24.61,,,PERCENT_DELAYED,,
+18.04,,,POS_ARR_DELAY,,
+20.22,29.75,,MQ,31.25,Envoy Air
+20.23,27.06,,EV,11.43,ExpressJet Airlines 
+16.39,22.85,,OO,13.66,SkyWest Airlines 
+16.12,20.83,,UA,5.81,United Air Lines 
+14.06,19.01,,DL,31.92,Delta Air Lines 

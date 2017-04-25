@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Seattle,ORIGIN_CITY,,
+,,Seattle Tacoma Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,1537,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SEA_LAX.js""
+    id=""b42d1800-6306-4edc-be29-d0d7f19ec7e3""
+    data-bokeh-model-id=""d6558ba4-7de0-403a-85db-cb5118786323""
+    data-bokeh-doc-id=""4af88c51-5af6-4f20-ba7b-6bf741d403af""
+></script>",TAG,,
+7.69,,,DEP_DELAY,,
+23.0,,,AVG_FLIGHTS,,
+16.53,,,PERCENT_DELAYED,,
+8.93,,,POS_ARR_DELAY,,
+14.18,25.14,,UA,1.35,United Air Lines 
+13.46,23.38,,OO,11.09,SkyWest Airlines 
+10.4,16.84,,DL,18.04,Delta Air Lines 
+7.21,14.99,,AS,53.91,Alaska Airlines 
+7.46,13.36,,VX,13.05,Virgin America

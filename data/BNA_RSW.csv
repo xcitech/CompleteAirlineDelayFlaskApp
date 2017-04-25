@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1164,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_RSW.js""
+    id=""1a3f060d-1f13-4fc2-8b25-da5d8f9b8455""
+    data-bokeh-model-id=""9f10e839-008f-4d5a-9195-f74ad5976c9e""
+    data-bokeh-doc-id=""d96bd33e-2db3-40d5-8f2c-525a4ae64bff""
+></script>",TAG,
+9.56,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+16.14,,,,PERCENT_DELAYED,
+10.07,,,,POS_ARR_DELAY,
+10.07,16.14,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

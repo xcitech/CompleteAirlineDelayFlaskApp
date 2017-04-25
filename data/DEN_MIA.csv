@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Denver,ORIGIN_CITY,
+,,,Denver Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,2749,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DEN_MIA.js""
+    id=""2f95d293-586f-4e19-b358-e60266cc2b54""
+    data-bokeh-model-id=""f75c21e2-53ff-42a8-8977-a1ec812a2aa4""
+    data-bokeh-doc-id=""423a3ebc-b623-4314-a8e8-11c43a29c8a0""
+></script>",TAG,
+12.8,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.43,,,,PERCENT_DELAYED,
+13.86,,,,POS_ARR_DELAY,
+14.14,23.51,American Airlines ,,AA,65.69
+13.89,21.77,Frontier Airlines ,,F9,21.18
+12.46,18.14,United Air Lines ,,UA,13.12
+0.0,,,,,
+0.0,,,,,

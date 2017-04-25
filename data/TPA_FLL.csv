@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,317,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_FLL.js""
+    id=""8b37bcea-d0c7-4ce3-88de-d3c596e67fcf""
+    data-bokeh-model-id=""9313b203-8a69-44ff-b7ae-c7734abcb4b2""
+    data-bokeh-doc-id=""d686e900-920b-4766-83fa-d23e15ae5428""
+></script>",TAG,
+13.33,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+21.4,,,,PERCENT_DELAYED,
+12.82,,,,POS_ARR_DELAY,
+12.65,21.65,Southwest Airlines ,,WN,86.65
+13.91,19.79,Spirit Air Lines,,NK,13.35
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

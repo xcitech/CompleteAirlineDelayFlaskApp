@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,2443,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_LAS.js""
+    id=""4a3142c5-b16b-4e70-88e3-bc0ac03bd5e4""
+    data-bokeh-model-id=""7c42dcb1-6217-4fd1-890d-048ef4168d1a""
+    data-bokeh-doc-id=""a616426f-d08f-4680-bf18-303f978ab32f""
+></script>",TAG,
+15.02,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+23.32,,,,PERCENT_DELAYED,
+13.64,,,,POS_ARR_DELAY,
+13.64,23.32,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

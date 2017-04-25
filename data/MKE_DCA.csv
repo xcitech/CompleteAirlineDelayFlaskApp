@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,1019,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_DCA.js""
+    id=""fb44765d-cf8e-49ec-b82d-7c64c7adda8a""
+    data-bokeh-model-id=""6c001336-c832-4d19-953e-5f8743653ac2""
+    data-bokeh-doc-id=""5c677526-3cdf-40d3-b29f-c20f60c9a399""
+></script>",TAG,
+7.61,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+12.66,,,,PERCENT_DELAYED,
+8.26,,,,POS_ARR_DELAY,
+9.14,13.31,Southwest Airlines ,,WN,57.56
+7.07,11.78,AirTran Airways Corporation,,FL,42.44
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

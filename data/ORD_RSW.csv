@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Fort Myers,DEST-CITY,,
+,,Southwest Florida Intl,DEST_NAME,,
+,,1807,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_RSW.js""
+    id=""9bbf7b83-6acb-4c5e-bb4a-45377a0e321d""
+    data-bokeh-model-id=""85fc038d-084d-4893-a1c5-0630ba8a7227""
+    data-bokeh-doc-id=""3946f0cb-342e-4628-adfe-a156a6549320""
+></script>",TAG,,
+15.03,,,DEP_DELAY,,
+5.0,,,AVG_FLIGHTS,,
+23.95,,,PERCENT_DELAYED,,
+15.22,,,POS_ARR_DELAY,,
+26.84,37.96,,NK,12.58,Spirit Air Lines
+22.25,28.72,,F9,3.74,Frontier Airlines 
+15.14,22.52,,UA,28.78,United Air Lines 
+16.3,22.5,,OO,0.77,SkyWest Airlines 
+12.07,21.17,,AA,54.07,American Airlines 

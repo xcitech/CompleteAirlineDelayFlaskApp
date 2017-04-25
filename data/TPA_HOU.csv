@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,1255,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_HOU.js""
+    id=""b42edede-19ef-4315-a8e0-3e61cc538dc5""
+    data-bokeh-model-id=""36737535-d9ec-4c45-9523-f98a31838384""
+    data-bokeh-doc-id=""ef502318-c043-4ec2-8c91-25958cd1eca9""
+></script>",TAG,
+12.63,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+20.36,,,,PERCENT_DELAYED,
+11.56,,,,POS_ARR_DELAY,
+11.56,20.36,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

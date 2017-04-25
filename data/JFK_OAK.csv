@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,4136,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_OAK.js""
+    id=""ac542aea-28f8-4e28-a86d-09f6f7ef7090""
+    data-bokeh-model-id=""a1e7c380-be25-44b9-8998-897fe971422b""
+    data-bokeh-doc-id=""270246a7-c5ef-4bf1-880b-6535f970f53c""
+></script>",TAG,
+15.5,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+25.96,,,,PERCENT_DELAYED,
+15.85,,,,POS_ARR_DELAY,
+15.85,25.96,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

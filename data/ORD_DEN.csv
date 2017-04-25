@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Denver,DEST-CITY,,
+,,Denver Intl,DEST_NAME,,
+,,1426,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_DEN.js""
+    id=""2151c9c6-9843-421d-b032-1579b38008a6""
+    data-bokeh-model-id=""870df0c0-26f8-4994-8874-55b06e007c2f""
+    data-bokeh-doc-id=""456a2198-efdb-4c69-a842-bc6ea8a78df4""
+></script>",TAG,,
+20.29,,,DEP_DELAY,,
+15.0,,,AVG_FLIGHTS,,
+29.68,,,PERCENT_DELAYED,,
+20.38,,,POS_ARR_DELAY,,
+28.37,47.97,,MQ,3.34,Envoy Air
+29.49,40.15,,NK,5.82,Spirit Air Lines
+28.47,33.08,,F9,8.13,Frontier Airlines 
+17.3,28.05,,AA,17.72,American Airlines 
+18.99,27.82,,UA,64.73,United Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,1222,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_IAD.js""
+    id=""321cc6ab-e377-447b-b016-e173961e9670""
+    data-bokeh-model-id=""4d6748d9-ce61-4229-9716-14bf022a8614""
+    data-bokeh-doc-id=""ac4058d3-407e-40c8-a4ba-5b2c5225de84""
+></script>",TAG,
+16.94,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+22.16,,,,PERCENT_DELAYED,
+15.67,,,,POS_ARR_DELAY,
+28.02,42.71,Frontier Airlines ,,F9,15.33
+13.44,18.45,United Air Lines ,,UA,84.63
+7.0,0.0,SkyWest Airlines ,,OO,0.04
+0.0,,,,,
+0.0,,,,,

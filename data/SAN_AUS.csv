@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,1871,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_AUS.js""
+    id=""97fbfc23-95ba-4c26-a58b-757a85dd3426""
+    data-bokeh-model-id=""864cb19e-ce5f-45ed-bcb2-89ae46207ce8""
+    data-bokeh-doc-id=""d09e9609-2d96-4564-a35c-486489a6f5aa""
+></script>",TAG,
+11.18,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+17.66,,,,PERCENT_DELAYED,
+9.61,,,,POS_ARR_DELAY,
+9.61,17.66,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Houston,ORIGIN_CITY,,
+,,George Bush Intercontinental,ORIGIN_NAME,,
+,,Miami,DEST-CITY,,
+,,Miami Intl,DEST_NAME,,
+,,1550,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/IAH_MIA.js""
+    id=""ac653e48-6d4b-4564-8283-06deadcf9b91""
+    data-bokeh-model-id=""ccbd054d-7f20-42ae-a853-2c2a4a9c538f""
+    data-bokeh-doc-id=""391417c4-2938-4b35-93ed-1b1ace655f82""
+></script>",TAG,,
+12.54,,,DEP_DELAY,,
+9.0,,,AVG_FLIGHTS,,
+21.38,,,PERCENT_DELAYED,,
+13.48,,,POS_ARR_DELAY,,
+22.55,45.18,,OO,3.2,SkyWest Airlines 
+12.79,21.35,,UA,38.67,United Air Lines 
+13.62,20.24,,AA,56.66,American Airlines 
+6.46,15.2,,US,1.33,US Airways 
+5.31,7.69,,EV,0.14,ExpressJet Airlines 

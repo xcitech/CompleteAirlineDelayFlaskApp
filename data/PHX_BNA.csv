@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,2327,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_BNA.js""
+    id=""af24293a-5f01-4577-92c8-afa85c1570f7""
+    data-bokeh-model-id=""abc46ac8-018a-42bf-94e5-882a6727a965""
+    data-bokeh-doc-id=""7c517622-dd54-4a84-a07d-16a1ae69f8bb""
+></script>",TAG,
+17.46,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+25.19,,,,PERCENT_DELAYED,
+14.15,,,,POS_ARR_DELAY,
+14.15,25.19,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

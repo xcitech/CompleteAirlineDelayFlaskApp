@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,San Antonio,DEST-CITY,
+,,,San Antonio Intl,DEST_NAME,
+,,,1815,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_SAT.js""
+    id=""c2f40ede-8848-41c2-aa36-34038333c873""
+    data-bokeh-model-id=""2b22fc7a-8e03-441b-861d-2386cdba086c""
+    data-bokeh-doc-id=""5430ed5f-c67b-40a9-a2f7-04a510514171""
+></script>",TAG,
+11.66,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+17.74,,,,PERCENT_DELAYED,
+9.8,,,,POS_ARR_DELAY,
+9.8,17.74,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Boston,ORIGIN_CITY,,
+,,General Edward Lawrence Logan Intl,ORIGIN_NAME,,
+,,Phoenix,DEST-CITY,,
+,,Phoenix Sky Harbor Intl,DEST_NAME,,
+,,3695,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/BOS_PHX.js""
+    id=""762db918-a88e-40dc-bb90-9acfa91f23ca""
+    data-bokeh-model-id=""1b2c19ca-7c57-4718-b4dc-db4b217dc6b4""
+    data-bokeh-doc-id=""f66a4d07-1b89-4684-8fd0-b1bdbc3fd30a""
+></script>",TAG,,
+8.97,,,DEP_DELAY,,
+4.0,,,AVG_FLIGHTS,,
+19.33,,,PERCENT_DELAYED,,
+10.31,,,POS_ARR_DELAY,,
+17.0,50.0,,UA,0.04,United Air Lines 
+14.2,26.27,,B6,22.9,JetBlue Airways
+10.26,19.37,,US,46.73,US Airways 
+7.46,14.01,,AA,30.29,American Airlines 
+0.0,0.0,,WN,0.04,Southwest Airlines 

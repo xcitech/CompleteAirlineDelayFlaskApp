@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,3858,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_SFO.js""
+    id=""5f3dafd0-f33e-40c6-9d61-291041825c97""
+    data-bokeh-model-id=""db1e23ed-f457-4096-8fe6-03e53f83285d""
+    data-bokeh-doc-id=""79d1aba0-c8b5-42f4-bd5f-6a8e77daaf75""
+></script>",TAG,
+12.13,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+13.03,,,,PERCENT_DELAYED,
+10.37,,,,POS_ARR_DELAY,
+8.42,17.05,Hawaiian Airlines ,,HA,16.42
+6.68,14.1,Virgin America,,VX,4.59
+11.34,12.48,United Air Lines ,,UA,73.16
+6.57,7.73,Delta Air Lines ,,DL,5.84
+0.0,,,,,

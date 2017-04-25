@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,St. Louis,ORIGIN_CITY,,
+,,Lambert St Louis Intl,ORIGIN_NAME,,
+,,Detroit,DEST-CITY,,
+,,Detroit Metro Wayne Co,DEST_NAME,,
+,,707,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/STL_DTW.js""
+    id=""267f5d72-ace3-4e0e-98e2-673a382d4c4d""
+    data-bokeh-model-id=""6eefac92-65e6-4331-843f-fce936bb9f48""
+    data-bokeh-doc-id=""e507ad9f-481b-4ca3-add4-8f11c72d902c""
+></script>",TAG,,
+12.44,,,DEP_DELAY,,
+4.0,,,AVG_FLIGHTS,,
+19.24,,,PERCENT_DELAYED,,
+11.75,,,POS_ARR_DELAY,,
+13.59,25.57,,WN,43.14,Southwest Airlines 
+12.8,21.69,,OO,1.82,SkyWest Airlines 
+12.06,14.62,,EV,7.49,ExpressJet Airlines 
+9.99,14.14,,DL,46.14,Delta Air Lines 
+10.22,13.85,,9E,1.42,Endeavor Air 

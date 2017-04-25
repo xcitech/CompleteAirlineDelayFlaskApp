@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1995,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_FLL.js""
+    id=""2c1a3ed0-98b8-4614-afcf-4c1ae0695d86""
+    data-bokeh-model-id=""353db653-bd96-4ff2-bb36-2dfa24268b8f""
+    data-bokeh-doc-id=""b3816697-ad5d-4626-a4ae-eb86c2f1ef1f""
+></script>",TAG,
+15.18,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+29.49,,,,PERCENT_DELAYED,
+17.38,,,,POS_ARR_DELAY,
+29.13,44.82,Spirit Air Lines,,NK,10.84
+15.98,27.72,JetBlue Airways,,B6,88.33
+13.51,18.18,Delta Air Lines ,,DL,0.83
+0.0,,,,,
+0.0,,,,,

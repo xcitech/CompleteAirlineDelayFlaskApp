@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,430,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_PIT.js""
+    id=""520c353c-4312-4185-aa98-9665107ce676""
+    data-bokeh-model-id=""06aec6d3-a191-4d5b-aadc-63bd5a52e179""
+    data-bokeh-doc-id=""7f8f4977-2045-4a51-a340-4e2e38664d99""
+></script>",TAG,
+10.05,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+20.13,,,,PERCENT_DELAYED,
+11.56,,,,POS_ARR_DELAY,
+12.23,21.07,US Airways ,,US,65.94
+10.27,18.32,American Airlines ,,AA,34.06
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

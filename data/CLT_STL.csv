@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,925,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_STL.js""
+    id=""a858de3f-5a4c-45a8-912f-cc1cd0305394""
+    data-bokeh-model-id=""75d3746d-b1bb-475e-b332-8d7c2348c76e""
+    data-bokeh-doc-id=""8a47960a-9091-4a4f-982e-521f4aa3d71d""
+></script>",TAG,
+10.15,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+18.46,,,,PERCENT_DELAYED,
+10.63,,,,POS_ARR_DELAY,
+13.74,20.61,Mesa Airlines ,,YV,6.85
+11.83,18.89,American Airlines ,,AA,40.58
+9.3,17.84,US Airways ,,US,52.57
+0.0,,,,,
+0.0,,,,,

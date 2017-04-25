@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Kansas City,DEST-CITY,,
+,,Kansas City Intl,DEST_NAME,,
+,,856,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_MCI.js""
+    id=""5ca9acc6-f4b9-4002-9377-7b8cf64cf20c""
+    data-bokeh-model-id=""f4a58eba-cb71-4473-9624-e560459e81b8""
+    data-bokeh-doc-id=""bd7c8a8a-9919-41ac-84da-be659b9c03dc""
+></script>",TAG,,
+13.98,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+23.43,,,PERCENT_DELAYED,,
+14.08,,,POS_ARR_DELAY,,
+23.68,28.95,,EV,4.79,ExpressJet Airlines 
+17.09,26.25,,F9,25.09,Frontier Airlines 
+15.14,26.1,,OO,5.05,SkyWest Airlines 
+12.2,22.0,,WN,61.17,Southwest Airlines 
+10.98,17.37,,UA,3.89,United Air Lines 

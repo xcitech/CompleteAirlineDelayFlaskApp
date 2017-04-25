@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Minneapolis,ORIGIN_CITY,,
+,,Minneapolis St Paul Intl,ORIGIN_NAME,,
+,,Kansas City,DEST-CITY,,
+,,Kansas City Intl,DEST_NAME,,
+,,633,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MSP_MCI.js""
+    id=""b57a1749-454f-43ac-a8d0-b1ce3c78254c""
+    data-bokeh-model-id=""5e9e07a2-c093-427e-901d-7c5ae37955bd""
+    data-bokeh-doc-id=""a4142af2-0892-4501-a11d-e54b031262a2""
+></script>",TAG,,
+8.51,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+15.87,,,PERCENT_DELAYED,,
+9.19,,,POS_ARR_DELAY,,
+14.8,28.0,,9E,0.4,Endeavor Air 
+13.46,20.32,,OO,4.91,SkyWest Airlines 
+10.75,19.37,,WN,31.5,Southwest Airlines 
+17.7,17.39,,EV,0.36,ExpressJet Airlines 
+7.99,13.69,,DL,62.83,Delta Air Lines 

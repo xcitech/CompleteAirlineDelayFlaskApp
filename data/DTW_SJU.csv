@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,San Juan,DEST-CITY,
+,,,Luis Munoz Marin Intl,DEST_NAME,
+,,,3111,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_SJU.js""
+    id=""854580c3-4549-4265-8def-3e657915fe26""
+    data-bokeh-model-id=""10692e15-8114-4f16-82a2-bdb740ac42dc""
+    data-bokeh-doc-id=""c37889e3-5d0a-4a02-8331-a02fbdcd1d2c""
+></script>",TAG,
+8.79,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+21.43,,,,PERCENT_DELAYED,
+12.23,,,,POS_ARR_DELAY,
+12.23,21.43,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,151,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_JFK.js""
+    id=""cabe4f66-2e5f-4a85-a0e8-04db695288c5""
+    data-bokeh-model-id=""fad41aed-0c9c-484e-ab56-6285c9ba099e""
+    data-bokeh-doc-id=""86fefcba-51f7-492e-9475-f483dab74885""
+></script>",TAG,
+10.74,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+12.87,,,,PERCENT_DELAYED,
+11.29,,,,POS_ARR_DELAY,
+11.49,13.1,Endeavor Air ,,9E,98.25
+0.0,0.0,Delta Air Lines ,,DL,1.75
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

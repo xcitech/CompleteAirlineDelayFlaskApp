@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,2914,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_LAX.js""
+    id=""99bddd8d-8a3a-4b49-98b4-897822ac9426""
+    data-bokeh-model-id=""a016730d-d50c-4a4f-ae05-ca97933f2239""
+    data-bokeh-doc-id=""04b182e9-bd2c-462d-a2cc-039dd311fa69""
+></script>",TAG,
+9.81,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+13.21,,,,PERCENT_DELAYED,
+10.12,,,,POS_ARR_DELAY,
+13.12,15.36,American Airlines ,,AA,40.97
+6.83,12.05,Southwest Airlines ,,WN,17.2
+8.53,11.59,Delta Air Lines ,,DL,41.83
+0.0,,,,,
+0.0,,,,,

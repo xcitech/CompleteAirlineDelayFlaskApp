@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,2332,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_DEN.js""
+    id=""decbf73b-99ab-4781-a965-3c21effd3635""
+    data-bokeh-model-id=""4668340b-dced-4226-a4bb-fa723a2b7557""
+    data-bokeh-doc-id=""1a7a2727-0d34-46fd-8bc6-6da02b5055ae""
+></script>",TAG,
+12.78,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+19.42,,,,PERCENT_DELAYED,
+12.51,,,,POS_ARR_DELAY,
+16.14,22.52,Frontier Airlines ,,F9,1.07
+12.96,20.44,United Air Lines ,,UA,73.82
+11.03,16.28,Southwest Airlines ,,WN,25.1
+0.0,,,,,
+0.0,,,,,

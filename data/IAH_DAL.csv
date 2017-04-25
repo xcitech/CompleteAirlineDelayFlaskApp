@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,349,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_DAL.js""
+    id=""c1cebc20-a971-4576-a208-59837a05ef8d""
+    data-bokeh-model-id=""6900ca10-0de6-46ca-982d-a3acdc66ddbd""
+    data-bokeh-doc-id=""13973186-4b03-47aa-aee7-d50e4b809a79""
+></script>",TAG,
+11.47,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+21.79,,,,PERCENT_DELAYED,
+12.53,,,,POS_ARR_DELAY,
+12.47,21.9,ExpressJet Airlines ,,EV,90.52
+13.11,20.81,SkyWest Airlines ,,OO,9.48
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

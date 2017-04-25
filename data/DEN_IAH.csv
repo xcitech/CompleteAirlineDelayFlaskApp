@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Houston,DEST-CITY,,
+,,George Bush Intercontinental,DEST_NAME,,
+,,1388,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_IAH.js""
+    id=""c11a50b0-51a6-486b-94f0-a0a5a9f57a52""
+    data-bokeh-model-id=""c0e11e1a-dc57-4c12-9cd2-1f81176e0c55""
+    data-bokeh-doc-id=""9901312f-150f-4ca1-944b-f016c1e9c3bc""
+></script>",TAG,,
+14.47,,,DEP_DELAY,,
+14.0,,,AVG_FLIGHTS,,
+22.87,,,PERCENT_DELAYED,,
+14.92,,,POS_ARR_DELAY,,
+16.82,30.27,,EV,2.93,ExpressJet Airlines 
+19.01,27.82,,NK,3.9,Spirit Air Lines
+16.88,27.39,,F9,14.41,Frontier Airlines 
+13.32,24.29,,OO,0.92,SkyWest Airlines 
+14.3,21.49,,UA,77.84,United Air Lines 

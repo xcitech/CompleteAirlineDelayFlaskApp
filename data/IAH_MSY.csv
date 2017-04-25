@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,490,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_MSY.js""
+    id=""c8a038e7-e68e-43d0-b011-e352cbad8ec0""
+    data-bokeh-model-id=""7fdaacfb-f012-42f5-bb9f-b1d02db36778""
+    data-bokeh-doc-id=""0cba5852-3168-44b8-8cc0-a5f61adcc02c""
+></script>",TAG,
+13.53,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+20.32,,,,PERCENT_DELAYED,
+13.0,,,,POS_ARR_DELAY,
+29.42,40.85,Spirit Air Lines,,NK,6.32
+15.05,22.43,SkyWest Airlines ,,OO,7.36
+12.6,20.72,ExpressJet Airlines ,,EV,12.04
+11.47,18.3,United Air Lines ,,UA,74.28
+0.0,,,,,

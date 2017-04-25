@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,2423,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_DEN.js""
+    id=""d0fd5915-2d7a-48ca-b52a-9c63d0d35789""
+    data-bokeh-model-id=""7aed3b86-ecbc-4007-8fea-3636911e4db3""
+    data-bokeh-doc-id=""0c2de842-6a02-44a8-811d-2206b52aa600""
+></script>",TAG,
+10.04,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+14.68,,,,PERCENT_DELAYED,
+9.61,,,,POS_ARR_DELAY,
+14.84,19.65,Frontier Airlines ,,F9,26.02
+9.12,15.81,Southwest Airlines ,,WN,43.49
+5.84,8.84,United Air Lines ,,UA,30.49
+0.0,,,,,
+0.0,,,,,

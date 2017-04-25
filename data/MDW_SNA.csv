@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Santa Ana,DEST-CITY,
+,,,John Wayne Arpt Orange Co,DEST_NAME,
+,,,2782,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_SNA.js""
+    id=""dd47e68a-8271-4446-b37f-cb1bafaff7c0""
+    data-bokeh-model-id=""218bba10-d0bd-4149-b5ec-7c42ac217392""
+    data-bokeh-doc-id=""ec0f95be-fc08-488a-8929-f9c0fafcb56c""
+></script>",TAG,
+9.67,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+19.06,,,,PERCENT_DELAYED,
+9.57,,,,POS_ARR_DELAY,
+9.57,19.06,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

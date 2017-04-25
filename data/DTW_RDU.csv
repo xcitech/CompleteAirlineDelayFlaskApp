@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,807,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_RDU.js""
+    id=""42be91be-aa28-45e5-9c89-554dd985eb22""
+    data-bokeh-model-id=""f72fb6ce-9e83-4df7-9945-3490c0a18524""
+    data-bokeh-doc-id=""e282f653-4d6c-4490-9025-b566d1ccb6fd""
+></script>",TAG,
+10.76,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+16.05,,,,PERCENT_DELAYED,
+10.74,,,,POS_ARR_DELAY,
+53.2,80.0,SkyWest Airlines ,,OO,0.17
+13.38,22.6,Endeavor Air ,,9E,4.84
+14.4,19.98,ExpressJet Airlines ,,EV,28.39
+8.88,13.75,Delta Air Lines ,,DL,66.6
+0.0,,,,,

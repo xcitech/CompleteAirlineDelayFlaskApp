@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Pittsburgh,ORIGIN_CITY,,
+,,Pittsburgh Intl,ORIGIN_NAME,,
+,,New York,DEST-CITY,,
+,,La Guardia,DEST_NAME,,
+,,538,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/PIT_LGA.js""
+    id=""b2784348-035a-435c-b76a-3f7f0b000e35""
+    data-bokeh-model-id=""2ec167ea-18ad-4cd9-985b-4080ade7579b""
+    data-bokeh-doc-id=""5db5cec8-dccd-4dd4-add4-92a5e066843b""
+></script>",TAG,,
+20.16,,,DEP_DELAY,,
+1.0,,,AVG_FLIGHTS,,
+30.46,,,PERCENT_DELAYED,,
+22.41,,,POS_ARR_DELAY,,
+23.04,31.12,,EV,89.48,ExpressJet Airlines 
+15.5,27.03,,9E,8.78,Endeavor Air 
+41.0,23.08,,DL,1.03,Delta Air Lines 
+2.6,0.0,,MQ,0.4,Envoy Air
+0.0,0.0,,AA,0.32,American Airlines 

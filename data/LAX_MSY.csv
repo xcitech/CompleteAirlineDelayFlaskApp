@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Los Angeles,ORIGIN_CITY,,
+,,Los Angeles Intl,ORIGIN_NAME,,
+,,New Orleans,DEST-CITY,,
+,,Louis Armstrong New Orleans Intl,DEST_NAME,,
+,,2684,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LAX_MSY.js""
+    id=""fb5abf6b-51fd-4bde-b428-7739fdee4933""
+    data-bokeh-model-id=""fb11c684-cfcb-49ce-ae40-40e9c4e07618""
+    data-bokeh-doc-id=""c3bb97f2-af0e-4386-a325-7b91729064b9""
+></script>",TAG,,
+13.12,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+17.63,,,PERCENT_DELAYED,,
+11.08,,,POS_ARR_DELAY,,
+14.32,26.67,,AA,1.49,American Airlines 
+14.56,26.03,,WN,30.85,Southwest Airlines 
+14.71,22.46,,NK,2.28,Spirit Air Lines
+8.62,13.59,,UA,16.54,United Air Lines 
+9.38,13.1,,DL,48.69,Delta Air Lines 

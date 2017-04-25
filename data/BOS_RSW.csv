@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,2014,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_RSW.js""
+    id=""06af7f59-da3a-4739-81af-134274a6c723""
+    data-bokeh-model-id=""de568527-fbd6-4065-9e04-33d90ed757b6""
+    data-bokeh-doc-id=""71be7f2b-ff6b-48d3-ac62-4c63f7583d6f""
+></script>",TAG,
+12.62,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+24.93,,,,PERCENT_DELAYED,
+14.6,,,,POS_ARR_DELAY,
+15.5,29.66,Spirit Air Lines,,NK,5.63
+14.6,24.88,JetBlue Airways,,B6,90.07
+3.4,20.0,Southwest Airlines ,,WN,0.1
+13.62,19.82,AirTran Airways Corporation,,FL,4.21
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,2394,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_DEN.js""
+    id=""3e49e726-e523-4401-ac99-a81da3bb6835""
+    data-bokeh-model-id=""84d1b079-2893-41ed-af4f-5f50dbe81067""
+    data-bokeh-doc-id=""41329ae7-d0c8-49ff-b059-85bebab8cad7""
+></script>",TAG,
+13.32,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+20.34,,,,PERCENT_DELAYED,
+11.91,,,,POS_ARR_DELAY,
+12.02,21.31,Southwest Airlines ,,WN,66.99
+11.69,18.37,United Air Lines ,,UA,33.01
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

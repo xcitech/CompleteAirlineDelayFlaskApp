@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,2392,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_PHX.js""
+    id=""32d4224a-3e46-4557-98e8-886759514325""
+    data-bokeh-model-id=""feb22d25-1395-4b7e-9960-bfb6823e654d""
+    data-bokeh-doc-id=""c9975791-8f5a-4d8a-a010-a62b3b95176a""
+></script>",TAG,
+8.83,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+14.87,,,,PERCENT_DELAYED,
+9.4,,,,POS_ARR_DELAY,
+9.73,16.42,Southwest Airlines ,,WN,42.51
+9.28,15.21,US Airways ,,US,34.62
+8.98,11.46,American Airlines ,,AA,22.87
+0.0,,,,,
+0.0,,,,,

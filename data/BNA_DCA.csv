@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,903,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_DCA.js""
+    id=""e43860e2-77ae-4b51-a063-4133963a0ef1""
+    data-bokeh-model-id=""0f949598-d3b1-4e4b-9d0e-1e7ebb377b3e""
+    data-bokeh-doc-id=""7da7ea5c-5058-4f48-93fb-6acf372432b8""
+></script>",TAG,
+12.2,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+18.36,,,,PERCENT_DELAYED,
+12.04,,,,POS_ARR_DELAY,
+19.82,28.7,Envoy Air,,MQ,34.69
+7.9,12.87,Southwest Airlines ,,WN,65.31
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

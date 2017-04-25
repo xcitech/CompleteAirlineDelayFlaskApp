@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,1385,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_PDX.js""
+    id=""b61f9470-0738-49c7-88e6-52019fb24fe9""
+    data-bokeh-model-id=""470d42a3-fdbc-443b-ac45-b66da8e520e1""
+    data-bokeh-doc-id=""4073431a-2f09-4983-8174-1efdf1d9a0cc""
+></script>",TAG,
+5.51,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+9.74,,,,PERCENT_DELAYED,
+5.85,,,,POS_ARR_DELAY,
+7.47,15.64,Southwest Airlines ,,WN,18.36
+5.48,8.42,Alaska Airlines ,,AS,81.64
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

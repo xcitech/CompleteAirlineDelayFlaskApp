@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Myers,ORIGIN_CITY,
+,,,Southwest Florida Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,1525,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RSW_IND.js""
+    id=""6e24a902-02c6-4388-9268-388fb18382ef""
+    data-bokeh-model-id=""668744c3-99cb-4b57-96a0-3e47bc7bb4b0""
+    data-bokeh-doc-id=""af86ca06-9147-4034-973e-c78b67b5e58e""
+></script>",TAG,
+14.39,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.13,,,,PERCENT_DELAYED,
+13.36,,,,POS_ARR_DELAY,
+17.48,24.44,Frontier Airlines ,,F9,3.59
+13.52,20.23,Southwest Airlines ,,WN,84.73
+10.9,18.09,AirTran Airways Corporation,,FL,11.68
+0.0,,,,,
+0.0,,,,,

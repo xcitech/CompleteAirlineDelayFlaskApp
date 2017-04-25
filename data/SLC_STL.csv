@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,1856,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_STL.js""
+    id=""cb40743f-30c3-47d0-970d-6083fb87788a""
+    data-bokeh-model-id=""3fba1115-6e37-4e5f-bcb6-4326481597e5""
+    data-bokeh-doc-id=""89eafd17-0076-412b-88ef-0b2f558eec30""
+></script>",TAG,
+7.14,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+11.78,,,,PERCENT_DELAYED,
+6.65,,,,POS_ARR_DELAY,
+8.39,14.35,SkyWest Airlines ,,OO,35.74
+5.69,10.35,Delta Air Lines ,,DL,64.26
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

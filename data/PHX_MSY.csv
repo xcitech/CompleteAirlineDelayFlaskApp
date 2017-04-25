@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,2090,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_MSY.js""
+    id=""ec50bf7d-6fe6-4855-bb10-f1c4d497c793""
+    data-bokeh-model-id=""f0dac4d6-b631-45fa-a205-00af50245698""
+    data-bokeh-doc-id=""22a63f5e-84cd-4513-a625-85782e31a771""
+></script>",TAG,
+8.71,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+15.76,,,,PERCENT_DELAYED,
+7.67,,,,POS_ARR_DELAY,
+7.68,15.77,Southwest Airlines ,,WN,99.92
+0.0,0.0,US Airways ,,US,0.08
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

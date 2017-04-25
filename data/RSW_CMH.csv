@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Myers,ORIGIN_CITY,
+,,,Southwest Florida Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,1501,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RSW_CMH.js""
+    id=""1f6e3c42-caf3-4f4a-a032-81f1a8b89ec2""
+    data-bokeh-model-id=""3cba1f53-df23-4a3a-9c59-f96dcf38581f""
+    data-bokeh-doc-id=""c877cc9a-560e-440b-bba2-dd3622930451""
+></script>",TAG,
+13.84,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.43,,,,PERCENT_DELAYED,
+12.63,,,,POS_ARR_DELAY,
+13.81,24.28,AirTran Airways Corporation,,FL,10.88
+12.49,17.73,Southwest Airlines ,,WN,89.06
+0.0,0.0,ExpressJet Airlines ,,EV,0.06
+0.0,,,,,
+0.0,,,,,

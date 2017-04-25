@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,1312,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_TPA.js""
+    id=""1dcf478e-a91e-4ebf-b01d-24051a1d2050""
+    data-bokeh-model-id=""fbf2bf95-29e6-4245-b922-3539dcf9c2e1""
+    data-bokeh-doc-id=""7860c126-7d22-496b-a437-af4894709894""
+></script>",TAG,
+10.22,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+18.72,,,,PERCENT_DELAYED,
+11.74,,,,POS_ARR_DELAY,
+15.28,23.54,JetBlue Airways,,B6,23.94
+12.7,18.99,Southwest Airlines ,,WN,18.31
+12.36,18.91,American Airlines ,,AA,22.0
+8.49,15.24,US Airways ,,US,35.75
+0.0,,,,,

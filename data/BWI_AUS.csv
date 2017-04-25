@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,2158,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_AUS.js""
+    id=""91cfa347-1cd0-45fc-b904-c0e792f04d6a""
+    data-bokeh-model-id=""ce0a17e1-99ba-45eb-b783-3f2731b92936""
+    data-bokeh-doc-id=""f0a36256-f644-450c-a8b2-7d6cfad73d08""
+></script>",TAG,
+15.1,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+22.66,,,,PERCENT_DELAYED,
+12.84,,,,POS_ARR_DELAY,
+22.0,50.0,AirTran Airways Corporation,,FL,0.1
+12.83,22.63,Southwest Airlines ,,WN,99.9
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

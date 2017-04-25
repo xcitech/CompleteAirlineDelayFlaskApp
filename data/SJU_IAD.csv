@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,2535,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_IAD.js""
+    id=""ea7cc38d-a5d9-43e2-9769-ca671d71c006""
+    data-bokeh-model-id=""9cfee48e-1dba-46d9-b919-f961528818f4""
+    data-bokeh-doc-id=""4cdcd94b-42dc-4fcf-9ec7-25e04c9c5730""
+></script>",TAG,
+16.38,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+19.97,,,,PERCENT_DELAYED,
+12.82,,,,POS_ARR_DELAY,
+12.82,19.97,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

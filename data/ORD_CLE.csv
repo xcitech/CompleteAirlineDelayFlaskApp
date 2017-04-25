@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Cleveland,DEST-CITY,,
+,,Cleveland Hopkins Intl,DEST_NAME,,
+,,507,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_CLE.js""
+    id=""f61c9a59-55c1-4663-999f-050678dce5bb""
+    data-bokeh-model-id=""002b6ef8-a572-4d8e-b776-0f674ed6e0a4""
+    data-bokeh-doc-id=""9a3a4443-8092-457f-b776-8ac656554ed8""
+></script>",TAG,,
+18.84,,,DEP_DELAY,,
+11.0,,,AVG_FLIGHTS,,
+27.36,,,PERCENT_DELAYED,,
+19.08,,,POS_ARR_DELAY,,
+19.03,31.71,,MQ,27.99,Envoy Air
+21.81,28.69,,EV,32.44,ExpressJet Airlines 
+17.35,28.29,,OO,6.79,SkyWest Airlines 
+16.68,22.14,,UA,32.37,United Air Lines 
+23.94,21.15,,F9,0.41,Frontier Airlines 

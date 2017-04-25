@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<title>Airline-delay-Prediction App</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="static/w3.css">
+<link rel="stylesheet" href="static/css.css">
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+    background-image: url('static/bg.png');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+</style>
+<body>
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+    Airline-Delay Predictor App
+  </div>
+  <div class="w3-display-middle">
+   
+   
+   <form action = "/getscore" method="POST">
+<table>
+<tr>
+<td align='right'>
+Select Origin:   </td>
+<td><select name="origin">
+<option value="AUS">Austin Bergstrom Intl</option>
+<option value="BWI">Baltimore Washington Intl</option>
+<option value="CLT">Charlotte Douglas Intl</option>
+<option value="MDW">Chicago Midway Intl</option>
+<option value="ORD">Chicago Ohare Intl</option>
+<option value="CLE">Cleveland Hopkins Intl</option>
+<option value="DFW">Dallas Fort Worth Intl</option>
+<option value="DAL">Dallas Love Fld</option>
+<option value="DEN">Denver Intl</option>
+<option value="DTW">Detroit Metro Wayne Co</option>
+<option value="FLL">Fort Lauderdale Hollywood Intl</option>
+<option value="BOS">General Edward Lawrence Logan Intl</option>
+<option value="MKE">General Mitchell Intl</option>
+<option value="IAH">George Bush Intercontinental</option>
+<option value="ATL">Hartsfield Jackson Atlanta Intl</option>
+<option value="HNL">Honolulu Intl</option>
+<option value="IND">Indianapolis Intl</option>
+<option value="JFK" selected>John F Kennedy Intl</option>
+<option value="SNA">John Wayne Arpt Orange Co</option>
+<option value="MCI">Kansas City Intl</option>
+<option value="LGA">La Guardia</option>
+<option value="STL">Lambert St Louis Intl</option>
+<option value="LAX">Los Angeles Intl</option>
+<option value="MSY">Louis Armstrong New Orleans Intl</option>
+<option value="SJU">Luis Munoz Marin Intl</option>
+<option value="LAS">Mc Carran Intl</option>
+<option value="OAK">Metropolitan Oakland Intl</option>
+<option value="MIA">Miami Intl</option>
+<option value="MSP">Minneapolis St Paul Intl</option>
+<option value="BNA">Nashville Intl</option>
+<option value="EWR">Newark Liberty Intl</option>
+<option value="SJC">Norman Y Mineta San Jose Intl</option>
+<option value="MCO">Orlando Intl</option>
+<option value="PHL">Philadelphia Intl</option>
+<option value="PHX">Phoenix Sky Harbor Intl</option>
+<option value="PIT">Pittsburgh Intl</option>
+<option value="CMH">Port Columbus Intl</option>
+<option value="PDX">Portland Intl</option>
+<option value="RDU">Raleigh Durham Intl</option>
+<option value="DCA">Ronald Reagan Washington Natl</option>
+<option value="SMF">Sacramento Intl</option>
+<option value="SLC">Salt Lake City Intl</option>
+<option value="SAT">San Antonio Intl</option>
+<option value="SAN">San Diego Intl</option>
+<option value="SFO">San Francisco Intl</option>
+<option value="SEA">Seattle Tacoma Intl</option>
+<option value="RSW">Southwest Florida Intl</option>
+<option value="TPA">Tampa Intl</option>
+<option value="IAD">Washington Dulles Intl</option>
+<option value="HOU">William P Hobby</option>
+</select>
+</td>
+<tr>
+<td>
+Select Destination:   </td>
+<td><select name="dest">
+<option value="AUS">Austin Bergstrom Intl</option>
+<option value="BWI">Baltimore Washington Intl</option>
+<option value="CLT">Charlotte Douglas Intl</option>
+<option value="MDW">Chicago Midway Intl</option>
+<option value="ORD">Chicago Ohare Intl</option>
+<option value="CLE">Cleveland Hopkins Intl</option>
+<option value="DFW">Dallas Fort Worth Intl</option>
+<option value="DAL">Dallas Love Fld</option>
+<option value="DEN">Denver Intl</option>
+<option value="DTW">Detroit Metro Wayne Co</option>
+<option value="FLL">Fort Lauderdale Hollywood Intl</option>
+<option value="BOS">General Edward Lawrence Logan Intl</option>
+<option value="MKE">General Mitchell Intl</option>
+<option value="IAH">George Bush Intercontinental</option>
+<option value="ATL">Hartsfield Jackson Atlanta Intl</option>
+<option value="HNL">Honolulu Intl</option>
+<option value="IND">Indianapolis Intl</option>
+<option value="JFK">John F Kennedy Intl</option>
+<option value="SNA">John Wayne Arpt Orange Co</option>
+<option value="MCI">Kansas City Intl</option>
+<option value="LGA">La Guardia</option>
+<option value="STL">Lambert St Louis Intl</option>
+<option value="LAX">Los Angeles Intl</option>
+<option value="MSY">Louis Armstrong New Orleans Intl</option>
+<option value="SJU">Luis Munoz Marin Intl</option>
+<option value="LAS">Mc Carran Intl</option>
+<option value="OAK">Metropolitan Oakland Intl</option>
+<option value="MIA">Miami Intl</option>
+<option value="MSP">Minneapolis St Paul Intl</option>
+<option value="BNA">Nashville Intl</option>
+<option value="EWR">Newark Liberty Intl</option>
+<option value="SJC">Norman Y Mineta San Jose Intl</option>
+<option value="MCO">Orlando Intl</option>
+<option value="PHL">Philadelphia Intl</option>
+<option value="PHX">Phoenix Sky Harbor Intl</option>
+<option value="PIT">Pittsburgh Intl</option>
+<option value="CMH">Port Columbus Intl</option>
+<option value="PDX">Portland Intl</option>
+<option value="RDU">Raleigh Durham Intl</option>
+<option value="DCA">Ronald Reagan Washington Natl</option>
+<option value="SMF">Sacramento Intl</option>
+<option value="SLC">Salt Lake City Intl</option>
+<option value="SAT">San Antonio Intl</option>
+<option value="SAN">San Diego Intl</option>
+<option value="SFO" selected>San Francisco Intl</option>
+<option value="SEA">Seattle Tacoma Intl</option>
+<option value="RSW">Southwest Florida Intl</option>
+<option value="TPA">Tampa Intl</option>
+<option value="IAD">Washington Dulles Intl</option>
+<option value="HOU">William P Hobby</option>
+</select></td></tr></table>
+</p>
+<hr>
+<p>
+<input type="checkbox" name="check_delay"> Predict Flight Delay </p>
+
+<p> Select Airline :   
+<select name="unique_carrier">
+<option value="FL">AirTran Airways Corporation</option>
+<option value="AS">Alaska Airlines </option>
+<option value="AA">American Airlines </option>
+<option value="DL">Delta Air Lines </option>
+<option value="9E">Endeavor Air </option>
+<option value="MQ">Envoy Air</option>
+<option value="EV">ExpressJet Airlines </option>
+<option value="F9">Frontier Airlines </option>
+<option value="HA">Hawaiian Airlines </option>
+<option value="B6">JetBlue Airways</option>
+<option value="YV">Mesa Airlines </option>
+<option value="OO">SkyWest Airlines </option>
+<option value="WN">Southwest Airlines </option>
+<option value="NK">Spirit Air Lines</option>
+<option value="US">US Airways </option>
+<option value="UA" selected>United Air Lines </option>
+<option value="VX">Virgin America</option>
+</select>
+</p>
+
+<p>Date of Travel (YYYY-MM-DD): <input type="date" name="dt"/>
+<script>
+    var today = new Date().toISOString().split('T')[0];
+    document.getElementsByName("dt")[0].setAttribute('value', today);
+    </script>
+
+<p> Select Departure HOUR:   
+<select name="dep_hour">
+    <option value=0>00:00</option>
+    <option value=1>01:00</option>
+    <option value=2>02:00</option>
+    <option value=3>03:00</option>
+    <option value=4>04:00</option>
+    <option value=5>05:00</option>
+    <option value=6>06:00</option>
+    <option value=7>07:00</option>
+    <option value=8>08:00</option>
+    <option value=9>09:00</option>
+    <option value=10 selected>10:00</option>
+    <option value=11>11:00</option>
+    <option value=12>12:00</option>
+    <option value=13>13:00</option>
+    <option value=14>14:00</option>
+    <option value=15>15:00</option>
+    <option value=16>16:00</option>
+    <option value=17>17:00</option>
+    <option value=18>18:00</option>
+    <option value=19>19:00</option>
+    <option value=20>20:00</option>
+    <option value=21>21:00</option>
+    <option value=22>22:00</option>
+    <option value=23>23:00</option>
+</select>
+</p>
+
+<p> Select Arrival HOUR:
+<select name="arr_hour">
+    <option value=0>00:00</option>
+    <option value=1>01:00</option>
+    <option value=2>02:00</option>
+    <option value=3>03:00</option>
+    <option value=4>04:00</option>
+    <option value=5>05:00</option>
+    <option value=6>06:00</option>
+    <option value=7>07:00</option>
+    <option value=8>08:00</option>
+    <option value=9>09:00</option>
+    <option value=10>10:00</option>
+    <option value=11>11:00</option>
+    <option value=12>12:00</option>
+    <option value=13 selected>13:00</option>
+    <option value=14>14:00</option>
+    <option value=15>15:00</option>
+    <option value=16>16:00</option>
+    <option value=17>17:00</option>
+    <option value=18>18:00</option>
+    <option value=19>19:00</option>
+    <option value=20>20:00</option>
+    <option value=21>21:00</option>
+    <option value=22>22:00</option>
+    <option value=23>23:00</option>
+</select>
+</p>
+
+
+<p> <input type ="submit" value="submit" /> </p>
+</form>
+   
+   
+   
+   
+  </div>
+  <div class="w3-display-bottomleft w3-padding-large">
+    <a href="http://xcitech.github.io" target="_blank">xcitech.github.io</a>
+  </div>
+    <div class="w3-display-bottomright w3-padding-large">
+    Read the blog <a href="https://xcitech.github.io/projects/airline-delay/" target="_blank">here</a>
+  </div>
+</div>
+
+</body>
+</html>

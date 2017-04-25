@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1437,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_RSW.js""
+    id=""fa154e8e-87ed-4712-bd51-ca272b05d7c4""
+    data-bokeh-model-id=""5fcec7a7-3701-4252-962c-42ffd4a2c80b""
+    data-bokeh-doc-id=""566c8950-b2ae-4ef0-b324-018c3f11727e""
+></script>",TAG,
+29.66,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+35.48,,,,PERCENT_DELAYED,
+27.01,,,,POS_ARR_DELAY,
+27.01,35.48,Frontier Airlines ,,F9,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

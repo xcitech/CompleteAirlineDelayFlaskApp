@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,2848,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_AUS.js""
+    id=""368745c3-05f2-48b9-ad23-1c901d0fc005""
+    data-bokeh-model-id=""acdda63f-e08f-452c-9911-6bae86954022""
+    data-bokeh-doc-id=""7e10238a-6717-4bb9-8d54-a0dba61c312d""
+></script>",TAG,
+7.45,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.76,,,,PERCENT_DELAYED,
+9.1,,,,POS_ARR_DELAY,
+11.35,20.0,Southwest Airlines ,,WN,18.52
+8.58,16.02,Alaska Airlines ,,AS,81.48
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Boston,ORIGIN_CITY,,
+,,General Edward Lawrence Logan Intl,ORIGIN_NAME,,
+,,Washington,DEST-CITY,,
+,,Washington Dulles Intl,DEST_NAME,,
+,,664,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/BOS_IAD.js""
+    id=""15ea3e77-a55c-442f-bfef-93707c4c0b6f""
+    data-bokeh-model-id=""dc54b134-d6c5-4cb6-be31-c39dc82c4666""
+    data-bokeh-doc-id=""f8e5f3a4-59b9-4c70-9222-569c72bec527""
+></script>",TAG,,
+9.91,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+14.84,,,PERCENT_DELAYED,,
+9.93,,,POS_ARR_DELAY,,
+32.2,60.0,,EV,0.14,ExpressJet Airlines 
+12.5,20.69,,YV,0.84,Mesa Airlines 
+10.91,15.32,,UA,51.47,United Air Lines 
+8.76,14.1,,B6,47.5,JetBlue Airways
+1.67,0.0,,OO,0.04,SkyWest Airlines 

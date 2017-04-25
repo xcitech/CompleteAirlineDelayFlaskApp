@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Pittsburgh,ORIGIN_CITY,
+,,,Pittsburgh Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,3067,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PIT_LAS.js""
+    id=""59e07310-642f-468f-b992-717b1f30112f""
+    data-bokeh-model-id=""07f19aaf-4020-486d-a5c0-1f730ea8ed8a""
+    data-bokeh-doc-id=""7089c519-4d43-46cc-855c-5ab13548a878""
+></script>",TAG,
+7.87,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+12.23,,,,PERCENT_DELAYED,
+7.52,,,,POS_ARR_DELAY,
+25.18,43.42,Frontier Airlines ,,F9,3.69
+6.84,11.03,Southwest Airlines ,,WN,96.31
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

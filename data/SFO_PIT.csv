@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,3619,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_PIT.js""
+    id=""d866b3b3-04ed-4cf0-8701-9d7261ceddcc""
+    data-bokeh-model-id=""aa50387a-3370-4bb0-aba1-373cb9273b69""
+    data-bokeh-doc-id=""c64fcbe2-b0f1-4a1e-8971-9abd0e9a2ee3""
+></script>",TAG,
+12.19,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.02,,,,PERCENT_DELAYED,
+9.16,,,,POS_ARR_DELAY,
+9.16,16.02,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

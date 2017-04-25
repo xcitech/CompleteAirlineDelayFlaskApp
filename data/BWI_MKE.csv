@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Milwaukee,DEST-CITY,
+,,,General Mitchell Intl,DEST_NAME,
+,,,1030,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_MKE.js""
+    id=""c6a167a2-16a6-4eab-9685-fd248c769e64""
+    data-bokeh-model-id=""6cca05ee-dee1-43cc-8862-f78fb0d8c506""
+    data-bokeh-doc-id=""30be568f-045c-45e7-b469-edfb5302f339""
+></script>",TAG,
+15.98,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+24.52,,,,PERCENT_DELAYED,
+15.4,,,,POS_ARR_DELAY,
+15.4,24.52,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

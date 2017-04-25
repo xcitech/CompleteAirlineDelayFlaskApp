@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,6385,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_MSP.js""
+    id=""1bbb53f4-07a6-44ba-bdb8-48bbecdcc6fe""
+    data-bokeh-model-id=""dcbee56f-4cc3-47cd-897b-e4888fb7702c""
+    data-bokeh-doc-id=""3c957bce-ee56-470f-88e6-d46b4943763d""
+></script>",TAG,
+6.85,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+7.14,,,,PERCENT_DELAYED,
+4.95,,,,POS_ARR_DELAY,
+4.95,7.14,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

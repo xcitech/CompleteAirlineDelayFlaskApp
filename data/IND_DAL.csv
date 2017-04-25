@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1215,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_DAL.js""
+    id=""395e7512-4c8d-48f4-84e3-7968918f1d50""
+    data-bokeh-model-id=""79842125-449a-46d9-915a-40294d71e9a1""
+    data-bokeh-doc-id=""78fdd561-8d6c-4c2a-a0e5-7292e31a956e""
+></script>",TAG,
+13.4,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+19.53,,,,PERCENT_DELAYED,
+12.53,,,,POS_ARR_DELAY,
+12.53,19.53,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

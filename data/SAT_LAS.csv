@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,1718,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_LAS.js""
+    id=""0b438730-3bd1-4350-97d5-8306a08efb40""
+    data-bokeh-model-id=""a798e4bd-0b89-4397-b53d-608a8459cfda""
+    data-bokeh-doc-id=""2dbe1f74-3065-4865-9d09-ea86c69feeb8""
+></script>",TAG,
+10.7,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+17.22,,,,PERCENT_DELAYED,
+9.43,,,,POS_ARR_DELAY,
+26.4,57.45,Frontier Airlines ,,F9,1.11
+9.24,16.77,Southwest Airlines ,,WN,98.89
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

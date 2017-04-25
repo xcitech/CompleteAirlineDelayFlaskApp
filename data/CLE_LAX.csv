@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,3297,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_LAX.js""
+    id=""7a964910-6eed-4756-b0f9-3dd3f0468a4d""
+    data-bokeh-model-id=""d93ac6ce-48cf-4bd3-b655-195f7b980282""
+    data-bokeh-doc-id=""96147ddd-e3a7-43ff-8a27-4333c0ade714""
+></script>",TAG,
+11.01,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+17.41,,,,PERCENT_DELAYED,
+10.99,,,,POS_ARR_DELAY,
+21.18,27.16,Spirit Air Lines,,NK,18.98
+8.34,15.13,United Air Lines ,,UA,78.73
+17.62,15.0,Frontier Airlines ,,F9,2.29
+0.0,,,,,
+0.0,,,,,

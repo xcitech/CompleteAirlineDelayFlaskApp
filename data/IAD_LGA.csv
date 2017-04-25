@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Washington,ORIGIN_CITY,,
+,,Washington Dulles Intl,ORIGIN_NAME,,
+,,New York,DEST-CITY,,
+,,La Guardia,DEST_NAME,,
+,,368,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/IAD_LGA.js""
+    id=""6f927cbd-b875-4f18-9eb0-eaf0925d5e09""
+    data-bokeh-model-id=""d9f0fbac-f0b1-4d0e-8213-2303f3fbfddf""
+    data-bokeh-doc-id=""b10bb3b5-33ca-4a0e-9976-6d8ebcc13589""
+></script>",TAG,,
+21.42,,,DEP_DELAY,,
+2.0,,,AVG_FLIGHTS,,
+32.59,,,PERCENT_DELAYED,,
+23.13,,,POS_ARR_DELAY,,
+26.66,43.04,,YV,3.99,Mesa Airlines 
+23.36,32.95,,EV,92.77,ExpressJet Airlines 
+12.5,9.68,,9E,3.13,Endeavor Air 
+13.0,0.0,,OO,0.05,SkyWest Airlines 
+0.0,0.0,,UA,0.05,United Air Lines 

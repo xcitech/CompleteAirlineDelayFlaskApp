@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,3922,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_DCA.js""
+    id=""46d6c059-4af7-4438-81d0-138baea800a7""
+    data-bokeh-model-id=""71d3238d-c189-4d86-986b-c4193d8049e6""
+    data-bokeh-doc-id=""f7858e9b-84ed-42cd-a4f3-ceaee2f130a9""
+></script>",TAG,
+11.67,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+17.26,,,,PERCENT_DELAYED,
+9.81,,,,POS_ARR_DELAY,
+15.3,25.61,United Air Lines ,,UA,49.79
+4.36,8.99,Virgin America,,VX,50.21
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

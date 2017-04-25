@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,743,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_MCI.js""
+    id=""7bf57b36-00e7-488c-9b15-11515231b662""
+    data-bokeh-model-id=""8e4dba5d-f4a0-417b-bf9f-26b227c84a11""
+    data-bokeh-doc-id=""b357765c-11df-4976-860b-0b0e862df315""
+></script>",TAG,
+15.24,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+27.41,,,,PERCENT_DELAYED,
+14.3,,,,POS_ARR_DELAY,
+14.3,27.41,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

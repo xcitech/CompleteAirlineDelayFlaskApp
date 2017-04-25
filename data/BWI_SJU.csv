@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,San Juan,DEST-CITY,
+,,,Luis Munoz Marin Intl,DEST_NAME,
+,,,2525,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_SJU.js""
+    id=""35e6612b-f988-4626-aad1-fefb09c99306""
+    data-bokeh-model-id=""bdfe2349-1409-41c8-9810-bfff948f290d""
+    data-bokeh-doc-id=""d81232b5-d304-4cdf-b3d5-8e92c9f2a245""
+></script>",TAG,
+11.32,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+28.79,,,,PERCENT_DELAYED,
+14.42,,,,POS_ARR_DELAY,
+14.42,28.79,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

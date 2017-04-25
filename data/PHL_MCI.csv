@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,1667,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_MCI.js""
+    id=""745a0150-ab8f-4c11-8126-df04bf2bb0d8""
+    data-bokeh-model-id=""3823e916-c03f-4772-bb76-249ea4f1fbd5""
+    data-bokeh-doc-id=""6a4f97a6-3347-4ee6-8bc6-9c905536ed09""
+></script>",TAG,
+15.38,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+31.09,,,,PERCENT_DELAYED,
+20.46,,,,POS_ARR_DELAY,
+38.0,100.0,US Airways ,,US,0.42
+42.62,56.41,Frontier Airlines ,,F9,16.39
+16.01,25.76,American Airlines ,,AA,83.19
+0.0,,,,,
+0.0,,,,,

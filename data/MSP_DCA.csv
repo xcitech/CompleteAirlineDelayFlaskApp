@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Minneapolis,ORIGIN_CITY,
+,,,Minneapolis St Paul Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,1495,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSP_DCA.js""
+    id=""abc2d5cb-5404-4d33-a171-4b0483dc1216""
+    data-bokeh-model-id=""40f17577-9525-4597-8e97-53a6aba161df""
+    data-bokeh-doc-id=""51f303f1-1862-4850-bcad-da146b7bb78d""
+></script>",TAG,
+8.55,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+16.08,,,,PERCENT_DELAYED,
+9.61,,,,POS_ARR_DELAY,
+31.0,100.0,ExpressJet Airlines ,,EV,0.02
+9.6,16.07,Delta Air Lines ,,DL,99.98
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

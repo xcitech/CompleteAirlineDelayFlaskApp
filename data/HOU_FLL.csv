@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1538,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_FLL.js""
+    id=""49ba5de1-6fd7-48cf-a6d1-8828c8301c80""
+    data-bokeh-model-id=""9e8166f0-b26a-498d-b0b8-610ef18393e4""
+    data-bokeh-doc-id=""0cc3fc8e-80b6-49f1-aa16-8e893eddd3fb""
+></script>",TAG,
+18.55,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+32.27,,,,PERCENT_DELAYED,
+16.76,,,,POS_ARR_DELAY,
+16.76,32.27,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

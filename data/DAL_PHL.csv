@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,Philadelphia,DEST-CITY,
+,,,Philadelphia Intl,DEST_NAME,
+,,,2081,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_PHL.js""
+    id=""01e6ea28-be91-440d-b0c9-1ee1c565d443""
+    data-bokeh-model-id=""dbc27bd6-8f6a-4ebd-a2f3-661b8a82068f""
+    data-bokeh-doc-id=""c2945031-c966-492b-b734-d5a2c0c0c007""
+></script>",TAG,
+12.83,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+15.58,,,,PERCENT_DELAYED,
+11.0,,,,POS_ARR_DELAY,
+11.0,15.58,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

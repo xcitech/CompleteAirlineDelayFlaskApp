@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,La Guardia,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,1531,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LGA_MCO.js""
+    id=""f1fc3722-ae51-4527-993e-0161606d247a""
+    data-bokeh-model-id=""e7beeaf2-2503-4a5d-baf0-93e6a691d5d8""
+    data-bokeh-doc-id=""56157915-69ec-4eeb-8041-cef5db70d1eb""
+></script>",TAG,
+15.83,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+23.72,,,,PERCENT_DELAYED,
+17.08,,,,POS_ARR_DELAY,
+19.62,27.33,JetBlue Airways,,B6,40.45
+11.47,21.65,American Airlines ,,AA,2.1
+15.5,21.25,Delta Air Lines ,,DL,57.45
+0.0,,,,,
+0.0,,,,,

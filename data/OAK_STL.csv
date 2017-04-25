@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,2771,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_STL.js""
+    id=""40ac1b76-6074-48b4-baec-1ab409bdf391""
+    data-bokeh-model-id=""fda791d9-49aa-4f14-893e-848543c927c4""
+    data-bokeh-doc-id=""b865d325-9a5e-4d1a-b392-4f7ca0b32162""
+></script>",TAG,
+13.4,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+17.24,,,,PERCENT_DELAYED,
+11.62,,,,POS_ARR_DELAY,
+11.62,17.24,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

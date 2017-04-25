@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Kansas City,ORIGIN_CITY,,
+,,Kansas City Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,2190,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MCI_LAX.js""
+    id=""83b6036e-05a2-4da2-b84f-446206e9f8f6""
+    data-bokeh-model-id=""8efbae76-54c6-4f52-b556-2fe1db719894""
+    data-bokeh-doc-id=""7714b87d-a593-4b5c-8ec5-9e0366d5c175""
+></script>",TAG,,
+13.26,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+22.15,,,PERCENT_DELAYED,,
+13.1,,,POS_ARR_DELAY,,
+23.3,40.53,,NK,12.17,Spirit Air Lines
+11.69,20.04,,WN,83.55,Southwest Airlines 
+19.96,12.73,,DL,1.62,Delta Air Lines 
+11.44,11.11,,OO,0.27,SkyWest Airlines 
+5.64,9.88,,AA,2.39,American Airlines 

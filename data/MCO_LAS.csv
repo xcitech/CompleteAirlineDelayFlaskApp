@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Las Vegas,DEST-CITY,
+,,,Mc Carran Intl,DEST_NAME,
+,,,3277,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_LAS.js""
+    id=""ac38eec1-552d-49e6-a1c0-8693a9f5628e""
+    data-bokeh-model-id=""ba120cbf-03e0-4c42-b071-779808cc08ea""
+    data-bokeh-doc-id=""cf0619cc-f481-4811-9b36-4bd701145c38""
+></script>",TAG,
+11.82,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+18.62,,,,PERCENT_DELAYED,
+10.71,,,,POS_ARR_DELAY,
+17.63,30.84,Delta Air Lines ,,DL,3.69
+12.6,19.76,Frontier Airlines ,,F9,22.69
+9.78,17.66,Southwest Airlines ,,WN,73.62
+0.0,,,,,
+0.0,,,,,

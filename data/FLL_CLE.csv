@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Fort Lauderdale,ORIGIN_CITY,,
+,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,,
+,,Cleveland,DEST-CITY,,
+,,Cleveland Hopkins Intl,DEST_NAME,,
+,,1713,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/FLL_CLE.js""
+    id=""57f8b3e7-1f64-4bdb-801d-7a20821321cd""
+    data-bokeh-model-id=""9ad53c19-e86e-444e-9709-557d3af3c6b4""
+    data-bokeh-doc-id=""aa5bf367-7aa9-4f7d-a9ce-823be4928c41""
+></script>",TAG,,
+14.63,,,DEP_DELAY,,
+2.0,,,AVG_FLIGHTS,,
+19.02,,,PERCENT_DELAYED,,
+13.52,,,POS_ARR_DELAY,,
+35.07,33.62,,F9,10.69,Frontier Airlines 
+16.67,26.54,,NK,26.21,Spirit Air Lines
+15.12,15.62,,EV,1.47,ExpressJet Airlines 
+9.07,14.72,,B6,22.52,JetBlue Airways
+8.01,12.6,,UA,39.11,United Air Lines 

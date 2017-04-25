@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,2370,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_DEN.js""
+    id=""bb1ca339-a24e-4ea5-862d-01a59a34b375""
+    data-bokeh-model-id=""ca3bedf7-53bc-4dbf-b32c-667eb975dc98""
+    data-bokeh-doc-id=""cc1cea61-377b-4608-b592-c880545d9e59""
+></script>",TAG,
+12.58,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+23.43,,,,PERCENT_DELAYED,
+15.26,,,,POS_ARR_DELAY,
+18.02,27.86,United Air Lines ,,UA,24.86
+14.35,21.96,Frontier Airlines ,,F9,75.14
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

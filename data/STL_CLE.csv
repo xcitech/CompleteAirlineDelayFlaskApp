@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,783,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_CLE.js""
+    id=""167b3de0-cb6c-4592-abe4-7c606e0a430b""
+    data-bokeh-model-id=""2bee05cf-3c17-4f46-b3d1-fc639c98a522""
+    data-bokeh-doc-id=""bafea3a4-3f74-42a9-8905-433c5c243500""
+></script>",TAG,
+10.28,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+13.38,,,,PERCENT_DELAYED,
+9.54,,,,POS_ARR_DELAY,
+9.6,17.44,Southwest Airlines ,,WN,8.52
+9.53,13.0,ExpressJet Airlines ,,EV,91.48
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

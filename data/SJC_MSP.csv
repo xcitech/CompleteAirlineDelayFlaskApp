@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Jose,ORIGIN_CITY,
+,,,Norman Y Mineta San Jose Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,2531,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJC_MSP.js""
+    id=""353e9194-8b3f-4822-adee-f6c55a577280""
+    data-bokeh-model-id=""05945229-49ef-479c-a286-334913be5032""
+    data-bokeh-doc-id=""d643c80b-5974-4f1a-8940-b8b930757afe""
+></script>",TAG,
+8.22,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+7.92,,,,PERCENT_DELAYED,
+7.7,,,,POS_ARR_DELAY,
+7.7,7.92,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

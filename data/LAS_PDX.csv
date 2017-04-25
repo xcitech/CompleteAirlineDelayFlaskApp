@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,1228,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_PDX.js""
+    id=""2f280c03-2730-4ec6-83f1-0e5db9f315a3""
+    data-bokeh-model-id=""1fc55a6d-664d-47c3-b2a7-4bb3b26c131a""
+    data-bokeh-doc-id=""6c246423-5d85-4fd8-9c4e-ed421dc586f8""
+></script>",TAG,
+11.68,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+19.17,,,,PERCENT_DELAYED,
+11.14,,,,POS_ARR_DELAY,
+19.28,26.2,Spirit Air Lines,,NK,8.74
+13.76,26.08,Southwest Airlines ,,WN,50.24
+6.2,9.21,Alaska Airlines ,,AS,41.02
+0.0,,,,,
+0.0,,,,,

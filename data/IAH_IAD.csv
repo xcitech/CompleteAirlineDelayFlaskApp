@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,1914,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_IAD.js""
+    id=""68122056-9afa-4d4c-9398-7637b55238c4""
+    data-bokeh-model-id=""124c6528-f1c2-4fad-b5ed-23a567cceb25""
+    data-bokeh-doc-id=""3ba0ec33-ca81-44a8-8f67-e7c325829e66""
+></script>",TAG,
+14.32,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+18.12,,,,PERCENT_DELAYED,
+12.31,,,,POS_ARR_DELAY,
+15.04,27.37,SkyWest Airlines ,,OO,2.02
+13.6,22.58,ExpressJet Airlines ,,EV,7.89
+12.14,17.52,United Air Lines ,,UA,90.09
+0.0,,,,,
+0.0,,,,,

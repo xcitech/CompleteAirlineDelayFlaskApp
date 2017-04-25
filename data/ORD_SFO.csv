@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Ohare Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,2965,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ORD_SFO.js""
+    id=""4c38727d-460f-4bfc-8e0f-386438a00d45""
+    data-bokeh-model-id=""108fde00-27f0-44cd-a78b-119a5101f94c""
+    data-bokeh-doc-id=""8f1b50b0-ce59-4b96-8980-9a9de1a02005""
+></script>",TAG,
+21.06,,,,DEP_DELAY,
+22.0,,,,AVG_FLIGHTS,
+29.66,,,,PERCENT_DELAYED,
+19.97,,,,POS_ARR_DELAY,
+23.8,34.16,Frontier Airlines ,,F9,1.7
+20.78,30.72,United Air Lines ,,UA,59.99
+18.49,29.33,American Airlines ,,AA,27.38
+18.59,23.95,Virgin America,,VX,10.93
+0.0,,,,,

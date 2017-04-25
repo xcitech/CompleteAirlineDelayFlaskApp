@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,1118,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_STL.js""
+    id=""dc60012d-2d44-40ae-9dab-50299f5453ab""
+    data-bokeh-model-id=""c9c39d65-0bb5-4cf8-9f00-c40787d4e954""
+    data-bokeh-doc-id=""960fd967-e18e-4d06-8278-594a8f2d073c""
+></script>",TAG,
+12.09,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+26.28,,,,PERCENT_DELAYED,
+13.45,,,,POS_ARR_DELAY,
+22.0,100.0,United Air Lines ,,UA,0.73
+13.31,26.51,ExpressJet Airlines ,,EV,60.58
+13.49,24.53,Frontier Airlines ,,F9,38.69
+0.0,,,,,
+0.0,,,,,

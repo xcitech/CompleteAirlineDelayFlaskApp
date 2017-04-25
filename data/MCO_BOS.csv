@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,1806,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_BOS.js""
+    id=""cd95989e-3808-44a7-9187-f65494417e69""
+    data-bokeh-model-id=""c2f03c36-f9b9-4ec8-8569-0cf98ada58cd""
+    data-bokeh-doc-id=""d5269398-36f9-482b-b52b-63bbd0db9d0a""
+></script>",TAG,
+15.74,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+21.48,,,,PERCENT_DELAYED,
+15.28,,,,POS_ARR_DELAY,
+20.1,27.59,Southwest Airlines ,,WN,0.32
+15.57,22.51,JetBlue Airways,,B6,79.24
+18.31,18.75,AirTran Airways Corporation,,FL,0.18
+14.03,17.42,Delta Air Lines ,,DL,20.26
+0.0,,,,,

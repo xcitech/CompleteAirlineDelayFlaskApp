@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,1014,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_DFW.js""
+    id=""1fb51694-2e95-4c34-8398-4b7d02c1c0cf""
+    data-bokeh-model-id=""fe8a377f-e101-42f0-b8ef-ef8a7d567e22""
+    data-bokeh-doc-id=""cbae7040-fb24-40bb-add6-293d7ace80b0""
+></script>",TAG,
+14.38,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+16.92,,,,PERCENT_DELAYED,
+15.26,,,,POS_ARR_DELAY,
+15.26,16.92,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

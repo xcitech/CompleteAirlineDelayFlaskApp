@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,2358,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_DAL.js""
+    id=""910462f4-33e4-476b-ae95-3fc2959fc8c8""
+    data-bokeh-model-id=""28a32388-644a-4c2b-b10f-c16bd05ccb95""
+    data-bokeh-doc-id=""d92084c5-42a5-47b7-98bb-9c2a086978b0""
+></script>",TAG,
+12.05,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+19.76,,,,PERCENT_DELAYED,
+11.11,,,,POS_ARR_DELAY,
+11.11,19.76,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

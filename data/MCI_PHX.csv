@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Kansas City,ORIGIN_CITY,,
+,,Kansas City Intl,ORIGIN_NAME,,
+,,Phoenix,DEST-CITY,,
+,,Phoenix Sky Harbor Intl,DEST_NAME,,
+,,1677,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MCI_PHX.js""
+    id=""9ce6772a-dae2-4c14-a851-43d039078ae6""
+    data-bokeh-model-id=""5d1790dd-82dc-439f-96a2-74ee9ee312ea""
+    data-bokeh-doc-id=""77de915e-cc06-47f0-90fc-8b23484d998c""
+></script>",TAG,,
+8.49,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+14.35,,,PERCENT_DELAYED,,
+8.67,,,POS_ARR_DELAY,,
+10.59,38.24,,OO,0.53,SkyWest Airlines 
+10.14,17.27,,WN,51.11,Southwest Airlines 
+9.86,13.0,,AA,18.61,American Airlines 
+5.47,9.97,,US,29.15,US Airways 
+0.45,0.0,,YV,0.6,Mesa Airlines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,3413,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_LAX.js""
+    id=""8c4aaf01-0357-4dd0-91aa-4bd0c5eab31a""
+    data-bokeh-model-id=""88803056-7b13-432e-a18a-15b4357855c4""
+    data-bokeh-doc-id=""9afb5377-1216-48d8-82aa-8628f6485f74""
+></script>",TAG,
+10.5,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+24.33,,,,PERCENT_DELAYED,
+12.17,,,,POS_ARR_DELAY,
+11.93,24.63,US Airways ,,US,60.49
+12.53,23.87,American Airlines ,,AA,39.51
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Houston,ORIGIN_CITY,,
+,,George Bush Intercontinental,ORIGIN_NAME,,
+,,Philadelphia,DEST-CITY,,
+,,Philadelphia Intl,DEST_NAME,,
+,,2130,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/IAH_PHL.js""
+    id=""6de1d201-de84-427f-b05c-ed2bdd520384""
+    data-bokeh-model-id=""68ebe7c5-09f1-4162-9fa6-6a263d8fb02a""
+    data-bokeh-doc-id=""a6842c49-b8fc-465e-94d9-cbcec496691c""
+></script>",TAG,,
+15.15,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+21.6,,,PERCENT_DELAYED,,
+14.51,,,POS_ARR_DELAY,,
+35.53,46.67,,OO,0.23,SkyWest Airlines 
+22.55,32.93,,F9,3.85,Frontier Airlines 
+16.67,22.91,,UA,51.78,United Air Lines 
+10.98,19.08,,AA,11.24,American Airlines 
+11.21,18.9,,US,32.89,US Airways 

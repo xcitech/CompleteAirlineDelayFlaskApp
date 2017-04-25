@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,1386,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_LAX.js""
+    id=""3725a871-200f-4742-8899-add6aac5236d""
+    data-bokeh-model-id=""eec3527f-9adf-4f56-bd2c-906f73b535c2""
+    data-bokeh-doc-id=""688b552c-fd84-4a15-94ed-480e52280fc0""
+></script>",TAG,,
+15.57,,,DEP_DELAY,,
+19.0,,,AVG_FLIGHTS,,
+25.29,,,PERCENT_DELAYED,,
+15.27,,,POS_ARR_DELAY,,
+20.92,29.87,,NK,3.06,Spirit Air Lines
+14.91,27.32,,WN,33.63,Southwest Airlines 
+15.9,26.14,,MQ,6.35,Envoy Air
+15.91,25.17,,F9,15.78,Frontier Airlines 
+14.74,23.26,,UA,39.58,United Air Lines 

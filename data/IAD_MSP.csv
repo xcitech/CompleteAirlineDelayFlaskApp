@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Washington,ORIGIN_CITY,,
+,,Washington Dulles Intl,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,1459,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/IAD_MSP.js""
+    id=""b93bce1d-799f-4561-acda-2dcc9240518e""
+    data-bokeh-model-id=""92296ba8-48f8-48f2-83f5-a372fd2289e7""
+    data-bokeh-doc-id=""51d10e47-fd24-4e40-be7a-27150ccca57d""
+></script>",TAG,,
+13.82,,,DEP_DELAY,,
+2.0,,,AVG_FLIGHTS,,
+16.35,,,PERCENT_DELAYED,,
+14.33,,,POS_ARR_DELAY,,
+22.29,23.04,,OO,20.47,SkyWest Airlines 
+13.88,20.59,,F9,10.93,Frontier Airlines 
+15.81,18.41,,EV,31.73,ExpressJet Airlines 
+15.19,16.67,,9E,1.93,Endeavor Air 
+8.46,9.27,,DL,34.67,Delta Air Lines 

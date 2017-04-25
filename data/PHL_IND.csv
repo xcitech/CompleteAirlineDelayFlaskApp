@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,944,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_IND.js""
+    id=""f92cb91a-6a7a-453b-af21-75eb246e0acb""
+    data-bokeh-model-id=""64ebcba8-ea3f-4f4f-b814-699414a42d29""
+    data-bokeh-doc-id=""c7d80f4c-abac-460f-b61b-64c8e9bca3ea""
+></script>",TAG,
+12.63,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+22.18,,,,PERCENT_DELAYED,
+14.91,,,,POS_ARR_DELAY,
+18.0,28.18,US Airways ,,US,48.2
+24.57,25.0,Frontier Airlines ,,F9,4.91
+10.74,15.73,American Airlines ,,AA,46.81
+0.0,0.0,Mesa Airlines ,,YV,0.08
+0.0,,,,,

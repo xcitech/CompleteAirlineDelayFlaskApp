@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Miami,ORIGIN_CITY,
+,,,Miami Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,1635,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MIA_PIT.js""
+    id=""8ea1f5cf-cba0-422a-9036-955e2fd59208""
+    data-bokeh-model-id=""9ccb5667-1cbf-419c-97cd-9cc540c61057""
+    data-bokeh-doc-id=""34f93e6b-36f3-4562-990f-e52f2044868d""
+></script>",TAG,
+5.9,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.49,,,,PERCENT_DELAYED,
+8.23,,,,POS_ARR_DELAY,
+8.23,16.49,Envoy Air,,MQ,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,594,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_BOS.js""
+    id=""75202d5f-4520-425d-b486-3a07c0c20ae0""
+    data-bokeh-model-id=""58e5f0d5-087e-4130-ba95-19871355d8fa""
+    data-bokeh-doc-id=""390cd6be-fca6-44a6-9071-8eddc5ef45dc""
+></script>",TAG,
+13.71,,,,DEP_DELAY,
+14.0,,,,AVG_FLIGHTS,
+21.63,,,,PERCENT_DELAYED,
+13.68,,,,POS_ARR_DELAY,
+29.71,31.78,Spirit Air Lines,,NK,1.74
+15.69,26.17,Southwest Airlines ,,WN,58.5
+10.55,17.67,AirTran Airways Corporation,,FL,4.15
+9.96,14.12,JetBlue Airways,,B6,35.61
+0.0,,,,,

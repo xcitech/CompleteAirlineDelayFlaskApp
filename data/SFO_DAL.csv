@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,2371,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_DAL.js""
+    id=""fa580097-00e7-43fd-b470-592b3723ec59""
+    data-bokeh-model-id=""0707f94f-9c69-4a3c-bd1e-1b7dd7239592""
+    data-bokeh-doc-id=""cb73b489-c7a8-4fe8-8e9c-0e119618641e""
+></script>",TAG,
+12.69,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+22.81,,,,PERCENT_DELAYED,
+14.15,,,,POS_ARR_DELAY,
+15.62,24.95,Virgin America,,VX,76.76
+9.3,15.75,Southwest Airlines ,,WN,23.24
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

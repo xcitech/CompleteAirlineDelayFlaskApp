@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Atlanta,ORIGIN_CITY,,
+,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,,
+,,Milwaukee,DEST-CITY,,
+,,General Mitchell Intl,DEST_NAME,,
+,,1079,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ATL_MKE.js""
+    id=""75f488e0-be58-48d0-a2d9-5e7d5ec3e27b""
+    data-bokeh-model-id=""062fac82-a819-4cf0-b504-bdc26b7cf012""
+    data-bokeh-doc-id=""470fb316-f453-4589-9f95-a97689658bf5""
+></script>",TAG,,
+9.77,,,DEP_DELAY,,
+10.0,,,AVG_FLIGHTS,,
+14.96,,,PERCENT_DELAYED,,
+8.62,,,POS_ARR_DELAY,,
+9.0,25.0,,EV,0.04,ExpressJet Airlines 
+11.63,19.56,,WN,16.31,Southwest Airlines 
+8.19,16.18,,FL,15.79,AirTran Airways Corporation
+12.91,13.75,,F9,0.75,Frontier Airlines 
+7.94,13.57,,DL,67.12,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Baltimore,ORIGIN_CITY,,
+,,Baltimore Washington Intl,ORIGIN_NAME,,
+,,Chicago,DEST-CITY,,
+,,Chicago Ohare Intl,DEST_NAME,,
+,,998,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/BWI_ORD.js""
+    id=""b50990c0-4c92-43e5-9b35-c521aaa48513""
+    data-bokeh-model-id=""029ddb09-b10f-4a2d-8ee6-a75a68a5752e""
+    data-bokeh-doc-id=""82c15a60-4e32-4824-a3a4-53611c8720dc""
+></script>",TAG,,
+15.6,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+24.31,,,PERCENT_DELAYED,,
+18.23,,,POS_ARR_DELAY,,
+22.64,34.65,,NK,15.46,Spirit Air Lines
+20.55,29.9,,EV,5.9,ExpressJet Airlines 
+24.45,29.08,,MQ,31.49,Envoy Air
+12.27,17.15,,UA,46.75,United Air Lines 
+21.5,3.85,,AA,0.4,American Airlines 

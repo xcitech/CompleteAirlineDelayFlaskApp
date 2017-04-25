@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,1757,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_IAH.js""
+    id=""29a5d323-a1ad-4c58-880d-c03bdd84381f""
+    data-bokeh-model-id=""7d817c43-d423-4d09-a2b9-857f00da6c6c""
+    data-bokeh-doc-id=""051bc973-8e7a-4686-8aef-1f78f16e5280""
+></script>",TAG,
+8.19,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+16.38,,,,PERCENT_DELAYED,
+10.09,,,,POS_ARR_DELAY,
+14.98,24.51,SkyWest Airlines ,,OO,20.07
+9.83,17.1,ExpressJet Airlines ,,EV,27.41
+8.36,12.9,United Air Lines ,,UA,52.52
+0.0,,,,,
+0.0,,,,,

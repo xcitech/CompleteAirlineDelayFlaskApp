@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,329,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_PIT.js""
+    id=""7fb5f30d-c17f-45fb-91b4-b40320bd3c2e""
+    data-bokeh-model-id=""4e2f8b73-72ce-43b8-9e62-4110083a8578""
+    data-bokeh-doc-id=""9859f88f-8366-44b4-b6c1-0994defdf5f5""
+></script>",TAG,
+27.75,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+50.0,,,,PERCENT_DELAYED,
+29.5,,,,POS_ARR_DELAY,
+87.0,100.0,US Airways ,,US,25.0
+15.5,50.0,American Airlines ,,AA,50.0
+0.0,0.0,Envoy Air,,MQ,25.0
+0.0,,,,,
+0.0,,,,,

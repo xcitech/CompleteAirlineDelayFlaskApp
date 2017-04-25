@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,1607,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_MSY.js""
+    id=""fde199e4-2ee7-4d6f-825c-eece2aa67910""
+    data-bokeh-model-id=""7d32e7d5-7811-47a6-a29c-c97068394a5f""
+    data-bokeh-doc-id=""ede2a7dc-4268-4de8-8133-fc5955559f41""
+></script>",TAG,
+14.83,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+23.45,,,,PERCENT_DELAYED,
+13.12,,,,POS_ARR_DELAY,
+13.13,23.46,Southwest Airlines ,,WN,99.96
+0.0,0.0,AirTran Airways Corporation,,FL,0.04
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

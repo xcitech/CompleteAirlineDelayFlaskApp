@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,1734,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_TPA.js""
+    id=""79cebbdc-d934-426b-ba21-ec3d4e0665fb""
+    data-bokeh-model-id=""8faf9a58-99a5-4dfd-90cc-ac72bf12a83d""
+    data-bokeh-doc-id=""787ead01-a694-4190-a9aa-aefa97e8facd""
+></script>",TAG,
+13.22,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+19.54,,,,PERCENT_DELAYED,
+12.89,,,,POS_ARR_DELAY,
+12.91,19.56,Southwest Airlines ,,WN,99.9
+0.0,0.0,AirTran Airways Corporation,,FL,0.1
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

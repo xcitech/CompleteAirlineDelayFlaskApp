@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,2263,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_BWI.js""
+    id=""936fe4ac-c57c-4bcc-8e23-c01f77f4f655""
+    data-bokeh-model-id=""159ce505-6343-4fdd-9591-220b0a3488da""
+    data-bokeh-doc-id=""acb784fd-e5fd-4135-85dc-71fd08ff91b9""
+></script>",TAG,
+12.13,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+17.61,,,,PERCENT_DELAYED,
+10.52,,,,POS_ARR_DELAY,
+10.52,17.61,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

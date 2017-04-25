@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Denver,ORIGIN_CITY,
+,,,Denver Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,2817,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DEN_BOS.js""
+    id=""c20cbd9c-4444-4fd5-84b9-b1f506b49a2e""
+    data-bokeh-model-id=""326e27ec-f882-43f4-8cbd-f2310816ffd1""
+    data-bokeh-doc-id=""f2a1b1d7-0057-432e-9c34-9a73d73ab9c7""
+></script>",TAG,
+16.2,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+24.76,,,,PERCENT_DELAYED,
+15.29,,,,POS_ARR_DELAY,
+17.7,28.69,Southwest Airlines ,,WN,28.34
+16.82,28.64,JetBlue Airways,,B6,26.29
+12.9,20.05,United Air Lines ,,UA,45.37
+0.0,,,,,
+0.0,,,,,

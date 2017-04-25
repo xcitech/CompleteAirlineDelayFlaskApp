@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,1750,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_SLC.js""
+    id=""96032714-e5d8-435e-8b5b-e70339706a9f""
+    data-bokeh-model-id=""ca81ed62-6368-4b60-8cbc-f2758edef6f6""
+    data-bokeh-doc-id=""bbe75a86-bce4-49cc-bb39-f1eefc6f7179""
+></script>",TAG,
+4.46,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+5.67,,,,PERCENT_DELAYED,
+3.98,,,,POS_ARR_DELAY,
+4.7,7.68,SkyWest Airlines ,,OO,55.53
+3.07,3.16,Delta Air Lines ,,DL,44.47
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,498,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_CLE.js""
+    id=""0eb4ceef-d252-4bfc-b2fe-ca93fdf18c3f""
+    data-bokeh-model-id=""c0cac15b-80d7-4982-928b-e1dcb077a943""
+    data-bokeh-doc-id=""cefa2d9e-810f-4fa7-92df-5696fa84120c""
+></script>",TAG,
+10.48,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+13.85,,,,PERCENT_DELAYED,
+11.1,,,,POS_ARR_DELAY,
+13.35,15.38,SkyWest Airlines ,,OO,1.73
+11.06,13.83,ExpressJet Airlines ,,EV,98.22
+0.0,0.0,United Air Lines ,,UA,0.05
+0.0,,,,,
+0.0,,,,,

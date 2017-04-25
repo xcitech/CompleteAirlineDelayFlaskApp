@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,1224,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_IND.js""
+    id=""9ed14495-7c39-49f6-afe7-22e290dc84a6""
+    data-bokeh-model-id=""073223fd-f58f-4ef7-b311-e9150ddcf69f""
+    data-bokeh-doc-id=""ae406800-0c5b-4179-a760-fa0fc778fdcf""
+></script>",TAG,
+14.7,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+22.93,,,,PERCENT_DELAYED,
+14.1,,,,POS_ARR_DELAY,
+14.1,22.93,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

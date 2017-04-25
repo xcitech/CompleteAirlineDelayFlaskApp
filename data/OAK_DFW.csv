@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,2340,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_DFW.js""
+    id=""6eafbe26-fb3f-4d48-87b0-3a708562feb1""
+    data-bokeh-model-id=""4ebaacbf-edff-4c0d-b815-a903b20f31f3""
+    data-bokeh-doc-id=""1f2f0529-b3b5-458b-96a7-9c6240e066cb""
+></script>",TAG,
+20.85,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+31.05,,,,PERCENT_DELAYED,
+21.87,,,,POS_ARR_DELAY,
+21.87,31.05,Spirit Air Lines,,NK,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

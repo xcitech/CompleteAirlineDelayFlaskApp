@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,New York,ORIGIN_CITY,,
+,,John F Kennedy Intl,ORIGIN_NAME,,
+,,Raleigh-durham,DEST-CITY,,
+,,Raleigh Durham Intl,DEST_NAME,,
+,,687,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/JFK_RDU.js""
+    id=""7e652d5c-0a6a-4603-8b04-843d155f8f4b""
+    data-bokeh-model-id=""1096b0d7-ef4b-4150-9b2c-52648db45a73""
+    data-bokeh-doc-id=""f21bce8d-c121-4a8e-8b02-910fbea087b6""
+></script>",TAG,,
+14.65,,,DEP_DELAY,,
+5.0,,,AVG_FLIGHTS,,
+23.27,,,PERCENT_DELAYED,,
+16.41,,,POS_ARR_DELAY,,
+21.0,100.0,,EV,0.04,ExpressJet Airlines 
+51.5,35.56,,DL,4.1,Delta Air Lines 
+14.46,24.91,,MQ,47.88,Envoy Air
+16.69,20.9,,9E,4.45,Endeavor Air 
+15.23,20.49,,B6,43.53,JetBlue Airways

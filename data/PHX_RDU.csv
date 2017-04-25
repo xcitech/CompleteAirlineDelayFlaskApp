@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,3037,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_RDU.js""
+    id=""a0d348fd-43a3-4954-bb22-b951ec7b37fb""
+    data-bokeh-model-id=""6567d89c-3d18-400b-9be4-b11d4514eea2""
+    data-bokeh-doc-id=""dfb5049c-a423-492b-9b5c-052606204ef3""
+></script>",TAG,
+13.53,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+23.27,,,,PERCENT_DELAYED,
+11.54,,,,POS_ARR_DELAY,
+11.54,23.27,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

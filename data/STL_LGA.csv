@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,St. Louis,ORIGIN_CITY,,
+,,Lambert St Louis Intl,ORIGIN_NAME,,
+,,New York,DEST-CITY,,
+,,La Guardia,DEST_NAME,,
+,,1426,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/STL_LGA.js""
+    id=""31ba0291-3c4f-4cf5-9db9-e6dc7989bac4""
+    data-bokeh-model-id=""cbcaefc4-97c0-4718-8d05-ebf42c038b4b""
+    data-bokeh-doc-id=""63635a3e-a81c-4591-8627-9697e4e5f3a2""
+></script>",TAG,,
+17.15,,,DEP_DELAY,,
+5.0,,,AVG_FLIGHTS,,
+27.77,,,PERCENT_DELAYED,,
+17.37,,,POS_ARR_DELAY,,
+31.61,33.88,,EV,2.25,ExpressJet Airlines 
+20.61,31.2,,MQ,41.2,Envoy Air
+15.21,26.32,,WN,52.31,Southwest Airlines 
+5.07,9.25,,AA,4.22,American Airlines 
+0.0,0.0,,DL,0.02,Delta Air Lines 

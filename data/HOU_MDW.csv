@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,1510,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_MDW.js""
+    id=""0adac54a-eae4-400c-81ee-7292ed0f052c""
+    data-bokeh-model-id=""64abf8ed-194c-4685-baff-8eafb2c9fc8b""
+    data-bokeh-doc-id=""37c817d6-679f-462d-9cef-10cc717f841a""
+></script>",TAG,
+13.28,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+20.46,,,,PERCENT_DELAYED,
+11.58,,,,POS_ARR_DELAY,
+11.58,20.46,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

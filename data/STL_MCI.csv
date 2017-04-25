@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,380,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_MCI.js""
+    id=""2dca8e33-4c37-4d32-b18d-256e156068d5""
+    data-bokeh-model-id=""03c4768e-1a5b-4ec8-86c4-b76a6bf8b222""
+    data-bokeh-doc-id=""0e4bd7db-65b0-4df3-afd6-ca2c40e0c10d""
+></script>",TAG,
+13.04,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+21.03,,,,PERCENT_DELAYED,
+12.07,,,,POS_ARR_DELAY,
+12.07,21.03,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

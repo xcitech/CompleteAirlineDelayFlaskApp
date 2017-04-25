@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,New York,ORIGIN_CITY,,
+,,La Guardia,ORIGIN_NAME,,
+,,Dallas-Fort Worth,DEST-CITY,,
+,,Dallas Fort Worth Intl,DEST_NAME,,
+,,2232,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LGA_DFW.js""
+    id=""117088bf-798b-4c30-8b07-c29c098428a8""
+    data-bokeh-model-id=""ca7603c2-97c2-4089-a35a-562021fa28ed""
+    data-bokeh-doc-id=""b30a40e0-f941-4346-ac92-197b51ca085c""
+></script>",TAG,,
+10.63,,,DEP_DELAY,,
+13.0,,,AVG_FLIGHTS,,
+19.32,,,PERCENT_DELAYED,,
+12.35,,,POS_ARR_DELAY,,
+18.03,28.94,,NK,4.19,Spirit Air Lines
+12.05,18.94,,AA,94.99,American Airlines 
+20.22,15.31,,DL,0.71,Delta Air Lines 
+2.92,7.69,,9E,0.09,Endeavor Air 
+0.0,0.0,,EV,0.01,ExpressJet Airlines 

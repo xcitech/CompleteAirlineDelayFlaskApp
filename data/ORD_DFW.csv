@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Dallas-Fort Worth,DEST-CITY,,
+,,Dallas Fort Worth Intl,DEST_NAME,,
+,,1291,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_DFW.js""
+    id=""51c0b79d-1a8e-4981-a8b2-cbe517a71f71""
+    data-bokeh-model-id=""594dc7da-bcd1-4c9f-994b-60f61a6223db""
+    data-bokeh-doc-id=""fc736b34-2790-4a6c-9e4e-f80d6ecc33ec""
+></script>",TAG,,
+18.18,,,DEP_DELAY,,
+20.0,,,AVG_FLIGHTS,,
+26.58,,,PERCENT_DELAYED,,
+18.18,,,POS_ARR_DELAY,,
+26.55,38.36,,NK,5.2,Spirit Air Lines
+22.37,36.29,,OO,9.35,SkyWest Airlines 
+16.67,25.54,,UA,9.39,United Air Lines 
+17.3,24.72,,AA,75.67,American Airlines 
+12.31,22.09,,YV,0.39,Mesa Airlines 

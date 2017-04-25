@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,3229,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_IAH.js""
+    id=""7641f13d-6d88-471a-9dcf-0ff4e4b5a08e""
+    data-bokeh-model-id=""8b719228-b67f-4fb5-8427-7599337bbd85""
+    data-bokeh-doc-id=""77ca2e38-70a1-47e8-8ae8-194154f0927c""
+></script>",TAG,
+13.77,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.8,,,,PERCENT_DELAYED,
+10.18,,,,POS_ARR_DELAY,
+10.18,16.8,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

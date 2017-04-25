@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,2628,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_IAH.js""
+    id=""45b1c3ea-a1e9-4d1b-b263-6a00c643f9fb""
+    data-bokeh-model-id=""0637f818-c493-4908-974b-934f872c8ee6""
+    data-bokeh-doc-id=""6f2af042-6e72-44aa-8060-ef3805e2e7a4""
+></script>",TAG,
+14.74,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+21.13,,,,PERCENT_DELAYED,
+13.21,,,,POS_ARR_DELAY,
+23.39,27.1,Frontier Airlines ,,F9,5.2
+12.65,20.81,United Air Lines ,,UA,94.8
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

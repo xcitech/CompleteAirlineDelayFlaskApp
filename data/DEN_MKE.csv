@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Denver,ORIGIN_CITY,
+,,,Denver Intl,ORIGIN_NAME,
+,,,Milwaukee,DEST-CITY,
+,,,General Mitchell Intl,DEST_NAME,
+,,,1438,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DEN_MKE.js""
+    id=""a9f5ce0d-6660-4f88-8ed2-fc74e8a2c0ef""
+    data-bokeh-model-id=""f1302b81-4cfa-4673-8f46-9706274991d9""
+    data-bokeh-doc-id=""1cb895fc-cdf8-41e7-8744-14b15fb226ab""
+></script>",TAG,
+14.29,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+24.86,,,,PERCENT_DELAYED,
+15.08,,,,POS_ARR_DELAY,
+17.58,28.81,Frontier Airlines ,,F9,29.41
+14.14,25.2,Southwest Airlines ,,WN,34.72
+13.95,21.29,SkyWest Airlines ,,OO,35.87
+0.0,,,,,
+0.0,,,,,

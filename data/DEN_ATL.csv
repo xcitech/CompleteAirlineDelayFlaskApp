@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,1927,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_ATL.js""
+    id=""6f2f7989-bc7b-4ae1-a76e-f42c0b5af456""
+    data-bokeh-model-id=""d0b97ff7-3735-47cf-bb98-4396c85b8f34""
+    data-bokeh-doc-id=""82d17bbb-05b4-455a-89e6-9c76bfea8dec""
+></script>",TAG,,
+12.29,,,DEP_DELAY,,
+15.0,,,AVG_FLIGHTS,,
+19.34,,,PERCENT_DELAYED,,
+12.41,,,POS_ARR_DELAY,,
+19.48,31.43,,OO,5.93,SkyWest Airlines 
+14.58,25.78,,F9,13.3,Frontier Airlines 
+12.81,23.28,,WN,20.49,Southwest Airlines 
+10.0,15.69,,UA,6.71,United Air Lines 
+11.42,15.26,,DL,48.65,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,1201,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_BNA.js""
+    id=""df8eff6c-e208-4772-b40f-748591dacbd2""
+    data-bokeh-model-id=""8caf1e69-b294-4bc9-b036-498cea6df8ae""
+    data-bokeh-doc-id=""8023cd7c-f909-4f1c-a1f9-e93aab77a0f1""
+></script>",TAG,
+15.84,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+23.45,,,,PERCENT_DELAYED,
+16.07,,,,POS_ARR_DELAY,
+30.26,31.52,United Air Lines ,,UA,2.76
+17.4,26.35,ExpressJet Airlines ,,EV,69.22
+11.38,15.48,Southwest Airlines ,,WN,28.02
+0.0,,,,,
+0.0,,,,,

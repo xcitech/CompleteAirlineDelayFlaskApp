@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Indianapolis,ORIGIN_CITY,,
+,,Indianapolis Intl,ORIGIN_NAME,,
+,,Denver,DEST-CITY,,
+,,Denver Intl,DEST_NAME,,
+,,1568,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/IND_DEN.js""
+    id=""48d11b2c-ec74-47f2-b9a4-30a961307ca7""
+    data-bokeh-model-id=""d26336b2-820d-480c-8b63-2f7377b63f31""
+    data-bokeh-doc-id=""25287245-b593-4e19-84b9-8c2c3e509b95""
+></script>",TAG,,
+12.9,,,DEP_DELAY,,
+6.0,,,AVG_FLIGHTS,,
+20.38,,,PERCENT_DELAYED,,
+13.12,,,POS_ARR_DELAY,,
+16.0,26.9,,OO,4.59,SkyWest Airlines 
+16.35,23.69,,F9,29.31,Frontier Airlines 
+13.97,21.2,,EV,6.04,ExpressJet Airlines 
+11.92,20.02,,WN,49.87,Southwest Airlines 
+7.9,9.16,,UA,10.19,United Air Lines 

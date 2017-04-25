@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,519,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_CMH.js""
+    id=""b82edddc-0c7d-458b-8409-7255b076abdb""
+    data-bokeh-model-id=""3a45c7e2-4283-41ab-b96b-e20af43c5bfa""
+    data-bokeh-doc-id=""d8487133-dd24-4298-8643-58acd13f5b6e""
+></script>",TAG,
+15.71,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+18.54,,,,PERCENT_DELAYED,
+13.49,,,,POS_ARR_DELAY,
+13.49,18.54,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

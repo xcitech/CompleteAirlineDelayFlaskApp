@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Atlanta,DEST-CITY,
+,,,Hartsfield Jackson Atlanta Intl,DEST_NAME,
+,,,3039,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_ATL.js""
+    id=""e29d2fe8-c5c2-4149-b2bc-82dbeed5fc7a""
+    data-bokeh-model-id=""68901165-50b8-4f4a-b809-6a3592b325c8""
+    data-bokeh-doc-id=""462386ce-cbd3-4744-95e8-e298c68568d6""
+></script>",TAG,
+5.33,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+8.6,,,,PERCENT_DELAYED,
+5.12,,,,POS_ARR_DELAY,
+8.27,17.19,Southwest Airlines ,,WN,19.08
+4.38,6.58,Delta Air Lines ,,DL,80.92
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,2510,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_BOS.js""
+    id=""1e3d225a-765d-44d1-94e7-4790b15e8e27""
+    data-bokeh-model-id=""882ea2f5-3644-4650-953f-f2d59c0958fd""
+    data-bokeh-doc-id=""6b1a1e50-2216-4672-9ce8-d2e726869699""
+></script>",TAG,
+13.52,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+20.9,,,,PERCENT_DELAYED,
+13.29,,,,POS_ARR_DELAY,
+13.66,21.54,American Airlines ,,AA,74.6
+13.46,19.77,Spirit Air Lines,,NK,3.4
+12.01,18.93,JetBlue Airways,,B6,21.99
+0.0,,,,,
+0.0,,,,,

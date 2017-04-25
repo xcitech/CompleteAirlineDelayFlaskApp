@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Sacramento,ORIGIN_CITY,
+,,,Sacramento Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,1040,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SMF_PHX.js""
+    id=""64a3cdff-a1c1-47f1-9a33-3ad968b1c45c""
+    data-bokeh-model-id=""df01e455-d910-4b78-bbd6-6e0247527f21""
+    data-bokeh-doc-id=""db257d81-f3fe-47f9-8036-5f02e7d7a78d""
+></script>",TAG,
+8.78,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+14.67,,,,PERCENT_DELAYED,
+8.1,,,,POS_ARR_DELAY,
+9.03,17.28,Southwest Airlines ,,WN,49.23
+7.93,12.25,American Airlines ,,AA,20.35
+6.7,12.05,US Airways ,,US,30.42
+0.0,,,,,
+0.0,,,,,

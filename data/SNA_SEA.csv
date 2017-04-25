@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,1577,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_SEA.js""
+    id=""0f8b2190-5add-413f-8dfa-a4c26058579b""
+    data-bokeh-model-id=""c7c1b83e-9d31-4fcb-82c3-2ec7f537db8e""
+    data-bokeh-doc-id=""06ea19c1-d232-48eb-83d2-c09ca0e919a5""
+></script>",TAG,
+4.46,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+9.42,,,,PERCENT_DELAYED,
+5.49,,,,POS_ARR_DELAY,
+36.2,40.0,SkyWest Airlines ,,OO,0.06
+8.03,15.4,Southwest Airlines ,,WN,11.61
+5.14,8.62,Alaska Airlines ,,AS,88.33
+0.0,,,,,
+0.0,,,,,

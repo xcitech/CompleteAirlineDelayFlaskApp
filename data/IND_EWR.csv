@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,1035,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_EWR.js""
+    id=""4ae5c8f0-5f94-4082-8ed0-c1b4e02cd6fe""
+    data-bokeh-model-id=""2660cbe3-79d5-4c61-957b-063f018c6267""
+    data-bokeh-doc-id=""0a0f8017-b7c1-4f62-95f6-8a2389d2e1f1""
+></script>",TAG,
+22.13,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+28.24,,,,PERCENT_DELAYED,
+22.55,,,,POS_ARR_DELAY,
+22.64,28.37,ExpressJet Airlines ,,EV,99.36
+7.36,8.0,United Air Lines ,,UA,0.64
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

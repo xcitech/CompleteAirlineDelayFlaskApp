@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,927,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_IAD.js""
+    id=""3adbe206-4fe1-4400-88ad-208e7db99217""
+    data-bokeh-model-id=""95055c18-344b-4cee-ab06-201c285bd53f""
+    data-bokeh-doc-id=""293ee4b9-df27-4766-b562-5c3d19d07097""
+></script>",TAG,
+15.81,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+24.29,,,,PERCENT_DELAYED,
+14.45,,,,POS_ARR_DELAY,
+14.45,24.29,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

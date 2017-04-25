@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,1673,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_MCO.js""
+    id=""51306388-e094-4255-a464-8e23c5ce1f08""
+    data-bokeh-model-id=""f05ce275-8197-4cd2-86b9-1226fc4d4b76""
+    data-bokeh-doc-id=""8d91d6d3-39ed-495b-8d99-0ce5c5554f6b""
+></script>",TAG,
+12.09,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+19.48,,,,PERCENT_DELAYED,
+10.99,,,,POS_ARR_DELAY,
+10.8,19.5,Southwest Airlines ,,WN,98.65
+24.45,18.18,ExpressJet Airlines ,,EV,1.35
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

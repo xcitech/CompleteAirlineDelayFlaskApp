@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,San Antonio,DEST-CITY,
+,,,San Antonio Intl,DEST_NAME,
+,,,306,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_SAT.js""
+    id=""aabdf924-ba05-4697-a6f0-984a1211f923""
+    data-bokeh-model-id=""2bb39e71-844e-4dfc-a4d8-f01fd69ac903""
+    data-bokeh-doc-id=""05da1171-2e7a-4d7f-a823-cd825f42a360""
+></script>",TAG,
+14.1,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+22.31,,,,PERCENT_DELAYED,
+13.67,,,,POS_ARR_DELAY,
+16.92,27.75,SkyWest Airlines ,,OO,26.98
+13.11,21.16,United Air Lines ,,UA,55.07
+10.52,17.65,ExpressJet Airlines ,,EV,17.96
+0.0,,,,,
+0.0,,,,,

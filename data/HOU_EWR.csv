@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,William P Hobby,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,2270,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HOU_EWR.js""
+    id=""0090a3dd-46f1-4228-b730-468589b8d86c""
+    data-bokeh-model-id=""9922724f-fdf0-47bd-995d-d47b29974fe9""
+    data-bokeh-doc-id=""d589fe36-e1f8-42e3-8482-c2d0e2a9bc74""
+></script>",TAG,
+23.32,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+28.08,,,,PERCENT_DELAYED,
+19.79,,,,POS_ARR_DELAY,
+19.79,28.08,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

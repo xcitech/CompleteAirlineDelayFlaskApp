@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Charlotte,ORIGIN_CITY,,
+,,Charlotte Douglas Intl,ORIGIN_NAME,,
+,,Detroit,DEST-CITY,,
+,,Detroit Metro Wayne Co,DEST_NAME,,
+,,806,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/CLT_DTW.js""
+    id=""bec95219-60fe-4aec-9e30-814d202d9fa3""
+    data-bokeh-model-id=""dea5abd5-f2e1-4c35-9ab2-9eadc9234495""
+    data-bokeh-doc-id=""e110827b-18c8-4d74-9ced-125cb4e10548""
+></script>",TAG,,
+8.01,,,DEP_DELAY,,
+9.0,,,AVG_FLIGHTS,,
+13.97,,,PERCENT_DELAYED,,
+8.15,,,POS_ARR_DELAY,,
+13.38,17.34,,EV,7.81,ExpressJet Airlines 
+8.73,15.44,,AA,21.12,American Airlines 
+7.82,14.85,,US,35.68,US Airways 
+8.03,13.16,,9E,0.38,Endeavor Air 
+6.96,11.37,,DL,34.52,Delta Air Lines 

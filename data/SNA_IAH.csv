@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,2163,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_IAH.js""
+    id=""eb4fbedc-476b-4fb6-8e3b-f06a4754e578""
+    data-bokeh-model-id=""2f9e6df1-9184-46b9-bb17-77222133105d""
+    data-bokeh-doc-id=""acc77a20-e3e9-4161-a136-2bc03da53f00""
+></script>",TAG,
+10.25,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+11.36,,,,PERCENT_DELAYED,
+8.46,,,,POS_ARR_DELAY,
+8.46,11.36,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

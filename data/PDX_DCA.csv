@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,3774,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_DCA.js""
+    id=""a22919ee-2b87-4be0-90e0-3fe4866bde79""
+    data-bokeh-model-id=""50d8db43-d95a-424e-8ad3-e18ba3ef6577""
+    data-bokeh-doc-id=""91231ffe-f199-4563-a500-ab0f0d3b4503""
+></script>",TAG,
+4.61,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+10.66,,,,PERCENT_DELAYED,
+6.22,,,,POS_ARR_DELAY,
+6.22,10.66,Alaska Airlines ,,AS,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

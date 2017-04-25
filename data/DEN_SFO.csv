@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,San Francisco,DEST-CITY,,
+,,San Francisco Intl,DEST_NAME,,
+,,1553,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_SFO.js""
+    id=""396e517a-1e20-493c-a78a-b79855870d1d""
+    data-bokeh-model-id=""c45468a3-52b6-4e0b-80f2-1c983b03dbc2""
+    data-bokeh-doc-id=""e5281fcb-1af3-49b2-a172-2e578b62033a""
+></script>",TAG,,
+19.45,,,DEP_DELAY,,
+18.0,,,AVG_FLIGHTS,,
+28.71,,,PERCENT_DELAYED,,
+18.5,,,POS_ARR_DELAY,,
+16.71,35.71,,OO,0.07,SkyWest Airlines 
+23.03,35.52,,F9,19.41,Frontier Airlines 
+19.17,33.02,,WN,20.5,Southwest Airlines 
+17.11,25.36,,UA,57.54,United Air Lines 
+9.42,17.34,,VX,2.45,Virgin America

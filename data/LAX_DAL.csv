@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,2002,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_DAL.js""
+    id=""b0e2076b-5391-4067-95d7-9ad4adca712e""
+    data-bokeh-model-id=""ccc943dd-7a94-48a4-a0d9-e9b264d4e7db""
+    data-bokeh-doc-id=""dc41ba81-f5d1-42e9-8d7f-c5af573476b4""
+></script>",TAG,
+13.21,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+23.76,,,,PERCENT_DELAYED,
+12.93,,,,POS_ARR_DELAY,
+16.26,31.02,Southwest Airlines ,,WN,54.35
+8.97,15.12,Virgin America,,VX,45.65
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

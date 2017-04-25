@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,2320,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_PHX.js""
+    id=""ece67557-060e-4733-b47a-21a4c27135e4""
+    data-bokeh-model-id=""8e8767ef-b146-4fa9-b98f-50b0d8faaa2a""
+    data-bokeh-doc-id=""646b56ba-d732-4a70-ac5a-11982f01135a""
+></script>",TAG,
+14.38,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+23.74,,,,PERCENT_DELAYED,
+12.87,,,,POS_ARR_DELAY,
+12.87,23.74,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

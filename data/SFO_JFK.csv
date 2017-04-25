@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,San Francisco,ORIGIN_CITY,,
+,,San Francisco Intl,ORIGIN_NAME,,
+,,New York,DEST-CITY,,
+,,John F Kennedy Intl,DEST_NAME,,
+,,4153,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SFO_JFK.js""
+    id=""f484e799-6e71-4742-8350-8aa8fd44de3b""
+    data-bokeh-model-id=""3bcbdd5b-fe21-4d18-b20a-78a25a915493""
+    data-bokeh-doc-id=""0306f429-3144-4740-a665-243c8f336d8a""
+></script>",TAG,,
+13.76,,,DEP_DELAY,,
+24.0,,,AVG_FLIGHTS,,
+19.93,,,PERCENT_DELAYED,,
+13.83,,,POS_ARR_DELAY,,
+15.49,25.39,,B6,17.17,JetBlue Airways
+17.66,21.58,,AA,18.91,American Airlines 
+15.52,21.39,,UA,20.58,United Air Lines 
+12.74,19.7,,VX,17.99,Virgin America
+9.27,13.97,,DL,25.35,Delta Air Lines 

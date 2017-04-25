@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Minneapolis,ORIGIN_CITY,
+,,,Minneapolis St Paul Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,1676,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSP_MSY.js""
+    id=""1cd48101-91bc-4cc9-a323-a524f3d61b73""
+    data-bokeh-model-id=""d07d4f32-0820-4514-9d8a-74ee2671ae63""
+    data-bokeh-doc-id=""9656f7e9-2d69-4702-9365-4f75fea83c9f""
+></script>",TAG,
+8.39,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+12.5,,,,PERCENT_DELAYED,
+9.03,,,,POS_ARR_DELAY,
+6.0,33.33,SkyWest Airlines ,,OO,0.3
+21.9,32.76,Endeavor Air ,,9E,5.85
+28.85,26.15,ExpressJet Airlines ,,EV,6.55
+6.69,10.05,Delta Air Lines ,,DL,87.3
+0.0,,,,,

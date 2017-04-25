@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,1735,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_LGA.js""
+    id=""8086f77d-a994-492a-9b7f-dc14d1c45597""
+    data-bokeh-model-id=""f596604c-7a66-4089-8457-a3589c01727c""
+    data-bokeh-doc-id=""5bd589ab-4024-452b-9160-ae63ac1ec7e7""
+></script>",TAG,
+17.31,,,,DEP_DELAY,
+13.0,,,,AVG_FLIGHTS,
+26.04,,,,PERCENT_DELAYED,
+17.96,,,,POS_ARR_DELAY,
+19.97,31.11,Spirit Air Lines,,NK,16.03
+18.34,28.61,JetBlue Airways,,B6,43.37
+16.77,21.29,Delta Air Lines ,,DL,40.59
+0.0,,,,,
+0.0,,,,,

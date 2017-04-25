@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,2115,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_AUS.js""
+    id=""152e1697-ee50-41d3-a635-853c63e0168e""
+    data-bokeh-model-id=""db58501f-0822-45ef-bdc5-6fa6badbe5f6""
+    data-bokeh-doc-id=""04d492c7-483d-49e9-bd06-8fae89ac6eb0""
+></script>",TAG,
+13.54,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+20.02,,,,PERCENT_DELAYED,
+13.33,,,,POS_ARR_DELAY,
+13.33,20.02,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

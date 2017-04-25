@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,365,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_DCA.js""
+    id=""bdc4ce1e-5e77-4b8f-9ce3-e8be6b5e2c85""
+    data-bokeh-model-id=""1ff822c1-e0ca-44b3-9bd0-e2bbc6438775""
+    data-bokeh-doc-id=""21564855-552a-4c5b-9e50-833989d8cf02""
+></script>",TAG,
+15.16,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+30.18,,,,PERCENT_DELAYED,
+18.45,,,,POS_ARR_DELAY,
+18.45,30.18,Envoy Air,,MQ,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

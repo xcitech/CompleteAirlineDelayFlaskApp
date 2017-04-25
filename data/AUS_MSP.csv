@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,1679,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_MSP.js""
+    id=""d847d57c-c799-494b-9eca-720ff5260b4c""
+    data-bokeh-model-id=""5776d2ea-d5c2-4b33-8e4a-4cbd9c35f37c""
+    data-bokeh-doc-id=""b37a2bd4-b37c-4302-a682-fb97b9de64f8""
+></script>",TAG,
+9.88,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+12.24,,,,PERCENT_DELAYED,
+8.73,,,,POS_ARR_DELAY,
+12.85,20.51,ExpressJet Airlines ,,EV,4.5
+9.74,14.56,Endeavor Air ,,9E,35.68
+9.6,13.68,SkyWest Airlines ,,OO,13.51
+7.29,9.23,Delta Air Lines ,,DL,46.3
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,3873,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_MSP.js""
+    id=""0f176364-0fbd-4619-acaa-7a40728ebca0""
+    data-bokeh-model-id=""cacaddce-3ced-4d82-a1d0-462f82b0c5a2""
+    data-bokeh-doc-id=""b734b1b1-3da7-49d3-b9de-46daded60689""
+></script>",TAG,
+10.61,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+11.21,,,,PERCENT_DELAYED,
+7.69,,,,POS_ARR_DELAY,
+7.69,11.21,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

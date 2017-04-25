@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Jose,ORIGIN_CITY,
+,,,Norman Y Mineta San Jose Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,2329,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJC_DAL.js""
+    id=""e93ce51b-f2fc-4aa4-8aa9-c05fce920254""
+    data-bokeh-model-id=""8346c162-13bd-4d03-b46b-2899f124ee99""
+    data-bokeh-doc-id=""3b7af612-f1a8-46af-ad86-f0172d80242f""
+></script>",TAG,
+13.35,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+22.05,,,,PERCENT_DELAYED,
+12.7,,,,POS_ARR_DELAY,
+12.7,22.05,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,889,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_PIT.js""
+    id=""f6e5da3c-3111-4a97-beac-0e0f27fa40db""
+    data-bokeh-model-id=""5c9fb9a8-e2c3-419c-9dd0-784236e482ad""
+    data-bokeh-doc-id=""26f6223b-f1e1-4365-bceb-6502eecd40dc""
+></script>",TAG,
+19.47,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+21.14,,,,PERCENT_DELAYED,
+14.78,,,,POS_ARR_DELAY,
+14.78,21.14,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

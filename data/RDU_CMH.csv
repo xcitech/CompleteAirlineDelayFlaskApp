@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,583,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_CMH.js""
+    id=""deafbc3b-a960-417e-a605-888012ad6115""
+    data-bokeh-model-id=""d4f00c3d-d177-4785-acb3-5615582a2fd4""
+    data-bokeh-doc-id=""0ad23aa3-f524-46cb-a556-798ed8639b66""
+></script>",TAG,
+11.23,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+15.15,,,,PERCENT_DELAYED,
+10.73,,,,POS_ARR_DELAY,
+10.73,15.15,Endeavor Air ,,9E,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

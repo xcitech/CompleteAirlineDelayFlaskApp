@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1743,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_MIA.js""
+    id=""e91ae733-06c7-4d30-879f-4c9382b8e060""
+    data-bokeh-model-id=""0bc378cb-8915-4ea3-b5ae-d2bbc78f1cd7""
+    data-bokeh-doc-id=""a8336505-648d-4a8e-b56c-63f70657d5a2""
+></script>",TAG,
+13.44,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+21.98,,,,PERCENT_DELAYED,
+14.71,,,,POS_ARR_DELAY,
+11.81,22.97,ExpressJet Airlines ,,EV,5.77
+14.88,21.92,Envoy Air,,MQ,94.23
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

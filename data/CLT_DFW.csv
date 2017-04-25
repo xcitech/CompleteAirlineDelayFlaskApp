@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,1504,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_DFW.js""
+    id=""dbbefb23-d935-468f-be7a-28c081aa2fbc""
+    data-bokeh-model-id=""28d88c52-a665-4c11-adc7-4dff0e31bc11""
+    data-bokeh-doc-id=""891376d4-2950-4256-9d08-8ea328967a39""
+></script>",TAG,
+11.33,,,,DEP_DELAY,
+12.0,,,,AVG_FLIGHTS,
+19.57,,,,PERCENT_DELAYED,
+12.22,,,,POS_ARR_DELAY,
+11.02,20.73,US Airways ,,US,36.86
+12.91,18.89,American Airlines ,,AA,63.14
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

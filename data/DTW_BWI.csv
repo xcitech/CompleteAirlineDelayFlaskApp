@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Baltimore,DEST-CITY,,
+,,Baltimore Washington Intl,DEST_NAME,,
+,,657,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_BWI.js""
+    id=""4a0b341d-ea73-4907-9bd0-a96b8a0ed3f6""
+    data-bokeh-model-id=""ac46dc68-bc9c-4fce-99a5-b540c3e6ba25""
+    data-bokeh-doc-id=""73c2f1cc-b335-44b2-9fb9-1d6907f0d479""
+></script>",TAG,,
+10.7,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+15.79,,,PERCENT_DELAYED,,
+10.65,,,POS_ARR_DELAY,,
+12.26,19.23,,NK,1.6,Spirit Air Lines
+12.1,18.75,,WN,37.7,Southwest Airlines 
+14.49,17.39,,EV,0.85,ExpressJet Airlines 
+4.67,16.67,,9E,0.07,Endeavor Air 
+9.64,13.82,,DL,59.77,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,886,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_STL.js""
+    id=""b85dca90-68be-45e3-92ae-a0c0ced4a11d""
+    data-bokeh-model-id=""58497b63-0c50-4644-a035-0949faade91d""
+    data-bokeh-doc-id=""151d892a-c575-4a95-b88a-ae9e4017b12a""
+></script>",TAG,
+12.38,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+19.51,,,,PERCENT_DELAYED,
+12.2,,,,POS_ARR_DELAY,
+12.22,19.52,American Airlines ,,AA,99.82
+3.27,13.33,Envoy Air,,MQ,0.18
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

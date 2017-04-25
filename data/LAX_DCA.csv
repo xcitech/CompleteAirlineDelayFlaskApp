@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,3712,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_DCA.js""
+    id=""c7411dec-683d-4572-93d1-2de729375434""
+    data-bokeh-model-id=""4755106f-2da7-41e1-ad45-d716f21d3771""
+    data-bokeh-doc-id=""2fda2177-70e2-46dc-b2e9-85c3538293f8""
+></script>",TAG,
+6.79,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+14.83,,,,PERCENT_DELAYED,
+8.54,,,,POS_ARR_DELAY,
+8.54,15.58,American Airlines ,,AA,63.52
+8.53,13.52,Alaska Airlines ,,AS,36.48
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

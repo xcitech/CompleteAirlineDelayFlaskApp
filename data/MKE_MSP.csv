@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Milwaukee,ORIGIN_CITY,,
+,,General Mitchell Intl,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,478,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MKE_MSP.js""
+    id=""56b3b242-b712-4a0e-92bc-4a3a15a1207d""
+    data-bokeh-model-id=""684efeeb-b47e-482b-9747-16ac3bc9b46f""
+    data-bokeh-doc-id=""1c775158-1ae8-4e28-b488-7faf9283d4a0""
+></script>",TAG,,
+9.87,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+17.25,,,PERCENT_DELAYED,,
+11.03,,,POS_ARR_DELAY,,
+20.07,23.73,,EV,0.74,ExpressJet Airlines 
+11.97,21.58,,WN,27.99,Southwest Airlines 
+10.59,15.87,,DL,63.79,Delta Air Lines 
+10.5,12.37,,OO,7.39,SkyWest Airlines 
+0.0,0.0,,9E,0.09,Endeavor Air 

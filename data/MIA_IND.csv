@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Miami,ORIGIN_CITY,
+,,,Miami Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,1646,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MIA_IND.js""
+    id=""2b5dc4ab-35dd-424f-986c-8e8ab36b355e""
+    data-bokeh-model-id=""e51e1800-359b-4404-914c-b78c33f93f80""
+    data-bokeh-doc-id=""6823a9e1-0e14-44cd-9790-ab5fbb7409d5""
+></script>",TAG,
+5.15,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+14.59,,,,PERCENT_DELAYED,
+6.52,,,,POS_ARR_DELAY,
+6.52,14.59,Envoy Air,,MQ,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

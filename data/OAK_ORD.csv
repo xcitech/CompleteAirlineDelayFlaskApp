@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Ohare Intl,DEST_NAME,
+,,,2948,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_ORD.js""
+    id=""3074547a-88fa-4607-9e78-3b81dafd6fff""
+    data-bokeh-model-id=""53aca6fc-e690-4bbe-a578-d78a37c0aadb""
+    data-bokeh-doc-id=""d59226d0-53eb-4b44-a82a-5e7468585ba6""
+></script>",TAG,
+9.71,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+21.43,,,,PERCENT_DELAYED,
+12.83,,,,POS_ARR_DELAY,
+12.83,21.43,Spirit Air Lines,,NK,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

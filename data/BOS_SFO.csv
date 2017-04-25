@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,4342,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_SFO.js""
+    id=""f6f670e3-6db0-48eb-9f00-abfd5cb39d9b""
+    data-bokeh-model-id=""906f9dff-f3e5-4a2a-8160-16ef4a79c139""
+    data-bokeh-doc-id=""e06c762b-7f86-4267-92d7-915dd9b5e37f""
+></script>",TAG,
+15.45,,,,DEP_DELAY,
+12.0,,,,AVG_FLIGHTS,
+23.43,,,,PERCENT_DELAYED,
+14.31,,,,POS_ARR_DELAY,
+15.77,27.88,JetBlue Airways,,B6,24.02
+14.48,23.35,United Air Lines ,,UA,55.17
+12.17,18.51,Virgin America,,VX,20.81
+0.0,,,,,
+0.0,,,,,

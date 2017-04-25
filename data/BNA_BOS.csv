@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,1515,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_BOS.js""
+    id=""27e12a42-90b9-427a-bf57-9ae2d1a2ee6a""
+    data-bokeh-model-id=""5429bb85-c681-4988-8dd2-c8bf3382d3f4""
+    data-bokeh-doc-id=""f4da8853-7c7f-4964-b762-4eed87b53267""
+></script>",TAG,
+15.1,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+24.56,,,,PERCENT_DELAYED,
+14.21,,,,POS_ARR_DELAY,
+14.48,25.1,Southwest Airlines ,,WN,89.88
+11.81,19.83,JetBlue Airways,,B6,10.12
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

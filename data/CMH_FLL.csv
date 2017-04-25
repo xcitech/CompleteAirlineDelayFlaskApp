@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1570,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_FLL.js""
+    id=""f1401de9-16aa-4bfa-9bb2-e8ca41c95e5a""
+    data-bokeh-model-id=""01ac5f43-c953-4de1-a9a0-ea92429661d3""
+    data-bokeh-doc-id=""fe485c1b-be4d-45c9-b091-2a11a68a2e22""
+></script>",TAG,
+10.55,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+19.93,,,,PERCENT_DELAYED,
+11.75,,,,POS_ARR_DELAY,
+12.76,24.0,AirTran Airways Corporation,,FL,8.35
+11.65,19.56,Southwest Airlines ,,WN,91.65
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

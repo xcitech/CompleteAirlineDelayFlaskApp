@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Charlotte,ORIGIN_CITY,,
+,,Charlotte Douglas Intl,ORIGIN_NAME,,
+,,Washington,DEST-CITY,,
+,,Washington Dulles Intl,DEST_NAME,,
+,,518,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/CLT_IAD.js""
+    id=""a0094d5a-4578-4334-a9db-864199bca919""
+    data-bokeh-model-id=""3cf1b00c-a013-4ebf-bdc7-f54487ace9b5""
+    data-bokeh-doc-id=""49c0e378-592f-46af-b082-3c6e4bbf1507""
+></script>",TAG,,
+14.41,,,DEP_DELAY,,
+2.0,,,AVG_FLIGHTS,,
+24.75,,,PERCENT_DELAYED,,
+15.53,,,POS_ARR_DELAY,,
+35.33,66.67,,AA,0.34,American Airlines 
+23.56,43.68,,F9,4.93,Frontier Airlines 
+26.26,28.57,,OO,1.98,SkyWest Airlines 
+14.89,24.65,,YV,52.83,Mesa Airlines 
+14.7,21.86,,EV,39.64,ExpressJet Airlines 

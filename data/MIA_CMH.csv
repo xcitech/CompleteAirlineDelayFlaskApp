@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Miami,ORIGIN_CITY,
+,,,Miami Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,1598,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MIA_CMH.js""
+    id=""fbf7f6fc-ff5c-4cbd-8a9a-2eabc72f72c2""
+    data-bokeh-model-id=""369e0b7e-f6df-43a6-8702-ed490daa84cd""
+    data-bokeh-doc-id=""b0c57017-90a0-4416-92f5-2e42086f6dd4""
+></script>",TAG,
+8.89,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+20.94,,,,PERCENT_DELAYED,
+10.97,,,,POS_ARR_DELAY,
+10.97,20.96,Envoy Air,,MQ,99.94
+12.0,0.0,ExpressJet Airlines ,,EV,0.06
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

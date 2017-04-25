@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Phoenix,ORIGIN_CITY,,
+,,Phoenix Sky Harbor Intl,ORIGIN_NAME,,
+,,Cleveland,DEST-CITY,,
+,,Cleveland Hopkins Intl,DEST_NAME,,
+,,2792,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/PHX_CLE.js""
+    id=""458de66f-a6d7-4bd6-a6bb-f7cecf71203e""
+    data-bokeh-model-id=""dde1fdd4-f4fb-4a3c-bcfd-dc7a9f93a4a1""
+    data-bokeh-doc-id=""21cbe559-0285-43a8-a43b-24693aec604e""
+></script>",TAG,,
+14.15,,,DEP_DELAY,,
+2.0,,,AVG_FLIGHTS,,
+21.09,,,PERCENT_DELAYED,,
+13.49,,,POS_ARR_DELAY,,
+26.92,39.35,,F9,12.69,Frontier Airlines 
+15.25,22.13,,WN,40.89,Southwest Airlines 
+8.16,18.22,,US,15.16,US Airways 
+9.05,13.92,,UA,16.04,United Air Lines 
+7.54,13.51,,AA,15.22,American Airlines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,San Jose,DEST-CITY,
+,,,Norman Y Mineta San Jose Intl,DEST_NAME,
+,,,939,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_SJC.js""
+    id=""ca4f2b02-8967-4c56-8689-a0647f308f2d""
+    data-bokeh-model-id=""4ee20b19-7dc1-45b8-9c18-da9bf313083c""
+    data-bokeh-doc-id=""4dcd9dc5-52c5-45d0-888b-797ca0253b63""
+></script>",TAG,
+5.59,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+9.52,,,,PERCENT_DELAYED,
+5.46,,,,POS_ARR_DELAY,
+7.14,14.5,Delta Air Lines ,,DL,23.4
+5.12,8.25,SkyWest Airlines ,,OO,71.46
+2.5,4.53,Alaska Airlines ,,AS,5.14
+0.0,,,,,
+0.0,,,,,

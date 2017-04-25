@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,295,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_BWI.js""
+    id=""b93b7279-8246-4cd5-be48-b0765fa88863""
+    data-bokeh-model-id=""f6199ce5-5efb-445e-8e1b-df9779dd76ab""
+    data-bokeh-doc-id=""e6a84a0d-075c-4b33-9963-e7d2e22e674d""
+></script>",TAG,
+13.12,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+21.07,,,,PERCENT_DELAYED,
+14.36,,,,POS_ARR_DELAY,
+16.13,23.21,Envoy Air,,MQ,77.93
+8.14,13.51,Endeavor Air ,,9E,22.07
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

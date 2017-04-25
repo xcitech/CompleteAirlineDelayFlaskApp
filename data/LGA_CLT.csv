@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,New York,ORIGIN_CITY,,
+,,La Guardia,ORIGIN_NAME,,
+,,Charlotte,DEST-CITY,,
+,,Charlotte Douglas Intl,DEST_NAME,,
+,,875,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LGA_CLT.js""
+    id=""3a3d580f-744d-4db5-a445-bbf1c90ba8fc""
+    data-bokeh-model-id=""323778c8-f4b9-4adc-a26a-ec10b4ac983d""
+    data-bokeh-doc-id=""f6ca7a79-4eed-495c-bd16-02e0a366871c""
+></script>",TAG,,
+10.41,,,DEP_DELAY,,
+12.0,,,AVG_FLIGHTS,,
+20.23,,,PERCENT_DELAYED,,
+12.67,,,POS_ARR_DELAY,,
+23.0,29.13,,EV,12.95,ExpressJet Airlines 
+15.89,28.45,,MQ,6.17,Envoy Air
+11.76,19.34,,AA,31.31,American Airlines 
+10.08,17.47,,US,48.6,US Airways 
+14.52,16.82,,YV,0.83,Mesa Airlines 

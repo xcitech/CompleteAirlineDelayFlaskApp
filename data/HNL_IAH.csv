@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,6274,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_IAH.js""
+    id=""7db599a3-4664-43c0-9da5-b8d5fcc0a4d4""
+    data-bokeh-model-id=""ab2361c9-dcc4-4005-a9eb-9b55e01dd5a8""
+    data-bokeh-doc-id=""aaec4b9b-5077-4e32-8f59-512d730e5af0""
+></script>",TAG,
+12.31,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+14.95,,,,PERCENT_DELAYED,
+9.04,,,,POS_ARR_DELAY,
+9.04,14.95,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

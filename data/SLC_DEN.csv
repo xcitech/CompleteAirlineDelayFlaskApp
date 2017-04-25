@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Salt Lake City,ORIGIN_CITY,,
+,,Salt Lake City Intl,ORIGIN_NAME,,
+,,Denver,DEST-CITY,,
+,,Denver Intl,DEST_NAME,,
+,,628,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SLC_DEN.js""
+    id=""8a942bef-1c05-432e-9f93-e137985bcbfc""
+    data-bokeh-model-id=""b64e98cf-d995-4b8c-8a10-2ca47008eb69""
+    data-bokeh-doc-id=""1bbe5765-c8dc-4c82-81f6-39d80860a77f""
+></script>",TAG,,
+11.35,,,DEP_DELAY,,
+20.0,,,AVG_FLIGHTS,,
+19.91,,,PERCENT_DELAYED,,
+11.99,,,POS_ARR_DELAY,,
+11.43,22.09,,WN,27.35,Southwest Airlines 
+13.6,21.54,,F9,18.08,Frontier Airlines 
+11.84,18.06,,OO,39.77,SkyWest Airlines 
+10.46,15.73,,UA,3.86,United Air Lines 
+8.2,15.57,,DL,8.11,Delta Air Lines 

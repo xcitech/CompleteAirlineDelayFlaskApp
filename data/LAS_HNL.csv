@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Honolulu,DEST-CITY,
+,,,Honolulu Intl,DEST_NAME,
+,,,4442,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_HNL.js""
+    id=""418d760f-9aa8-4d5a-9d0d-6f02c58dade1""
+    data-bokeh-model-id=""58b7c353-0b3d-4056-b17e-e52078ec2168""
+    data-bokeh-doc-id=""5e6dad3d-d56b-4b49-80de-2f422cffa6e6""
+></script>",TAG,
+11.63,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+21.39,,,,PERCENT_DELAYED,
+15.92,,,,POS_ARR_DELAY,
+15.92,21.39,Hawaiian Airlines ,,HA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

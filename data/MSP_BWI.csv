@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Minneapolis,ORIGIN_CITY,,
+,,Minneapolis St Paul Intl,ORIGIN_NAME,,
+,,Baltimore,DEST-CITY,,
+,,Baltimore Washington Intl,DEST_NAME,,
+,,1504,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MSP_BWI.js""
+    id=""590758f4-57b7-4471-a189-51a2be775eb5""
+    data-bokeh-model-id=""86f25672-2932-453c-b5c1-1cfcfdeacc9b""
+    data-bokeh-doc-id=""2bdb7f0b-3b3e-4f47-ab2d-182c4c29ccd5""
+></script>",TAG,,
+10.23,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+16.1,,,PERCENT_DELAYED,,
+10.52,,,POS_ARR_DELAY,,
+14.83,50.0,,EV,0.16,ExpressJet Airlines 
+25.45,29.91,,NK,9.09,Spirit Air Lines
+23.25,25.0,,9E,0.11,Endeavor Air 
+14.3,20.0,,WN,7.33,Southwest Airlines 
+8.54,14.17,,DL,83.32,Delta Air Lines 

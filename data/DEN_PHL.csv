@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Philadelphia,DEST-CITY,,
+,,Philadelphia Intl,DEST_NAME,,
+,,2501,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_PHL.js""
+    id=""d62906c6-5383-4e2c-989e-a258c655bb7a""
+    data-bokeh-model-id=""2fc87a7d-5046-48d9-b651-63213293ad6c""
+    data-bokeh-doc-id=""be802fb0-9828-4c7f-96f3-4f4e0f6a1cc9""
+></script>",TAG,,
+13.65,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+22.01,,,PERCENT_DELAYED,,
+13.17,,,POS_ARR_DELAY,,
+22.56,29.07,,F9,2.4,Frontier Airlines 
+15.79,26.72,,WN,32.53,Southwest Airlines 
+15.36,23.44,,UA,25.76,United Air Lines 
+9.05,17.54,,US,24.02,US Airways 
+8.88,15.51,,AA,15.29,American Airlines 

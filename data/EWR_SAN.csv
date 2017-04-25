@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,3896,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_SAN.js""
+    id=""c3f877fe-b44a-450f-9939-9ab1c676cafe""
+    data-bokeh-model-id=""d0c41dbd-b4f5-41ee-8f12-55e01bce2beb""
+    data-bokeh-doc-id=""41882596-bac3-44ba-a350-94e4b606fcc2""
+></script>",TAG,
+16.99,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+19.9,,,,PERCENT_DELAYED,
+12.62,,,,POS_ARR_DELAY,
+12.62,19.9,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

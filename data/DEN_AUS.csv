@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Austin,DEST-CITY,,
+,,Austin Bergstrom Intl,DEST_NAME,,
+,,1249,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_AUS.js""
+    id=""eafc23ca-5e00-4b83-95ce-24e2dd2320a5""
+    data-bokeh-model-id=""7b57d7f3-337f-43c1-80bf-db638bd8956c""
+    data-bokeh-doc-id=""49396b64-fd64-4977-8bc0-48e275e994f2""
+></script>",TAG,,
+13.84,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+22.91,,,PERCENT_DELAYED,,
+14.25,,,POS_ARR_DELAY,,
+29.25,40.3,,EV,1.56,ExpressJet Airlines 
+15.64,24.57,,OO,13.38,SkyWest Airlines 
+13.55,23.91,,WN,43.52,Southwest Airlines 
+14.28,20.86,,F9,21.32,Frontier Airlines 
+13.64,20.49,,UA,20.23,United Air Lines 

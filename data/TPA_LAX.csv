@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,3467,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_LAX.js""
+    id=""fdb6597a-9ff3-452f-9c8d-47b48680b645""
+    data-bokeh-model-id=""3533efec-94d9-4715-a635-75678c15414f""
+    data-bokeh-doc-id=""a188eb29-61f0-4170-8639-301b71d2632a""
+></script>",TAG,
+7.7,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+16.04,,,,PERCENT_DELAYED,
+9.0,,,,POS_ARR_DELAY,
+31.33,53.33,US Airways ,,US,0.91
+13.86,27.35,American Airlines ,,AA,22.07
+7.35,12.35,Delta Air Lines ,,DL,77.01
+0.0,,,,,
+0.0,,,,,

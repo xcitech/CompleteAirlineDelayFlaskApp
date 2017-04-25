@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,4152,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_SFO.js""
+    id=""e7eba237-80ad-422a-ab9e-514d80c7f5f3""
+    data-bokeh-model-id=""b12aeb18-da8e-4c60-8c2c-05ad2382e1f5""
+    data-bokeh-doc-id=""efe94f20-6a28-489c-b03a-c41c11805f24""
+></script>",TAG,
+17.3,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+24.3,,,,PERCENT_DELAYED,
+15.81,,,,POS_ARR_DELAY,
+19.61,32.21,JetBlue Airways,,B6,47.67
+13.2,19.45,United Air Lines ,,UA,22.11
+11.73,15.39,Virgin America,,VX,30.22
+0.0,,,,,
+0.0,,,,,

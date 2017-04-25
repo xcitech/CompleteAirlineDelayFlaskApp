@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas,ORIGIN_CITY,
+,,,Dallas Love Fld,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,1048,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DAL_DEN.js""
+    id=""d43e7e90-3886-4e0e-bfeb-2a527d69d413""
+    data-bokeh-model-id=""5b618323-a01b-45cc-8149-343c2b932571""
+    data-bokeh-doc-id=""34dc73e5-cb4f-4ebb-8144-e24eb5c314d3""
+></script>",TAG,
+12.31,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+17.97,,,,PERCENT_DELAYED,
+10.73,,,,POS_ARR_DELAY,
+10.73,17.97,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

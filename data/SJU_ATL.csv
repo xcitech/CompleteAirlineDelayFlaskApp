@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Atlanta,DEST-CITY,
+,,,Hartsfield Jackson Atlanta Intl,DEST_NAME,
+,,,2492,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_ATL.js""
+    id=""2887d1d5-d7db-4e94-a350-d49eb55f2100""
+    data-bokeh-model-id=""e5b7bbbc-ce14-4c25-857c-a7aec578e622""
+    data-bokeh-doc-id=""dc543ad4-cc36-4a8e-9915-5bada4e9eb55""
+></script>",TAG,
+6.91,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+9.7,,,,PERCENT_DELAYED,
+6.46,,,,POS_ARR_DELAY,
+10.6,20.16,Southwest Airlines ,,WN,10.38
+5.98,8.53,Delta Air Lines ,,DL,88.21
+6.21,5.71,AirTran Airways Corporation,,FL,1.41
+0.0,,,,,
+0.0,,,,,

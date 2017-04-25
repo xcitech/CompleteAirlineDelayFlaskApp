@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,St. Louis,DEST-CITY,,
+,,Lambert St Louis Intl,DEST_NAME,,
+,,416,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_STL.js""
+    id=""c0b89c7a-2c6b-4a8f-8510-84ce9d5ab089""
+    data-bokeh-model-id=""aa94609d-e0da-4ce8-bec4-6517139bae4d""
+    data-bokeh-doc-id=""38768646-a02f-41e2-bbf9-9f8589ac8586""
+></script>",TAG,,
+16.65,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+26.18,,,PERCENT_DELAYED,,
+17.21,,,POS_ARR_DELAY,,
+19.54,31.44,,MQ,12.45,Envoy Air
+28.08,30.23,,UA,1.15,United Air Lines 
+17.8,27.23,,OO,11.24,SkyWest Airlines 
+17.61,26.29,,AA,62.57,American Airlines 
+11.39,19.02,,EV,12.58,ExpressJet Airlines 

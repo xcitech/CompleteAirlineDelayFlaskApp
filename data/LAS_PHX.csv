@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,411,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_PHX.js""
+    id=""98fa98a8-a57a-49f6-b31d-0883e650218f""
+    data-bokeh-model-id=""36840d0a-854a-4660-9fec-deb3aad81c04""
+    data-bokeh-doc-id=""5fea1cb0-5b20-4ef5-b2f4-49fe5b55e877""
+></script>",TAG,
+11.23,,,,DEP_DELAY,
+16.0,,,,AVG_FLIGHTS,
+19.78,,,,PERCENT_DELAYED,
+11.2,,,,POS_ARR_DELAY,
+13.46,24.88,Southwest Airlines ,,WN,62.0
+9.49,13.54,American Airlines ,,AA,14.7
+6.26,10.16,US Airways ,,US,23.3
+0.0,,,,,
+0.0,,,,,

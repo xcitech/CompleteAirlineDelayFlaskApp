@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Las Vegas,ORIGIN_CITY,,
+,,Mc Carran Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,380,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LAS_LAX.js""
+    id=""c5cf04c1-fc21-4f86-8958-de4593e51cb7""
+    data-bokeh-model-id=""e07bf214-e3e4-48a3-b76e-1feecf8bc53f""
+    data-bokeh-doc-id=""daf672fa-d310-471b-88a5-c835ff62e42b""
+></script>",TAG,,
+13.04,,,DEP_DELAY,,
+31.0,,,AVG_FLIGHTS,,
+26.16,,,PERCENT_DELAYED,,
+15.46,,,POS_ARR_DELAY,,
+17.64,35.37,,WN,34.22,Southwest Airlines 
+14.04,21.64,,UA,8.93,United Air Lines 
+13.8,21.61,,OO,13.91,SkyWest Airlines 
+15.87,20.37,,AA,19.9,American Airlines 
+11.66,20.0,,VX,10.83,Virgin America

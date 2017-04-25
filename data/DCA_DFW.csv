@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,1915,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_DFW.js""
+    id=""e3556a5f-09d5-4c7c-bf51-9a859d0f574d""
+    data-bokeh-model-id=""905c05d8-eede-4259-a0a7-b38c7fa36428""
+    data-bokeh-doc-id=""e8a9f1af-365a-4801-9b16-2159427bd769""
+></script>",TAG,
+12.52,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+20.32,,,,PERCENT_DELAYED,
+14.33,,,,POS_ARR_DELAY,
+14.33,20.32,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

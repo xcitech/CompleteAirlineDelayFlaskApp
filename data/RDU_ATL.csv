@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Raleigh-durham,ORIGIN_CITY,,
+,,Raleigh Durham Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,572,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/RDU_ATL.js""
+    id=""78d51f0b-96e2-45dc-a7f1-77e62e6b3e7b""
+    data-bokeh-model-id=""9c0b299b-0627-451f-8456-c488f0448c59""
+    data-bokeh-doc-id=""d022d9dc-c90a-480c-9946-a0d852d7a1be""
+></script>",TAG,,
+9.2,,,DEP_DELAY,,
+14.0,,,AVG_FLIGHTS,,
+14.15,,,PERCENT_DELAYED,,
+9.75,,,POS_ARR_DELAY,,
+11.09,23.15,,WN,10.97,Southwest Airlines 
+20.1,20.0,,EV,0.06,ExpressJet Airlines 
+8.23,15.37,,FL,10.2,AirTran Airways Corporation
+9.79,12.77,,DL,78.26,Delta Air Lines 
+3.39,7.59,,F9,0.5,Frontier Airlines 

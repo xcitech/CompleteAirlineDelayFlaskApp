@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New Orleans,ORIGIN_CITY,
+,,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,La Guardia,DEST_NAME,
+,,,1904,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSY_LGA.js""
+    id=""b096c318-090d-437a-86aa-7da4f60423c8""
+    data-bokeh-model-id=""cad879fe-5dc3-426e-ab05-51af3c5a9279""
+    data-bokeh-doc-id=""6337e447-ec99-4483-8421-10990354a213""
+></script>",TAG,
+15.62,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+21.91,,,,PERCENT_DELAYED,
+15.52,,,,POS_ARR_DELAY,
+31.74,32.26,ExpressJet Airlines ,,EV,3.09
+15.01,21.58,Delta Air Lines ,,DL,96.91
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

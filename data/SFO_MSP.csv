@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,2552,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_MSP.js""
+    id=""68fea753-a0e8-4dfd-ba17-3cfa4f3aca7a""
+    data-bokeh-model-id=""f7318c26-16b8-4e6d-8e6a-8b372fb244d1""
+    data-bokeh-doc-id=""39ede4f4-1449-4caa-bf6c-97b028e9ce3f""
+></script>",TAG,
+9.62,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+13.83,,,,PERCENT_DELAYED,
+8.63,,,,POS_ARR_DELAY,
+15.33,27.48,SkyWest Airlines ,,OO,13.9
+13.81,23.24,United Air Lines ,,UA,10.95
+6.63,9.93,Delta Air Lines ,,DL,75.15
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Cleveland,DEST-CITY,,
+,,Cleveland Hopkins Intl,DEST_NAME,,
+,,1928,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_CLE.js""
+    id=""e6b1ef06-b100-4aef-8d26-2c4e3f85091e""
+    data-bokeh-model-id=""ce3f55ce-8e2b-4669-b637-27b29c8cf623""
+    data-bokeh-doc-id=""35999800-c228-40cf-bb29-0e9ed7b679f1""
+></script>",TAG,,
+13.82,,,DEP_DELAY,,
+4.0,,,AVG_FLIGHTS,,
+20.3,,,PERCENT_DELAYED,,
+12.72,,,POS_ARR_DELAY,,
+21.35,36.91,,OO,9.8,SkyWest Airlines 
+18.95,26.84,,EV,11.92,ExpressJet Airlines 
+15.03,25.0,,F9,24.81,Frontier Airlines 
+9.55,14.68,,UA,46.89,United Air Lines 
+2.54,6.0,,WN,6.58,Southwest Airlines 

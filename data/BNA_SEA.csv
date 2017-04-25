@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,3177,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_SEA.js""
+    id=""7b00b2ac-8ec7-4c80-ad60-914463b96bc5""
+    data-bokeh-model-id=""96e0cd0a-1da2-4632-ad97-379a94ca3082""
+    data-bokeh-doc-id=""6bba47e6-39c8-408c-9be8-c1675b7d3ca8""
+></script>",TAG,
+9.22,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+15.75,,,,PERCENT_DELAYED,
+9.58,,,,POS_ARR_DELAY,
+9.21,15.89,Southwest Airlines ,,WN,59.01
+10.11,15.54,Alaska Airlines ,,AS,40.99
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

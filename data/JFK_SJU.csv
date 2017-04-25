@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,San Juan,DEST-CITY,
+,,,Luis Munoz Marin Intl,DEST_NAME,
+,,,2579,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_SJU.js""
+    id=""7c81a015-869b-4c93-94fe-ca756edef549""
+    data-bokeh-model-id=""8c80ac9c-20f0-4cdc-8133-8993c275f351""
+    data-bokeh-doc-id=""94eb1c50-9bcf-40f9-8a73-cf839b42f338""
+></script>",TAG,
+14.04,,,,DEP_DELAY,
+13.0,,,,AVG_FLIGHTS,
+22.73,,,,PERCENT_DELAYED,
+14.67,,,,POS_ARR_DELAY,
+19.43,26.68,American Airlines ,,AA,15.59
+16.35,25.85,JetBlue Airways,,B6,48.4
+10.36,16.82,Delta Air Lines ,,DL,36.01
+0.0,,,,,
+0.0,,,,,

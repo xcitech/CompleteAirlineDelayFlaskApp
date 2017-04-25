@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,2774,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_CLT.js""
+    id=""59d8e821-eff0-43ea-b908-a17cd37e55ad""
+    data-bokeh-model-id=""d452fd1a-b54d-4009-9c9b-9ece14b17378""
+    data-bokeh-doc-id=""2be53dcc-6d25-417a-84ba-a706d4da16af""
+></script>",TAG,
+6.73,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+13.6,,,,PERCENT_DELAYED,
+7.24,,,,POS_ARR_DELAY,
+7.46,15.63,US Airways ,,US,29.21
+6.87,15.17,American Airlines ,,AA,19.1
+7.26,11.87,Delta Air Lines ,,DL,51.69
+0.0,,,,,
+0.0,,,,,

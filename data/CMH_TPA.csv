@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,1338,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_TPA.js""
+    id=""a01f2091-1f16-4977-93d4-9479f79a25d6""
+    data-bokeh-model-id=""7bac60c3-15f0-45df-bdf9-67572d3f1f72""
+    data-bokeh-doc-id=""8a1f8f3a-5351-4cf1-a03f-5b8e2222d172""
+></script>",TAG,
+10.64,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+16.06,,,,PERCENT_DELAYED,
+10.66,,,,POS_ARR_DELAY,
+18.71,26.15,AirTran Airways Corporation,,FL,3.05
+10.42,15.78,Southwest Airlines ,,WN,96.76
+0.0,0.0,ExpressJet Airlines ,,EV,0.19
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,1108,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_HOU.js""
+    id=""e04ed91c-0862-4f9c-8148-38a65598409c""
+    data-bokeh-model-id=""0d5db613-c999-4ad2-ab6e-1e0d1583a7b8""
+    data-bokeh-doc-id=""1e539ec3-985a-46a2-8035-ece8367beb78""
+></script>",TAG,
+15.97,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+26.13,,,,PERCENT_DELAYED,
+14.93,,,,POS_ARR_DELAY,
+14.93,26.13,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

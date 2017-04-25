@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1758,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_MIA.js""
+    id=""7718cd4c-8304-44ae-971e-bdc50576890e""
+    data-bokeh-model-id=""bd798824-4b20-4fd7-9c92-f6030ff6dc7a""
+    data-bokeh-doc-id=""243d7990-01b9-4102-8f12-99903f3a4abd""
+></script>",TAG,
+14.24,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+21.34,,,,PERCENT_DELAYED,
+15.01,,,,POS_ARR_DELAY,
+15.14,22.15,American Airlines ,,AA,65.72
+14.75,19.77,Delta Air Lines ,,DL,34.28
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

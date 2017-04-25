@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,3888,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_SEA.js""
+    id=""b4747dd4-0182-4459-a0a4-5990efe9eef3""
+    data-bokeh-model-id=""106b6549-abfc-4e2b-be5a-323d1b0183c7""
+    data-bokeh-doc-id=""d7736552-f04a-4969-bc2f-1e49ba5640b1""
+></script>",TAG,
+13.8,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+21.4,,,,PERCENT_DELAYED,
+13.88,,,,POS_ARR_DELAY,
+22.52,32.06,American Airlines ,,AA,16.59
+14.79,25.58,JetBlue Airways,,B6,21.02
+11.35,17.58,Delta Air Lines ,,DL,57.41
+10.43,12.17,Alaska Airlines ,,AS,4.97
+0.0,,,,,

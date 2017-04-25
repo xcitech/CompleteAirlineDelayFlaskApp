@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Washington,DEST-CITY,,
+,,Washington Dulles Intl,DEST_NAME,,
+,,616,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_IAD.js""
+    id=""867ee27e-1da8-4ac5-8491-4fec31058951""
+    data-bokeh-model-id=""c2ab349f-f91c-4966-90aa-38addcc2032c""
+    data-bokeh-doc-id=""3687f467-c8ce-4736-a7d9-f2cc6855148d""
+></script>",TAG,,
+15.04,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+19.36,,,PERCENT_DELAYED,,
+14.84,,,POS_ARR_DELAY,,
+17.19,22.55,,EV,65.24,ExpressJet Airlines 
+14.95,15.98,,F9,6.62,Frontier Airlines 
+12.28,14.47,,OO,15.81,SkyWest Airlines 
+8.38,13.24,,DL,2.32,Delta Air Lines 
+4.54,10.49,,9E,9.12,Endeavor Air 

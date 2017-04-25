@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Philadelphia,ORIGIN_CITY,
+,,,Philadelphia Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,722,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHL_CLT.js""
+    id=""23c0637f-6649-47c7-85ff-7398b3b32d58""
+    data-bokeh-model-id=""1febabb9-2c9d-4833-a6ef-10bde7d8e69c""
+    data-bokeh-doc-id=""2722a79e-520e-4f42-8c20-899df2462c70""
+></script>",TAG,
+9.48,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+19.51,,,,PERCENT_DELAYED,
+11.19,,,,POS_ARR_DELAY,
+12.19,21.67,US Airways ,,US,55.7
+9.67,20.7,Frontier Airlines ,,F9,3.87
+9.96,16.41,American Airlines ,,AA,40.42
+0.0,0.0,Mesa Airlines ,,YV,0.01
+0.0,,,,,

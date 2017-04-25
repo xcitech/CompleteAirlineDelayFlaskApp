@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,3961,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_SMF.js""
+    id=""f27b1493-17a8-446f-a22f-fe3b03a9fdfd""
+    data-bokeh-model-id=""96e43f4f-e383-4354-93a6-81e77c61c53e""
+    data-bokeh-doc-id=""8b4b4a62-0097-486d-a2a3-3dd2f41b5132""
+></script>",TAG,
+11.04,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+19.28,,,,PERCENT_DELAYED,
+11.98,,,,POS_ARR_DELAY,
+11.98,19.28,Hawaiian Airlines ,,HA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

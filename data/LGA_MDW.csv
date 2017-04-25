@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,La Guardia,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,1164,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LGA_MDW.js""
+    id=""b77f291a-d9e9-4135-aed6-cf68ec008d2c""
+    data-bokeh-model-id=""1fb38f92-959f-405b-a17e-ddaf957de40b""
+    data-bokeh-doc-id=""ca1091e0-919a-4111-986a-81ce2523aa4d""
+></script>",TAG,
+18.8,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+25.14,,,,PERCENT_DELAYED,
+17.0,,,,POS_ARR_DELAY,
+17.0,25.14,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

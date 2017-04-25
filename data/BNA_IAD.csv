@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,871,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_IAD.js""
+    id=""6b4f1feb-93eb-4ffa-9e73-9f0b8d41bede""
+    data-bokeh-model-id=""9ac2349b-a253-4ee8-8483-e27cd7b094f1""
+    data-bokeh-doc-id=""66087d19-b8ed-46aa-ae47-5ba9c8de52fc""
+></script>",TAG,
+18.05,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+21.11,,,,PERCENT_DELAYED,
+16.37,,,,POS_ARR_DELAY,
+16.37,21.11,ExpressJet Airlines ,,EV,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

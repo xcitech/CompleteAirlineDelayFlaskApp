@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Pittsburgh,ORIGIN_CITY,
+,,,Pittsburgh Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,797,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PIT_BOS.js""
+    id=""9100d4a7-ea65-4717-8319-e1b20e7131a5""
+    data-bokeh-model-id=""97a37e80-54ea-417c-9a9d-c5b2404e832b""
+    data-bokeh-doc-id=""babb9cff-5560-42c5-9391-416d55d35950""
+></script>",TAG,
+9.31,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+15.29,,,,PERCENT_DELAYED,
+9.77,,,,POS_ARR_DELAY,
+9.78,15.3,JetBlue Airways,,B6,99.95
+0.0,0.0,American Airlines ,,AA,0.03
+0.0,0.0,US Airways ,,US,0.03
+0.0,,,,,
+0.0,,,,,

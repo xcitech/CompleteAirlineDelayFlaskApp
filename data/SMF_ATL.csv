@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Sacramento,ORIGIN_CITY,
+,,,Sacramento Intl,ORIGIN_NAME,
+,,,Atlanta,DEST-CITY,
+,,,Hartsfield Jackson Atlanta Intl,DEST_NAME,
+,,,3361,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SMF_ATL.js""
+    id=""a5ffb850-9513-4848-a356-ce5649437117""
+    data-bokeh-model-id=""dcbd1974-512d-4847-b9d5-b0af133a12f4""
+    data-bokeh-doc-id=""263b595c-de3d-4908-922e-9d5f4eaa563f""
+></script>",TAG,
+12.08,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.74,,,,PERCENT_DELAYED,
+10.41,,,,POS_ARR_DELAY,
+10.41,15.74,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

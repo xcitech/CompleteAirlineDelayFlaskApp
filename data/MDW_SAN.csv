@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Midway Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,2777,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MDW_SAN.js""
+    id=""d38a72b5-f020-4fe2-ab85-e67abcbf0633""
+    data-bokeh-model-id=""44ade456-f8f1-4054-8501-fcbcbf6357ab""
+    data-bokeh-doc-id=""a57a955c-f1c1-4cbd-9eb4-64244e155500""
+></script>",TAG,
+16.61,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+28.26,,,,PERCENT_DELAYED,
+14.92,,,,POS_ARR_DELAY,
+14.92,28.26,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

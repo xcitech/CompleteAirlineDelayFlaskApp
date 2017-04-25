@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Cleveland,ORIGIN_CITY,
+,,,Cleveland Hopkins Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,1478,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLE_MSY.js""
+    id=""60c03f9e-531e-4874-b237-b33adb35e955""
+    data-bokeh-model-id=""0a2632ba-196d-404e-86ea-3fa63f4896f2""
+    data-bokeh-doc-id=""3e0d1626-02c6-4ec2-8334-bafe089d8799""
+></script>",TAG,
+12.67,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+19.05,,,,PERCENT_DELAYED,
+11.87,,,,POS_ARR_DELAY,
+12.06,19.35,ExpressJet Airlines ,,EV,98.41
+0.0,0.0,SkyWest Airlines ,,OO,1.59
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

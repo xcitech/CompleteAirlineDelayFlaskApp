@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,2669,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_DFW.js""
+    id=""cb78e5c1-7549-42cc-9ab3-8ecff397c851""
+    data-bokeh-model-id=""0108a5ad-376f-4092-b97c-3c0868e6bfa8""
+    data-bokeh-doc-id=""39f60e66-429c-4c25-8111-1ba494cdaf76""
+></script>",TAG,
+9.9,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+16.85,,,,PERCENT_DELAYED,
+10.77,,,,POS_ARR_DELAY,
+12.34,18.21,American Airlines ,,AA,74.34
+6.22,12.9,Alaska Airlines ,,AS,25.66
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

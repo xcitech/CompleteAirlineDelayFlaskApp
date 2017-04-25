@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,1522,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_MCO.js""
+    id=""4f9c0cec-eb8d-473b-9ae0-fa24fbf5b91b""
+    data-bokeh-model-id=""30901c20-2b89-435f-b7fd-f469bea31c37""
+    data-bokeh-doc-id=""25ca55be-210f-4270-8912-7656498082f1""
+></script>",TAG,
+15.36,,,,DEP_DELAY,
+15.0,,,,AVG_FLIGHTS,
+24.13,,,,PERCENT_DELAYED,
+16.62,,,,POS_ARR_DELAY,
+17.24,26.88,JetBlue Airways,,B6,58.1
+14.18,22.03,American Airlines ,,AA,13.24
+16.49,19.5,Delta Air Lines ,,DL,28.66
+0.0,,,,,
+0.0,,,,,

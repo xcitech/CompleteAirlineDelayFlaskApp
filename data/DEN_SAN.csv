@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,San Diego,DEST-CITY,,
+,,San Diego Intl,DEST_NAME,,
+,,1372,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_SAN.js""
+    id=""d3d6f10c-9002-47d7-a4eb-0cf2494852b7""
+    data-bokeh-model-id=""f27b820f-d87d-4e73-b3fa-8af1df20e261""
+    data-bokeh-doc-id=""dd4adf92-9909-4f63-b406-164b37643945""
+></script>",TAG,,
+12.91,,,DEP_DELAY,,
+12.0,,,AVG_FLIGHTS,,
+20.94,,,PERCENT_DELAYED,,
+12.13,,,POS_ARR_DELAY,,
+13.9,22.22,,F9,25.38,Frontier Airlines 
+11.49,21.69,,WN,41.68,Southwest Airlines 
+12.22,20.43,,OO,4.93,SkyWest Airlines 
+12.11,19.91,,UA,23.87,United Air Lines 
+7.7,11.97,,NK,4.14,Spirit Air Lines

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Austin,ORIGIN_CITY,,
+,,Austin Bergstrom Intl,ORIGIN_NAME,,
+,,Phoenix,DEST-CITY,,
+,,Phoenix Sky Harbor Intl,DEST_NAME,,
+,,1401,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/AUS_PHX.js""
+    id=""359e3d01-2a40-4bef-81c1-ffb6bf96e450""
+    data-bokeh-model-id=""f615447f-8381-45ba-9ce4-187ec9c5e616""
+    data-bokeh-doc-id=""ce65b3c6-9b5b-4630-8227-e8f6a1bc9cf4""
+></script>",TAG,,
+11.76,,,DEP_DELAY,,
+5.0,,,AVG_FLIGHTS,,
+18.27,,,PERCENT_DELAYED,,
+10.56,,,POS_ARR_DELAY,,
+12.27,33.33,,OO,0.6,SkyWest Airlines 
+11.61,20.3,,WN,74.31,Southwest Airlines 
+9.08,13.7,,YV,7.09,Mesa Airlines 
+7.12,11.98,,AA,7.49,American Airlines 
+6.43,10.65,,US,10.5,US Airways 

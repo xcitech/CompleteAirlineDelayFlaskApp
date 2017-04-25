@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Fort Lauderdale,ORIGIN_CITY,,
+,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,937,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/FLL_ATL.js""
+    id=""f78f5ab4-4547-48ae-b285-6732ed963ebf""
+    data-bokeh-model-id=""59beeb91-378c-4843-9097-f94ae911e5c9""
+    data-bokeh-doc-id=""6260fe8e-a0a1-45db-b242-ac17c6eaab73""
+></script>",TAG,,
+9.2,,,DEP_DELAY,,
+21.0,,,AVG_FLIGHTS,,
+14.22,,,PERCENT_DELAYED,,
+9.32,,,POS_ARR_DELAY,,
+126.0,100.0,,EV,0.0,ExpressJet Airlines 
+22.66,32.97,,NK,7.73,Spirit Air Lines
+10.8,17.75,,WN,17.06,Southwest Airlines 
+7.34,14.07,,FL,8.88,AirTran Airways Corporation
+7.64,11.13,,DL,66.32,Delta Air Lines 

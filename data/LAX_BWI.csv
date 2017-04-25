@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,3741,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_BWI.js""
+    id=""4b94a185-9168-4cc1-8cbb-c6cbbfd3e708""
+    data-bokeh-model-id=""85e4f41b-88a4-4e31-8f80-a41e4d953ce7""
+    data-bokeh-doc-id=""c1efcea0-b9fc-41c1-be32-ec05bf4c5d82""
+></script>",TAG,
+12.11,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+18.96,,,,PERCENT_DELAYED,
+10.24,,,,POS_ARR_DELAY,
+17.73,30.81,Spirit Air Lines,,NK,11.16
+10.16,20.0,Southwest Airlines ,,WN,52.25
+8.55,14.34,United Air Lines ,,UA,27.78
+6.56,12.38,Alaska Airlines ,,AS,8.81
+0.0,,,,,

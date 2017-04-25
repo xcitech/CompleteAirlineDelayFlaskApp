@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Sacramento,ORIGIN_CITY,
+,,,Sacramento Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,3786,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SMF_IAD.js""
+    id=""4e637a98-7b25-4d05-b229-a23f08c6ff7b""
+    data-bokeh-model-id=""b081c93c-b65f-445c-98d0-9b11a5ea0b82""
+    data-bokeh-doc-id=""bf664ad9-0d34-43f2-8a34-6412d553ef50""
+></script>",TAG,
+4.67,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+7.34,,,,PERCENT_DELAYED,
+4.73,,,,POS_ARR_DELAY,
+4.73,7.34,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

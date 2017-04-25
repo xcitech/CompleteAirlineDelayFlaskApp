@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Sacramento,DEST-CITY,
+,,,Sacramento Intl,DEST_NAME,
+,,,2299,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_SMF.js""
+    id=""26f7b3ef-c7c6-442e-a4ed-3f73647387e8""
+    data-bokeh-model-id=""e9fa0ad7-54f1-4cd3-a4fd-8c53f7b8087e""
+    data-bokeh-doc-id=""c8f9b833-20d7-4f65-bd2f-a08b22c5de15""
+></script>",TAG,
+15.28,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+25.31,,,,PERCENT_DELAYED,
+14.63,,,,POS_ARR_DELAY,
+14.63,25.31,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

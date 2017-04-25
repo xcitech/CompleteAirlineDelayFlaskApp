@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,2639,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_HOU.js""
+    id=""691c19b5-b605-4909-b666-9b33b574fa56""
+    data-bokeh-model-id=""fae523d5-342a-4230-b77f-9ace2cd61c5f""
+    data-bokeh-doc-id=""2b8a5425-5c6a-4706-9a7c-bc0e1d91890c""
+></script>",TAG,
+13.31,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+22.1,,,,PERCENT_DELAYED,
+10.53,,,,POS_ARR_DELAY,
+10.53,22.1,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

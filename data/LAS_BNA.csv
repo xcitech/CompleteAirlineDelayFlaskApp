@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Nashville,DEST-CITY,
+,,,Nashville Intl,DEST_NAME,
+,,,2550,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_BNA.js""
+    id=""7b4ded58-a900-4890-8777-2352ce649160""
+    data-bokeh-model-id=""ba8bd2fd-26cd-4dad-a962-56f88c96fde1""
+    data-bokeh-doc-id=""5c4b97b6-5058-4890-a6a6-602ea9cf0675""
+></script>",TAG,
+16.05,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.81,,,,PERCENT_DELAYED,
+13.01,,,,POS_ARR_DELAY,
+13.01,22.81,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

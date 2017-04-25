@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Atlanta,DEST-CITY,
+,,,Hartsfield Jackson Atlanta Intl,DEST_NAME,
+,,,655,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_ATL.js""
+    id=""470ecc7a-08c9-420a-a07a-3e99fabffdc0""
+    data-bokeh-model-id=""850cf749-346d-4b59-9b63-284bba5e582c""
+    data-bokeh-doc-id=""3ec7d1be-eabb-44af-9c31-11046c05a52b""
+></script>",TAG,
+8.83,,,,DEP_DELAY,
+20.0,,,,AVG_FLIGHTS,
+13.92,,,,PERCENT_DELAYED,
+9.27,,,,POS_ARR_DELAY,
+28.18,39.18,Spirit Air Lines,,NK,2.62
+10.11,17.95,Southwest Airlines ,,WN,20.42
+8.22,13.71,AirTran Airways Corporation,,FL,10.76
+8.43,11.71,Delta Air Lines ,,DL,66.2
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,719,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_SFO.js""
+    id=""6153171d-dace-4b83-a6d4-e0f092b97df7""
+    data-bokeh-model-id=""528dc290-44e0-478c-9524-28b4402c3d8e""
+    data-bokeh-doc-id=""4a8149a9-2275-49c8-bf32-fcb43b401570""
+></script>",TAG,
+18.23,,,,DEP_DELAY,
+20.0,,,,AVG_FLIGHTS,
+26.61,,,,PERCENT_DELAYED,
+17.95,,,,POS_ARR_DELAY,
+20.92,32.57,Southwest Airlines ,,WN,34.74
+17.59,25.87,SkyWest Airlines ,,OO,6.84
+17.46,25.11,Virgin America,,VX,24.28
+15.36,21.77,United Air Lines ,,UA,34.14
+0.0,,,,,

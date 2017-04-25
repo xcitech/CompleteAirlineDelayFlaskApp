@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,2297,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_HOU.js""
+    id=""b1151685-f073-4258-a091-5582e1c420e4""
+    data-bokeh-model-id=""9712a14e-8144-4b22-83c2-87e8464efc83""
+    data-bokeh-doc-id=""b6f4f3db-7f45-4bba-badd-1b6c18ffc44f""
+></script>",TAG,
+11.91,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+24.93,,,,PERCENT_DELAYED,
+15.03,,,,POS_ARR_DELAY,
+15.03,24.93,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

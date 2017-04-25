@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,1307,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_IAD.js""
+    id=""ab98f84e-0fad-47d8-bc0f-64f8cfaf016f""
+    data-bokeh-model-id=""05ac1dac-a9e9-42ed-801b-65100287f089""
+    data-bokeh-doc-id=""8e55601f-66eb-470b-8d01-382f770a987c""
+></script>",TAG,
+11.29,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+13.94,,,,PERCENT_DELAYED,
+9.88,,,,POS_ARR_DELAY,
+21.46,29.81,Frontier Airlines ,,F9,3.23
+9.49,13.41,United Air Lines ,,UA,96.77
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,722,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_CLE.js""
+    id=""e9e8f6e5-22c2-45df-9789-a8d5e1008b6f""
+    data-bokeh-model-id=""5795bd63-7956-479e-8f14-a88965ff2c24""
+    data-bokeh-doc-id=""1b490423-c885-4d8b-902f-ea1fb1bfdace""
+></script>",TAG,
+13.44,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+21.19,,,,PERCENT_DELAYED,
+11.79,,,,POS_ARR_DELAY,
+11.6,21.63,Southwest Airlines ,,WN,87.76
+13.16,17.99,ExpressJet Airlines ,,EV,12.24
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,San Francisco,ORIGIN_CITY,,
+,,San Francisco Intl,ORIGIN_NAME,,
+,,Seattle,DEST-CITY,,
+,,Seattle Tacoma Intl,DEST_NAME,,
+,,1093,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/SFO_SEA.js""
+    id=""af45edaf-fc4c-4048-937a-dca5615c10ec""
+    data-bokeh-model-id=""d0c62505-4237-4f3c-9730-3caa46fb5d02""
+    data-bokeh-doc-id=""b31e9ffb-476c-4e90-8cb9-aa10f8715d0f""
+></script>",TAG,,
+12.06,,,DEP_DELAY,,
+21.0,,,AVG_FLIGHTS,,
+20.24,,,PERCENT_DELAYED,,
+12.38,,,POS_ARR_DELAY,,
+15.99,26.77,,OO,6.79,SkyWest Airlines 
+13.85,22.4,,AS,37.79,Alaska Airlines 
+11.71,19.44,,UA,36.33,United Air Lines 
+9.51,15.25,,VX,18.7,Virgin America
+8.49,10.11,,DL,0.39,Delta Air Lines 

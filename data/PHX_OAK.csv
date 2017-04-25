@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Phoenix,ORIGIN_CITY,,
+,,Phoenix Sky Harbor Intl,ORIGIN_NAME,,
+,,Oakland,DEST-CITY,,
+,,Metropolitan Oakland Intl,DEST_NAME,,
+,,1039,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/PHX_OAK.js""
+    id=""7fe7c859-0b1e-42d6-95b0-896b95f2b98a""
+    data-bokeh-model-id=""e1353b77-9355-4bd4-b8ea-6ba59241dccc""
+    data-bokeh-doc-id=""8c2b0248-d4d8-44ab-bc36-53e3c44c3745""
+></script>",TAG,,
+11.88,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+21.54,,,PERCENT_DELAYED,,
+11.15,,,POS_ARR_DELAY,,
+12.32,24.04,,WN,68.19,Southwest Airlines 
+8.88,17.48,,US,16.65,US Airways 
+9.31,17.2,,AA,9.88,American Airlines 
+8.78,13.17,,OO,1.94,SkyWest Airlines 
+5.57,8.39,,YV,3.33,Mesa Airlines 

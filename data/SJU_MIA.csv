@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1682,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_MIA.js""
+    id=""31f1cdb9-0ce8-4e5e-8119-02aad1079dc5""
+    data-bokeh-model-id=""3de8dcb7-af62-49a8-9b57-af14e6ba59a7""
+    data-bokeh-doc-id=""6a2aed51-2f32-4783-bd17-351e35068fd0""
+></script>",TAG,
+10.74,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+15.17,,,,PERCENT_DELAYED,
+11.49,,,,POS_ARR_DELAY,
+11.49,15.17,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Raleigh-durham,DEST-CITY,
+,,,Raleigh Durham Intl,DEST_NAME,
+,,,985,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_RDU.js""
+    id=""f49f35d9-9961-4b7c-8480-2ac56ba1ab12""
+    data-bokeh-model-id=""95e0db73-e85b-417b-87c0-7cf6060d0aa7""
+    data-bokeh-doc-id=""611411d8-c0bf-44ee-bedc-5eb28f64468a""
+></script>",TAG,
+9.72,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+17.01,,,,PERCENT_DELAYED,
+10.83,,,,POS_ARR_DELAY,
+10.63,17.29,JetBlue Airways,,B6,89.16
+13.45,16.02,ExpressJet Airlines ,,EV,9.31
+6.48,7.06,Endeavor Air ,,9E,1.53
+0.0,,,,,
+0.0,,,,,

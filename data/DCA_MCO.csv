@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,1224,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_MCO.js""
+    id=""bda60978-a0fe-4652-9e1d-7b97c72540f3""
+    data-bokeh-model-id=""759f657f-9172-4e65-9e56-1594aaf34496""
+    data-bokeh-doc-id=""f8ee5972-d3fd-4afd-98ab-27cff3d148af""
+></script>",TAG,
+9.74,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+18.89,,,,PERCENT_DELAYED,
+11.89,,,,POS_ARR_DELAY,
+21.09,22.49,Southwest Airlines ,,WN,4.81
+13.75,20.92,JetBlue Airways,,B6,36.77
+11.03,18.08,American Airlines ,,AA,22.24
+9.3,16.85,US Airways ,,US,36.18
+0.0,,,,,

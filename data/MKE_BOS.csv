@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,1381,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_BOS.js""
+    id=""39823c38-2780-4128-b1cf-f0fa0d95ff3d""
+    data-bokeh-model-id=""cb9a1965-2573-48ff-b452-f95b57430d07""
+    data-bokeh-doc-id=""7d051ca5-8773-4178-a571-f21be13b4c4a""
+></script>",TAG,
+17.19,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+24.37,,,,PERCENT_DELAYED,
+16.13,,,,POS_ARR_DELAY,
+16.13,24.37,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

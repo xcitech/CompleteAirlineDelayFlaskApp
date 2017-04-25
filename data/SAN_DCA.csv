@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,3656,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_DCA.js""
+    id=""51cf5e5e-5837-4bcf-9388-16a939ba6367""
+    data-bokeh-model-id=""396e8ba1-6782-4abf-81e7-695839feedef""
+    data-bokeh-doc-id=""e52894e9-5cef-4c87-b579-9e9fcb698263""
+></script>",TAG,
+8.9,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+12.0,,,,PERCENT_DELAYED,
+6.98,,,,POS_ARR_DELAY,
+6.98,12.0,US Airways ,,US,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

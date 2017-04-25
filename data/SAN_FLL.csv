@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,3645,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_FLL.js""
+    id=""f00948fb-4989-4b1e-a460-f3bb8c8403df""
+    data-bokeh-model-id=""ef363e13-b5d0-4c31-9b58-5c5b85136d1d""
+    data-bokeh-doc-id=""e658b74f-4b6e-494c-9ac2-89a33f074460""
+></script>",TAG,
+10.83,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+15.79,,,,PERCENT_DELAYED,
+8.87,,,,POS_ARR_DELAY,
+8.87,15.79,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

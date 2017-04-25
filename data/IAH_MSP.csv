@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Houston,ORIGIN_CITY,,
+,,George Bush Intercontinental,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,1667,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/IAH_MSP.js""
+    id=""e3186bf1-ddec-4976-b6c3-9982ececb7d6""
+    data-bokeh-model-id=""aa93f53d-f8c4-48c5-96f0-9d57b63f93ee""
+    data-bokeh-doc-id=""c135ec6f-d236-4463-8a8b-11234eb4b7dd""
+></script>",TAG,,
+13.01,,,DEP_DELAY,,
+5.0,,,AVG_FLIGHTS,,
+20.65,,,PERCENT_DELAYED,,
+13.4,,,POS_ARR_DELAY,,
+15.01,22.77,,NK,6.34,Spirit Air Lines
+14.24,22.13,,EV,50.96,ExpressJet Airlines 
+18.27,20.61,,UA,6.56,United Air Lines 
+11.37,18.69,,OO,34.91,SkyWest Airlines 
+1.88,5.17,,DL,1.06,Delta Air Lines 

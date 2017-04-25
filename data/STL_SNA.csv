@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Santa Ana,DEST-CITY,
+,,,John Wayne Arpt Orange Co,DEST_NAME,
+,,,2521,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_SNA.js""
+    id=""578a44bf-61b2-4d78-930b-9c6bab132046""
+    data-bokeh-model-id=""d1b6cff6-532d-4bf0-9154-97df8b627c20""
+    data-bokeh-doc-id=""3b4e53a9-ad19-4937-b8c7-93723ba378c1""
+></script>",TAG,
+7.18,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+10.25,,,,PERCENT_DELAYED,
+5.11,,,,POS_ARR_DELAY,
+5.11,10.25,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

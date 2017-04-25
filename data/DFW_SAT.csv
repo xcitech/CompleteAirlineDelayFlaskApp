@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,San Antonio,DEST-CITY,
+,,,San Antonio Intl,DEST_NAME,
+,,,398,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_SAT.js""
+    id=""779589f5-127d-45f9-a50e-5d110d81ae51""
+    data-bokeh-model-id=""bc5909c1-e76d-4f8e-9bb9-2b23a4895acf""
+    data-bokeh-doc-id=""44b6840c-7f33-46e3-b388-3aab17ed96f7""
+></script>",TAG,
+13.56,,,,DEP_DELAY,
+14.0,,,,AVG_FLIGHTS,
+22.79,,,,PERCENT_DELAYED,
+13.93,,,,POS_ARR_DELAY,
+13.93,22.79,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

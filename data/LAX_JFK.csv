@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Los Angeles,ORIGIN_CITY,,
+,,Los Angeles Intl,ORIGIN_NAME,,
+,,New York,DEST-CITY,,
+,,John F Kennedy Intl,DEST_NAME,,
+,,3975,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/LAX_JFK.js""
+    id=""bc100770-7e7b-407b-986f-90d7383bced3""
+    data-bokeh-model-id=""d9124dfd-1466-46a2-a45f-594eb0a71daa""
+    data-bokeh-doc-id=""8ec3dab6-ef4c-4e12-8dee-e7122ecaa31c""
+></script>",TAG,,
+13.16,,,DEP_DELAY,,
+34.0,,,AVG_FLIGHTS,,
+19.43,,,PERCENT_DELAYED,,
+13.29,,,POS_ARR_DELAY,,
+13.35,20.63,,VX,15.12,Virgin America
+13.75,20.36,,B6,18.92,JetBlue Airways
+14.1,20.36,,DL,22.18,Delta Air Lines 
+12.36,18.58,,AA,32.18,American Airlines 
+13.48,16.92,,UA,11.6,United Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,San Antonio,DEST-CITY,
+,,,San Antonio Intl,DEST_NAME,
+,,,2190,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_SAT.js""
+    id=""8ebb68cf-2d92-4084-83e4-79d72eb37025""
+    data-bokeh-model-id=""d114be05-0731-4780-b819-8f9517a67f3f""
+    data-bokeh-doc-id=""e41df16a-c2ec-483b-bc2f-c163be035853""
+></script>",TAG,
+14.79,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+28.83,,,,PERCENT_DELAYED,
+18.9,,,,POS_ARR_DELAY,
+22.91,31.18,SkyWest Airlines ,,OO,55.86
+15.39,29.51,Mesa Airlines ,,YV,36.64
+6.2,8.0,United Air Lines ,,UA,7.51
+0.0,,,,,
+0.0,,,,,

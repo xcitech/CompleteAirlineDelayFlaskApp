@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Minneapolis,ORIGIN_CITY,
+,,,Minneapolis St Paul Intl,ORIGIN_NAME,
+,,,Santa Ana,DEST-CITY,
+,,,John Wayne Arpt Orange Co,DEST_NAME,
+,,,2446,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MSP_SNA.js""
+    id=""e0d6dd3a-c0c0-4fd1-9786-e1f1f6e45350""
+    data-bokeh-model-id=""e9e3dc51-ffb4-4bc3-93e5-f2b32b067d83""
+    data-bokeh-doc-id=""073e48a9-5e20-4fae-a559-0fe5152446fb""
+></script>",TAG,
+4.95,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+11.35,,,,PERCENT_DELAYED,
+5.33,,,,POS_ARR_DELAY,
+5.33,11.35,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

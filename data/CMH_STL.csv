@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,658,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_STL.js""
+    id=""8d48b408-7136-438b-8b80-ae82647caf74""
+    data-bokeh-model-id=""7b504815-ff00-4088-aad8-4888772f51e9""
+    data-bokeh-doc-id=""110d19e8-d481-45dc-a239-63d836028b82""
+></script>",TAG,
+11.84,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.86,,,,PERCENT_DELAYED,
+11.22,,,,POS_ARR_DELAY,
+11.22,20.86,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

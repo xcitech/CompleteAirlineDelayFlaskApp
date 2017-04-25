@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,543,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_LAX.js""
+    id=""262b4e8c-9258-487a-8d8a-eb86f499b2f7""
+    data-bokeh-model-id=""a8f2de1b-d28d-44f0-b6f1-f9c48a25f39f""
+    data-bokeh-doc-id=""da5a068f-ca41-4815-b4ed-8a59a317771b""
+></script>",TAG,
+12.61,,,,DEP_DELAY,
+18.0,,,,AVG_FLIGHTS,
+27.47,,,,PERCENT_DELAYED,
+14.33,,,,POS_ARR_DELAY,
+18.42,31.71,Spirit Air Lines,,NK,2.98
+15.62,31.39,Southwest Airlines ,,WN,66.86
+10.83,19.37,Delta Air Lines ,,DL,3.45
+11.1,18.23,SkyWest Airlines ,,OO,26.71
+0.0,,,,,

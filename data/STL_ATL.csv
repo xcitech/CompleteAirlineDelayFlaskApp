@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,St. Louis,ORIGIN_CITY,,
+,,Lambert St Louis Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,779,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/STL_ATL.js""
+    id=""fe3485e5-9d76-4c35-91ff-0dc8a5f51d00""
+    data-bokeh-model-id=""327c0e39-1d0a-4b43-8fd0-67c0335b3b82""
+    data-bokeh-doc-id=""81b1ad6d-2974-40bb-b4f1-fb61fe2d1f35""
+></script>",TAG,,
+9.47,,,DEP_DELAY,,
+11.0,,,AVG_FLIGHTS,,
+14.67,,,PERCENT_DELAYED,,
+9.51,,,POS_ARR_DELAY,,
+11.78,20.13,,WN,19.11,Southwest Airlines 
+5.0,20.0,,EV,0.04,ExpressJet Airlines 
+10.0,15.0,,F9,0.51,Frontier Airlines 
+9.39,13.41,,DL,70.61,Delta Air Lines 
+5.95,12.99,,FL,9.72,AirTran Airways Corporation

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Milwaukee,ORIGIN_CITY,,
+,,General Mitchell Intl,ORIGIN_NAME,,
+,,Orlando,DEST-CITY,,
+,,Orlando Intl,DEST_NAME,,
+,,1719,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MKE_MCO.js""
+    id=""b7c15d03-516f-41c7-a318-955f7ccbd372""
+    data-bokeh-model-id=""4c65ec6f-14ac-46dc-a379-309270b60fa9""
+    data-bokeh-doc-id=""13ef894f-68a8-465e-a8af-aed0c1763cde""
+></script>",TAG,,
+11.61,,,DEP_DELAY,,
+4.0,,,AVG_FLIGHTS,,
+18.23,,,PERCENT_DELAYED,,
+11.59,,,POS_ARR_DELAY,,
+64.29,28.57,,EV,0.18,ExpressJet Airlines 
+16.99,20.72,,F9,5.56,Frontier Airlines 
+11.48,18.52,,WN,88.45,Southwest Airlines 
+4.68,14.71,,DL,0.85,Delta Air Lines 
+6.67,10.61,,FL,4.96,AirTran Airways Corporation

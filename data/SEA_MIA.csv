@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,4381,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_MIA.js""
+    id=""545b9f0c-1a8d-4a9e-aa7e-c131202541b6""
+    data-bokeh-model-id=""b6b0f6cc-f9c1-44c3-b46d-4df8389eae1d""
+    data-bokeh-doc-id=""a99fd986-aa2e-47cc-b1fe-3076db9c2a2d""
+></script>",TAG,
+12.4,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+17.66,,,,PERCENT_DELAYED,
+12.25,,,,POS_ARR_DELAY,
+12.25,17.66,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

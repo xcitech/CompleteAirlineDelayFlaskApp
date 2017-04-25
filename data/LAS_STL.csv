@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,2203,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_STL.js""
+    id=""f4c86d13-57e7-4f94-b5f2-49fb122d1a68""
+    data-bokeh-model-id=""62b006a7-803c-4f6e-b486-f6a73f63635c""
+    data-bokeh-doc-id=""ab809128-9b1c-4e66-ab3c-4cb55d31d3a1""
+></script>",TAG,
+14.13,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.44,,,,PERCENT_DELAYED,
+11.99,,,,POS_ARR_DELAY,
+19.17,23.26,Frontier Airlines ,,F9,11.83
+11.02,20.07,Southwest Airlines ,,WN,88.17
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

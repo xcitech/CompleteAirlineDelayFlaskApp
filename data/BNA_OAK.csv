@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,3146,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_OAK.js""
+    id=""29c0f04e-c381-4f0f-98cb-390918fc92ea""
+    data-bokeh-model-id=""d49c3bb8-751b-498b-93b4-0eacc019e06e""
+    data-bokeh-doc-id=""59440ef8-ea9d-411d-a83b-ebbaea6d61ba""
+></script>",TAG,
+9.69,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+12.0,,,,PERCENT_DELAYED,
+7.76,,,,POS_ARR_DELAY,
+7.76,12.0,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

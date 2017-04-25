@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,3619,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_SAN.js""
+    id=""29a0a3b5-ab6a-40e8-ab8b-235077d9f614""
+    data-bokeh-model-id=""30b75412-8b4a-4133-9bb3-cbc0eb98afd4""
+    data-bokeh-doc-id=""583ee169-48a2-42ce-b5d3-b9f0806a9daf""
+></script>",TAG,
+12.04,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+16.74,,,,PERCENT_DELAYED,
+11.49,,,,POS_ARR_DELAY,
+11.99,16.89,United Air Lines ,,UA,88.77
+7.5,15.55,Southwest Airlines ,,WN,11.23
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

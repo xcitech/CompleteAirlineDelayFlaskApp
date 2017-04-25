@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,2523,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_EWR.js""
+    id=""fcb2bc60-a711-43e6-8656-2b1fd82ed50f""
+    data-bokeh-model-id=""30cead7d-015a-47b4-8edf-25bdd31ca45e""
+    data-bokeh-doc-id=""93a7ea0f-052b-4228-8391-9591b369c03a""
+></script>",TAG,
+22.61,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+23.18,,,,PERCENT_DELAYED,
+20.06,,,,POS_ARR_DELAY,
+20.06,23.18,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

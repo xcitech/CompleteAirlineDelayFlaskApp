@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,176,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_LAX.js""
+    id=""203807cf-2bed-453b-8c48-479ef871b165""
+    data-bokeh-model-id=""d425d522-3cc6-4c12-b573-ac72e15249af""
+    data-bokeh-doc-id=""471d6e65-21d3-4be1-89e8-c4c61671a544""
+></script>",TAG,
+8.59,,,,DEP_DELAY,
+16.0,,,,AVG_FLIGHTS,
+17.39,,,,PERCENT_DELAYED,
+10.2,,,,POS_ARR_DELAY,
+10.76,18.02,Envoy Air,,MQ,4.42
+10.2,17.51,SkyWest Airlines ,,OO,94.21
+8.44,6.91,Delta Air Lines ,,DL,1.38
+0.0,,,,,
+0.0,,,,,

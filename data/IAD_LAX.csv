@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,3675,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_LAX.js""
+    id=""79a8d847-adb6-470a-ae31-06b82dc510d6""
+    data-bokeh-model-id=""ddea8155-0cf4-4109-8c80-507622c0961a""
+    data-bokeh-doc-id=""aaec29ea-b5c3-4709-99a0-80e237c3b368""
+></script>",TAG,
+12.64,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+20.37,,,,PERCENT_DELAYED,
+12.75,,,,POS_ARR_DELAY,
+14.05,22.73,United Air Lines ,,UA,62.76
+13.12,19.55,American Airlines ,,AA,19.45
+7.75,12.96,Virgin America,,VX,17.79
+0.0,,,,,
+0.0,,,,,

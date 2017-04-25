@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Washington,DEST-CITY,,
+,,Washington Dulles Intl,DEST_NAME,,
+,,946,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_IAD.js""
+    id=""33d8a545-92cc-4eba-aa74-c3655bf5c2d3""
+    data-bokeh-model-id=""c402f112-2cb8-423c-b0e4-83015785814a""
+    data-bokeh-doc-id=""7d55d4cc-f817-4a25-adef-29a9076e8935""
+></script>",TAG,,
+19.92,,,DEP_DELAY,,
+5.0,,,AVG_FLIGHTS,,
+25.72,,,PERCENT_DELAYED,,
+18.28,,,POS_ARR_DELAY,,
+28.17,42.14,,OO,2.37,SkyWest Airlines 
+31.87,40.83,,F9,6.1,Frontier Airlines 
+17.32,24.34,,UA,88.4,United Air Lines 
+11.56,22.83,,EV,3.12,ExpressJet Airlines 
+0.0,0.0,,YV,0.02,Mesa Airlines 

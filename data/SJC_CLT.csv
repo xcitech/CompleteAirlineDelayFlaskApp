@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Jose,ORIGIN_CITY,
+,,,Norman Y Mineta San Jose Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,3653,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJC_CLT.js""
+    id=""40c30230-bd35-4ced-b93c-eaf627946802""
+    data-bokeh-model-id=""ff82f082-fd26-4735-9063-bcbd18e95f15""
+    data-bokeh-doc-id=""9b0c8602-a4bc-4aab-86e3-e8046fe483a9""
+></script>",TAG,
+10.71,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+13.25,,,,PERCENT_DELAYED,
+7.54,,,,POS_ARR_DELAY,
+25.0,100.0,JetBlue Airways,,B6,1.2
+7.33,12.2,American Airlines ,,AA,98.8
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

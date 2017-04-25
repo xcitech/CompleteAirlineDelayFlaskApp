@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Ohare Intl,DEST_NAME,
+,,,3339,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_ORD.js""
+    id=""b76d1110-1053-4712-b381-d9811964f0eb""
+    data-bokeh-model-id=""6a539ca7-f993-4916-a0a2-8ce56e84584b""
+    data-bokeh-doc-id=""f9403318-1196-4e10-8301-7e911a05070e""
+></script>",TAG,
+15.2,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.45,,,,PERCENT_DELAYED,
+14.2,,,,POS_ARR_DELAY,
+15.34,25.86,JetBlue Airways,,B6,30.92
+11.92,21.21,United Air Lines ,,UA,35.2
+15.54,20.65,American Airlines ,,AA,33.89
+0.0,,,,,
+0.0,,,,,

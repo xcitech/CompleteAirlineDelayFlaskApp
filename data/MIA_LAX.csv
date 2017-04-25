@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Miami,ORIGIN_CITY,
+,,,Miami Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,3764,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MIA_LAX.js""
+    id=""7b8f3065-d966-444c-bc5a-cdf349842a41""
+    data-bokeh-model-id=""82efa815-c0ac-4970-a725-e37335bbf79c""
+    data-bokeh-doc-id=""acde2cfa-e721-4f69-be7f-df9c9bcad93d""
+></script>",TAG,
+15.37,,,,DEP_DELAY,
+9.0,,,,AVG_FLIGHTS,
+24.75,,,,PERCENT_DELAYED,
+15.48,,,,POS_ARR_DELAY,
+16.37,25.95,American Airlines ,,AA,88.57
+8.56,15.45,Delta Air Lines ,,DL,11.43
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,4073,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_BOS.js""
+    id=""a5fd9f36-d87b-45de-9b07-2dc2c7a27efa""
+    data-bokeh-model-id=""71605a72-acc9-43b5-b110-0ac9c4ba5762""
+    data-bokeh-doc-id=""326fa9ef-22f6-41b8-94da-d578bd005baf""
+></script>",TAG,
+6.46,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+12.67,,,,PERCENT_DELAYED,
+6.75,,,,POS_ARR_DELAY,
+11.45,20.32,JetBlue Airways,,B6,35.35
+4.18,8.48,Alaska Airlines ,,AS,64.65
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,871,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_CLT.js""
+    id=""516f7ca2-fe0f-4c43-afca-fb948b51b28b""
+    data-bokeh-model-id=""faead71a-8462-4c5c-8161-dde64315832e""
+    data-bokeh-doc-id=""1735b884-213d-4348-bb09-caf3ac015d37""
+></script>",TAG,
+11.49,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+18.71,,,,PERCENT_DELAYED,
+12.58,,,,POS_ARR_DELAY,
+11.51,21.95,Endeavor Air ,,9E,0.5
+12.98,20.07,JetBlue Airways,,B6,25.11
+12.88,19.47,US Airways ,,US,43.3
+11.84,16.51,American Airlines ,,AA,31.1
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Jose,ORIGIN_CITY,
+,,,Norman Y Mineta San Jose Intl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,1523,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJC_DEN.js""
+    id=""b646bbb4-6303-4589-adc8-aedbd542a4d7""
+    data-bokeh-model-id=""fb7e7af3-303d-437a-8b10-28fa55c80f26""
+    data-bokeh-doc-id=""1a89e2fc-6872-4b34-b846-b9d6f5237c28""
+></script>",TAG,
+10.09,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+15.57,,,,PERCENT_DELAYED,
+9.15,,,,POS_ARR_DELAY,
+9.79,18.06,Southwest Airlines ,,WN,50.91
+10.51,17.44,SkyWest Airlines ,,OO,21.42
+6.92,9.55,United Air Lines ,,UA,27.67
+0.0,,,,,
+0.0,,,,,

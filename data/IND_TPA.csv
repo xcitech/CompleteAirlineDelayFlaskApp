@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Indianapolis,ORIGIN_CITY,
+,,,Indianapolis Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,1351,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IND_TPA.js""
+    id=""ff05f22f-4e99-4e3c-b64f-995150dba4f6""
+    data-bokeh-model-id=""9e6663b7-c85c-4baa-8b09-6b9132d65590""
+    data-bokeh-doc-id=""1dabd19c-2075-4ca8-ba5e-086b3ec15f29""
+></script>",TAG,
+10.25,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+17.15,,,,PERCENT_DELAYED,
+10.55,,,,POS_ARR_DELAY,
+18.5,50.0,Endeavor Air ,,9E,0.07
+10.95,17.82,Southwest Airlines ,,WN,83.09
+8.58,13.69,AirTran Airways Corporation,,FL,16.84
+0.0,,,,,
+0.0,,,,,

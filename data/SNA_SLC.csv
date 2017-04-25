@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,947,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_SLC.js""
+    id=""24fd870e-2b3f-48d6-8d08-9929a20d3479""
+    data-bokeh-model-id=""c209bd72-a16f-4d47-9a69-1dd2b56abde1""
+    data-bokeh-doc-id=""c7cf092f-b69a-4620-ad39-e812c1c8be87""
+></script>",TAG,
+5.8,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+7.52,,,,PERCENT_DELAYED,
+5.69,,,,POS_ARR_DELAY,
+5.64,7.63,Delta Air Lines ,,DL,41.13
+5.72,7.45,SkyWest Airlines ,,OO,58.87
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

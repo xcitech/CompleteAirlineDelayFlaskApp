@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,3170,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_FLL.js""
+    id=""f6622671-a6c7-46f1-9508-0061df5b8628""
+    data-bokeh-model-id=""d105b66c-39fd-4a8a-a1f1-3152f46fa875""
+    data-bokeh-doc-id=""47ed6b28-170d-4406-9be3-34ca1a253cba""
+></script>",TAG,
+9.78,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.35,,,,PERCENT_DELAYED,
+9.83,,,,POS_ARR_DELAY,
+10.81,22.47,US Airways ,,US,46.49
+8.98,21.11,American Airlines ,,AA,22.07
+8.96,16.69,Southwest Airlines ,,WN,31.44
+0.0,,,,,
+0.0,,,,,

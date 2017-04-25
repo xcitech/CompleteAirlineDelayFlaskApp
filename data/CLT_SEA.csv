@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,3661,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_SEA.js""
+    id=""a2c013e5-a843-4d98-b7d3-dea017ce8491""
+    data-bokeh-model-id=""b6f4a8d1-bd44-46ae-863c-be938c7a369c""
+    data-bokeh-doc-id=""fb7c8b34-a241-43bf-9be7-e5182e4c5ed8""
+></script>",TAG,
+9.33,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.55,,,,PERCENT_DELAYED,
+10.99,,,,POS_ARR_DELAY,
+12.4,23.46,American Airlines ,,AA,42.0
+9.97,21.88,US Airways ,,US,58.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

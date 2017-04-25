@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Phoenix,ORIGIN_CITY,,
+,,Phoenix Sky Harbor Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,595,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/PHX_LAX.js""
+    id=""cf1fa39c-6acf-4215-9b6a-34b66315cb9e""
+    data-bokeh-model-id=""b43b676a-4606-4196-ab6d-54cc1918f6b9""
+    data-bokeh-doc-id=""ac6f4ff3-7233-49bc-87bb-b7bdc39308a9""
+></script>",TAG,,
+11.1,,,DEP_DELAY,,
+23.0,,,AVG_FLIGHTS,,
+23.56,,,PERCENT_DELAYED,,
+12.68,,,POS_ARR_DELAY,,
+15.55,30.46,,WN,35.58,Southwest Airlines 
+13.87,26.13,,AA,10.74,American Airlines 
+11.12,18.84,,OO,33.07,SkyWest Airlines 
+9.52,18.79,,US,16.26,US Airways 
+10.23,12.79,,DL,2.22,Delta Air Lines 

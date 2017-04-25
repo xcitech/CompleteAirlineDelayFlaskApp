@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,2487,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_DEN.js""
+    id=""e4939c1d-5378-4fe0-97be-afc38b513628""
+    data-bokeh-model-id=""159677cb-7926-4323-bd41-82a25885ec8e""
+    data-bokeh-doc-id=""ed9e6f47-2e1b-433a-85b7-426322a88efa""
+></script>",TAG,
+14.34,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+19.94,,,,PERCENT_DELAYED,
+13.54,,,,POS_ARR_DELAY,
+18.51,23.43,Frontier Airlines ,,F9,26.49
+10.74,19.12,Southwest Airlines ,,WN,38.16
+12.83,18.2,United Air Lines ,,UA,35.35
+0.0,,,,,
+0.0,,,,,

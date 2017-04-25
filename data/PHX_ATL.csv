@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Phoenix,ORIGIN_CITY,,
+,,Phoenix Sky Harbor Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,2550,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/PHX_ATL.js""
+    id=""c11e7395-de2b-495f-bbb2-dc518c4d497f""
+    data-bokeh-model-id=""52a4ac66-dc64-4151-b3b1-55f16b679ebe""
+    data-bokeh-doc-id=""d15f6883-a0b9-4b91-8e2a-413de822d20c""
+></script>",TAG,,
+8.0,,,DEP_DELAY,,
+11.0,,,AVG_FLIGHTS,,
+12.74,,,PERCENT_DELAYED,,
+7.58,,,POS_ARR_DELAY,,
+20.29,21.25,,F9,0.69,Frontier Airlines 
+9.98,20.94,,WN,18.26,Southwest Airlines 
+8.4,16.9,,AA,9.89,American Airlines 
+9.36,16.84,,US,18.73,US Airways 
+5.78,7.52,,DL,52.43,Delta Air Lines 

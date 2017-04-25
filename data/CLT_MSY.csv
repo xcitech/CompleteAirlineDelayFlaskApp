@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,New Orleans,DEST-CITY,
+,,,Louis Armstrong New Orleans Intl,DEST_NAME,
+,,,1048,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_MSY.js""
+    id=""1baf4205-86a7-4bcb-bbbd-59003f3bde26""
+    data-bokeh-model-id=""28e42853-0d84-4dfe-be5e-bca4a3dfa000""
+    data-bokeh-doc-id=""eb63571a-26cf-4004-b6a6-db7302096e66""
+></script>",TAG,
+8.4,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+17.46,,,,PERCENT_DELAYED,
+9.62,,,,POS_ARR_DELAY,
+10.91,18.54,American Airlines ,,AA,36.14
+15.94,17.65,Mesa Airlines ,,YV,0.32
+8.86,16.85,US Airways ,,US,63.53
+0.0,,,,,
+0.0,,,,,

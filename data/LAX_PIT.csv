@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Pittsburgh,DEST-CITY,
+,,,Pittsburgh Intl,DEST_NAME,
+,,,3431,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_PIT.js""
+    id=""9fb523a0-576f-46f5-b06b-5d620836d771""
+    data-bokeh-model-id=""d29e6658-a613-43c5-aa55-27295a3f008f""
+    data-bokeh-doc-id=""439dee30-6dbb-4bbb-9a33-4fae6f19f02c""
+></script>",TAG,
+10.49,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+17.28,,,,PERCENT_DELAYED,
+10.66,,,,POS_ARR_DELAY,
+29.4,56.0,Southwest Airlines ,,WN,2.04
+15.1,25.93,US Airways ,,US,13.2
+10.55,16.51,American Airlines ,,AA,60.23
+7.0,11.3,United Air Lines ,,UA,24.53
+0.0,,,,,

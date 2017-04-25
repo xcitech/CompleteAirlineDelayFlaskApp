@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,2684,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_CMH.js""
+    id=""9cb4868c-74c4-4987-a257-f82743ed9abc""
+    data-bokeh-model-id=""2d16e358-7bb5-429d-9c2b-c0a2dc6119d4""
+    data-bokeh-doc-id=""9d8c1949-9f33-49b4-bec0-5dd752843b90""
+></script>",TAG,
+11.87,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+19.81,,,,PERCENT_DELAYED,
+11.06,,,,POS_ARR_DELAY,
+17.31,28.7,Southwest Airlines ,,WN,38.79
+6.95,14.48,American Airlines ,,AA,23.47
+7.21,13.98,US Airways ,,US,37.74
+0.0,,,,,
+0.0,,,,,

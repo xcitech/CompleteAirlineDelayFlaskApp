@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,2180,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_HOU.js""
+    id=""7357dfe7-6218-48ad-b2ec-1ee1796afa64""
+    data-bokeh-model-id=""38d09066-16e3-40f4-ace5-80acbf193c2b""
+    data-bokeh-doc-id=""87d53e4e-b324-440f-841a-e64710ddd3ef""
+></script>",TAG,
+14.16,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+23.24,,,,PERCENT_DELAYED,
+11.69,,,,POS_ARR_DELAY,
+11.69,23.24,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

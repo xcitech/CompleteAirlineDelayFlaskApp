@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Los Angeles,ORIGIN_CITY,
+,,,Los Angeles Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,3205,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAX_CMH.js""
+    id=""057449d4-aa77-4c0c-aaaf-16a1ac51a388""
+    data-bokeh-model-id=""a577f450-e781-4325-937a-4d30937e6b42""
+    data-bokeh-doc-id=""a1b2021a-398e-4773-bd34-44d5104402d9""
+></script>",TAG,
+9.36,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+18.26,,,,PERCENT_DELAYED,
+9.44,,,,POS_ARR_DELAY,
+8.44,20.8,US Airways ,,US,6.19
+9.88,19.45,Delta Air Lines ,,DL,53.93
+8.99,16.25,American Airlines ,,AA,39.88
+0.0,,,,,
+0.0,,,,,

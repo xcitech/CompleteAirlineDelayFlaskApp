@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,2552,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_JFK.js""
+    id=""8ebcbb8d-cb22-443b-9b26-1c349ae3aa28""
+    data-bokeh-model-id=""e2415b49-0cf0-4814-8ed8-f20ab034520b""
+    data-bokeh-doc-id=""41f79984-42df-4f7c-a8df-1e4d80382c51""
+></script>",TAG,
+4.88,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+6.77,,,,PERCENT_DELAYED,
+5.5,,,,POS_ARR_DELAY,
+5.5,6.77,Delta Air Lines ,,DL,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,1776,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_FLL.js""
+    id=""df233e32-9cbb-4939-b90c-5d43c4f5274c""
+    data-bokeh-model-id=""98232a55-589b-4fc6-999a-ce9f45aadbfa""
+    data-bokeh-doc-id=""17a0b9db-4b57-4b54-b67f-39f9d50d22b4""
+></script>",TAG,
+12.58,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+21.4,,,,PERCENT_DELAYED,
+12.89,,,,POS_ARR_DELAY,
+14.57,22.96,Southwest Airlines ,,WN,56.53
+10.71,19.36,JetBlue Airways,,B6,43.47
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

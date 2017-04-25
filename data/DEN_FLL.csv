@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Denver,ORIGIN_CITY,
+,,,Denver Intl,ORIGIN_NAME,
+,,,Fort Lauderdale,DEST-CITY,
+,,,Fort Lauderdale Hollywood Intl,DEST_NAME,
+,,,2740,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DEN_FLL.js""
+    id=""aefa6210-bd83-4a9e-8636-fefa4248823e""
+    data-bokeh-model-id=""a0f8a0b3-0bc3-46b2-ba29-3c80c98c33e4""
+    data-bokeh-doc-id=""fef77fb8-09c0-43de-ba3b-387bc133fda0""
+></script>",TAG,
+12.71,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+21.53,,,,PERCENT_DELAYED,
+11.87,,,,POS_ARR_DELAY,
+12.76,23.67,Southwest Airlines ,,WN,42.98
+10.09,23.27,Frontier Airlines ,,F9,12.87
+13.25,20.94,Spirit Air Lines,,NK,16.11
+10.52,17.81,United Air Lines ,,UA,28.04
+0.0,,,,,

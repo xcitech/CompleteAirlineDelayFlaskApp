@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Chicago,ORIGIN_CITY,
+,,,Chicago Ohare Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,983,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ORD_DCA.js""
+    id=""39b5ebc2-f9cc-48c1-9c1e-df71c42719ef""
+    data-bokeh-model-id=""d3d8af0b-c6b0-47b3-acd8-e0fdb78482fb""
+    data-bokeh-doc-id=""2fc2007b-297a-4a2d-8dbf-0688f54ff93f""
+></script>",TAG,
+15.23,,,,DEP_DELAY,
+16.0,,,,AVG_FLIGHTS,
+24.39,,,,PERCENT_DELAYED,
+15.89,,,,POS_ARR_DELAY,
+23.33,33.71,Envoy Air,,MQ,0.98
+16.77,26.69,SkyWest Airlines ,,OO,18.39
+14.67,24.26,American Airlines ,,AA,42.35
+16.63,23.18,United Air Lines ,,UA,38.28
+0.0,,,,,

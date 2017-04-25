@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Milwaukee,DEST-CITY,
+,,,General Mitchell Intl,DEST_NAME,
+,,,511,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_MKE.js""
+    id=""e2104f36-3a15-4b61-92dc-9bab8be56e06""
+    data-bokeh-model-id=""8aabdd01-cd54-45a9-961d-7a6f44eff930""
+    data-bokeh-doc-id=""be3c112e-7692-4aac-a70a-689ec55038b3""
+></script>",TAG,
+13.69,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.55,,,,PERCENT_DELAYED,
+12.58,,,,POS_ARR_DELAY,
+12.58,20.55,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

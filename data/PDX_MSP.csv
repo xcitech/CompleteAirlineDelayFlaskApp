@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,2289,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_MSP.js""
+    id=""d675df00-7e0d-42f9-a4a3-5c2e551813d7""
+    data-bokeh-model-id=""cfa55f0a-cb18-470e-9d66-ce31e767646a""
+    data-bokeh-doc-id=""c274964a-d4a3-4a84-a4bd-9b869504b22a""
+></script>",TAG,
+6.42,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+7.38,,,,PERCENT_DELAYED,
+6.33,,,,POS_ARR_DELAY,
+6.36,7.48,Delta Air Lines ,,DL,95.59
+5.52,5.15,SkyWest Airlines ,,OO,4.41
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

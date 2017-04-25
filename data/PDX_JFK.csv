@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Portland,ORIGIN_CITY,
+,,,Portland Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,3940,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PDX_JFK.js""
+    id=""2cb4dc7b-904d-4701-a1f8-f21be1674094""
+    data-bokeh-model-id=""f894d6c3-a91d-4d8e-96db-d2a21bb8bc07""
+    data-bokeh-doc-id=""eb7c0ece-a3da-4524-930a-b1d1d937d07d""
+></script>",TAG,
+10.59,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+19.5,,,,PERCENT_DELAYED,
+12.03,,,,POS_ARR_DELAY,
+15.42,28.06,JetBlue Airways,,B6,35.41
+10.16,14.81,Delta Air Lines ,,DL,64.59
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

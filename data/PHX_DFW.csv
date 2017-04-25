@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,1394,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_DFW.js""
+    id=""26d7648f-b7eb-463e-98a2-4d35992ded8f""
+    data-bokeh-model-id=""873f6ee0-8927-491c-aaba-5a7b80cb5366""
+    data-bokeh-doc-id=""0597e761-273f-4518-97d4-e8fadb19c737""
+></script>",TAG,
+11.34,,,,DEP_DELAY,
+13.0,,,,AVG_FLIGHTS,
+18.37,,,,PERCENT_DELAYED,
+12.31,,,,POS_ARR_DELAY,
+14.04,23.77,Spirit Air Lines,,NK,4.23
+13.12,18.63,American Airlines ,,AA,71.44
+9.63,16.69,US Airways ,,US,24.33
+0.0,,,,,
+0.0,,,,,

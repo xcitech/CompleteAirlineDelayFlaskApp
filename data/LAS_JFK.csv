@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,3610,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_JFK.js""
+    id=""d080ff2f-50b3-4bba-9f63-67194c9fa735""
+    data-bokeh-model-id=""e44a6b98-69dc-434c-8885-1b12e6fdbf7f""
+    data-bokeh-doc-id=""383b2c87-a915-419c-b964-ac36506d6515""
+></script>",TAG,
+13.94,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+21.18,,,,PERCENT_DELAYED,
+14.38,,,,POS_ARR_DELAY,
+18.48,26.97,JetBlue Airways,,B6,30.64
+12.77,19.32,Delta Air Lines ,,DL,42.04
+13.73,18.7,American Airlines ,,AA,18.21
+9.3,15.22,Virgin America,,VX,9.11
+0.0,,,,,

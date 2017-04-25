@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,3929,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_BWI.js""
+    id=""264e8a2c-130f-43dd-b730-0a0537bb7526""
+    data-bokeh-model-id=""f6d42d7c-84e3-48da-a83e-d2e63cf85c20""
+    data-bokeh-doc-id=""f2322b19-9b64-46da-a588-c579dcb28bc4""
+></script>",TAG,
+16.41,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+28.3,,,,PERCENT_DELAYED,
+15.17,,,,POS_ARR_DELAY,
+15.17,28.3,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

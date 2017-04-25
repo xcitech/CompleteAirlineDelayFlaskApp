@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,1986,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_BWI.js""
+    id=""f3a33ce5-f8bb-4948-a473-db67821e368a""
+    data-bokeh-model-id=""0e221a31-e3ff-4ad6-bb13-20b9b7007d3e""
+    data-bokeh-doc-id=""6a0a8963-390b-4ba5-b75c-d9423aeaf92a""
+></script>",TAG,
+14.19,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+20.25,,,,PERCENT_DELAYED,
+12.44,,,,POS_ARR_DELAY,
+16.0,27.33,Spirit Air Lines,,NK,18.18
+11.69,18.76,United Air Lines ,,UA,81.51
+0.11,0.0,ExpressJet Airlines ,,EV,0.32
+0.0,,,,,
+0.0,,,,,

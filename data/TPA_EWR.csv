@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,1608,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_EWR.js""
+    id=""ab8b9b9c-9742-406a-a542-18744794e371""
+    data-bokeh-model-id=""0ccc53b0-bb3f-4b3a-a9bd-ed1004a16cd7""
+    data-bokeh-doc-id=""16f942e8-4588-4bba-8770-60a73cc98fbe""
+></script>",TAG,
+15.87,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+20.1,,,,PERCENT_DELAYED,
+14.62,,,,POS_ARR_DELAY,
+25.47,32.9,JetBlue Airways,,B6,15.98
+12.56,17.67,United Air Lines ,,UA,84.02
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Seattle,DEST-CITY,,
+,,Seattle Tacoma Intl,DEST_NAME,,
+,,1646,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_SEA.js""
+    id=""3cef9f36-119e-4bd8-a3a3-6dbcb3576003""
+    data-bokeh-model-id=""03473dbe-a4fc-46b1-a451-dd020991e1fd""
+    data-bokeh-doc-id=""b9b18cbd-b0c9-48d6-a549-c6666681bf8c""
+></script>",TAG,,
+12.54,,,DEP_DELAY,,
+16.0,,,AVG_FLIGHTS,,
+21.68,,,PERCENT_DELAYED,,
+12.41,,,POS_ARR_DELAY,,
+16.74,29.77,,OO,4.4,SkyWest Airlines 
+14.9,28.1,,WN,23.7,Southwest Airlines 
+15.14,26.57,,F9,17.24,Frontier Airlines 
+12.4,21.02,,UA,25.33,United Air Lines 
+7.88,12.9,,AS,28.05,Alaska Airlines 

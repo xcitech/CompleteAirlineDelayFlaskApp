@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,New Orleans,ORIGIN_CITY,,
+,,Louis Armstrong New Orleans Intl,ORIGIN_NAME,,
+,,Atlanta,DEST-CITY,,
+,,Hartsfield Jackson Atlanta Intl,DEST_NAME,,
+,,684,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MSY_ATL.js""
+    id=""0a39a5c8-a77b-457f-ae47-f2cd77c781f2""
+    data-bokeh-model-id=""9d098726-8cd4-4d9e-850a-cfd22916c081""
+    data-bokeh-doc-id=""a53af24a-b555-49ab-b8c8-e3630e8bb940""
+></script>",TAG,,
+8.86,,,DEP_DELAY,,
+16.0,,,AVG_FLIGHTS,,
+14.0,,,PERCENT_DELAYED,,
+9.36,,,POS_ARR_DELAY,,
+19.26,34.0,,F9,1.46,Frontier Airlines 
+10.71,19.06,,WN,15.69,Southwest Airlines 
+7.65,12.74,,FL,8.08,AirTran Airways Corporation
+9.07,12.69,,DL,73.93,Delta Air Lines 
+7.89,12.14,,NK,0.82,Spirit Air Lines

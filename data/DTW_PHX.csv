@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Detroit,ORIGIN_CITY,,
+,,Detroit Metro Wayne Co,ORIGIN_NAME,,
+,,Phoenix,DEST-CITY,,
+,,Phoenix Sky Harbor Intl,DEST_NAME,,
+,,2685,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DTW_PHX.js""
+    id=""ef6a3931-14d4-43f9-8f31-f8dc01e907e5""
+    data-bokeh-model-id=""2a6044fe-8fdf-4267-810f-c6877a358e91""
+    data-bokeh-doc-id=""b7219d56-6f86-41c3-a2f5-23f882cc5431""
+></script>",TAG,,
+7.98,,,DEP_DELAY,,
+8.0,,,AVG_FLIGHTS,,
+14.65,,,PERCENT_DELAYED,,
+8.64,,,POS_ARR_DELAY,,
+13.73,20.78,,F9,0.87,Frontier Airlines 
+9.67,16.82,,WN,16.75,Southwest Airlines 
+8.7,14.33,,DL,42.79,Delta Air Lines 
+7.8,14.29,,US,20.9,US Airways 
+8.3,13.52,,AA,18.68,American Airlines 

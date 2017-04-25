@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,1511,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_MCO.js""
+    id=""94e901fc-4baf-4bbb-950b-d30e7d4c1a1e""
+    data-bokeh-model-id=""f814fb6c-d692-4478-8352-df0e973fbb52""
+    data-bokeh-doc-id=""f5bc10ca-c5d9-4728-b898-336228f4226c""
+></script>",TAG,
+15.62,,,,DEP_DELAY,
+14.0,,,,AVG_FLIGHTS,
+22.12,,,,PERCENT_DELAYED,
+14.9,,,,POS_ARR_DELAY,
+20.0,100.0,ExpressJet Airlines ,,EV,0.01
+18.27,25.45,JetBlue Airways,,B6,35.98
+13.19,20.57,United Air Lines ,,UA,62.22
+6.65,8.96,Southwest Airlines ,,WN,1.79
+0.0,,,,,

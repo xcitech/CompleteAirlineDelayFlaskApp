@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Boston,ORIGIN_CITY,
+,,,General Edward Lawrence Logan Intl,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,2730,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BOS_AUS.js""
+    id=""25a74297-57a7-4633-a46a-42287dc8701e""
+    data-bokeh-model-id=""4839596b-e9fe-432b-b951-752ebb8bbc3e""
+    data-bokeh-doc-id=""420fd191-f00b-4135-964d-3eb651fad378""
+></script>",TAG,
+6.14,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+12.69,,,,PERCENT_DELAYED,
+6.65,,,,POS_ARR_DELAY,
+7.78,13.56,Southwest Airlines ,,WN,21.52
+6.34,12.45,JetBlue Airways,,B6,78.48
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

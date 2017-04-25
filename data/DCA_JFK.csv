@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Ronald Reagan Washington Natl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,342,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DCA_JFK.js""
+    id=""345a2c89-7664-481e-8065-e83cb4fa731a""
+    data-bokeh-model-id=""ff3a78e5-7d80-438a-a067-4b72ce7e65f3""
+    data-bokeh-doc-id=""3153bc2b-0e65-408a-93d0-9c05292697d3""
+></script>",TAG,
+18.57,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+29.05,,,,PERCENT_DELAYED,
+21.33,,,,POS_ARR_DELAY,
+30.22,37.94,American Airlines ,,AA,18.31
+19.6,28.68,Envoy Air,,MQ,66.35
+14.82,22.32,Endeavor Air ,,9E,7.53
+21.56,17.82,Delta Air Lines ,,DL,7.8
+0.0,,,,,

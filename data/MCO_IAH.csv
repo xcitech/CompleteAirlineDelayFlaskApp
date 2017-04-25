@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Orlando,ORIGIN_CITY,
+,,,Orlando Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,1372,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCO_IAH.js""
+    id=""d0f50f36-c3b5-44f2-bb6f-1b56c216b224""
+    data-bokeh-model-id=""3c248bd8-66a6-401e-9bac-06ce73b4708e""
+    data-bokeh-doc-id=""7fbccb4c-fbd6-49a2-a614-24ac37a0fd6c""
+></script>",TAG,
+15.15,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+19.42,,,,PERCENT_DELAYED,
+14.59,,,,POS_ARR_DELAY,
+24.57,33.18,Spirit Air Lines,,NK,7.96
+13.74,18.29,United Air Lines ,,UA,90.85
+12.46,13.68,Frontier Airlines ,,F9,1.18
+0.0,0.0,ExpressJet Airlines ,,EV,0.01
+0.0,,,,,

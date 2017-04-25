@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,San Jose,DEST-CITY,
+,,,Norman Y Mineta San Jose Intl,DEST_NAME,
+,,,621,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_SJC.js""
+    id=""87ee150a-fce6-428a-9993-8f2a7edbbc32""
+    data-bokeh-model-id=""43917d52-33cc-470d-9894-e2a363f75d63""
+    data-bokeh-doc-id=""267d0db3-0136-42f3-a706-4ad2872bf511""
+></script>",TAG,
+13.39,,,,DEP_DELAY,
+8.0,,,,AVG_FLIGHTS,
+23.07,,,,PERCENT_DELAYED,
+12.2,,,,POS_ARR_DELAY,
+92.67,33.33,Delta Air Lines ,,DL,0.13
+12.09,23.06,Southwest Airlines ,,WN,99.87
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

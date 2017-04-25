@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Houston,ORIGIN_CITY,
+,,,George Bush Intercontinental,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,2251,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAH_EWR.js""
+    id=""80bee3a2-870e-45de-ad51-bed129ced03c""
+    data-bokeh-model-id=""1cd67f51-9334-4f56-83b4-62163844013a""
+    data-bokeh-doc-id=""487e01de-d20a-431f-9de5-3df754e09455""
+></script>",TAG,
+18.95,,,,DEP_DELAY,
+10.0,,,,AVG_FLIGHTS,
+22.87,,,,PERCENT_DELAYED,
+15.9,,,,POS_ARR_DELAY,
+15.9,22.87,United Air Lines ,,UA,99.98
+3.0,0.0,ExpressJet Airlines ,,EV,0.02
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

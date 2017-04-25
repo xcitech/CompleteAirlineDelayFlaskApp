@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Nashville,ORIGIN_CITY,
+,,,Nashville Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,528,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BNA_CLT.js""
+    id=""ce90b3f5-ddc3-40df-a75b-dcb0289d62de""
+    data-bokeh-model-id=""52097f46-5e0c-49d8-99eb-1e6cdac2f27e""
+    data-bokeh-doc-id=""2ceaffee-cbc6-45d5-a07d-bf4f79bad4d6""
+></script>",TAG,
+6.18,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+14.72,,,,PERCENT_DELAYED,
+8.32,,,,POS_ARR_DELAY,
+20.08,37.5,Southwest Airlines ,,WN,0.55
+13.85,19.1,Mesa Airlines ,,YV,2.03
+9.56,17.47,American Airlines ,,AA,39.27
+7.18,12.5,US Airways ,,US,58.16
+0.0,,,,,

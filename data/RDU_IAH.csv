@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,1676,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_IAH.js""
+    id=""61f755c0-5de1-45d3-953e-85d1016cd384""
+    data-bokeh-model-id=""15913f0c-313a-4839-a2ea-9f8687bb560b""
+    data-bokeh-doc-id=""924b2d9c-6c3d-4875-9db2-d433977011dd""
+></script>",TAG,
+11.94,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+23.55,,,,PERCENT_DELAYED,
+14.56,,,,POS_ARR_DELAY,
+16.0,29.97,SkyWest Airlines ,,OO,15.41
+14.67,22.91,ExpressJet Airlines ,,EV,78.8
+9.23,15.22,United Air Lines ,,UA,5.79
+0.0,,,,,
+0.0,,,,,

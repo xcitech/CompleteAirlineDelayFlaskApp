@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Atlanta,ORIGIN_CITY,,
+,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,,
+,,Los Angeles,DEST-CITY,,
+,,Los Angeles Intl,DEST_NAME,,
+,,3127,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ATL_LAX.js""
+    id=""b90201fb-e4cb-427a-ae48-ababf6dfda54""
+    data-bokeh-model-id=""f9d06944-b3a5-476c-ae07-186b68845ce3""
+    data-bokeh-doc-id=""c0d67ea7-0068-4d54-94cd-12fa9aeb69b1""
+></script>",TAG,,
+11.47,,,DEP_DELAY,,
+16.0,,,AVG_FLIGHTS,,
+18.87,,,PERCENT_DELAYED,,
+10.33,,,POS_ARR_DELAY,,
+12.01,28.85,,FL,3.26,AirTran Airways Corporation
+14.24,27.2,,NK,2.19,Spirit Air Lines
+14.11,26.9,,WN,16.76,Southwest Airlines 
+10.81,18.49,,AA,8.84,American Airlines 
+8.92,16.04,,DL,67.16,Delta Air Lines 

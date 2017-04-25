@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Juan,ORIGIN_CITY,
+,,,Luis Munoz Marin Intl,ORIGIN_NAME,
+,,,Boston,DEST-CITY,
+,,,General Edward Lawrence Logan Intl,DEST_NAME,
+,,,2703,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SJU_BOS.js""
+    id=""2ce9fbb1-7376-4cf0-8bfb-c46575a944a1""
+    data-bokeh-model-id=""1f5e249f-ed86-4182-b795-f7b054a05578""
+    data-bokeh-doc-id=""5cb2f39a-bf1f-445a-95d3-ae07b3639178""
+></script>",TAG,
+17.19,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+25.08,,,,PERCENT_DELAYED,
+16.0,,,,POS_ARR_DELAY,
+16.0,25.08,JetBlue Airways,,B6,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

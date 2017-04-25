@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,1185,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_BWI.js""
+    id=""abfb551d-f370-4f8f-ba6e-5dddc10e9bf3""
+    data-bokeh-model-id=""21f1af19-3097-459c-94ac-45d7c6bd83ac""
+    data-bokeh-doc-id=""d004f50e-df1c-43ce-a60b-bea9024b290d""
+></script>",TAG,
+14.16,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+20.93,,,,PERCENT_DELAYED,
+12.13,,,,POS_ARR_DELAY,
+12.13,20.93,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

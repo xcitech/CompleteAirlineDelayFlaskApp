@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Los Angeles,DEST-CITY,
+,,,Los Angeles Intl,DEST_NAME,
+,,,3764,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_LAX.js""
+    id=""44729f6a-b26b-4e0d-9855-ca3057a9a717""
+    data-bokeh-model-id=""1e770c29-fb03-4df1-8812-3e0abea6dccd""
+    data-bokeh-doc-id=""25c2452c-24d2-4d1d-b177-d507b3efca58""
+></script>",TAG,
+13.11,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+22.18,,,,PERCENT_DELAYED,
+12.49,,,,POS_ARR_DELAY,
+21.14,34.26,Spirit Air Lines,,NK,11.88
+15.29,27.76,JetBlue Airways,,B6,40.55
+7.94,14.41,Virgin America,,VX,47.58
+0.0,,,,,
+0.0,,,,,

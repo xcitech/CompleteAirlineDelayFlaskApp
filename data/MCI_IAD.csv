@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Washington Dulles Intl,DEST_NAME,
+,,,1487,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_IAD.js""
+    id=""0fad4c3e-89a5-4db2-81c0-0cc5e1fd8dec""
+    data-bokeh-model-id=""a19a5d2a-ecba-48a7-b81d-c6266645cf23""
+    data-bokeh-doc-id=""4164becb-7ad0-4bd2-9e0b-14ef5afdab3d""
+></script>",TAG,
+15.22,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+17.61,,,,PERCENT_DELAYED,
+15.19,,,,POS_ARR_DELAY,
+16.52,27.34,SkyWest Airlines ,,OO,15.44
+3.0,20.0,United Air Lines ,,UA,0.6
+15.61,16.28,ExpressJet Airlines ,,EV,72.62
+11.33,12.77,Mesa Airlines ,,YV,11.34
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Phoenix,ORIGIN_CITY,
+,,,Phoenix Sky Harbor Intl,ORIGIN_NAME,
+,,,St. Louis,DEST-CITY,
+,,,Lambert St Louis Intl,DEST_NAME,
+,,,2027,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PHX_STL.js""
+    id=""9f9f1b39-942e-4aa0-a4e2-22eb64cd8d97""
+    data-bokeh-model-id=""08be4acf-368a-4708-967f-67920f888975""
+    data-bokeh-doc-id=""b4aa74d4-11f1-4ada-8108-95a7434454d8""
+></script>",TAG,
+10.61,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+18.68,,,,PERCENT_DELAYED,
+9.43,,,,POS_ARR_DELAY,
+12.29,24.23,Southwest Airlines ,,WN,50.09
+7.23,13.56,American Airlines ,,AA,19.98
+6.13,12.82,US Airways ,,US,29.89
+0.67,0.0,SkyWest Airlines ,,OO,0.04
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Columbus,ORIGIN_CITY,,
+,,Port Columbus Intl,ORIGIN_NAME,,
+,,Orlando,DEST-CITY,,
+,,Orlando Intl,DEST_NAME,,
+,,1295,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/CMH_MCO.js""
+    id=""f8c52187-dfc5-47e0-b567-894d7550672f""
+    data-bokeh-model-id=""82b07aa6-4df2-4d36-afe7-6734a721c09c""
+    data-bokeh-doc-id=""62b3086e-1adf-442e-83c3-f895e810f526""
+></script>",TAG,,
+12.62,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+17.99,,,PERCENT_DELAYED,,
+12.86,,,POS_ARR_DELAY,,
+13.0,40.0,,DL,0.15,Delta Air Lines 
+29.64,30.3,,F9,0.98,Frontier Airlines 
+12.76,17.94,,WN,96.78,Southwest Airlines 
+10.75,14.29,,FL,1.88,AirTran Airways Corporation
+0.0,0.0,,EV,0.21,ExpressJet Airlines 

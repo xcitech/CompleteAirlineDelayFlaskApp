@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,3245,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_CLE.js""
+    id=""56e303ad-5cbf-472e-b45b-df22d577aff5""
+    data-bokeh-model-id=""de42c5cd-0efa-454c-b16f-710bdcd913c0""
+    data-bokeh-doc-id=""6506f3e4-3612-497d-b9c2-8487fdc2e08a""
+></script>",TAG,
+10.9,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+18.61,,,,PERCENT_DELAYED,
+10.93,,,,POS_ARR_DELAY,
+10.0,27.78,United Air Lines ,,UA,6.57
+11.0,17.97,Frontier Airlines ,,F9,93.43
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

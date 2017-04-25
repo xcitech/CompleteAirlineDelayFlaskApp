@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,2502,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_SAN.js""
+    id=""dca08155-4bdf-4e30-9ab1-37b1b28cbb6e""
+    data-bokeh-model-id=""1d368064-83ca-4026-8782-727566a5ae74""
+    data-bokeh-doc-id=""b8c6d4cc-50c5-4fab-83da-0a108bd349ae""
+></script>",TAG,
+10.46,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+17.47,,,,PERCENT_DELAYED,
+8.84,,,,POS_ARR_DELAY,
+8.84,17.47,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

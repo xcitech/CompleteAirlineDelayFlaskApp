@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Milwaukee,ORIGIN_CITY,
+,,,General Mitchell Intl,ORIGIN_NAME,
+,,,Charlotte,DEST-CITY,
+,,,Charlotte Douglas Intl,DEST_NAME,
+,,,1048,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MKE_CLT.js""
+    id=""799d0201-017f-4ebb-9805-5f8da42808c0""
+    data-bokeh-model-id=""1532cb82-ee78-4908-981f-e30c4ccd0022""
+    data-bokeh-doc-id=""eeb4721c-0356-409b-83ca-f877d6cfb526""
+></script>",TAG,
+18.83,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+16.87,,,,PERCENT_DELAYED,
+14.82,,,,POS_ARR_DELAY,
+14.82,16.87,Mesa Airlines ,,YV,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

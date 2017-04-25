@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Honolulu,ORIGIN_CITY,
+,,,Honolulu Intl,ORIGIN_NAME,
+,,,Phoenix,DEST-CITY,
+,,,Phoenix Sky Harbor Intl,DEST_NAME,
+,,,4690,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/HNL_PHX.js""
+    id=""4a0d080e-719b-453d-a9c1-507b07c0c44a""
+    data-bokeh-model-id=""81b2066e-bd23-4624-8bb3-1aadd8f45941""
+    data-bokeh-doc-id=""c746b829-fd99-4a6c-a58b-b82c74fddf3b""
+></script>",TAG,
+8.36,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+14.35,,,,PERCENT_DELAYED,
+9.39,,,,POS_ARR_DELAY,
+13.49,18.62,Hawaiian Airlines ,,HA,30.32
+7.85,14.77,American Airlines ,,AA,28.07
+7.44,10.96,US Airways ,,US,41.61
+0.0,,,,,
+0.0,,,,,

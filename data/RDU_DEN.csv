@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Raleigh-durham,ORIGIN_CITY,
+,,,Raleigh Durham Intl,ORIGIN_NAME,
+,,,Denver,DEST-CITY,
+,,,Denver Intl,DEST_NAME,
+,,,2307,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RDU_DEN.js""
+    id=""a8ed9c2c-54ca-4731-9887-5df2a07afa32""
+    data-bokeh-model-id=""4f15d55c-e4eb-4f1d-a383-75c36d104d0d""
+    data-bokeh-doc-id=""304d4533-f838-4eb0-99cb-f36224e85a17""
+></script>",TAG,
+9.51,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+15.35,,,,PERCENT_DELAYED,
+9.98,,,,POS_ARR_DELAY,
+17.16,23.62,SkyWest Airlines ,,OO,18.57
+9.62,15.27,Frontier Airlines ,,F9,12.68
+9.04,13.66,United Air Lines ,,UA,5.88
+8.02,13.08,Southwest Airlines ,,WN,62.87
+0.0,,,,,

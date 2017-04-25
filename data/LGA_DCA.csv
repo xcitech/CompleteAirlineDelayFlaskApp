@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,La Guardia,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,345,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LGA_DCA.js""
+    id=""625bd93f-8d7d-4cba-9189-6d6609be5edc""
+    data-bokeh-model-id=""9abbfe36-8c65-4f3e-b2b8-0bf6ec397f35""
+    data-bokeh-doc-id=""a414928c-10a5-48d9-940a-8b2ae619ffdb""
+></script>",TAG,
+8.85,,,,DEP_DELAY,
+12.0,,,,AVG_FLIGHTS,
+21.79,,,,PERCENT_DELAYED,
+12.08,,,,POS_ARR_DELAY,
+42.6,80.0,Delta Air Lines ,,DL,0.04
+13.16,22.68,American Airlines ,,AA,38.21
+11.4,21.2,US Airways ,,US,61.76
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Denver,ORIGIN_CITY,
+,,,Denver Intl,ORIGIN_NAME,
+,,,Honolulu,DEST-CITY,
+,,,Honolulu Intl,DEST_NAME,
+,,,5409,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DEN_HNL.js""
+    id=""0dd59bb1-cd3d-4027-8a79-228a5792f3bd""
+    data-bokeh-model-id=""9f85b7ac-4f61-4fb2-8b0c-30991c6c7a9d""
+    data-bokeh-doc-id=""ea95aa50-c6a1-4fcc-b831-ecb73db1db65""
+></script>",TAG,
+19.45,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+28.29,,,,PERCENT_DELAYED,
+18.93,,,,POS_ARR_DELAY,
+18.93,28.29,United Air Lines ,,UA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

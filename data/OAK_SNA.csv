@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Oakland,ORIGIN_CITY,
+,,,Metropolitan Oakland Intl,ORIGIN_NAME,
+,,,Santa Ana,DEST-CITY,
+,,,John Wayne Arpt Orange Co,DEST_NAME,
+,,,597,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/OAK_SNA.js""
+    id=""fe7f8e52-971b-46f1-b3ff-52ba780d1df1""
+    data-bokeh-model-id=""bfa73fa1-755d-4696-8703-b1506fc7a695""
+    data-bokeh-doc-id=""7562bb85-9d37-44c2-9df5-a84c6bec5d13""
+></script>",TAG,
+9.14,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+16.78,,,,PERCENT_DELAYED,
+7.76,,,,POS_ARR_DELAY,
+7.76,16.78,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

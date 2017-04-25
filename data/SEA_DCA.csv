@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Seattle,ORIGIN_CITY,
+,,,Seattle Tacoma Intl,ORIGIN_NAME,
+,,,Washington,DEST-CITY,
+,,,Ronald Reagan Washington Natl,DEST_NAME,
+,,,3739,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SEA_DCA.js""
+    id=""36146102-1ac1-443f-bd84-48637f90fc73""
+    data-bokeh-model-id=""2b8a10bd-7b1a-449a-91f7-c40d1e829aaf""
+    data-bokeh-doc-id=""70c8cd61-c7ac-4de3-a786-f0004400a0cf""
+></script>",TAG,
+4.87,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+14.69,,,,PERCENT_DELAYED,
+6.83,,,,POS_ARR_DELAY,
+6.83,14.69,Alaska Airlines ,,AS,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

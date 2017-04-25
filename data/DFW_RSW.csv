@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Fort Myers,DEST-CITY,
+,,,Southwest Florida Intl,DEST_NAME,
+,,,1635,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_RSW.js""
+    id=""0200f6e5-edb2-4816-8872-4b32324573ae""
+    data-bokeh-model-id=""921cb1ec-caf7-4f28-8a8f-a978dfd3bf9d""
+    data-bokeh-doc-id=""52971fac-2e2d-4aed-8ee0-ac8dba7fc6c6""
+></script>",TAG,
+12.92,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+22.6,,,,PERCENT_DELAYED,
+13.71,,,,POS_ARR_DELAY,
+13.98,24.31,Spirit Air Lines,,NK,7.59
+13.69,22.45,American Airlines ,,AA,92.41
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

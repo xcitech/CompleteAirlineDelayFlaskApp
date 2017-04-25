@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Austin,ORIGIN_CITY,
+,,,Austin Bergstrom Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,306,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/AUS_DFW.js""
+    id=""999a0e2d-a09f-414e-a4f5-9f246b12e5a7""
+    data-bokeh-model-id=""620ebc62-4a35-4b4e-8ef2-e0cf2cb9ca01""
+    data-bokeh-doc-id=""9425df17-aea2-4a7a-bf4c-f01053e20566""
+></script>",TAG,
+11.2,,,,DEP_DELAY,
+13.0,,,,AVG_FLIGHTS,
+14.39,,,,PERCENT_DELAYED,
+11.54,,,,POS_ARR_DELAY,
+11.54,14.39,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,481,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_CMH.js""
+    id=""2e186c88-8fdd-41fc-a5d3-5e211e942ab8""
+    data-bokeh-model-id=""2d06d6c6-5e89-4ff0-85d6-c9ca93f880f0""
+    data-bokeh-doc-id=""13c12ff5-4bc5-4d78-abd5-df1845a2b8c8""
+></script>",TAG,
+19.42,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+25.0,,,,PERCENT_DELAYED,
+20.29,,,,POS_ARR_DELAY,
+21.56,26.03,ExpressJet Airlines ,,EV,88.32
+10.97,17.74,SkyWest Airlines ,,OO,11.31
+1.0,0.0,Mesa Airlines ,,YV,0.36
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,San Francisco,DEST-CITY,
+,,,San Francisco Intl,DEST_NAME,
+,,,4120,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_SFO.js""
+    id=""9d4f4b55-b05c-4ddd-bac5-47d0cb735bc1""
+    data-bokeh-model-id=""a63c53a1-cd3b-41df-a9cf-edb09cb99e23""
+    data-bokeh-doc-id=""d8e2902d-ab41-416d-aea8-471c391ab210""
+></script>",TAG,
+18.89,,,,DEP_DELAY,
+15.0,,,,AVG_FLIGHTS,
+24.38,,,,PERCENT_DELAYED,
+16.67,,,,POS_ARR_DELAY,
+17.28,26.02,United Air Lines ,,UA,82.7
+13.77,16.54,Virgin America,,VX,17.3
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

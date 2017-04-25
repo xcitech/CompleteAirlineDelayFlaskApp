@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Antonio,ORIGIN_CITY,
+,,,San Antonio Intl,ORIGIN_NAME,
+,,,Miami,DEST-CITY,
+,,,Miami Intl,DEST_NAME,
+,,,1836,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAT_MIA.js""
+    id=""0abf81ba-ecca-4130-a205-0065a68c5033""
+    data-bokeh-model-id=""bc2d6a0a-3153-4c8d-a1b7-d4e44d2bd7dc""
+    data-bokeh-doc-id=""1caaa086-b06d-4f05-add9-f4e2fa52cdfd""
+></script>",TAG,
+7.73,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+13.16,,,,PERCENT_DELAYED,
+9.82,,,,POS_ARR_DELAY,
+9.82,13.16,American Airlines ,,AA,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

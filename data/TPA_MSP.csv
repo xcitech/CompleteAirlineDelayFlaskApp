@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,2105,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_MSP.js""
+    id=""bb525dd3-efc3-40e3-b9ed-39cbe8a908b5""
+    data-bokeh-model-id=""0b141636-cc59-418a-b169-f142d53c6660""
+    data-bokeh-doc-id=""973f891c-5d1c-4d85-ab95-5e532980d8e7""
+></script>",TAG,
+10.28,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+12.18,,,,PERCENT_DELAYED,
+9.42,,,,POS_ARR_DELAY,
+18.46,28.52,Spirit Air Lines,,NK,8.06
+18.88,25.0,Southwest Airlines ,,WN,0.5
+12.0,20.0,AirTran Airways Corporation,,FL,0.16
+8.57,10.66,Delta Air Lines ,,DL,91.28
+0.0,,,,,

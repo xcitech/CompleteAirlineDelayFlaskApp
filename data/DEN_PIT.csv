@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Denver,ORIGIN_CITY,,
+,,Denver Intl,ORIGIN_NAME,,
+,,Pittsburgh,DEST-CITY,,
+,,Pittsburgh Intl,DEST_NAME,,
+,,2072,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/DEN_PIT.js""
+    id=""7bb3001e-21e7-4903-9a71-2886655852b7""
+    data-bokeh-model-id=""34421a96-edcc-490b-ae5d-0020a01e274c""
+    data-bokeh-doc-id=""4f17ef49-cd03-41bd-8e57-7a35aacd55dd""
+></script>",TAG,,
+15.7,,,DEP_DELAY,,
+3.0,,,AVG_FLIGHTS,,
+21.64,,,PERCENT_DELAYED,,
+13.48,,,POS_ARR_DELAY,,
+17.78,32.47,,F9,2.34,Frontier Airlines 
+15.93,27.84,,EV,2.95,ExpressJet Airlines 
+16.65,27.22,,WN,38.47,Southwest Airlines 
+15.87,26.19,,OO,2.56,SkyWest Airlines 
+10.77,16.61,,UA,53.68,United Air Lines 

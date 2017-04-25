@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Philadelphia,DEST-CITY,
+,,,Philadelphia Intl,DEST_NAME,
+,,,4049,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_PHL.js""
+    id=""48446727-a201-4e4d-af04-f485c6225bab""
+    data-bokeh-model-id=""b899eadd-ea59-4927-8a43-db11145ab7d6""
+    data-bokeh-doc-id=""1d18df15-efe3-41cb-8c8b-d345868564dd""
+></script>",TAG,
+10.75,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+17.72,,,,PERCENT_DELAYED,
+9.94,,,,POS_ARR_DELAY,
+12.02,21.48,United Air Lines ,,UA,31.62
+9.2,16.61,US Airways ,,US,38.39
+8.25,16.01,American Airlines ,,AA,24.75
+10.68,11.2,Virgin America,,VX,5.24
+0.0,,,,,

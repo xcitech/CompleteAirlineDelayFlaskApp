@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Ohare Intl,DEST_NAME,
+,,,2432,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_ORD.js""
+    id=""115a1d18-e9a9-4149-bce7-2652fdda1e7d""
+    data-bokeh-model-id=""ff2c90c0-ae21-4e0a-8997-945261831c75""
+    data-bokeh-doc-id=""45ef6bb6-e8a0-43de-897e-1f76e51ddd5b""
+></script>",TAG,
+14.07,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+19.81,,,,PERCENT_DELAYED,
+14.46,,,,POS_ARR_DELAY,
+19.47,28.06,Spirit Air Lines,,NK,12.76
+16.32,21.67,Frontier Airlines ,,F9,7.09
+15.75,20.05,American Airlines ,,AA,39.95
+11.25,16.63,United Air Lines ,,UA,40.2
+0.0,,,,,

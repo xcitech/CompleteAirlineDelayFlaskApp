@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Santa Ana,ORIGIN_CITY,
+,,,John Wayne Arpt Orange Co,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Ohare Intl,DEST_NAME,
+,,,2773,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SNA_ORD.js""
+    id=""54998bfe-1714-47fe-a65f-2d4c273b94c6""
+    data-bokeh-model-id=""7b96a86c-6e21-4852-b7b0-33dfff27973f""
+    data-bokeh-doc-id=""e782a1ba-4680-4d7e-9cf5-b3702f479997""
+></script>",TAG,
+10.92,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+16.79,,,,PERCENT_DELAYED,
+11.12,,,,POS_ARR_DELAY,
+10.39,16.82,American Airlines ,,AA,54.81
+12.0,16.75,United Air Lines ,,UA,45.19
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

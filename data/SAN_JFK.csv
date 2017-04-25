@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Diego,ORIGIN_CITY,
+,,,San Diego Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,3929,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SAN_JFK.js""
+    id=""ede6d83e-ae88-45ad-98c2-d1fc6ea878e9""
+    data-bokeh-model-id=""e22ebe73-6d27-4e28-aae6-4b22722a57b5""
+    data-bokeh-doc-id=""38490d6f-cc58-4a01-9e3a-7dd5c05f2ad0""
+></script>",TAG,
+12.31,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+17.52,,,,PERCENT_DELAYED,
+12.98,,,,POS_ARR_DELAY,
+15.69,22.4,JetBlue Airways,,B6,36.91
+10.81,15.56,Delta Air Lines ,,DL,41.77
+12.56,12.93,American Airlines ,,AA,21.32
+0.0,,,,,
+0.0,,,,,

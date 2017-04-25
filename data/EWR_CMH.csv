@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Newark,ORIGIN_CITY,
+,,,Newark Liberty Intl,ORIGIN_NAME,
+,,,Columbus,DEST-CITY,
+,,,Port Columbus Intl,DEST_NAME,
+,,,743,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/EWR_CMH.js""
+    id=""6fb668ba-3475-404a-afe2-9d758244dbb6""
+    data-bokeh-model-id=""64208637-2746-4ef5-bbd4-d6bfc7213308""
+    data-bokeh-doc-id=""4cb5d25d-55aa-40c2-bbd1-469d7baf30f8""
+></script>",TAG,
+10.74,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+19.69,,,,PERCENT_DELAYED,
+11.99,,,,POS_ARR_DELAY,
+12.02,19.74,ExpressJet Airlines ,,EV,99.76
+0.67,0.0,United Air Lines ,,UA,0.24
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

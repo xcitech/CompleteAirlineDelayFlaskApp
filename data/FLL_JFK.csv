@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,New York,DEST-CITY,
+,,,John F Kennedy Intl,DEST_NAME,
+,,,1724,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_JFK.js""
+    id=""7601f973-02f8-428c-b245-dcae5b2bdcfd""
+    data-bokeh-model-id=""5d9789c1-eb15-4d28-839b-1fe399231e39""
+    data-bokeh-doc-id=""83a8f173-a1b9-429e-84b0-540f5616443a""
+></script>",TAG,
+20.37,,,,DEP_DELAY,
+12.0,,,,AVG_FLIGHTS,
+25.75,,,,PERCENT_DELAYED,
+19.8,,,,POS_ARR_DELAY,
+21.32,29.5,JetBlue Airways,,B6,66.85
+17.31,18.68,Delta Air Lines ,,DL,30.85
+8.85,11.74,Virgin America,,VX,2.3
+0.0,,,,,
+0.0,,,,,

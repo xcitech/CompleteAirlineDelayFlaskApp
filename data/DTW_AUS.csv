@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Detroit,ORIGIN_CITY,
+,,,Detroit Metro Wayne Co,ORIGIN_NAME,
+,,,Austin,DEST-CITY,
+,,,Austin Bergstrom Intl,DEST_NAME,
+,,,1849,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DTW_AUS.js""
+    id=""c1bee503-3e1c-47aa-ac72-d29b2f8174ae""
+    data-bokeh-model-id=""4c0cd436-2c9e-414f-9942-686b92570f0e""
+    data-bokeh-doc-id=""94d1cb0f-a738-4000-b91d-0485d4d192af""
+></script>",TAG,
+12.92,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+19.9,,,,PERCENT_DELAYED,
+12.63,,,,POS_ARR_DELAY,
+15.35,26.82,Endeavor Air ,,9E,24.14
+15.2,23.04,ExpressJet Airlines ,,EV,15.27
+12.23,21.95,SkyWest Airlines ,,OO,6.55
+10.74,15.68,Delta Air Lines ,,DL,54.04
+0.0,,,,,

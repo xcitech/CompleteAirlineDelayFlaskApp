@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Salt Lake City,ORIGIN_CITY,
+,,,Salt Lake City Intl,ORIGIN_NAME,
+,,,Dallas,DEST-CITY,
+,,,Dallas Love Fld,DEST_NAME,
+,,,1607,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SLC_DAL.js""
+    id=""0bd69a85-aa9b-4af8-af48-27c74917724f""
+    data-bokeh-model-id=""fca4f312-491b-49cf-9522-0c206c21a5ba""
+    data-bokeh-doc-id=""a75b9ed0-8053-496a-bcff-fe4cb9081d01""
+></script>",TAG,
+2.37,,,,DEP_DELAY,
+0.0,,,,AVG_FLIGHTS,
+6.77,,,,PERCENT_DELAYED,
+3.21,,,,POS_ARR_DELAY,
+3.21,6.77,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

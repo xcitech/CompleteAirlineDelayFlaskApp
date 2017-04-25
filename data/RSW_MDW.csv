@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Myers,ORIGIN_CITY,
+,,,Southwest Florida Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,1782,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/RSW_MDW.js""
+    id=""298250e3-d81b-4522-9299-2fefd1798c16""
+    data-bokeh-model-id=""f268a5c0-6376-41f5-8347-b894b31390a9""
+    data-bokeh-doc-id=""e2af56e5-12a9-4e13-b624-3b658e80cab4""
+></script>",TAG,
+12.57,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+17.44,,,,PERCENT_DELAYED,
+11.97,,,,POS_ARR_DELAY,
+12.15,17.58,Southwest Airlines ,,WN,87.24
+10.77,16.52,AirTran Airways Corporation,,FL,12.76
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

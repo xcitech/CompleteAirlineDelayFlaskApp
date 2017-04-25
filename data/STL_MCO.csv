@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,1420,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_MCO.js""
+    id=""2a1ba81c-e3e2-4994-b3d0-6c6f862f2ddb""
+    data-bokeh-model-id=""225faac4-366b-491e-9e4d-f4cf11830daa""
+    data-bokeh-doc-id=""2bad03a8-deb5-44fd-ad92-2ac24c4786f5""
+></script>",TAG,
+12.38,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+19.16,,,,PERCENT_DELAYED,
+12.15,,,,POS_ARR_DELAY,
+12.4,20.06,Southwest Airlines ,,WN,87.69
+11.65,14.81,Frontier Airlines ,,F9,9.84
+5.59,4.27,AirTran Airways Corporation,,FL,2.47
+0.0,,,,,
+0.0,,,,,

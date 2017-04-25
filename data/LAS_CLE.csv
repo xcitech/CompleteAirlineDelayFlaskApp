@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Cleveland,DEST-CITY,
+,,,Cleveland Hopkins Intl,DEST_NAME,
+,,,2930,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_CLE.js""
+    id=""56d991cb-4f40-4142-bd73-fd55e25a26a2""
+    data-bokeh-model-id=""7d77d36f-5cff-46de-a75e-5f062b350618""
+    data-bokeh-doc-id=""f6c5fada-2f1e-4db3-ab9c-4318acd95afe""
+></script>",TAG,
+14.89,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+19.36,,,,PERCENT_DELAYED,
+13.18,,,,POS_ARR_DELAY,
+19.76,31.18,Southwest Airlines ,,WN,23.27
+16.92,23.72,Frontier Airlines ,,F9,23.64
+13.41,20.0,Spirit Air Lines,,NK,15.75
+6.62,8.98,United Air Lines ,,UA,37.34
+0.0,,,,,

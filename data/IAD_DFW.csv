@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,Dallas-Fort Worth,DEST-CITY,
+,,,Dallas Fort Worth Intl,DEST_NAME,
+,,,1883,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_DFW.js""
+    id=""f0d2b3d2-a654-4964-bb80-62d4ee96deb7""
+    data-bokeh-model-id=""ef3b3217-d257-4428-9daf-d6a7a60ff90a""
+    data-bokeh-doc-id=""37432d7a-17e7-43b5-a97b-36f6011295f8""
+></script>",TAG,
+17.11,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+22.06,,,,PERCENT_DELAYED,
+17.99,,,,POS_ARR_DELAY,
+27.94,42.72,SkyWest Airlines ,,OO,6.54
+18.35,29.26,United Air Lines ,,UA,8.83
+11.91,20.56,Mesa Airlines ,,YV,2.27
+17.32,19.69,American Airlines ,,AA,82.36
+0.0,,,,,

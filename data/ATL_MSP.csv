@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Atlanta,ORIGIN_CITY,,
+,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,,
+,,Minneapolis,DEST-CITY,,
+,,Minneapolis St Paul Intl,DEST_NAME,,
+,,1460,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ATL_MSP.js""
+    id=""fefde875-ee07-4827-9419-17d6483ade45""
+    data-bokeh-model-id=""87c59853-7c9f-4c92-9af3-c94e208815ae""
+    data-bokeh-doc-id=""771a3345-9431-44c5-90e9-ae0bb6c4924e""
+></script>",TAG,,
+9.8,,,DEP_DELAY,,
+14.0,,,AVG_FLIGHTS,,
+16.08,,,PERCENT_DELAYED,,
+8.78,,,POS_ARR_DELAY,,
+11.71,21.25,,WN,13.09,Southwest Airlines 
+12.2,19.42,,NK,0.89,Spirit Air Lines
+8.01,18.35,,FL,9.95,AirTran Airways Corporation
+16.82,17.02,,F9,1.2,Frontier Airlines 
+8.2,14.83,,DL,74.73,Delta Air Lines 

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Fort Lauderdale,ORIGIN_CITY,
+,,,Fort Lauderdale Hollywood Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Ohare Intl,DEST_NAME,
+,,,1906,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/FLL_ORD.js""
+    id=""b8c0eb34-c44b-4edd-aeb0-8488aa032a3b""
+    data-bokeh-model-id=""9eec8a24-1b93-4eb5-a30a-c41d633f6f47""
+    data-bokeh-doc-id=""d2553cc6-72f3-470a-beff-2bd9c145aaa0""
+></script>",TAG,
+14.46,,,,DEP_DELAY,
+6.0,,,,AVG_FLIGHTS,
+21.55,,,,PERCENT_DELAYED,
+14.95,,,,POS_ARR_DELAY,
+22.13,34.36,Spirit Air Lines,,NK,22.31
+13.72,19.22,American Airlines ,,AA,48.7
+11.5,15.61,United Air Lines ,,UA,28.99
+0.0,,,,,
+0.0,,,,,

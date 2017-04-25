@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Denver,ORIGIN_CITY,
+,,,Denver Intl,ORIGIN_NAME,
+,,,Oakland,DEST-CITY,
+,,,Metropolitan Oakland Intl,DEST_NAME,
+,,,1537,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DEN_OAK.js""
+    id=""c3de294b-a65c-4b2a-ba09-5041b2f16b31""
+    data-bokeh-model-id=""06906e9d-c45b-470a-87c9-9cf68e506af2""
+    data-bokeh-doc-id=""ecbf4bdb-fcb9-4ed9-8c72-3541dbb00f53""
+></script>",TAG,
+15.01,,,,DEP_DELAY,
+4.0,,,,AVG_FLIGHTS,
+23.71,,,,PERCENT_DELAYED,
+12.99,,,,POS_ARR_DELAY,
+12.99,23.71,Southwest Airlines ,,WN,99.98
+14.0,0.0,Frontier Airlines ,,F9,0.02
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

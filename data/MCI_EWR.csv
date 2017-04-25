@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Newark,DEST-CITY,
+,,,Newark Liberty Intl,DEST_NAME,
+,,,1754,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_EWR.js""
+    id=""de327703-5b26-4a6f-9d84-c5923ce36576""
+    data-bokeh-model-id=""034b61ae-ea17-4d57-99dc-f554f60a3171""
+    data-bokeh-doc-id=""0735a187-018b-4e06-9352-af641c8735df""
+></script>",TAG,
+18.16,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+23.93,,,,PERCENT_DELAYED,
+18.23,,,,POS_ARR_DELAY,
+18.24,23.94,ExpressJet Airlines ,,EV,99.95
+0.0,0.0,United Air Lines ,,UA,0.05
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Atlanta,ORIGIN_CITY,
+,,,Hartsfield Jackson Atlanta Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,952,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/ATL_MDW.js""
+    id=""56817ed3-1e0d-4fb2-84aa-462d8a564329""
+    data-bokeh-model-id=""f9bed4db-4817-4b9e-a03f-38fec19bb3ea""
+    data-bokeh-doc-id=""9781773a-895c-4a8b-a74f-8b22235e43a2""
+></script>",TAG,
+11.15,,,,DEP_DELAY,
+13.0,,,,AVG_FLIGHTS,
+17.12,,,,PERCENT_DELAYED,
+10.35,,,,POS_ARR_DELAY,
+16.31,25.71,ExpressJet Airlines ,,EV,0.24
+12.49,20.41,Southwest Airlines ,,WN,35.54
+9.49,18.8,AirTran Airways Corporation,,FL,15.73
+9.04,14.13,Delta Air Lines ,,DL,48.49
+0.0,,,,,

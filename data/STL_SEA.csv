@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,St. Louis,ORIGIN_CITY,
+,,,Lambert St Louis Intl,ORIGIN_NAME,
+,,,Seattle,DEST-CITY,
+,,,Seattle Tacoma Intl,DEST_NAME,
+,,,2745,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/STL_SEA.js""
+    id=""d8b7e09e-1281-4200-93dd-951902cf39f2""
+    data-bokeh-model-id=""a9a5c3b6-8b5b-43be-816d-1d99dab0fbd1""
+    data-bokeh-doc-id=""2a7ed940-3d4f-42cf-b5cf-b94b8780906c""
+></script>",TAG,
+8.42,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+15.72,,,,PERCENT_DELAYED,
+8.48,,,,POS_ARR_DELAY,
+13.12,25.07,Southwest Airlines ,,WN,20.66
+7.27,13.29,Alaska Airlines ,,AS,79.34
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

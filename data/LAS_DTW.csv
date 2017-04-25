@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Detroit,DEST-CITY,
+,,,Detroit Metro Wayne Co,DEST_NAME,
+,,,2809,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_DTW.js""
+    id=""87cc735b-6c19-4925-869a-3b5516af80cd""
+    data-bokeh-model-id=""0b39b8b6-2300-4461-bb46-4aadff386024""
+    data-bokeh-doc-id=""50068354-d466-4c5d-b74a-e0089f614051""
+></script>",TAG,
+9.58,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+13.16,,,,PERCENT_DELAYED,
+8.7,,,,POS_ARR_DELAY,
+14.47,21.42,Spirit Air Lines,,NK,22.16
+9.76,19.54,Southwest Airlines ,,WN,13.28
+6.49,9.0,Delta Air Lines ,,DL,64.56
+0.0,,,,,
+0.0,,,,,

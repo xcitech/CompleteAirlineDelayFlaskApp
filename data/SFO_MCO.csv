@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,San Francisco,ORIGIN_CITY,
+,,,San Francisco Intl,ORIGIN_NAME,
+,,,Orlando,DEST-CITY,
+,,,Orlando Intl,DEST_NAME,
+,,,3930,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/SFO_MCO.js""
+    id=""188d37c3-586f-46a8-a927-cef47830b6ee""
+    data-bokeh-model-id=""070d4bd1-fe58-4053-a90c-5f7666e6b7f6""
+    data-bokeh-doc-id=""9f41d0d0-dfbc-44cf-9208-427409f86756""
+></script>",TAG,
+17.61,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+22.09,,,,PERCENT_DELAYED,
+14.93,,,,POS_ARR_DELAY,
+44.89,61.82,Frontier Airlines ,,F9,2.11
+14.55,21.61,United Air Lines ,,UA,95.67
+2.64,5.17,Virgin America,,VX,2.22
+0.0,,,,,
+0.0,,,,,

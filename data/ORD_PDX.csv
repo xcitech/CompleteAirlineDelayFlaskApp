@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Chicago,ORIGIN_CITY,,
+,,Chicago Ohare Intl,ORIGIN_NAME,,
+,,Portland,DEST-CITY,,
+,,Portland Intl,DEST_NAME,,
+,,2792,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/ORD_PDX.js""
+    id=""c4b86950-4863-487b-a761-d8035b553c77""
+    data-bokeh-model-id=""d81d7bb2-b471-4075-81b2-93271466b476""
+    data-bokeh-doc-id=""3dfb4bc6-25b2-4940-bc6e-16bf071ee437""
+></script>",TAG,,
+17.14,,,DEP_DELAY,,
+7.0,,,AVG_FLIGHTS,,
+24.43,,,PERCENT_DELAYED,,
+15.32,,,POS_ARR_DELAY,,
+24.95,41.46,,NK,4.42,Spirit Air Lines
+16.2,25.36,,UA,55.04,United Air Lines 
+13.81,24.91,,AA,25.23,American Airlines 
+18.68,23.4,,F9,0.63,Frontier Airlines 
+11.55,15.06,,AS,14.68,Alaska Airlines 

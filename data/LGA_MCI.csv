@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,La Guardia,ORIGIN_NAME,
+,,,Kansas City,DEST-CITY,
+,,,Kansas City Intl,DEST_NAME,
+,,,1778,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LGA_MCI.js""
+    id=""c9bdb4f5-73eb-41cb-af8d-cfffe7109c21""
+    data-bokeh-model-id=""3da53ef8-55d0-455f-91a4-6eb32a227468""
+    data-bokeh-doc-id=""64ea928d-8f86-4f9b-9beb-831f756ec0a7""
+></script>",TAG,
+23.43,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+29.01,,,,PERCENT_DELAYED,
+20.65,,,,POS_ARR_DELAY,
+23.24,29.9,Southwest Airlines ,,WN,29.73
+20.13,29.31,ExpressJet Airlines ,,EV,65.17
+12.81,21.25,Endeavor Air ,,9E,4.8
+0.0,0.0,Delta Air Lines ,,DL,0.3
+0.0,,,,,

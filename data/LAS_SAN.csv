@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,417,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_SAN.js""
+    id=""87b73ff7-a2dd-4897-a6b7-c7b3580466b7""
+    data-bokeh-model-id=""a1f9465e-4830-4a13-9ca5-efe388b73725""
+    data-bokeh-doc-id=""2406ff4d-04f3-4444-96a6-4472a61d1847""
+></script>",TAG,
+14.16,,,,DEP_DELAY,
+12.0,,,,AVG_FLIGHTS,
+26.14,,,,PERCENT_DELAYED,
+13.94,,,,POS_ARR_DELAY,
+13.64,26.22,Southwest Airlines ,,WN,90.64
+16.77,25.42,Spirit Air Lines,,NK,9.36
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

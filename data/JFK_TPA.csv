@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,New York,ORIGIN_CITY,
+,,,John F Kennedy Intl,ORIGIN_NAME,
+,,,Tampa,DEST-CITY,
+,,,Tampa Intl,DEST_NAME,
+,,,1620,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/JFK_TPA.js""
+    id=""0e494c92-058e-43e6-b060-a8552cabf797""
+    data-bokeh-model-id=""c1ede969-c44e-4edf-89bf-926a02ab7037""
+    data-bokeh-doc-id=""8972cc2f-d8da-49a9-9825-69fef6d725e7""
+></script>",TAG,
+16.28,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+24.83,,,,PERCENT_DELAYED,
+17.16,,,,POS_ARR_DELAY,
+17.17,32.08,Envoy Air,,MQ,5.98
+17.1,27.28,JetBlue Airways,,B6,55.8
+17.26,20.13,Delta Air Lines ,,DL,38.18
+0.0,0.0,Endeavor Air ,,9E,0.04
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Tampa,ORIGIN_CITY,
+,,,Tampa Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,1358,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/TPA_BWI.js""
+    id=""7e37504f-ea60-4bb5-ba94-10d21ef07ebb""
+    data-bokeh-model-id=""8a013489-1846-4ebb-82e0-26fbd7e950fa""
+    data-bokeh-doc-id=""f537b6d5-3985-4770-8069-cdb2d78584d0""
+></script>",TAG,
+11.38,,,,DEP_DELAY,
+7.0,,,,AVG_FLIGHTS,
+16.95,,,,PERCENT_DELAYED,
+10.46,,,,POS_ARR_DELAY,
+10.74,17.32,Southwest Airlines ,,WN,91.29
+7.59,13.1,AirTran Airways Corporation,,FL,8.71
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

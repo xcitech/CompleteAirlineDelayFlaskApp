@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Pittsburgh,ORIGIN_CITY,
+,,,Pittsburgh Intl,ORIGIN_NAME,
+,,,Chicago,DEST-CITY,
+,,,Chicago Midway Intl,DEST_NAME,
+,,,646,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PIT_MDW.js""
+    id=""dcc025ac-dbed-4223-a8bd-2a58626552bf""
+    data-bokeh-model-id=""91463c82-70dd-488a-8fab-8e381c82fc86""
+    data-bokeh-doc-id=""f4d2bde6-2ce5-4426-bfeb-56e1e3803b22""
+></script>",TAG,
+9.26,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+18.29,,,,PERCENT_DELAYED,
+9.95,,,,POS_ARR_DELAY,
+9.95,18.29,Southwest Airlines ,,WN,100.0
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

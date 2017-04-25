@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Pittsburgh,ORIGIN_CITY,
+,,,Pittsburgh Intl,ORIGIN_NAME,
+,,,Minneapolis,DEST-CITY,
+,,,Minneapolis St Paul Intl,DEST_NAME,
+,,,1167,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/PIT_MSP.js""
+    id=""997d5ac2-a234-4676-942b-ae51e730d654""
+    data-bokeh-model-id=""ac660b2c-5915-494d-8047-44e2c0c7a1bd""
+    data-bokeh-doc-id=""c6cb78e6-aafc-407d-9db0-93cd67e8b607""
+></script>",TAG,
+8.18,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+11.54,,,,PERCENT_DELAYED,
+8.16,,,,POS_ARR_DELAY,
+12.69,20.31,Endeavor Air ,,9E,3.48
+12.39,16.38,ExpressJet Airlines ,,EV,18.94
+7.05,10.08,Delta Air Lines ,,DL,71.86
+5.39,8.57,SkyWest Airlines ,,OO,5.72
+0.0,,,,,

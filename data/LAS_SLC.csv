@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Las Vegas,ORIGIN_CITY,
+,,,Mc Carran Intl,ORIGIN_NAME,
+,,,Salt Lake City,DEST-CITY,
+,,,Salt Lake City Intl,DEST_NAME,
+,,,592,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/LAS_SLC.js""
+    id=""1c2c1660-51a3-424f-9881-b17f156a8327""
+    data-bokeh-model-id=""f821eb7d-5c57-41ed-980a-8b1599fdce70""
+    data-bokeh-doc-id=""0008fed5-dbc0-4228-9ac1-e6534b02caec""
+></script>",TAG,
+12.42,,,,DEP_DELAY,
+11.0,,,,AVG_FLIGHTS,
+18.88,,,,PERCENT_DELAYED,
+11.41,,,,POS_ARR_DELAY,
+15.1,28.19,Southwest Airlines ,,WN,47.98
+21.64,17.02,Frontier Airlines ,,F9,0.39
+8.0,10.52,Delta Air Lines ,,DL,46.08
+7.0,7.9,SkyWest Airlines ,,OO,5.54
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Washington,ORIGIN_CITY,
+,,,Washington Dulles Intl,ORIGIN_NAME,
+,,,Indianapolis,DEST-CITY,
+,,,Indianapolis Intl,DEST_NAME,
+,,,765,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/IAD_IND.js""
+    id=""f3be5f2f-96b0-4aaa-8e92-a6cc75c22816""
+    data-bokeh-model-id=""9a848a98-f765-46ac-a73e-2e7054f5ab29""
+    data-bokeh-doc-id=""04ef1659-908d-486f-89ec-5988c54b7186""
+></script>",TAG,
+15.65,,,,DEP_DELAY,
+1.0,,,,AVG_FLIGHTS,
+25.29,,,,PERCENT_DELAYED,
+17.1,,,,POS_ARR_DELAY,
+19.6,28.46,ExpressJet Airlines ,,EV,67.54
+14.05,24.41,SkyWest Airlines ,,OO,11.51
+7.33,22.22,United Air Lines ,,UA,0.82
+10.82,15.32,Mesa Airlines ,,YV,20.13
+0.0,,,,,

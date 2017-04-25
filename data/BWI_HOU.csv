@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Baltimore,ORIGIN_CITY,
+,,,Baltimore Washington Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,William P Hobby,DEST_NAME,
+,,,2004,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/BWI_HOU.js""
+    id=""dbd82a31-cdc3-44a2-8361-4f0a60dfa427""
+    data-bokeh-model-id=""1a51f55d-4734-4891-bd32-70b155d01ad4""
+    data-bokeh-doc-id=""a8659b60-9e8a-4677-a9a0-088cee5d6d9a""
+></script>",TAG,
+17.48,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+26.15,,,,PERCENT_DELAYED,
+15.6,,,,POS_ARR_DELAY,
+15.61,26.16,Southwest Airlines ,,WN,99.94
+0.0,0.0,AirTran Airways Corporation,,FL,0.06
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Miami,ORIGIN_CITY,,
+,,Miami Intl,ORIGIN_NAME,,
+,,Chicago,DEST-CITY,,
+,,Chicago Ohare Intl,DEST_NAME,,
+,,1931,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MIA_ORD.js""
+    id=""e5bdb359-b350-465c-8730-341b58d96c1d""
+    data-bokeh-model-id=""be908304-49e9-4b5d-924a-7933c44af6c8""
+    data-bokeh-doc-id=""afbe10ed-659b-412f-9135-14a6673d1c8a""
+></script>",TAG,,
+15.08,,,DEP_DELAY,,
+11.0,,,AVG_FLIGHTS,,
+23.87,,,PERCENT_DELAYED,,
+15.76,,,POS_ARR_DELAY,,
+16.24,25.33,,AA,83.33,American Airlines 
+22.24,25.09,,F9,4.36,Frontier Airlines 
+15.94,23.97,,YV,0.99,Mesa Airlines 
+11.8,14.23,,OO,2.3,SkyWest Airlines 
+9.19,12.23,,UA,9.02,United Air Lines 

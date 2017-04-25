@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,TEXT_DATA,UNIQUE_CARRIER,count,Description
+,,Miami,ORIGIN_CITY,,
+,,Miami Intl,ORIGIN_NAME,,
+,,Washington,DEST-CITY,,
+,,Washington Dulles Intl,DEST_NAME,,
+,,1487,DIST,,
+,,"
+<script
+    src=""static/bokeh_js/MIA_IAD.js""
+    id=""5cd7fbc4-0340-479a-92a4-4a384ebef0b5""
+    data-bokeh-model-id=""dd850ed9-699e-4d96-9c31-417f3d0582d6""
+    data-bokeh-doc-id=""a6487bfb-35cc-460c-bdc7-74716c09894e""
+></script>",TAG,,
+13.09,,,DEP_DELAY,,
+2.0,,,AVG_FLIGHTS,,
+21.28,,,PERCENT_DELAYED,,
+13.45,,,POS_ARR_DELAY,,
+14.5,23.44,,AA,82.03,American Airlines 
+13.61,19.1,,UA,3.51,United Air Lines 
+11.34,13.89,,F9,8.51,Frontier Airlines 
+1.88,3.42,,YV,5.75,Mesa Airlines 
+3.0,0.0,,OO,0.2,SkyWest Airlines 

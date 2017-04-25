@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Charlotte,ORIGIN_CITY,
+,,,Charlotte Douglas Intl,ORIGIN_NAME,
+,,,San Diego,DEST-CITY,
+,,,San Diego Intl,DEST_NAME,
+,,,3336,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CLT_SAN.js""
+    id=""813475f4-f679-4fe2-b5ad-599167350972""
+    data-bokeh-model-id=""9460df83-c316-457f-b59b-cf96972880ac""
+    data-bokeh-doc-id=""223662cb-3f72-451f-a0b5-c959c3d0f468""
+></script>",TAG,
+10.57,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+20.21,,,,PERCENT_DELAYED,
+10.79,,,,POS_ARR_DELAY,
+10.37,20.33,US Airways ,,US,57.62
+11.35,20.04,American Airlines ,,AA,42.38
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Columbus,ORIGIN_CITY,
+,,,Port Columbus Intl,ORIGIN_NAME,
+,,,Houston,DEST-CITY,
+,,,George Bush Intercontinental,DEST_NAME,
+,,,1587,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/CMH_IAH.js""
+    id=""da0bfe15-8040-4329-8cb2-22b4514233dd""
+    data-bokeh-model-id=""72138acc-351b-4ca1-a24c-595d1ff8c7e5""
+    data-bokeh-doc-id=""a1101fe6-ed42-4bbe-b72f-029360aa32ef""
+></script>",TAG,
+11.18,,,,DEP_DELAY,
+3.0,,,,AVG_FLIGHTS,
+23.39,,,,PERCENT_DELAYED,
+13.7,,,,POS_ARR_DELAY,
+14.01,23.64,SkyWest Airlines ,,OO,13.4
+13.7,23.44,ExpressJet Airlines ,,EV,86.29
+0.44,0.0,United Air Lines ,,UA,0.31
+0.0,,,,,
+0.0,,,,,

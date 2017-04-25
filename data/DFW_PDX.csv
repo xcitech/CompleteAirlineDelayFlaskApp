@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Dallas-Fort Worth,ORIGIN_CITY,
+,,,Dallas Fort Worth Intl,ORIGIN_NAME,
+,,,Portland,DEST-CITY,
+,,,Portland Intl,DEST_NAME,
+,,,2598,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/DFW_PDX.js""
+    id=""a7b90e40-4224-4761-86c0-f569385481f4""
+    data-bokeh-model-id=""ef88d0fa-d533-439f-9c03-94d1ceb800e9""
+    data-bokeh-doc-id=""67103cc0-0a5e-4c27-919e-7e04d6c8613d""
+></script>",TAG,
+12.46,,,,DEP_DELAY,
+5.0,,,,AVG_FLIGHTS,
+22.11,,,,PERCENT_DELAYED,
+12.85,,,,POS_ARR_DELAY,
+18.91,27.46,Spirit Air Lines,,NK,4.8
+14.28,24.92,American Airlines ,,AA,71.7
+7.68,12.69,Alaska Airlines ,,AS,20.25
+4.6,10.94,SkyWest Airlines ,,OO,3.25
+0.0,,,,,

@@ -1,0 +1,22 @@
+ARR_DELAY,DELAY_15,Description,TEXT_DATA,UNIQUE_CARRIER,count
+,,,Kansas City,ORIGIN_CITY,
+,,,Kansas City Intl,ORIGIN_NAME,
+,,,Baltimore,DEST-CITY,
+,,,Baltimore Washington Intl,DEST_NAME,
+,,,1552,DIST,
+,,,"
+<script
+    src=""static/bokeh_js/MCI_BWI.js""
+    id=""2079187c-be50-4938-bc27-c025b43d8310""
+    data-bokeh-model-id=""66f7576f-454a-45fe-a0c9-a63ce678c4bc""
+    data-bokeh-doc-id=""a93713e0-a9f9-43bc-8fe6-eae9b715e461""
+></script>",TAG,
+12.92,,,,DEP_DELAY,
+2.0,,,,AVG_FLIGHTS,
+19.12,,,,PERCENT_DELAYED,
+11.59,,,,POS_ARR_DELAY,
+9.73,21.33,AirTran Airways Corporation,,FL,2.82
+11.65,19.05,Southwest Airlines ,,WN,97.18
+0.0,,,,,
+0.0,,,,,
+0.0,,,,,
